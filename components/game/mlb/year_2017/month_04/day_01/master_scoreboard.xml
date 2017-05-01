@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<games year="2017" month="04" day="01" modified_date="2017-04-08T07:37:28Z"
+       next_day_date="2017-04-02">
+   <game id="2017/04/01/detmlb-miamlb-1" venue="Roger Dean Stadium" game_pk="509764"
+         time="12:05"
+         time_date="2017/04/01 12:05"
+         time_date_aw_lg="2017/04/01 12:05"
+         time_date_hm_lg="2017/04/01 12:05"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="12:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="12:05"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="12:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="12:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2520"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="DET"
+         home_name_abbrev="MIA"
+         away_code="det"
+         away_file_code="det"
+         away_team_id="116"
+         away_team_city="Detroit"
+         away_team_name="Tigers"
+         away_division="C"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="mia"
+         home_file_code="mia"
+         home_team_id="146"
+         home_team_city="Miami"
+         home_team_name="Marlins"
+         home_division="E"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="Y"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back=""
+         home_games_back=""
+         away_games_back_wildcard=""
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USFL0237"
+         location="Jupiter, FL"
+         away_league_id_spring="115"
+         away_split_squad="N"
+         home_league_id_spring="115"
+         home_split_squad="N"
+         gameday="2017_04_01_detmlb_miamlb_1"
+         away_win="14"
+         away_loss="21"
+         home_win="13"
+         home_loss="17"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_detmlb_miamlb_1"
+         league="AN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""
+              note=""
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="2" home="3" diff="1"/> 
+         <h away="10" home="11"/> 
+         <e away="2" home="0"/> 
+         <hr away="0" home="0"/> 
+         <sb away="3" home="1"/> 
+         <so away="8" home="5"/> 
+      </linescore>
+      <winning_pitcher id="543408" last="Koehler" first="Tom" name_display_roster="Koehler"
+                       number="34"
+                       era="4.67"
+                       wins="2"
+                       losses="2"/>
+      <losing_pitcher id="641548" last="Ecker" first="Mark" name_display_roster="Ecker" number="89"
+                      era="9.00"
+                      wins="0"
+                      losses="1"/>
+      <save_pitcher id="457915" last="Guerra" first="Javy" number="40"
+                    name_display_roster="Guerra, Ja"
+                    era="4.50"
+                    wins="1"
+                    losses="0"
+                    saves="3"
+                    svo="4"/>
+      <links wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-509764-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-509764-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station=""/>
+      <broadcast>
+         <home>
+            <tv/> 
+            <radio>940 AM WINZ, WZTU 94.9 HD-2</radio>
+         </home> 
+         <away>
+            <tv/> 
+            <radio>97.1 The Ticket</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-509764-2017-04-01"
+                start="2017-04-01T12:05:00-0400"
+                title="DET @ MIA"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"/>
+      </game_media>
+   </game>
+   <game id="2017/04/01/pitmlb-tormlb-1" venue="Olympic Stadium" game_pk="502125"
+         time="1:07"
+         time_date="2017/04/01 1:07"
+         time_date_aw_lg="2017/04/01 1:07"
+         time_date_hm_lg="2017/04/01 1:07"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="1:07"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="1:07"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="1:07"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="1:07"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="24"
+         scheduled_innings="9"
+         description="at Olympic Stadium"
+         away_name_abbrev="PIT"
+         home_name_abbrev="TOR"
+         away_code="pit"
+         away_file_code="pit"
+         away_team_id="134"
+         away_team_city="Pittsburgh"
+         away_team_name="Pirates"
+         away_division="C"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="tor"
+         home_file_code="tor"
+         home_team_id="141"
+         home_team_city="Toronto"
+         home_team_name="Blue Jays"
+         home_division="E"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="Y"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="CAXX0301"
+         location="Montreal, Canada"
+         away_league_id_spring="115"
+         away_split_squad="N"
+         home_league_id_spring="115"
+         home_split_squad="N"
+         gameday="2017_04_01_pitmlb_tormlb_1"
+         away_win="19"
+         away_loss="12"
+         home_win="12"
+         home_loss="18"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_pitmlb_tormlb_1"
+         league="NA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""
+              note=""
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="1" home="2"/> 
+         <inning away="3" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="4" home="6" diff="2"/> 
+         <h away="9" home="12"/> 
+         <e away="0" home="1"/> 
+         <hr away="0" home="2"/> 
+         <sb away="0" home="1"/> 
+         <so away="10" home="11"/> 
+      </linescore>
+      <home_runs>
+         <player id="642133" last="Tellez" first="Rowdy" name_display_roster="Tellez" number="1"
+                 hr="1"
+                 std_hr="1"
+                 inning="7"
+                 runners="0"
+                 team_code="tor"/>
+         <player id="425834" last="Upton" first="Melvin" name_display_roster="Upton Jr."
+                 number="7"
+                 hr="1"
+                 std_hr="3"
+                 inning="4"
+                 runners="1"
+                 team_code="tor"/>
+      </home_runs>
+      <winning_pitcher id="572166" last="Stilson" first="John" name_display_roster="Stilson"
+                       number="76"
+                       era="0.00"
+                       wins="1"
+                       losses="0"/>
+      <losing_pitcher id="607192" last="Glasnow" first="Tyler" name_display_roster="Glasnow"
+                      number="24"
+                      era="6.23"
+                      wins="1"
+                      losses="1"/>
+      <save_pitcher id="596101" last="Shafer" first="Justin" number="75"
+                    name_display_roster="Shafer"
+                    era="0.00"
+                    wins="0"
+                    losses="1"
+                    saves="1"
+                    svo="1"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-502125-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-502125-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-502125-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="SNET"/>
+      <broadcast>
+         <home>
+            <tv>SNET</tv> 
+            <radio>SN590</radio>
+         </home> 
+         <away>
+            <tv/> 
+            <radio>KDKA-FM 93.7</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-502125-2017-04-01"
+                start="2017-04-01T13:07:00-0400"
+                title="PIT @ TOR"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/pittor_502125_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/pittor_502125_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/pittor_502125_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/pittor_502125_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/cifmin-cinmlb-1" venue="Fifth Third Field" game_pk="506497"
+         time="1:35"
+         time_date="2017/04/01 1:35"
+         time_date_aw_lg="2017/04/01 1:35"
+         time_date_hm_lg="2017/04/01 1:35"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="10:35"
+         away_time_zone="MST"
+         away_ampm="AM"
+         home_time="1:35"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="E"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="1:35"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="1:35"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2766"
+         scheduled_innings="9"
+         description="in Dayton, OH"
+         away_name_abbrev="CIF"
+         home_name_abbrev="CIN"
+         away_code="cif"
+         away_file_code="t363"
+         away_team_id="363"
+         away_team_city="Reds Futures"
+         away_team_name="Reds Futures"
+         away_division=""
+         away_league_id="590"
+         away_sport_code="min"
+         home_code="cin"
+         home_file_code="cin"
+         home_team_id="113"
+         home_team_city="Cincinnati"
+         home_team_name="Reds"
+         home_division="C"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="N"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back=""
+         home_games_back=""
+         away_games_back_wildcard=""
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USOH0245"
+         location="Dayton, OH"
+         gameday="2017_04_01_cifmin_cinmlb_1"
+         away_win="0"
+         away_loss="1"
+         home_win="1"
+         home_loss="0"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_cifmin_cinmlb_1"
+         league="FN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""
+              note=""
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="3"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0"/> 
+         <r away="1" home="5" diff="4"/> 
+         <h away="8" home="12"/> 
+         <e away="1" home="0"/> 
+         <hr away="0" home="3"/> 
+         <sb away="2" home="0"/> 
+         <so away="8" home="12"/> 
+      </linescore>
+      <home_runs>
+         <player id="642156" last="Turner" first="Stuart" name_display_roster="Turner"
+                 number="32"
+                 hr="1"
+                 std_hr="1"
+                 inning="6"
+                 runners="2"
+                 team_code="cin"/>
+         <player id="594988" last="Schebler" first="Scott" name_display_roster="Schebler"
+                 number="43"
+                 hr="1"
+                 std_hr="1"
+                 inning="4"
+                 runners="0"
+                 team_code="cin"/>
+         <player id="623182" last="Kivlehan" first="Patrick" name_display_roster="Kivlehan"
+                 number="3"
+                 hr="1"
+                 std_hr="1"
+                 inning="8"
+                 runners="0"
+                 team_code="cin"/>
+      </home_runs>
+      <winning_pitcher id="543942" last="Wooten" first="Rob" name_display_roster="Wooten" number="47"
+                       era="0.00"
+                       wins="1"
+                       losses="0"/>
+      <losing_pitcher id="623474" last="Herget" first="Jimmy" name_display_roster="Herget"
+                      number="20"
+                      era="-.--"
+                      wins="0"
+                      losses="1"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-506497-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-506497-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station=""/>
+      <broadcast>
+         <home>
+            <tv/> 
+            <radio>WLW 700</radio>
+         </home> 
+         <away>
+            <tv/> 
+            <radio/>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-506497-2017-04-01"
+                start="2017-04-01T13:35:00-0400"
+                title="CIF @ CIN"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"/>
+      </game_media>
+   </game>
+   <game id="2017/04/01/bosmlb-wasmlb-1" venue="Max Bishop Stadium" game_pk="514020"
+         time="2:00"
+         time_date="2017/04/01 2:00"
+         time_date_aw_lg="2017/04/01 2:00"
+         time_date_hm_lg="2017/04/01 2:00"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="2:00"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="2:00"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="2:00"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="2:00"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="5315"
+         scheduled_innings="9"
+         description="in Annapolis, MD"
+         away_name_abbrev="BOS"
+         home_name_abbrev="WSH"
+         away_code="bos"
+         away_file_code="bos"
+         away_team_id="111"
+         away_team_city="Boston"
+         away_team_name="Red Sox"
+         away_division="E"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="was"
+         home_file_code="was"
+         home_team_id="120"
+         home_team_city="Washington"
+         home_team_name="Nationals"
+         home_division="E"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="Y"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc=""
+         location="Annapolis, MD"
+         away_league_id_spring="115"
+         away_split_squad="N"
+         home_league_id_spring="115"
+         home_split_squad="N"
+         gameday="2017_04_01_bosmlb_wasmlb_1"
+         away_win="18"
+         away_loss="14"
+         home_win="13"
+         home_loss="17"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_bosmlb_wasmlb_1"
+         league="AN">
+      <status status="Final" ind="FT" reason="Tied" inning="9" top_inning="N" b="0" s="0"
+              o="3"
+              inning_state=""
+              note="Game called (tied) after the bottom of the 9th."
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="2"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="1" home="0"/> 
+         <r away="4" home="4" diff="0"/> 
+         <h away="11" home="10"/> 
+         <e away="0" home="3"/> 
+         <hr away="0" home="0"/> 
+         <sb away="0" home="1"/> 
+         <so away="12" home="10"/> 
+      </linescore>
+      <winning_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                       losses="0"/>
+      <losing_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                      losses="0"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-514020-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-514020-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-514020-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="MASN"/>
+      <broadcast>
+         <home>
+            <tv>MASN</tv> 
+            <radio>106.7 The Fan</radio>
+         </home> 
+         <away>
+            <tv>NESN</tv> 
+            <radio>WEEI 850</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-514020-2017-04-01"
+                start="2017-04-01T14:00:00-0400"
+                title="BOS @ WSH"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/boswas_514020_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/boswas_514020_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/boswas_514020_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/boswas_514020_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/kcamlb-texmlb-1" venue="Globe Life Park in Arlington"
+         game_pk="506415"
+         time="2:05"
+         time_date="2017/04/01 2:05"
+         time_date_aw_lg="2017/04/01 2:05"
+         time_date_hm_lg="2017/04/01 2:05"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="1:05"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="1:05"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="2:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="2:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="13"
+         scheduled_innings="9"
+         description="at Globe Life Park"
+         away_name_abbrev="KC"
+         home_name_abbrev="TEX"
+         away_code="kca"
+         away_file_code="kc"
+         away_team_id="118"
+         away_team_city="Kansas City"
+         away_team_name="Royals"
+         away_division="C"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="tex"
+         home_file_code="tex"
+         home_team_id="140"
+         home_team_city="Texas"
+         home_team_name="Rangers"
+         home_division="W"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="P"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USTX0045"
+         location="Arlington, TX"
+         away_league_id_spring="114"
+         away_split_squad="N"
+         home_league_id_spring="114"
+         home_split_squad="N"
+         gameday="2017_04_01_kcamlb_texmlb_1"
+         away_win="17"
+         away_loss="15"
+         home_win="17"
+         home_loss="16"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_kcamlb_texmlb_1"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""
+              note=""
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="1"/> 
+         <inning away="0" home="4"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="2"/> 
+         <r away="3" home="5" diff="2"/> 
+         <h away="5" home="7"/> 
+         <e away="1" home="0"/> 
+         <hr away="1" home="0"/> 
+         <sb away="0" home="1"/> 
+         <so away="8" home="5"/> 
+      </linescore>
+      <home_runs>
+         <player id="460077" last="Butera" first="Drew" name_display_roster="Butera" number="9"
+                 hr="1"
+                 std_hr="2"
+                 inning="5"
+                 runners="0"
+                 team_code="kca"/>
+      </home_runs>
+      <winning_pitcher id="543903" last="Webster" first="Allen" name_display_roster="Webster"
+                       number="55"
+                       era="3.20"
+                       wins="2"
+                       losses="0"/>
+      <losing_pitcher id="434628" last="Hammel" first="Jason" name_display_roster="Hammel"
+                      number="39"
+                      era="6.45"
+                      wins="0"
+                      losses="2"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-506415-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-506415-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-506415-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="FSSW"/>
+      <broadcast>
+         <home>
+            <tv>FSSW</tv> 
+            <radio>105.3 The Fan, KFLC 1270</radio>
+         </home> 
+         <away>
+            <tv>FSKC</tv> 
+            <radio>MLB.com</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-506415-2017-04-01"
+                start="2017-04-01T14:05:00-0400"
+                title="KC @ TEX"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/kcatex_506415_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/kcatex_506415_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/kcatex_506415_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/kcatex_506415_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/chamlb-milmlb-1" venue="Miller Park" game_pk="506413"
+         time="2:10"
+         time_date="2017/04/01 2:10"
+         time_date_aw_lg="2017/04/01 2:10"
+         time_date_hm_lg="2017/04/01 2:10"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="1:10"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="1:10"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="2:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="2:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="32"
+         scheduled_innings="9"
+         description="at Miller Park"
+         away_name_abbrev="CWS"
+         home_name_abbrev="MIL"
+         away_code="cha"
+         away_file_code="cws"
+         away_team_id="145"
+         away_team_city="Chi White Sox"
+         away_team_name="White Sox"
+         away_division="C"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="mil"
+         home_file_code="mil"
+         home_team_id="158"
+         home_team_city="Milwaukee"
+         home_team_name="Brewers"
+         home_division="C"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="P"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USWI0455"
+         location="Milwaukee, WI"
+         away_league_id_spring="114"
+         away_split_squad="N"
+         home_league_id_spring="114"
+         home_split_squad="N"
+         gameday="2017_04_01_chamlb_milmlb_1"
+         away_win="16"
+         away_loss="17"
+         home_win="17"
+         home_loss="16"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_chamlb_milmlb_1"
+         league="AN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="1"
+              inning_state=""
+              note="One out when winning run scored."
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="1" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="2" home="1"/> 
+         <r away="4" home="5" diff="1"/> 
+         <h away="7" home="7"/> 
+         <e away="3" home="0"/> 
+         <hr away="2" home="1"/> 
+         <sb away="0" home="2"/> 
+         <so away="12" home="10"/> 
+      </linescore>
+      <home_runs>
+         <player id="543590" last="Nieuwenhuis" first="Kirk" name_display_roster="Nieuwenhuis"
+                 number="10"
+                 hr="1"
+                 std_hr="4"
+                 inning="7"
+                 runners="0"
+                 team_code="mil"/>
+         <player id="547989" last="Abreu" first="Jose" name_display_roster="Abreu" number="79"
+                 hr="1"
+                 std_hr="4"
+                 inning="7"
+                 runners="0"
+                 team_code="cha"/>
+         <player id="466320" last="Cabrera" first="Melky" name_display_roster="Cabrera, Me"
+                 number="53"
+                 hr="1"
+                 std_hr="2"
+                 inning="1"
+                 runners="0"
+                 team_code="cha"/>
+      </home_runs>
+      <winning_pitcher id="608349" last="Knebel" first="Corey" name_display_roster="Knebel"
+                       number="46"
+                       era="3.60"
+                       wins="2"
+                       losses="0"/>
+      <losing_pitcher id="573589" last="Ynoa" first="Michael" name_display_roster="Ynoa, M"
+                      number="66"
+                      era="5.19"
+                      wins="0"
+                      losses="1"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-506413-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-506413-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-506413-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station=""/>
+      <broadcast>
+         <home>
+            <tv/> 
+            <radio>WTMJ 620, Brewers Radio Network</radio>
+         </home> 
+         <away>
+            <tv>CSN-C</tv> 
+            <radio/>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-506413-2017-04-01"
+                start="2017-04-01T14:10:00-0400"
+                title="CWS @ MIL"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/chamil_506413_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/chamil_506413_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/chamil_506413_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/chamil_506413_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/sfnmlb-oakmlb-1" venue="Oakland Coliseum" game_pk="502119"
+         time="3:05"
+         time_date="2017/04/01 3:05"
+         time_date_aw_lg="2017/04/01 3:05"
+         time_date_hm_lg="2017/04/01 3:05"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="12:05"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="12:05"
+         home_time_zone="PT"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="3:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="3:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="10"
+         scheduled_innings="9"
+         description="at Oakland Coliseum"
+         away_name_abbrev="SF"
+         home_name_abbrev="OAK"
+         away_code="sfn"
+         away_file_code="sf"
+         away_team_id="137"
+         away_team_city="San Francisco"
+         away_team_name="Giants"
+         away_division="W"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="oak"
+         home_file_code="oak"
+         home_team_id="133"
+         home_team_city="Oakland"
+         home_team_name="Athletics"
+         home_division="W"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="P"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USCA0791"
+         location="Oakland, CA"
+         away_league_id_spring="114"
+         away_split_squad="N"
+         home_league_id_spring="114"
+         home_split_squad="N"
+         gameday="2017_04_01_sfnmlb_oakmlb_1"
+         away_win="19"
+         away_loss="16"
+         home_win="16"
+         home_loss="18"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_sfnmlb_oakmlb_1"
+         league="NA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""
+              note=""
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="4" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="6" home="3" diff="3"/> 
+         <h away="8" home="9"/> 
+         <e away="0" home="1"/> 
+         <hr away="2" home="0"/> 
+         <sb away="1" home="1"/> 
+         <so away="10" home="8"/> 
+      </linescore>
+      <home_runs>
+         <player id="448605" last="Ruggiano" first="Justin" name_display_roster="Ruggiano"
+                 number="39"
+                 hr="1"
+                 std_hr="1"
+                 inning="7"
+                 runners="1"
+                 team_code="sfn"/>
+         <player id="460026" last="Hundley" first="Nick" name_display_roster="Hundley"
+                 number="5"
+                 hr="1"
+                 std_hr="3"
+                 inning="4"
+                 runners="3"
+                 team_code="sfn"/>
+      </home_runs>
+      <winning_pitcher id="595881" last="Beede" first="Tyler" name_display_roster="Beede" number="32"
+                       era="4.50"
+                       wins="1"
+                       losses="0"/>
+      <losing_pitcher id="592811" last="Triggs" first="Andrew" name_display_roster="Triggs"
+                      number="60"
+                      era="8.10"
+                      wins="1"
+                      losses="3"/>
+      <save_pitcher id="606625" last="Moronta" first="Reyes" number="92"
+                    name_display_roster="Moronta"
+                    era="0.00"
+                    wins="0"
+                    losses="0"
+                    saves="2"
+                    svo="2"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-502119-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-502119-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-502119-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="NBCSCA"/>
+      <broadcast>
+         <home>
+            <tv>NBCSCA</tv> 
+            <radio>95.7 FM The Game, A's Radio Net</radio>
+         </home> 
+         <away>
+            <tv>NBCS BA</tv> 
+            <radio>KNBR 680</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-502119-2017-04-01"
+                start="2017-04-01T15:05:00-0400"
+                title="SF @ OAK"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/sfnoak_502119_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/sfnoak_502119_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/sfnoak_502119_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/sfnoak_502119_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/seamlb-colmlb-1" venue="Salt River Fields at Talking Stick"
+         game_pk="509662"
+         time="3:10"
+         time_date="2017/04/01 3:10"
+         time_date_aw_lg="2017/04/01 3:10"
+         time_date_hm_lg="2017/04/01 3:10"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="12:10"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="1:10"
+         home_time_zone="MT"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="3:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="3:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="4249"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="SEA"
+         home_name_abbrev="COL"
+         away_code="sea"
+         away_file_code="sea"
+         away_team_id="136"
+         away_team_city="Seattle"
+         away_team_name="Mariners"
+         away_division="W"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="col"
+         home_file_code="col"
+         home_team_id="115"
+         home_team_city="Colorado"
+         home_team_name="Rockies"
+         home_division="W"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="P"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USAZ0207"
+         location="Scottsdale, AZ"
+         away_league_id_spring="114"
+         away_split_squad="N"
+         home_league_id_spring="114"
+         home_split_squad="N"
+         gameday="2017_04_01_seamlb_colmlb_1"
+         away_win="19"
+         away_loss="14"
+         home_win="16"
+         home_loss="15"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_seamlb_colmlb_1"
+         league="AN">
+      <status status="Final" ind="FT" reason="Tied" inning="9" top_inning="N" b="0" s="0"
+              o="3"
+              inning_state=""
+              note="Game called (tied) after the bottom of the 9th."
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="1" home="1" diff="0"/> 
+         <h away="7" home="6"/> 
+         <e away="1" home="0"/> 
+         <hr away="0" home="1"/> 
+         <sb away="0" home="0"/> 
+         <so away="5" home="3"/> 
+      </linescore>
+      <home_runs>
+         <player id="571448" last="Arenado" first="Nolan" name_display_roster="Arenado"
+                 number="28"
+                 hr="1"
+                 std_hr="3"
+                 inning="4"
+                 runners="0"
+                 team_code="col"/>
+      </home_runs>
+      <winning_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                       losses="0"/>
+      <losing_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                      losses="0"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-509662-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-509662-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-509662-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="ROOTRM"/>
+      <broadcast>
+         <home>
+            <tv>ROOTRM</tv> 
+            <radio/>
+         </home> 
+         <away>
+            <tv>ROOTNW</tv> 
+            <radio>710 ESPN</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-509662-2017-04-01"
+                start="2017-04-01T15:10:00-0400"
+                title="SEA @ COL"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/seacol_509662_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/seacol_509662_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/seacol_509662_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/seacol_509662_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+   <game id="2017/04/01/anamlb-lanmlb-1" venue="Dodger Stadium" game_pk="504117"
+         time="9:10"
+         time_date="2017/04/01 9:10"
+         time_date_aw_lg="2017/04/01 9:10"
+         time_date_hm_lg="2017/04/01 9:10"
+         time_zone="ET"
+         ampm="PM"
+         first_pitch_et=""
+         away_time="6:10"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="6:10"
+         home_time_zone="PT"
+         home_ampm="PM"
+         game_type="S"
+         tiebreaker_sw="N"
+         resume_date=""
+         original_date="2017/04/01"
+         time_zone_aw_lg="-4"
+         time_zone_hm_lg="-4"
+         time_aw_lg="9:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="9:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="22"
+         scheduled_innings="9"
+         description="at Dodger Stadium"
+         away_name_abbrev="LAA"
+         home_name_abbrev="LAD"
+         away_code="ana"
+         away_file_code="ana"
+         away_team_id="108"
+         away_team_city="LA Angels"
+         away_team_name="Angels"
+         away_division="W"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="lan"
+         home_file_code="la"
+         home_team_id="119"
+         home_team_city="LA Dodgers"
+         home_team_name="Dodgers"
+         home_division="W"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="SAT"
+         gameday_sw="P"
+         double_header_sw="N"
+         game_nbr="1"
+         tbd_flag="N"
+         away_games_back="-"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USCA0638"
+         location="Los Angeles, CA"
+         away_league_id_spring="114"
+         away_split_squad="N"
+         home_league_id_spring="114"
+         home_split_squad="N"
+         gameday="2017_04_01_anamlb_lanmlb_1"
+         away_win="20"
+         away_loss="14"
+         home_win="18"
+         home_loss="17"
+         game_data_directory="/components/game/mlb/year_2017/month_04/day_01/gid_2017_04_01_anamlb_lanmlb_1"
+         league="AN">
+      <status status="Final" ind="FT" reason="Tied" inning="9" top_inning="N" b="0" s="0"
+              o="3"
+              inning_state=""
+              note="Game called (tied) after the bottom of the 9th."
+              is_perfect_game="N"
+              is_no_hitter="N"/>
+      <linescore>
+         <inning away="0" home="2"/> 
+         <inning away="1" home="0"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <r away="4" home="4" diff="0"/> 
+         <h away="8" home="11"/> 
+         <e away="0" home="0"/> 
+         <hr away="1" home="2"/> 
+         <sb away="2" home="2"/> 
+         <so away="5" home="10"/> 
+      </linescore>
+      <home_runs>
+         <player id="405395" last="Pujols" first="Albert" name_display_roster="Pujols"
+                 number="5"
+                 hr="1"
+                 std_hr="3"
+                 inning="3"
+                 runners="1"
+                 team_code="ana"/>
+         <player id="457759" last="Turner" first="Justin" name_display_roster="Turner"
+                 number="10"
+                 hr="1"
+                 std_hr="5"
+                 inning="1"
+                 runners="1"
+                 team_code="lan"/>
+         <player id="592626" last="Pederson" first="Joc" name_display_roster="Pederson"
+                 number="31"
+                 hr="1"
+                 std_hr="6"
+                 inning="6"
+                 runners="1"
+                 team_code="lan"/>
+      </home_runs>
+      <winning_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                       losses="0"/>
+      <losing_pitcher id="" last="" first="" name_display_roster="" number="" era="-" wins="0"
+                      losses="0"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"
+                    svo="0"/>
+      <links mlbtv="bam.media.launchPlayer({calendar_event_id:'14-504117-2017-04-01',media_type:'video'})"
+             wrapup=""
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-504117-2017-04-01',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-504117-2017-04-01',media_type:'audio'})"
+             home_preview=""
+             away_preview=""
+             preview=""
+             tv_station="SportsNet LA"/>
+      <broadcast>
+         <home>
+            <tv>SportsNet LA</tv> 
+            <radio>570 LA Sports, KTNQ 1020</radio>
+         </home> 
+         <away>
+            <tv>FS-W</tv> 
+            <radio>KLAA 830</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-504117-2017-04-01"
+                start="2017-04-01T21:10:00-0400"
+                title="LAA @ LAD"
+                has_mlbtv="true"
+                free="ALL"
+                enhanced="N"
+                media_state="media_archive"
+                thumbnail="http://mediadownloads.mlb.com/mlbam/preview/analan_504117_th_7_preview.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mediadownloads.mlb.com/mlbam/preview/analan_504117_th_7_preview.jpg</video_thumbnail>
+      <video_thumbnails>
+         <thumbnail scenario="7" width="124" height="70">http://mediadownloads.mlb.com/mlbam/preview/analan_504117_th_7_preview.jpg</thumbnail>
+         <thumbnail scenario="37" width="160" height="90">http://mediadownloads.mlb.com/mlbam/preview/analan_504117_th_37_preview.jpg</thumbnail>
+      </video_thumbnails>
+   </game>
+</games>

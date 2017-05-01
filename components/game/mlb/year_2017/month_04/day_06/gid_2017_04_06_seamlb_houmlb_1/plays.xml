@@ -1,0 +1,59 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_06_seamlb_houmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="7" ae="1" hr="2" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="493114" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" current_position="LF" stand="L" b_height="5-9" ab="3" h="1" avg=".429" boxname="Aoki">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Field Error" event_es="Error de Fildeo"/>
+			<ab inning="5" event="Single" event_es="Sencillo"/>
+			<ab inning="2" event="Walk" event_es="Base por Bolas"/>
+		</batter>
+		<pitcher pid="621242" p_throws="R" pitches="17" strikes="12" balls="5" era="0.00" boxname="Diaz"/>
+		<deck pid="543807" boxname="Springer"/>
+		<hole pid="503556" boxname="Gonzalez, M"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="74" des="Norichika Aoki strikes out swinging.  " des_es="Norichika Aoki se poncha tir&#225;ndole.  " event="Strikeout" event_es="Ponche" player="493114" play_guid="781f0d3c-7512-4194-9702-69d51c38cd9b" >
+		<p type="B" id="594" event_num="594" x="111.21" y="223.87" des="Ball" des_es="Bola mala" sv_id="170407_030335" play_guid="a147fa48-ad64-4dbb-aace-4cc22245cdeb" start_speed="97.8" end_speed="90.3" sz_top="3.230051929846553" sz_bot="1.5898140084304302" pfx_x="-9.985961067304391" pfx_z="6.589177388293823" px="0.15182953065395" pz="0.55210485847682" x0="-2.21278078845914" y0="50" z0="5.09850429654766" vx0="10.3078416325123" vy0="-141.962831627512" vz0="-9.48498125549804" ax="-20.5670460709315" ay="29.6879168681754" az="-18.603004767937" break_y="23.8" break_angle="42.0" break_length="5.4" pitch_type="FT" type_confidence=".941" zone="14" nasty="33" spin_dir="236.581" spin_rate="2518.168"  cc=""/>		<p type="S" id="595" event_num="595" x="145.99" y="166.52" des="Foul" des_es="Foul" sv_id="170407_030356" play_guid="ae7b1e52-b23a-4318-9644-dd40e667c011" start_speed="95.9" end_speed="88.5" sz_top="3.842" sz_bot="1.589" pfx_x="-7.022844248170008" pfx_z="7.711947170969951" px="-0.724733304818544" pz="2.65837464779847" x0="-2.37145032127897" y0="50" z0="5.30175763886194" vx0="7.08597563717739" vy0="-139.554086396181" vz0="-4.27899120426253" ax="-13.9970299579572" ay="28.2748146601083" az="-16.8035872772447" break_y="23.8" break_angle="35.5" break_length="4.4" pitch_type="FT" type_confidence=".919" zone="13" nasty="53" spin_dir="222.321" spin_rate="2161.151"  cc=""/>		<p type="S" id="596" event_num="596" x="136.48" y="173.65" des="Foul" des_es="Foul" sv_id="170407_030417" play_guid="39e78a97-4052-41bd-afc1-5e456fe9fcec" start_speed="87.6" end_speed="81.9" sz_top="3.842" sz_bot="1.589" pfx_x="-1.224943180726464" pfx_z="-1.3670057146678078" px="-0.482766253896483" pz="2.43037013757129" x0="-2.36248789012307" y0="49.9999999999999" z0="5.51923061963728" vx0="5.18113986511946" vy0="-127.671616906682" vz0="-1.06290939017659" ax="-2.06066250440167" ay="21.5521445755013" az="-34.4736959717891" break_y="23.9" break_angle="2.1" break_length="8.3" pitch_type="SL" type_confidence=".900" zone="4" nasty="38" spin_dir="318.139" spin_rate="350.886"  cc=""/>		<p type="S" id="597" event_num="597" x="98.29" y="165.34" des="Foul" des_es="Foul" sv_id="170407_030446" play_guid="e5c5606d-6e3d-472c-a10e-45087fb351c2" start_speed="98.3" end_speed="90.7" sz_top="3.842" sz_bot="1.589" pfx_x="-9.566149283506777" pfx_z="4.653939836886036" px="0.504798529916519" pz="2.80462376070394" x0="-2.12889262188136" y0="50" z0="5.10749832809586" vx0="10.9948446631868" vy0="-142.929804910116" vz0="-2.56994802891066" ax="-20.0077206977395" ay="29.5319140872354" az="-22.4402752647006" break_y="23.8" break_angle="37.8" break_length="5.6" pitch_type="FT" type_confidence=".947" zone="6" nasty="41" spin_dir="244.057" spin_rate="2258.426"  cc=""/>		<p type="S" id="598" event_num="598" x="117.66" y="200.1" des="Foul" des_es="Foul" sv_id="170407_030507" play_guid="1f64b4bc-faf7-4d56-b64a-894138f82b84" start_speed="89.9" end_speed="83.6" sz_top="3.842" sz_bot="1.589" pfx_x="-1.141317258008034" pfx_z="1.997696225408664" px="0.0147631505113988" pz="1.45164248980199" x0="-2.209861164452" y0="50" z0="5.38405855646945" vx0="6.16277123881552" vy0="-130.893608778487" vz0="-4.69227425078786" ax="-2.0035101568642" ay="24.566351147645" az="-28.6672193642381" break_y="23.9" break_angle="1.9" break_length="6.8" pitch_type="SL" type_confidence=".891" zone="14" nasty="37" spin_dir="209.739" spin_rate="447.643"  cc=""/>		<p type="B" id="599" event_num="599" x="163.76" y="171.39" des="Ball" des_es="Bola mala" sv_id="170407_030538" play_guid="3f3ffb12-8c5d-462b-a295-c95f7bdd00e3" start_speed="87.6" end_speed="81.4" sz_top="3.230051929846553" sz_bot="1.5898140084304302" pfx_x="-0.1717138560096708" pfx_z="-2.021694834538284" px="-1.24366584420927" pz="2.4875747802678" x0="-2.456238131993" y0="50" z0="5.47335570625951" vx0="3.12613834263431" vy0="-127.585194964031" vz0="-0.537326284290758" ax="-0.286450932905065" ay="23.2850852100277" az="-35.5466148994181" break_y="23.9" break_angle="-.4" break_length="8.6" pitch_type="SL" type_confidence=".903" zone="11" nasty="41" spin_dir="355.147" spin_rate="384.884"  cc=""/>		<p type="B" id="600" event_num="600" x="177.62" y="136.39" des="Ball" des_es="Bola mala" sv_id="170407_030558" play_guid="7d34e9d7-d715-4219-bd83-eaa2b940863c" start_speed="97.1" end_speed="88.7" sz_top="3.2180485591205112" sz_bot="1.5898140084304302" pfx_x="-7.957554066579924" pfx_z="8.549622096084203" px="-1.59538346426593" pz="3.71844289603858" x0="-2.28627061658136" y0="50" z0="5.32587944834962" vx0="4.81338243644334" vy0="-141.357299734929" vz0="-1.82230878085576" ax="-16.1047637892986" ay="32.1531291180737" az="-14.8710377074723" break_y="23.8" break_angle="44.5" break_length="4.3" pitch_type="FT" type_confidence=".927" zone="11" nasty="29" spin_dir="222.945" spin_rate="2426.024"  cc=""/>		<p type="S" id="601" event_num="601" x="124.35" y="203.58" des="Foul" des_es="Foul" sv_id="170407_030628" play_guid="cc46b132-d125-477b-b38a-68fe887d4c6d" start_speed="86.2" end_speed="80.6" sz_top="3.842" sz_bot="1.589" pfx_x="-0.8621978640208752" pfx_z="-0.04941736616479177" px="-0.200042881766935" pz="1.32483943604685" x0="-2.32295115063725" y0="50" z0="5.32566994380361" vx0="5.57737834772984" vy0="-125.53009536467" vz0="-3.51982520402294" ax="-1.39848813200009" ay="21.4762766725095" az="-32.2542037075623" break_y="23.9" break_angle="1.0" break_length="8.2" pitch_type="SL" type_confidence=".901" zone="13" nasty="43" spin_dir="273.282" spin_rate="161.892"  cc=""/>		<p type="S" id="602" event_num="602" x="105.78" y="214.06" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170407_030653" play_guid="781f0d3c-7512-4194-9702-69d51c38cd9b" start_speed="86.2" end_speed="80.3" sz_top="3.842" sz_bot="1.589" pfx_x="-1.5214110151253402" pfx_z="-1.253972610153228" px="0.294223713107996" pz="0.915371085055883" x0="-2.28998804324758" y0="50" z0="5.31874632710015" vx0="6.91858189480515" vy0="-125.395959434914" vz0="-4.07508296945966" ax="-2.44862611177973" ay="22.7893924863" az="-34.1922474823958" break_y="23.9" break_angle="2.2" break_length="8.8" pitch_type="SL" type_confidence=".902" zone="14" nasty="22" spin_dir="309.497" spin_rate="367.125"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="hou">
+		</offense>
+		<defense type="away" id="sea">
+			<man pid="621242" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="572287" s_po="17" s_ass="4" s_err="1" s_fldg=".955" c_sb="1" c_cs="2" pos="c"/>
+			<man pid="600301" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="1b"/>
+			<man pid="429664" s_po="15" s_ass="9" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="516416" s_po="3" s_ass="15" s_err="1" s_fldg=".947" pos="ss"/>
+			<man pid="572122" s_po="2" s_ass="13" s_err="2" s_fldg=".882" pos="3b"/>
+			<man pid="502481" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="547982" s_po="11" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="571745" s_po="10" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="571704" index="9">
+			<man pid="543807"/>
+			<man pid="503556"/>
+			<man pid="514888"/>
+			<man pid="621043"/>
+			<man pid="608324"/>
+			<man pid="493329"/>
+			<man pid="435263"/>
+			<man pid="502210"/>
+			<man pid="493114"/>
+		</team>
+		<team type="away" pitcher="621242" index="3">
+			<man pid="516416"/>
+			<man pid="571745"/>
+			<man pid="429664"/>
+			<man pid="443558"/>
+			<man pid="572122"/>
+			<man pid="600301"/>
+			<man pid="572287"/>
+			<man pid="502481"/>
+			<man pid="547982"/>
+		</team>
+	</lineup>
+	<weather temp="74" condition="Clear" wind="6mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

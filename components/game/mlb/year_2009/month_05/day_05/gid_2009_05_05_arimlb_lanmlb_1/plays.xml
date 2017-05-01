@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_arimlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="1" ah="7" ae="2" hr="3" hh="5" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="324432" team_abbrev="ARI" team_id="109" parent_team_abbrev="ARI" parent_team_id="109" current_position="2B" stand="L" b_height="5-9" ab="5" h="3" avg=".340" boxname="Ojeda">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Single"/>
+			<ab inning="5" event="Groundout"/>
+			<ab inning="3" event="Single"/>
+			<ab inning="1" event="Double"/>
+		</batter>
+		<pitcher pid="455009" p_throws="R" pitches="14" strikes="9" balls="5" era="0.64" boxname="Broxton, J"/>
+		<deck pid="433582" boxname="Jackson, C"/>
+		<hole pid="429710" boxname="Tracy"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="69" des="Augie Ojeda grounds out, second baseman Orlando Hudson to first baseman James Loney.  " des_es="Augie Ojeda batea rodado de out, segunda base Orlando Hudson a primera base James Loney.  " event="null" player="324432">
+		<p type="S" id="576" x="104.72" y="155.42" des="Called Strike" des_es="Strike cantado" sv_id="090505_215753" start_speed="96.3" end_speed="88.1" sz_top="3.67" sz_bot="1.17" pfx_x="-3.218" pfx_z="10.219" px="-0.082" pz="2.231" x0="-0.972" y0="50.0" z0="6.068" vx0="3.625" vy0="-140.967" vz0="-8.536" ax="-6.426" ay="34.368" az="-11.697" break_y="23.7" break_angle="22.0" break_length="3.0" pitch_type="FF" type_confidence="2.000" zone="5" spin_dir="197.421" spin_rate="2208.753"  cc=""/>		<p type="X" id="577" x="93.56" y="146.79" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090505_215815" start_speed="85.9" end_speed="79.4" sz_top="3.67" sz_bot="1.17" pfx_x="3.081" pfx_z="-0.328" px="0.139" pz="2.492" x0="-1.022" y0="50.0" z0="6.093" vx0="1.892" vy0="-125.947" vz0="-2.377" ax="4.935" ay="26.219" az="-32.626" break_y="23.8" break_angle="-9.1" break_length="8.5" pitch_type="SL" type_confidence="2.000" zone="5" spin_dir="84.767" spin_rate="570.842"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="ari">
+		</offense>
+		<defense type="home" id="lan">
+			<man pid="455009" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="431145" s_po="175" s_ass="22" s_err="0" s_fldg="1.000" c_sb="12" c_cs="6" pos="c"/>
+			<man pid="425766" s_po="215" s_ass="21" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="407861" s_po="54" s_ass="61" s_err="1" s_fldg=".991" pos="2b"/>
+			<man pid="279577" s_po="27" s_ass="71" s_err="5" s_fldg=".951" pos="ss"/>
+			<man pid="232694" s_po="16" s_ass="52" s_err="2" s_fldg=".971" pos="3b"/>
+			<man pid="120903" s_po="35" s_ass="0" s_err="1" s_fldg=".972" pos="lf"/>
+			<man pid="461314" s_po="75" s_ass="4" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="444843" s_po="59" s_ass="1" s_err="2" s_fldg=".968" pos="rf"/>
+		</defense>
+		<ball type="G" x="142.57" y="154.62" batter="324432" pitcher="455009"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="455009" index="6">
+			<man pid="279577"/>
+			<man pid="407861"/>
+			<man pid="120903"/>
+			<man pid="444843"/>
+			<man pid="425766"/>
+			<man pid="431145"/>
+			<man pid="461314"/>
+			<man pid="232694"/>
+			<man pid="455009"/>
+		</team>
+		<team type="away" pitcher="150011" index="1">
+			<man pid="324432"/>
+			<man pid="433582"/>
+			<man pid="429710"/>
+			<man pid="448602"/>
+			<man pid="457708"/>
+			<man pid="471083"/>
+			<man pid="455759"/>
+			<man pid="440251"/>
+			<man pid="150479"/>
+		</team>
+	</lineup>
+	<weather temp="69" condition="Clear" wind="8mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

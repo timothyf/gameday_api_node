@@ -1,0 +1,59 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_01_anamlb_lanmlb_1" status_ind="FT"  status="Final" reason="Tied" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="8" ae="0" hr="4" hh="11" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="625510" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" current_position="3B" stand="L" b_height="5-11" ab="2" h="0" avg=".300" boxname="Mejia, E">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Bunt Groundout" event_es="Roletazo de Out en Toque de Bola"/>
+		</batter>
+		<pitcher pid="543193" p_throws="R" pitches="20" strikes="11" balls="9" era="0.00" boxname="Gagnon, D"/>
+		<deck pid="666784" boxname="Estevez"/>
+		<hole pid="669257" boxname="Smith, W"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="76" des="Erick Mejia grounds out to first baseman Sherman Johnson.  " des_es="Erick Mejia batea rodado de out a primera base Sherman Johnson.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="625510" play_guid="a9207d10-f2c4-46b4-9074-cca8f8e95a98" >
+		<p type="X" id="688" event_num="688" x="128.38" y="176.65" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170402_041325" play_guid="a9207d10-f2c4-46b4-9074-cca8f8e95a98" start_speed="81.5" end_speed="74.4" sz_top="3.58" sz_bot="1.55" pfx_x="-7.09998388190388" pfx_z="9.805999544197896" px="-0.29855883657261" pz="2.30102648689696" x0="-1.67360881632246" y0="50" z0="5.98781191806159" vx0="5.3598354526586" vy0="-118.302996144248" vz0="-4.67987772450686" ax="-10.0395873636814" ay="23.0404252892458" az="-18.3080749500515" break_y="23.8" break_angle="25.2" break_length="6.1" pitch_type="CH" type_confidence=".873" zone="4" nasty="53" spin_dir="215.905" spin_rate="2099.339"  cc=""/>		<runner id="429711" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="641355" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="lan">
+		</offense>
+		<defense type="away" id="ana">
+			<man pid="543193" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="542208" s_po="92" s_ass="14" s_err="1" s_fldg=".991" c_sb="9" c_cs="8" pos="c"/>
+			<man pid="582473" s_po="15" s_ass="7" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="460060" s_po="17" s_ass="21" s_err="1" s_fldg=".974" pos="2b"/>
+			<man pid="519071" s_po="17" s_ass="29" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="607109" s_po="6" s_ass="14" s_err="2" s_fldg=".909" pos="3b"/>
+			<man pid="519184" s_po="27" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="453203" s_po="22" s_ass="1" s_err="1" s_fldg=".958" pos="cf"/>
+			<man pid="570717" s_po="17" s_ass="1" s_err="1" s_fldg=".947" pos="rf"/>
+		</defense>
+		<ball type="G" x="135.45" y="199.64" batter="625510" pitcher="543193"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="641732" index="3">
+			<man pid="429711"/>
+			<man pid="621035"/>
+			<man pid="625510"/>
+			<man pid="666784"/>
+			<man pid="669257"/>
+			<man pid="400284"/>
+			<man pid="641432"/>
+			<man pid="656847"/>
+			<man pid="641355"/>
+		</team>
+		<team type="away" pitcher="543193" index="2">
+			<man pid="519184"/>
+			<man pid="453203"/>
+			<man pid="582473"/>
+			<man pid="570717"/>
+			<man pid="607109"/>
+			<man pid="542208"/>
+			<man pid="519071"/>
+			<man pid="460060"/>
+			<man pid="543193"/>
+		</team>
+	</lineup>
+	<weather temp="68" condition="Clear" wind="4mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

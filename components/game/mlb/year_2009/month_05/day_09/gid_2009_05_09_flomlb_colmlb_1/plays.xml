@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_flomlb_colmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="stolen_base_3b">
+	<score ar="3" ah="6" ae="1" hr="1" hh="8" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="455104" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" current_position="PH" stand="R" b_height="6-0" ab="1" h="0" avg=".209" boxname="Iannetta">
+			<ab inning="9" event="Groundout"/>
+		</batter>
+		<pitcher pid="434637" p_throws="R" pitches="24" strikes="13" balls="11" era="5.54" boxname="Lindstrom"/>
+		<deck pid="451594" boxname="Fowler"/>
+		<hole pid="276351" boxname="Grilli"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="70" des="Chris Iannetta grounds out, third baseman Wes Helms to first baseman Jorge Cantu.  " des_es="Chris Iannetta batea rodado de out, tercera base Wes Helms a primera base Jorge Cantu.  " event="Left On Base" player="455104">
+		<p type="S" id="556" x="78.11" y="148.51" des="Foul" des_es="Foul" sv_id="090509_205307" start_speed="97.9" end_speed="90.7" sz_top="3.33" sz_bot="1.42" pfx_x="1.057" pfx_z="5.405" px="0.743" pz="2.42" x0="-1.256" y0="50.0" z0="5.65" vx0="5.284" vy0="-143.432" vz0="-5.506" ax="2.214" ay="31.528" az="-20.781" break_y="23.8" break_angle="-8.6" break_length="4.3" pitch_type="FF" type_confidence="2.000" zone="12" spin_dir="169.004" spin_rate="1173.934"  cc=""/>		<p type="S" id="557" x="115.88" y="164.06" des="Called Strike" des_es="Strike cantado" sv_id="090509_205415" start_speed="83.3" end_speed="78.4" sz_top="3.454" sz_bot="1.689" pfx_x="6.213" pfx_z="-9.418" px="-0.477" pz="1.749" x0="-1.305" y0="50.0" z0="5.889" vx0="0.049" vy0="-122.244" vz0="-0.439" ax="9.49" ay="21.966" az="-46.486" break_y="23.9" break_angle="-11.5" break_length="12.6" pitch_type="SL" type_confidence="2.000" zone="7" spin_dir="33.546" spin_rate="2038.014"  cc=""/>		<p type="B" id="558" x="78.11" y="183.05" des="Ball" des_es="Bola mala" sv_id="090509_205444" start_speed="83.2" end_speed="78.1" sz_top="3.33" sz_bot="1.42" pfx_x="5.236" pfx_z="-8.295" px="0.718" pz="0.913" x0="-1.331" y0="50.0" z0="5.706" vx0="3.303" vy0="-122.004" vz0="-2.316" ax="7.93" ay="22.909" az="-44.664" break_y="23.9" break_angle="-10.5" break_length="12.2" pitch_type="SL" type_confidence="2.000" zone="14" spin_dir="32.411" spin_rate="1759.285"  cc=""/>		<p type="X" id="562" x="117.60" y="145.92" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_205548" start_speed="97.5" end_speed="91.3" sz_top="3.33" sz_bot="1.42" pfx_x="-1.148" pfx_z="5.544" px="-0.488" pz="2.501" x0="-1.398" y0="50.0" z0="5.744" vx0="3.011" vy0="-142.867" vz0="-5.622" ax="-2.417" ay="27.252" az="-20.431" break_y="23.9" break_angle="5.0" break_length="4.1" pitch_type="FF" type_confidence="2.000" zone="4" spin_dir="191.629" spin_rate="1217.472"  cc=""/>		<runner id="425549" start="1B" end="" event="Left On Base"/>
+		<runner id="448676" start="2B" end="3B" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="home" id="col">
+			<man bnum="1" pid="425549" boxname="Barmes" note="Pinch Runner" sb="2" cs="0"/>
+			<man bnum="3" pid="448676" boxname="Spilborghs" note="Single" sb="5" cs="1"/>
+		</offense>
+		<defense type="away" id="flo">
+			<man pid="434637" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="2" p_cs="0" pos="p"/>
+			<man pid="425661" s_po="92" s_ass="7" s_err="1" s_fldg=".990" c_sb="18" c_cs="5" pos="c"/>
+			<man pid="408305" s_po="219" s_ass="10" s_err="3" s_fldg=".987" pos="1b"/>
+			<man pid="462564" s_po="40" s_ass="63" s_err="4" s_fldg=".963" pos="2b"/>
+			<man pid="434670" s_po="39" s_ass="64" s_err="1" s_fldg=".990" pos="ss"/>
+			<man pid="136500" s_po="23" s_ass="13" s_err="2" s_fldg=".947" pos="3b"/>
+			<man pid="448276" s_po="14" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="407792" s_po="31" s_ass="15" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="425496" s_po="62" s_ass="0" s_err="1" s_fldg=".984" pos="rf"/>
+		</defense>
+		<ball type="G" x="102.41" y="161.65" batter="455104" pitcher="434637"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="276351" index="8">
+			<man pid="276351"/>
+			<man pid="453064"/>
+			<man pid="115732"/>
+			<man pid="425547"/>
+			<man pid="448676"/>
+			<man pid="425549"/>
+			<man pid="456655"/>
+			<man pid="455104"/>
+			<man pid="451594"/>
+		</team>
+		<team type="away" pitcher="434637" index="8">
+			<man pid="407792"/>
+			<man pid="462564"/>
+			<man pid="434670"/>
+			<man pid="408305"/>
+			<man pid="136500"/>
+			<man pid="425496"/>
+			<man pid="448276"/>
+			<man pid="425661"/>
+			<man pid="434637"/>
+		</team>
+	</lineup>
+	<weather temp="64" condition="Cloudy" wind="8mph In From CF"/>
+	<control wait="10" box="0"/>
+</game>

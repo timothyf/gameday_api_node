@@ -1,0 +1,59 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_08_seamlb_minmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="0" ah="5" ae="2" hr="11" hh="13" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="134181" team_abbrev="SEA" team_id="136" parent_team_abbrev="SEA" parent_team_id="136" current_position="3B" stand="R" b_height="5-11" ab="4" h="1" avg=".208" boxname="Beltre, A">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Single"/>
+			<ab inning="4" event="Groundout"/>
+			<ab inning="2" event="Pop Out"/>
+		</batter>
+		<pitcher pid="150274" p_throws="R" pitches="16" strikes="11" balls="5" era="1.80" boxname="Nathan"/>
+		<deck pid="115135" boxname="Griffey Jr."/>
+		<hole pid="492706" boxname="Johjima"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="75" des="Adrian Beltre strikes out swinging.  " des_es="Adrian Beltre se poncha tir&#225;ndole.  " event="Strikeout" player="134181">
+		<p type="S" id="615" x="90.13" y="136.43" des="Foul" des_es="Foul" sv_id="090508_095608" start_speed="94.5" end_speed="87.2" sz_top="3.588" sz_bot="1.362" pfx_x="-3.932" pfx_z="13.519" px="0.189" pz="2.893" x0="-1.511" y0="50.0" z0="6.847" vx0="6.04" vy0="-138.064" vz0="-9.727" ax="-7.63" ay="29.252" az="-5.871" break_y="23.8" break_angle="38.9" break_length="2.1" pitch_type="FF" type_confidence="2.000" zone="2" spin_dir="196.175" spin_rate="2877.870"  cc=""/>		<p type="S" id="616" x="89.27" y="141.61" des="Called Strike" des_es="Strike cantado" sv_id="090508_095642" start_speed="89.0" end_speed="81.7" sz_top="3.588" sz_bot="1.362" pfx_x="-7.838" pfx_z="9.456" px="0.254" pz="2.582" x0="-1.74" y0="50.0" z0="6.882" vx0="7.72" vy0="-130.137" vz0="-7.913" ax="-13.377" ay="28.518" az="-15.96" break_y="23.8" break_angle="33.7" break_length="5.0" pitch_type="CH" type_confidence="2.000" zone="6" spin_dir="219.523" spin_rate="2343.327"  cc=""/>		<p type="B" id="617" x="54.08" y="147.65" des="Ball" des_es="Bola mala" sv_id="090508_095703" start_speed="84.5" end_speed="78.8" sz_top="3.425" sz_bot="1.619" pfx_x="2.081" pfx_z="-5.135" px="1.428" pz="2.33" x0="-1.485" y0="50.0" z0="7.104" vx0="6.452" vy0="-123.716" vz0="-3.456" ax="3.223" ay="24.829" az="-40.054" break_y="23.9" break_angle="-6.0" break_length="10.7" pitch_type="CU" type_confidence="2.000" zone="14" spin_dir="22.244" spin_rate="998.371"  cc=""/>		<p type="B" id="618" x="7.73" y="182.19" des="Ball" des_es="Bola mala" sv_id="090508_095723" start_speed="88.6" end_speed="82.7" sz_top="3.588" sz_bot="1.362" pfx_x="0.622" pfx_z="0.374" px="2.805" pz="0.986" x0="-1.732" y0="50.0" z0="6.481" vx0="11.385" vy0="-129.256" vz0="-7.879" ax="1.054" ay="26.274" az="-31.466" break_y="23.9" break_angle="-5.2" break_length="7.9" pitch_type="SL" type_confidence="2.000" zone="14" spin_dir="123.891" spin_rate="142.514"  cc=""/>		<p type="S" id="619" x="122.75" y="153.69" des="Foul" des_es="Foul" sv_id="090508_095752" start_speed="95.1" end_speed="87.3" sz_top="3.59" sz_bot="1.36" pfx_x="-9.601" pfx_z="9.221" px="-0.696" pz="2.193" x0="-1.865" y0="50.0" z0="6.695" vx0="6.616" vy0="-138.952" vz0="-9.752" ax="-18.708" ay="32.117" az="-14.133" break_y="23.8" break_angle="46.5" break_length="4.9" pitch_type="FT" type_confidence="2.000" zone="4" spin_dir="226.039" spin_rate="2713.560"  cc=""/>		<p type="S" id="620" x="89.27" y="135.56" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090508_095822" start_speed="89.5" end_speed="82.3" sz_top="3.588" sz_bot="1.362" pfx_x="-7.04" pfx_z="10.083" px="0.321" pz="2.861" x0="-1.533" y0="50.0" z0="6.893" vx0="7.144" vy0="-130.863" vz0="-7.572" ax="-12.182" ay="28.16" az="-14.652" break_y="23.8" break_angle="33.4" break_length="4.6" pitch_type="CH" type_confidence="2.000" zone="3" spin_dir="214.807" spin_rate="2365.877"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="sea">
+		</offense>
+		<defense type="home" id="min">
+			<man pid="150274" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="2" p_cs="0" pos="p"/>
+			<man pid="408045" s_po="40" s_ass="2" s_err="0" s_fldg="1.000" c_sb="4" c_cs="0" pos="c"/>
+			<man pid="408047" s_po="205" s_ass="21" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="445196" s_po="5" s_ass="6" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="430593" s_po="18" s_ass="39" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="430927" s_po="32" s_ass="7" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="430321" s_po="37" s_ass="2" s_err="2" s_fldg=".951" pos="lf"/>
+			<man pid="460576" s_po="43" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="452655" s_po="75" s_ass="2" s_err="1" s_fldg=".987" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="150274" index="8">
+			<man pid="452655"/>
+			<man pid="445196"/>
+			<man pid="408045"/>
+			<man pid="408047"/>
+			<man pid="430585"/>
+			<man pid="460576"/>
+			<man pid="430927"/>
+			<man pid="430321"/>
+			<man pid="430593"/>
+		</team>
+		<team type="away" pitcher="450275" index="5">
+			<man pid="400085"/>
+			<man pid="346795"/>
+			<man pid="430946"/>
+			<man pid="137140"/>
+			<man pid="134181"/>
+			<man pid="115135"/>
+			<man pid="492706"/>
+			<man pid="429711"/>
+			<man pid="435358"/>
+		</team>
+	</lineup>
+	<weather temp="68" condition="Dome" wind="-1mph "/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,64 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_kcamlb_anamlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="3" ah="10" ae="1" hr="4" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="430203" team_abbrev="KC" team_id="118" parent_team_abbrev="KC" parent_team_id="118" current_position="LF" stand="L" b_height="5-11" ab="5" h="0" avg=".224" boxname="DeJesus">
+			<ab inning="9" event="Grounded Into DP" event_es="Roletazo de Doble Play"/>
+			<ab inning="7" event="Strikeout" event_es="Ponche"/>
+			<ab inning="4" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="3" event="Strikeout" event_es="Ponche"/>
+			<ab inning="1" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="150118" p_throws="L" pitches="15" strikes="7" balls="8" era="5.40" boxname="Fuentes"/>
+		<deck pid="433597" boxname="Teahen"/>
+		<hole pid="115229" boxname="Guillen, J"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="72" des="David DeJesus grounds into a double play, second baseman Howie Kendrick to shortstop Erick Aybar to first baseman Kendrys Morales.   Coco Crisp out at 2nd.  " des_es="David DeJesus batea rodado batea para doble matanza, segunda base Howie Kendrick a campo corto Erick Aybar a primera base Kendrys Morales.   Coco Crisp a cabo a 2da.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="424825">
+		<p type="B" id="601" event_num="601" x="156.22" y="168.37" des="Ball" des_es="Bola mala" sv_id="090510_153312" play_guid="" start_speed="89.8" end_speed="82.7" sz_top="3.049" sz_bot="1.54" pfx_x="10.15" pfx_z="5.733" px="-1.672" pz="1.485" x0="2.329" y0="50.0" z0="4.798" vx0="-13.761" vy0="-130.979" vz0="-4.293" ax="17.649" ay="27.419" az="-22.131" break_y="23.8" break_angle="-32.9" break_length="6.4" pitch_type="SI" type_confidence=".901" zone="13" spin_dir="119.642" spin_rate="2249.226"  cc=""/>		<po des="Pickoff Attempt 2B" des_es="Viraje a 2B" event_num="602" />
+		<p type="B" id="603" event_num="603" x="35.19" y="147.65" des="Ball" des_es="Bola mala" sv_id="090510_153408" play_guid="" start_speed="89.2" end_speed="81.6" sz_top="3.22" sz_bot="1.54" pfx_x="12.698" pfx_z="5.588" px="1.922" pz="2.424" x0="2.661" y0="50.0" z0="4.926" vx0="-6.134" vy0="-130.698" vz0="-2.052" ax="21.769" ay="29.827" az="-22.519" break_y="23.7" break_angle="-41.6" break_length="7.3" pitch_type="SI" type_confidence=".903" zone="12" spin_dir="113.919" spin_rate="2643.421"  cc=""/>		<p type="X" id="604" event_num="604" x="119.31" y="132.11" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090510_153435" play_guid="" start_speed="89.3" end_speed="81.0" sz_top="3.22" sz_bot="1.54" pfx_x="10.206" pfx_z="6.635" px="-0.642" pz="3.136" x0="2.394" y0="50.0" z0="4.996" vx0="-11.164" vy0="-130.435" vz0="-0.702" ax="17.356" ay="30.737" az="-20.816" break_y="23.7" break_angle="-35.1" break_length="6.1" pitch_type="SI" type_confidence=".903" zone="1" spin_dir="123.202" spin_rate="2307.071"  cc=""/>		<runner id="424825" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="217100" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="kca">
+			<man bnum="2" pid="217100" boxname="Bloomquist" note="Walk" sb="4" cs="1"/>
+		</offense>
+		<defense type="home" id="ana">
+			<man pid="150118" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="425772" s_po="90" s_ass="7" s_err="1" s_fldg=".990" c_sb="11" c_cs="4" pos="c"/>
+			<man pid="434778" s_po="232" s_ass="15" s_err="1" s_fldg=".996" pos="1b"/>
+			<man pid="435062" s_po="49" s_ass="85" s_err="2" s_fldg=".985" pos="2b"/>
+			<man pid="430947" s_po="40" s_ass="54" s_err="3" s_fldg=".969" pos="ss"/>
+			<man pid="408210" s_po="23" s_ass="53" s_err="4" s_fldg=".950" pos="3b"/>
+			<man pid="150439" s_po="37" s_ass="1" s_err="1" s_fldg=".974" pos="lf"/>
+			<man pid="116338" s_po="80" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="110029" s_po="57" s_ass="2" s_err="2" s_fldg=".967" pos="rf"/>
+		</defense>
+		<ball type="G" x="138.55" y="152.61" batter="430203" pitcher="150118"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="150118" index="8">
+			<man pid="408210"/>
+			<man pid="150439"/>
+			<man pid="110029"/>
+			<man pid="116338"/>
+			<man pid="434778"/>
+			<man pid="435063"/>
+			<man pid="435062"/>
+			<man pid="425772"/>
+			<man pid="430947"/>
+		</team>
+		<team type="away" pitcher="407297" index="2">
+			<man pid="424825"/>
+			<man pid="430203"/>
+			<man pid="433597"/>
+			<man pid="115229"/>
+			<man pid="456714"/>
+			<man pid="449107"/>
+			<man pid="430948"/>
+			<man pid="400018"/>
+			<man pid="217100"/>
+		</team>
+	</lineup>
+	<weather temp="69" condition="Partly Cloudy" wind="6mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

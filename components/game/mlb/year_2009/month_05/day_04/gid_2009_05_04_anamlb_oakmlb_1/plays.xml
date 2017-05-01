@@ -1,0 +1,59 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_04_anamlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="5" ah="12" ae="0" hr="2" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="463610" team_abbrev="OAK" team_id="133" parent_team_abbrev="OAK" parent_team_id="133" current_position="2B" stand="R" b_height="5-10" ab="4" h="0" avg=".333" boxname="Petit, G">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Flyout"/>
+			<ab inning="5" event="Groundout"/>
+			<ab inning="2" event="Pop Out"/>
+		</batter>
+		<pitcher pid="150118" p_throws="L" pitches="14" strikes="9" balls="5" era="7.00" boxname="Fuentes"/>
+		<deck pid="434658" boxname="Davis, R"/>
+		<hole pid="435559" boxname="Suzuki, K"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="73" des="Gregorio Petit called out on strikes.  " des_es="Gregorio Petit se poncha sin tirarle.  " event="Strikeout" player="463610">
+		<p type="B" id="578" x="54.94" y="108.80" des="Ball" des_es="Bola mala" sv_id="090504_213832" start_speed="88.9" end_speed="81.1" sz_top="3.3" sz_bot="1.56" pfx_x="10.693" pfx_z="5.339" px="1.398" pz="4.071" x0="2.948" y0="50.0" z0="5.391" vx0="-7.523" vy0="-130.144" vz0="1.112" ax="18.206" ay="29.183" az="-23.01" break_y="23.7" break_angle="-36.0" break_length="6.7" pitch_type="SI" type_confidence=".000" zone="12" spin_dir="116.719" spin_rate="2272.118"  cc=""/>		<p type="B" id="579" x="143.35" y="187.37" des="Ball" des_es="Bola mala" sv_id="090504_213848" start_speed="89.7" end_speed="82.9" sz_top="3.38" sz_bot="1.5" pfx_x="12.943" pfx_z="5.243" px="-1.281" pz="0.678" x0="2.628" y0="50.0" z0="4.997" vx0="-14.447" vy0="-130.631" vz0="-6.708" ax="22.468" ay="26.337" az="-22.999" break_y="23.8" break_angle="-39.0" break_length="7.3" pitch_type="SI" type_confidence=".000" zone="13" spin_dir="112.214" spin_rate="2695.321"  cc=""/>		<p type="S" id="580" x="115.02" y="131.24" des="Called Strike" des_es="Strike cantado" sv_id="090504_213908" start_speed="89.4" end_speed="82.4" sz_top="3.248" sz_bot="1.536" pfx_x="12.328" pfx_z="4.845" px="-0.397" pz="3.125" x0="2.622" y0="50.0" z0="5.274" vx0="-11.935" vy0="-130.57" vz0="-0.963" ax="21.379" ay="26.315" az="-23.698" break_y="23.8" break_angle="-38.5" break_length="7.1" pitch_type="SI" type_confidence=".000" zone="1" spin_dir="111.627" spin_rate="2555.332"  cc=""/>		<p type="B" id="581" x="66.09" y="136.43" des="Ball" des_es="Bola mala" sv_id="090504_213924" start_speed="88.4" end_speed="81.3" sz_top="3.4" sz_bot="1.69" pfx_x="12.296" pfx_z="4.137" px="1.086" pz="2.857" x0="2.876" y0="50.0" z0="5.279" vx0="-8.65" vy0="-129.372" vz0="-1.273" ax="20.829" ay="27.119" az="-25.092" break_y="23.8" break_angle="-36.9" break_length="7.6" pitch_type="SI" type_confidence=".000" zone="12" spin_dir="108.779" spin_rate="2467.093"  cc=""/>		<p type="S" id="582" x="108.15" y="166.65" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090504_213940" start_speed="88.1" end_speed="81.4" sz_top="3.38" sz_bot="1.5" pfx_x="13.205" pfx_z="4.812" px="-0.207" pz="1.614" x0="2.707" y0="50.0" z0="5.14" vx0="-11.779" vy0="-128.588" vz0="-4.251" ax="22.215" ay="25.476" az="-24.004" break_y="23.8" break_angle="-38.8" break_length="7.7" pitch_type="SI" type_confidence=".000" zone="8" spin_dir="110.192" spin_rate="2670.513"  cc=""/>		<p type="S" id="583" x="126.18" y="160.60" des="Called Strike" des_es="Strike cantado" sv_id="090504_213959" start_speed="88.8" end_speed="82.0" sz_top="3.351" sz_bot="1.673" pfx_x="13.295" pfx_z="4.36" px="-0.764" pz="1.773" x0="2.612" y0="50.0" z0="5.139" vx0="-13.081" vy0="-129.576" vz0="-3.818" ax="22.703" ay="25.95" az="-24.655" break_y="23.8" break_angle="-38.5" break_length="7.7" pitch_type="SI" type_confidence=".000" zone="13" spin_dir="108.325" spin_rate="2677.695"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="oak">
+		</offense>
+		<defense type="away" id="ana">
+			<man pid="150118" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="425772" s_po="64" s_ass="5" s_err="1" s_fldg=".986" c_sb="7" c_cs="4" pos="c"/>
+			<man pid="434778" s_po="175" s_ass="13" s_err="1" s_fldg=".995" pos="1b"/>
+			<man pid="435062" s_po="37" s_ass="67" s_err="2" s_fldg=".981" pos="2b"/>
+			<man pid="430895" s_po="16" s_ass="27" s_err="2" s_fldg=".956" pos="ss"/>
+			<man pid="408210" s_po="17" s_ass="41" s_err="3" s_fldg=".951" pos="3b"/>
+			<man pid="407487" s_po="30" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="116338" s_po="63" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="110029" s_po="50" s_ass="2" s_err="2" s_fldg=".963" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="460283" index="8">
+			<man pid="435559"/>
+			<man pid="111851"/>
+			<man pid="114739"/>
+			<man pid="407812"/>
+			<man pid="400091"/>
+			<man pid="425853"/>
+			<man pid="459941"/>
+			<man pid="463610"/>
+			<man pid="434658"/>
+		</team>
+		<team type="away" pitcher="150118" index="3">
+			<man pid="408210"/>
+			<man pid="430895"/>
+			<man pid="110029"/>
+			<man pid="116338"/>
+			<man pid="435063"/>
+			<man pid="435062"/>
+			<man pid="434778"/>
+			<man pid="407487"/>
+			<man pid="425772"/>
+		</team>
+	</lineup>
+	<weather temp="62" condition="Cloudy" wind="16mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,59 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_tormlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="5" ah="13" ae="0" hr="0" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="435220" team_abbrev="OAK" team_id="133" parent_team_abbrev="OAK" parent_team_id="133" current_position="CF" stand="L" b_height="6-4" ab="3" h="0" avg=".254" boxname="Sweeney, R">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Strikeout"/>
+			<ab inning="4" event="Walk"/>
+			<ab inning="2" event="Groundout"/>
+		</batter>
+		<pitcher pid="434482" p_throws="L" pitches="6" strikes="5" balls="1" era="2.70" boxname="Carlson"/>
+		<deck pid="425853" boxname="Crosby"/>
+		<hole pid="150456" boxname="Kennedy, A"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="73" des="Ryan Sweeney grounds out, second baseman Aaron Hill to first baseman Kevin Millar.  " des_es="Ryan Sweeney batea rodado de out, segunda base Aaron Hill a primera base Kevin Millar.  " event="null" player="435220">
+		<p type="S" id="536" x="129.61" y="153.69" des="Called Strike" des_es="Strike cantado" sv_id="090510_152609" start_speed="89.2" end_speed="81.8" sz_top="3.38" sz_bot="1.5" pfx_x="11.597" pfx_z="3.076" px="-0.979" pz="2.004" x0="3.199" y0="50.0" z0="5.32" vx0="-14.566" vy0="-129.999" vz0="-3.256" ax="19.774" ay="28.164" az="-26.855" break_y="23.8" break_angle="-31.3" break_length="7.7" pitch_type="SI" type_confidence=".000" zone="13" spin_dir="105.056" spin_rate="2285.210"  cc=""/>		<p type="X" id="537" x="123.61" y="168.37" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090510_152620" start_speed="82.2" end_speed="76.8" sz_top="3.38" sz_bot="1.5" pfx_x="-2.019" pfx_z="-1.375" px="-0.731" pz="1.473" x0="3.267" y0="50.0" z0="5.565" vx0="-8.884" vy0="-120.177" vz0="-2.558" ax="-2.969" ay="22.066" az="-34.122" break_y="23.9" break_angle="7.2" break_length="9.6" pitch_type="SL" type_confidence=".878" zone="13" spin_dir="303.270" spin_rate="428.679"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="oak">
+		</offense>
+		<defense type="away" id="tor">
+			<man pid="434482" s_po="0" s_ass="5" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="150148" s_po="166" s_ass="12" s_err="4" s_fldg=".978" c_sb="19" c_cs="6" pos="c"/>
+			<man pid="132788" s_po="93" s_ass="7" s_err="1" s_fldg=".990" pos="1b"/>
+			<man pid="431094" s_po="61" s_ass="96" s_err="5" s_fldg=".969" pos="2b"/>
+			<man pid="340192" s_po="51" s_ass="111" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="121409" s_po="22" s_ass="49" s_err="4" s_fldg=".947" pos="3b"/>
+			<man pid="430832" s_po="26" s_ass="11" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="150484" s_po="73" s_ass="3" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="425567" s_po="84" s_ass="1" s_err="1" s_fldg=".988" pos="rf"/>
+		</defense>
+		<ball type="G" x="139.56" y="153.61" batter="435220" pitcher="434482"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="462522" index="6">
+			<man pid="111851"/>
+			<man pid="435559"/>
+			<man pid="114739"/>
+			<man pid="407812"/>
+			<man pid="400091"/>
+			<man pid="435220"/>
+			<man pid="425853"/>
+			<man pid="150456"/>
+			<man pid="435219"/>
+		</team>
+		<team type="away" pitcher="434482" index="5">
+			<man pid="340192"/>
+			<man pid="431094"/>
+			<man pid="425567"/>
+			<man pid="150484"/>
+			<man pid="452252"/>
+			<man pid="121409"/>
+			<man pid="132788"/>
+			<man pid="150148"/>
+			<man pid="430832"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Partly Cloudy" wind="12mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

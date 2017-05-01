@@ -1,0 +1,56 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_04_arimlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="2" ah="6" ae="2" hr="7" hh="10" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="471083" team_abbrev="ARI" team_id="109" parent_team_abbrev="ARI" parent_team_id="109" current_position="PH" stand="L" b_height="5-11" ab="1" h="0" avg=".233" boxname="Montero, M">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="455009" p_throws="R" pitches="12" strikes="8" balls="4" era="0.69" boxname="Broxton"/>
+		<deck pid="425543" boxname="Wilson, Jo"/>
+		<hole pid="112316" boxname="Clark"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="74" des="Miguel Montero grounds out, second baseman Orlando Hudson to first baseman James Loney.  " des_es="Miguel Montero batea rodado de out, segunda base Orlando Hudson a primera base James Loney.  " event="" event_es="" player="471083">
+		<p type="X" id="678" event_num="678" x="101.29" y="164.92" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090504_224600" play_guid="" start_speed="95.9" end_speed="86.7" sz_top="3.34" sz_bot="1.56" pfx_x="-5.241" pfx_z="14.075" px="-0.124" pz="1.632" x0="-1.025" y0="50.0" z0="5.961" vx0="4.334" vy0="-140.087" vz0="-11.035" ax="-10.224" ay="37.044" az="-4.642" break_y="23.7" break_angle="50.4" break_length="2.5" pitch_type="FF" type_confidence="2.000" zone="8" spin_dir="200.371" spin_rate="3041.545"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="ari">
+		</offense>
+		<defense type="home" id="lan">
+			<man pid="455009" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="431145" s_po="163" s_ass="22" s_err="0" s_fldg="1.000" c_sb="9" c_cs="6" pos="c"/>
+			<man pid="425766" s_po="207" s_ass="21" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="407861" s_po="51" s_ass="60" s_err="1" s_fldg=".991" pos="2b"/>
+			<man pid="279577" s_po="26" s_ass="66" s_err="5" s_fldg=".948" pos="ss"/>
+			<man pid="232694" s_po="15" s_ass="52" s_err="2" s_fldg=".971" pos="3b"/>
+			<man pid="334393" s_po="13" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="461314" s_po="74" s_ass="4" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="444843" s_po="59" s_ass="1" s_err="1" s_fldg=".984" pos="rf"/>
+		</defense>
+		<ball type="G" x="141.57" y="161.65" batter="471083" pitcher="455009"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="455009" index="5">
+			<man pid="279577"/>
+			<man pid="407861"/>
+			<man pid="455009"/>
+			<man pid="444843"/>
+			<man pid="425766"/>
+			<man pid="431145"/>
+			<man pid="461314"/>
+			<man pid="232694"/>
+			<man pid="334393"/>
+		</team>
+		<team type="away" pitcher="449820" index="7">
+			<man pid="150479"/>
+			<man pid="455759"/>
+			<man pid="433582"/>
+			<man pid="448602"/>
+			<man pid="457708"/>
+			<man pid="440251"/>
+			<man pid="471083"/>
+			<man pid="425543"/>
+			<man pid="112316"/>
+		</team>
+	</lineup>
+	<weather temp="72" condition="Clear" wind="7mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

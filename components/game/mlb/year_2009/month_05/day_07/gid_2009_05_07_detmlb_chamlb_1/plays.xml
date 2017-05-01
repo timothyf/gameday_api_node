@@ -1,0 +1,63 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_07_detmlb_chamlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="0" ah="3" ae="1" hr="6" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="120044" team_abbrev="DET" team_id="116" parent_team_abbrev="DET" parent_team_id="116" current_position="DH" stand="R" b_height="6-0" ab="3" h="0" avg=".225" boxname="Ordonez">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Walk"/>
+			<ab inning="5" event="Strikeout"/>
+			<ab inning="2" event="Pop Out"/>
+		</batter>
+		<pitcher pid="408057" p_throws="R" pitches="26" strikes="18" balls="8" era="1.80" boxname="Jenks"/>
+		<deck pid="408042" boxname="Laird"/>
+		<hole pid="276346" boxname="Inge"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="66" des="Magglio Ordonez called out on strikes.  " des_es="Magglio Ordonez se poncha sin tirarle.  " event="Left On Base" player="120044">
+		<p type="B" id="481" x="102.15" y="180.46" des="Ball" des_es="Bola mala" sv_id="090507_211017" start_speed="98.3" end_speed="85.4" sz_top="3.26" sz_bot="1.78" pfx_x="-7.963" pfx_z="6.098" px="-0.089" pz="1.055" x0="-2.222" y0="50.0" z0="6.09" vx0="8.685" vy0="-143.513" vz0="-10.184" ax="-15.497" ay="53.783" az="-20.232" break_y="23.4" break_angle="27.3" break_length="5.7" pitch_type="FF" type_confidence=".909" zone="13" spin_dir="232.381" spin_rate="1977.785"  cc=""/>		<p type="B" id="482" x="106.44" y="119.16" des="Ball" des_es="Bola mala" sv_id="090507_211031" start_speed="96.7" end_speed="83.5" sz_top="3.19" sz_bot="1.48" pfx_x="-3.321" pfx_z="9.083" px="-0.183" pz="3.685" x0="-2.378" y0="50.0" z0="6.242" vx0="7.112" vy0="-141.619" vz0="-4.185" ax="-6.276" ay="53.146" az="-14.935" break_y="23.4" break_angle="12.5" break_length="3.7" pitch_type="FF" type_confidence=".889" zone="11" spin_dir="200.003" spin_rate="1879.400"  cc=""/>		<p type="B" id="483" x="85.84" y="120.02" des="Ball" des_es="Bola mala" sv_id="090507_211051" start_speed="97.6" end_speed="84.0" sz_top="3.19" sz_bot="1.48" pfx_x="-1.746" pfx_z="8.973" px="0.412" pz="3.54" x0="-2.095" y0="50.0" z0="6.28" vx0="7.463" vy0="-142.806" vz0="-4.758" ax="-3.345" ay="55.002" az="-14.916" break_y="23.4" break_angle="1.8" break_length="3.6" pitch_type="FF" type_confidence=".651" zone="12" spin_dir="190.968" spin_rate="1785.889"  cc="Bobby Jenks is having trouble locating his four-seam fastball, missing the strike zone with his last three."/>		<p type="S" id="484" x="78.97" y="153.69" des="Called Strike" des_es="Strike cantado" sv_id="090507_211111" start_speed="97.7" end_speed="85.6" sz_top="3.36" sz_bot="1.75" pfx_x="-1.109" pfx_z="11.406" px="0.702" pz="2.224" x0="-2.103" y0="50.0" z0="6.162" vx0="8.117" vy0="-142.798" vz0="-9.054" ax="-2.163" ay="49.731" az="-9.848" break_y="23.5" break_angle="-2.7" break_length="2.7" pitch_type="FC" type_confidence=".727" zone="9" spin_dir="185.532" spin_rate="2278.871"  cc=""/>		<p type="S" id="485" x="116.74" y="142.47" des="Called Strike" des_es="Strike cantado" sv_id="090507_211128" start_speed="97.6" end_speed="84.2" sz_top="3.19" sz_bot="1.48" pfx_x="-2.245" pfx_z="10.989" px="-0.572" pz="2.672" x0="-2.273" y0="50.0" z0="6.186" vx0="5.439" vy0="-142.876" vz0="-7.596" ax="-4.308" ay="54.829" az="-11.018" break_y="23.4" break_angle="9.2" break_length="3.0" pitch_type="FF" type_confidence=".809" zone="1" spin_dir="191.508" spin_rate="2192.294"  cc=""/>		<p type="S" id="486" x="99.57" y="137.29" des="Foul (Runner Going)" des_es="Foul (Corredor en movimiento)" sv_id="090507_211148" start_speed="97.3" end_speed="84.2" sz_top="3.19" sz_bot="1.48" pfx_x="-2.472" pfx_z="12.711" px="0.049" pz="2.908" x0="-2.296" y0="50.0" z0="6.115" vx0="7.266" vy0="-142.301" vz0="-7.33" ax="-4.73" ay="52.856" az="-7.777" break_y="23.4" break_angle="11.1" break_length="2.3" pitch_type="FF" type_confidence=".882" zone="2" spin_dir="190.970" spin_rate="2533.630"  cc=""/>		<p type="S" id="487" x="102.15" y="120.88" des="Foul (Runner Going)" des_es="Foul (Corredor en movimiento)" sv_id="090507_211211" start_speed="98.5" end_speed="84.7" sz_top="3.19" sz_bot="1.48" pfx_x="-3.607" pfx_z="6.281" px="-0.053" pz="3.602" x0="-2.289" y0="50.0" z0="6.266" vx0="7.437" vy0="-144.156" vz0="-3.736" ax="-7.025" ay="56.646" az="-19.868" break_y="23.4" break_angle="11.0" break_length="4.6" pitch_type="FF" type_confidence=".846" zone="11" spin_dir="209.719" spin_rate="1426.063"  cc=""/>		<p type="S" id="488" x="125.32" y="123.47" des="Foul (Runner Going)" des_es="Foul (Corredor en movimiento)" sv_id="090507_211237" start_speed="97.8" end_speed="83.4" sz_top="3.19" sz_bot="1.48" pfx_x="-4.874" pfx_z="5.315" px="-0.809" pz="3.497" x0="-2.464" y0="50.0" z0="6.216" vx0="6.214" vy0="-143.273" vz0="-3.384" ax="-9.279" ay="58.844" az="-21.981" break_y="23.3" break_angle="16.2" break_length="5.3" pitch_type="FF" type_confidence=".895" zone="11" spin_dir="222.312" spin_rate="1395.762"  cc=""/>		<p type="S" id="489" x="81.55" y="163.19" des="Called Strike" des_es="Strike cantado" sv_id="090507_211308" start_speed="97.9" end_speed="86.9" sz_top="3.19" sz_bot="1.48" pfx_x="-3.409" pfx_z="8.472" px="0.566" pz="1.76" x0="-2.21" y0="50.0" z0="6.178" vx0="8.915" vy0="-142.98" vz0="-9.493" ax="-6.761" ay="45.792" az="-15.297" break_y="23.6" break_angle="12.3" break_length="3.9" pitch_type="FF" type_confidence=".728" zone="9" spin_dir="201.830" spin_rate="1844.768"  cc="Bobby Jenks battled back from 3-0 to retire Magglio Ordonez."/>		<runner id="135784" start="1B" end="" event="Left On Base"/>
+		<runner id="434158" start="3B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="away" id="det">
+			<man bnum="1" pid="135784" boxname="Polanco" note="Single" sb="0" cs="1"/>
+			<man bnum="3" pid="434158" boxname="Granderson" note="Single" sb="3" cs="0"/>
+		</offense>
+		<defense type="home" id="cha">
+			<man pid="408057" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="4" p_cs="0" pos="p"/>
+			<man pid="150229" s_po="140" s_ass="7" s_err="2" s_fldg=".987" c_sb="20" c_cs="2" pos="c"/>
+			<man pid="117244" s_po="226" s_ass="15" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="460051" s_po="21" s_ass="41" s_err="1" s_fldg=".984" pos="2b"/>
+			<man pid="434624" s_po="4" s_ass="9" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="435222" s_po="12" s_ass="57" s_err="4" s_fldg=".945" pos="3b"/>
+			<man pid="435041" s_po="41" s_ass="2" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="325392" s_po="20" s_ass="0" s_err="1" s_fldg=".952" pos="cf"/>
+			<man pid="113679" s_po="54" s_ass="0" s_err="1" s_fldg=".982" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="408057" index="8">
+			<man pid="460051"/>
+			<man pid="435222"/>
+			<man pid="435041"/>
+			<man pid="123272"/>
+			<man pid="113679"/>
+			<man pid="117244"/>
+			<man pid="150229"/>
+			<man pid="434624"/>
+			<man pid="325392"/>
+		</team>
+		<team type="away" pitcher="543634" index="5">
+			<man pid="434158"/>
+			<man pid="135784"/>
+			<man pid="460004"/>
+			<man pid="408234"/>
+			<man pid="120044"/>
+			<man pid="408042"/>
+			<man pid="276346"/>
+			<man pid="430605"/>
+			<man pid="276361"/>
+		</team>
+	</lineup>
+	<weather temp="62" condition="Partly Cloudy" wind="17mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

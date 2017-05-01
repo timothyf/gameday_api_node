@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_atlmlb_flomlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="8" ah="9" ae="0" hr="6" hh="10" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="434670" team_abbrev="FLA" team_id="146" parent_team_abbrev="FLA" parent_team_id="146" current_position="SS" stand="R" b_height="6-2" ab="4" h="1" avg=".295" boxname="Ramirez, H">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Groundout"/>
+			<ab inning="5" event="Walk"/>
+			<ab inning="3" event="Groundout"/>
+			<ab inning="1" event="Single"/>
+		</batter>
+		<pitcher pid="283166" p_throws="L" pitches="15" strikes="11" balls="4" era="4.22" boxname="Gonzalez, M"/>
+		<deck pid="408305" boxname="Cantu"/>
+		<hole pid="434633" boxname="Baker, Jo"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="83" des="Hanley Ramirez strikes out swinging.  " des_es="Hanley Ramirez se poncha tir&#225;ndole.  " event="Strikeout" player="434670">
+		<p type="S" id="710" x="96.14" y="148.51" des="Called Strike" des_es="Strike cantado" sv_id="090506_222200" start_speed="93.1" end_speed="85.0" sz_top="3.54" sz_bot="1.74" pfx_x="6.282" pfx_z="10.928" px="0.111" pz="2.186" x0="0.869" y0="50.0" z0="5.862" vx0="-4.214" vy0="-136.262" vz0="-7.657" ax="11.699" ay="32.62" az="-11.75" break_y="23.7" break_angle="-38.3" break_length="3.8" pitch_type="FF" type_confidence="2.000" zone="8" spin_dir="150.197" spin_rate="2506.022"  cc=""/>		<p type="S" id="711" x="136.48" y="145.92" des="Foul" des_es="Foul" sv_id="090506_222221" start_speed="83.0" end_speed="76.3" sz_top="3.36" sz_bot="1.56" pfx_x="-0.143" pfx_z="0.745" px="-1.202" pz="2.463" x0="0.863" y0="50.0" z0="6.178" vx0="-4.896" vy0="-121.639" vz0="-2.409" ax="-0.212" ay="25.93" az="-30.995" break_y="23.8" break_angle="2.1" break_length="8.6" pitch_type="SL" type_confidence="2.000" zone="11" spin_dir="190.192" spin_rate="142.874"  cc=""/>		<p type="S" id="712" x="119.31" y="119.16" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090506_222253" start_speed="94.3" end_speed="86.7" sz_top="3.36" sz_bot="1.56" pfx_x="4.336" pfx_z="8.893" px="-0.654" pz="3.597" x0="0.736" y0="50.0" z0="5.965" vx0="-5.326" vy0="-138.102" vz0="-3.72" ax="8.374" ay="30.726" az="-14.923" break_y="23.8" break_angle="-24.6" break_length="3.6" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="154.108" spin_rate="2014.473"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="flo">
+		</offense>
+		<defense type="away" id="atl">
+			<man pid="283166" s_po="0" s_ass="3" s_err="0" s_fldg="1.000" p_sb="1" p_cs="1" pos="p"/>
+			<man pid="424325" s_po="112" s_ass="13" s_err="0" s_fldg="1.000" c_sb="9" c_cs="7" pos="c"/>
+			<man pid="425773" s_po="196" s_ass="16" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="408299" s_po="24" s_ass="34" s_err="2" s_fldg=".967" pos="2b"/>
+			<man pid="488862" s_po="32" s_ass="75" s_err="1" s_fldg=".991" pos="ss"/>
+			<man pid="116706" s_po="13" s_ass="31" s_err="4" s_fldg=".917" pos="3b"/>
+			<man pid="110236" s_po="7" s_ass="0" s_err="2" s_fldg=".778" pos="lf"/>
+			<man pid="457788" s_po="70" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="425796" s_po="56" s_ass="3" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="434637" index="3">
+			<man pid="466988"/>
+			<man pid="457727"/>
+			<man pid="434670"/>
+			<man pid="408305"/>
+			<man pid="434633"/>
+			<man pid="462564"/>
+			<man pid="435181"/>
+			<man pid="425496"/>
+			<man pid="434637"/>
+		</team>
+		<team type="away" pitcher="283166" index="9">
+			<man pid="408299"/>
+			<man pid="488862"/>
+			<man pid="116706"/>
+			<man pid="110236"/>
+			<man pid="283166"/>
+			<man pid="425796"/>
+			<man pid="424325"/>
+			<man pid="457788"/>
+			<man pid="425773"/>
+		</team>
+	</lineup>
+	<weather temp="83" condition="Clear" wind="9mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,58 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_01_seamlb_colmlb_1" status_ind="FT"  status="Final" reason="Tied" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="1" ah="7" ae="1" hr="1" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="575249" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" current_position="SS" stand="R" b_height="5-9" ab="2" h="0" avg=".000" boxname="Ciriaco, J">
+			<ab inning="9" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="7" event="Lineout" event_es="Línea de Out"/>
+		</batter>
+		<pitcher pid="502272" p_throws="R" pitches="5" strikes="4" balls="1" era="5.84" boxname="Fien"/>
+		<deck pid="646098" boxname="Brito"/>
+		<hole pid="620449" boxname="Castro, L"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="66" des="Juan Ciriaco lines out to center fielder Austin Grebeck.  " des_es="Juan Ciriaco batea l&#237;nea de out a jardinero central Austin Grebeck.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="575249" play_guid="2c2eed50-6961-4a97-a49f-82e1cdc0ab0c" >
+		<p type="X" id="598" event_num="598" x="125.21" y="182.25" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170401_213755" play_guid="2c2eed50-6961-4a97-a49f-82e1cdc0ab0c" start_speed="94.4" end_speed="84.7" sz_top="3.795" sz_bot="1.6" pfx_x="-4.137293956963668" pfx_z="14.034943778165161" px="-0.196122075990272" pz="2.0903371917891" x0="-2.06069313742158" y0="49.9999999999999" z0="5.83050295195316" vx0="6.42888688594257" vy0="-136.581481099515" vz0="-8.87888600095563" ax="-7.687981298283" ay="34.6502330877823" az="-6.09410683332054" break_y="23.7" break_angle="36.1" break_length="2.3" pitch_type="FF" type_confidence=".870" zone="8" nasty="51" spin_dir="196.423" spin_rate="2888.090"  cc=""/>		<runner id="664902" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="col">
+		</offense>
+		<defense type="away" id="sea">
+			<man pid="502272" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="596028" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="643488" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="660563" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="493596" s_po="0" s_ass="2" s_err="1" s_fldg=".667" pos="ss"/>
+			<man pid="502292" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="3b"/>
+			<man pid="623188" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="670131" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="592835" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="L" x="0.00" y="0.00" batter="575249" pitcher="502272"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="593977" index="4">
+			<man pid="650512"/>
+			<man pid="664902"/>
+			<man pid="623194"/>
+			<man pid="575249"/>
+			<man pid="646098"/>
+			<man pid="620449"/>
+			<man pid="670374"/>
+			<man pid="642719"/>
+			<man pid="621532"/>
+		</team>
+		<team type="away" pitcher="502272" index="7">
+			<man pid="493596"/>
+			<man pid="592835"/>
+			<man pid="660563"/>
+			<man pid="605136"/>
+			<man pid="502292"/>
+			<man pid="643488"/>
+			<man pid="670131"/>
+			<man pid="596028"/>
+			<man pid="623188"/>
+		</team>
+	</lineup>
+	<weather temp="68" condition="Cloudy" wind="5mph Varies"/>
+	<control wait="10" box="0"/>
+</game>

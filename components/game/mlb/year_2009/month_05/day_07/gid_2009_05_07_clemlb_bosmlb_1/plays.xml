@@ -1,0 +1,61 @@
+<!--Copyright 2014 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_07_clemlb_bosmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="3" ah="7" ae="0" hr="13" hh="13" he="0" />
+	<players>
+		<batter pid="452678" team_abbrev="CLE" team_id="114" parent_team_abbrev="CLE" parent_team_id="114" current_position="SS" stand="L" b_height="6-0" ab="4" h="1" avg=".330" boxname="Cabrera, A">
+			<ab inning="9" event="Flyout"/>
+			<ab inning="7" event="Strikeout"/>
+			<ab inning="5" event="Sac Fly"/>
+			<ab inning="4" event="Single"/>
+			<ab inning="1" event="Lineout"/>
+		</batter>
+		<pitcher pid="493416" p_throws="R" pitches="11" strikes="7" balls="4" era="4.09" boxname="Saito"/>
+		<deck pid="400121" boxname="Martinez, V"/>
+		<hole pid="429662" boxname="Barfield"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Men_On"/>
+	<atbat num="77" des="Asdrubal Cabrera flies out to left fielder Jason Bay.  " des_es="Asdrubal Cabrera batea elevado de out a jardinero izquierdo Jason Bay.  " event="Left On Base" player="452678">
+		<p type="S" id="624" x="93.56" y="149.38" des="Swinging Strike" des_es="Strike tirándole" sv_id="090507_214317" start_speed="82.1" end_speed="74.5" sz_top="3.14" sz_bot="1.5" pfx_x="2.141" pfx_z="3.708" px="0.184" pz="1.761" x0="-2.727" y0="50.0" z0="5.31" vx0="6.193" vy0="-120.251" vz0="-2.642" ax="3.061" ay="28.462" az="-26.8" break_y="23.7" break_angle="-9.1" break_length="7.9" pitch_type="SL" type_confidence=".816" zone="8" spin_dir="150.336" spin_rate="746.151"  cc=""/>		<p type="S" id="625" x="91.85" y="135.56" des="Foul" des_es="Foul" sv_id="090507_214339" start_speed="92.5" end_speed="83.1" sz_top="3.14" sz_bot="1.5" pfx_x="-7.583" pfx_z="12.219" px="-0.103" pz="2.347" x0="-2.315" y0="50.0" z0="5.312" vx0="8.438" vy0="-135.258" vz0="-5.934" ax="-13.693" ay="36.432" az="-10.035" break_y="23.6" break_angle="44.6" break_length="3.7" pitch_type="FF" type_confidence=".917" zone="5" spin_dir="211.736" spin_rate="2792.137"  cc=""/>		<p type="X" id="626" x="138.20" y="127.79" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090507_214407" start_speed="92.1" end_speed="82.9" sz_top="3.14" sz_bot="1.5" pfx_x="-6.99" pfx_z="12.586" px="-1.184" pz="3.227" x0="-2.458" y0="50.0" z0="5.45" vx0="5.743" vy0="-134.915" vz0="-4.07" ax="-12.574" ay="35.919" az="-9.459" break_y="23.6" break_angle="46.4" break_length="3.5" pitch_type="FF" type_confidence=".921" zone="11" spin_dir="208.966" spin_rate="2791.879"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="cle">
+			<man bnum="1" pid="450204" boxname="Francisco, B" note="Hit By Pitch" sb="4" cs="1"/>
+		</offense>
+		<defense type="home" id="bos">
+			<man pid="493416" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="2" p_cs="0" pos="p"/>
+			<man pid="435459" s_po="56" s_ass="2" s_err="0" s_fldg="1.000" c_sb="9" c_cs="1" pos="c"/>
+			<man pid="431158" s_po="57" s_ass="4" s_err="1" s_fldg=".984" pos="1b"/>
+			<man pid="456030" s_po="49" s_ass="76" s_err="1" s_fldg=".992" pos="2b"/>
+			<man pid="407797" s_po="30" s_ass="50" s_err="6" s_fldg=".930" pos="ss"/>
+			<man pid="136780" s_po="30" s_ass="51" s_err="3" s_fldg=".964" pos="3b"/>
+			<man pid="424726" s_po="55" s_ass="3" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="408306" s_po="9" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="136770" s_po="40" s_ass="1" s_err="1" s_fldg=".976" pos="rf"/>
+		</defense>
+		<ball type="F" x="88.35" y="80.32" batter="452678" pitcher="493416"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="493416" index="4">
+			<man pid="150061"/>
+			<man pid="456030"/>
+			<man pid="424726"/>
+			<man pid="136780"/>
+			<man pid="408306"/>
+			<man pid="136770"/>
+			<man pid="431158"/>
+			<man pid="407797"/>
+			<man pid="435459"/>
+		</team>
+		<team type="away" pitcher="460029" index="2">
+			<man pid="450204"/>
+			<man pid="452678"/>
+			<man pid="400121"/>
+			<man pid="429662"/>
+			<man pid="113240"/>
+			<man pid="434939"/>
+			<man pid="425509"/>
+			<man pid="453181"/>
+			<man pid="472528"/>
+		</team>
+	</lineup>
+	<weather temp="67" condition="Cloudy" wind="13mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

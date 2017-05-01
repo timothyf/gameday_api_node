@@ -1,0 +1,58 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_07_milmlb_cinmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="5" ah="7" ae="0" hr="6" hh="9" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="112736" team_abbrev="MIL" team_id="158" parent_team_abbrev="MIL" parent_team_id="158" current_position="3B" stand="L" b_height="6-0" ab="2" h="0" avg=".327" boxname="Counsell">
+			<ab inning="9" event="Lineout"/>
+			<ab inning="7" event="Walk"/>
+			<ab inning="5" event="Lineout"/>
+		</batter>
+		<pitcher pid="150188" p_throws="R" pitches="7" strikes="5" balls="2" era="2.25" boxname="Cordero, F"/>
+		<deck pid="430001" boxname="Weeks, R"/>
+		<hole pid="430611" boxname="Hart"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="73" des="Craig Counsell lines out to first baseman Ramon Hernandez.  " des_es="Craig Counsell batea l&#237;nea de out a primera base Ramon Hernandez.  " event="null" player="112736">
+		<p type="X" id="609" x="115.88" y="152.83" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090507_220629" start_speed="94.9" end_speed="85.5" sz_top="3.43" sz_bot="1.57" pfx_x="-2.945" pfx_z="11.454" px="-0.437" pz="2.329" x0="-0.562" y0="50.0" z0="6.327" vx0="1.372" vy0="-138.912" vz0="-8.953" ax="-5.609" ay="38.423" az="-10.283" break_y="23.7" break_angle="22.4" break_length="3.0" pitch_type="FF" type_confidence=".936" zone="4" spin_dir="194.370" spin_rate="2360.128"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="mil">
+		</offense>
+		<defense type="home" id="cin">
+			<man pid="150188" s_po="0" s_ass="2" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="452672" s_po="48" s_ass="6" s_err="0" s_fldg="1.000" c_sb="0" c_cs="3" pos="c"/>
+			<man pid="150421" s_po="159" s_ass="11" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="150020" s_po="30" s_ass="15" s_err="2" s_fldg=".957" pos="2b"/>
+			<man pid="457926" s_po="16" s_ass="23" s_err="1" s_fldg=".975" pos="ss"/>
+			<man pid="489267" s_po="8" s_ass="8" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="425556" s_po="10" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="430838" s_po="73" s_ass="3" s_err="1" s_fldg=".987" pos="cf"/>
+			<man pid="457803" s_po="50" s_ass="4" s_err="1" s_fldg=".982" pos="rf"/>
+		</defense>
+		<ball type="L" x="152.61" y="164.66" batter="112736" pitcher="150188"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="150188" index="2">
+			<man pid="430838"/>
+			<man pid="150020"/>
+			<man pid="457803"/>
+			<man pid="150421"/>
+			<man pid="425556"/>
+			<man pid="489267"/>
+			<man pid="452672"/>
+			<man pid="457926"/>
+			<man pid="150188"/>
+		</team>
+		<team type="away" pitcher="406402" index="9">
+			<man pid="430001"/>
+			<man pid="430611"/>
+			<man pid="460075"/>
+			<man pid="425902"/>
+			<man pid="111904"/>
+			<man pid="429666"/>
+			<man pid="434525"/>
+			<man pid="116974"/>
+			<man pid="112736"/>
+		</team>
+	</lineup>
+	<weather temp="72" condition="Partly Cloudy" wind="9mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

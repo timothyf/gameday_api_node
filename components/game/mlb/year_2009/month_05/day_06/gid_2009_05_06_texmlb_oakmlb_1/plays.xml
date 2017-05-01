@@ -1,0 +1,63 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_texmlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="3" ah="9" ae="0" hr="2" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="435559" team_abbrev="OAK" team_id="133" parent_team_abbrev="OAK" parent_team_id="133" current_position="C" stand="R" b_height="5-11" ab="4" h="1" avg=".312" boxname="Suzuki, K">
+			<ab inning="9" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="7" event="Grounded Into DP" event_es="Roletazo de Doble Play"/>
+			<ab inning="4" event="Double" event_es="Doble"/>
+			<ab inning="2" event="Strikeout" event_es="Ponche"/>
+		</batter>
+		<pitcher pid="407911" p_throws="R" pitches="23" strikes="17" balls="6" era="0.00" boxname="Francisco, F"/>
+		<deck pid="459941" boxname="Buck"/>
+		<hole pid="425853" boxname="Crosby"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="67" des="Kurt Suzuki flies out to left fielder David Murphy.  " des_es="Kurt Suzuki batea elevado de out a jardinero izquierdo David Murphy.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="435559">
+		<p type="S" id="535" event_num="535" x="128.76" y="123.47" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090506_212949" play_guid="" start_speed="94.8" end_speed="86.9" sz_top="3.39" sz_bot="1.57" pfx_x="-3.213" pfx_z="11.15" px="-0.811" pz="3.416" x0="-1.72" y0="50.0" z0="5.99" vx0="3.629" vy0="-138.916" vz0="-5.149" ax="-6.253" ay="32.242" az="-10.397" break_y="23.8" break_angle="25.1" break_length="2.7" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="196.019" spin_rate="2366.201"  cc=""/>		<p type="S" id="536" event_num="536" x="133.05" y="126.93" des="Foul" des_es="Foul" sv_id="090506_213014" play_guid="" start_speed="94.1" end_speed="85.8" sz_top="3.39" sz_bot="1.57" pfx_x="-3.732" pfx_z="12.334" px="-0.984" pz="3.281" x0="-1.774" y0="50.0" z0="6.012" vx0="3.454" vy0="-137.871" vz0="-5.823" ax="-7.116" ay="33.303" az="-8.579" break_y="23.7" break_angle="32.2" break_length="2.5" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="196.781" spin_rate="2593.301"  cc=""/>		<p type="X" id="537" event_num="537" x="129.61" y="125.20" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090506_213045" play_guid="" start_speed="94.2" end_speed="86.5" sz_top="3.39" sz_bot="1.57" pfx_x="-5.157" pfx_z="9.497" px="-0.886" pz="3.388" x0="-1.751" y0="50.0" z0="6.015" vx0="4.176" vy0="-137.955" vz0="-4.606" ax="-9.916" ay="31.339" az="-13.839" break_y="23.8" break_angle="31.1" break_length="3.7" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="208.404" spin_rate="2192.095"  cc=""/>		<runner id="434658" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="111851" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="oak">
+			<man bnum="1" pid="434658" boxname="Davis, R" note="Pinch Runner" sb="3" cs="2"/>
+			<man bnum="3" pid="111851" boxname="Cabrera, O" note="Walk" sb="1" cs="3"/>
+		</offense>
+		<defense type="away" id="tex">
+			<man pid="407911" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="457454" s_po="96" s_ass="9" s_err="1" s_fldg=".991" c_sb="3" c_cs="4" pos="c"/>
+			<man pid="448801" s_po="228" s_ass="13" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="435079" s_po="51" s_ass="75" s_err="2" s_fldg=".984" pos="2b"/>
+			<man pid="462101" s_po="35" s_ass="76" s_err="6" s_fldg=".949" pos="ss"/>
+			<man pid="276545" s_po="17" s_ass="47" s_err="2" s_fldg=".970" pos="3b"/>
+			<man pid="461815" s_po="33" s_ass="3" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="407781" s_po="52" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="443558" s_po="70" s_ass="2" s_err="3" s_fldg=".960" pos="rf"/>
+		</defense>
+		<ball type="F" x="51.20" y="69.28" batter="435559" pitcher="407911"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="457732" index="6">
+			<man pid="435220"/>
+			<man pid="111851"/>
+			<man pid="114739"/>
+			<man pid="407812"/>
+			<man pid="434658"/>
+			<man pid="435559"/>
+			<man pid="459941"/>
+			<man pid="425853"/>
+			<man pid="463610"/>
+		</team>
+		<team type="away" pitcher="407911" index="8">
+			<man pid="435079"/>
+			<man pid="462101"/>
+			<man pid="276545"/>
+			<man pid="408213"/>
+			<man pid="407781"/>
+			<man pid="443558"/>
+			<man pid="461815"/>
+			<man pid="448801"/>
+			<man pid="457454"/>
+		</team>
+	</lineup>
+	<weather temp="61" condition="Partly Cloudy" wind="17mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,67 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_02_chnmlb_slnmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="2" inning_state="" event="single" is_perfect_game="N" is_no_hitter="N">
+	<score ar="3" ah="8" ae="0" hr="4" hh="11" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="1" challenges_home_remaining="0"/>	<players>
+		<batter pid="545341" team_abbrev="STL" team_id="138" parent_team_abbrev="STL" parent_team_id="138" current_position="LF" stand="R" b_height="6-1" ab="4" h="2" avg=".500" boxname="Grichuk">
+			<ab inning="9" event="Single" event_es="Sencillo"/>
+			<ab inning="8" event="Home Run" event_es="Jonr&#243;n"/>
+			<ab inning="6" event="Walk" event_es="Base por Bolas"/>
+			<ab inning="4" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="2" event="Strikeout" event_es="Ponche"/>
+		</batter>
+		<pitcher pid="543557" p_throws="L" pitches="24" strikes="12" balls="12" era="13.50" boxname="Montgomery"/>
+		<deck pid="594824" boxname="Garcia, G"/>
+		<hole pid="451594" boxname="Fowler"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Loaded"/>
+	<atbat num="80" des="Randal Grichuk singles on a sharp line drive to left fielder Kyle Schwarber.   Jose Martinez scores.    Yadier Molina to 3rd.    Kolten Wong to 2nd.  " des_es="Randal Grichuk pega sencillo con l&#237;nea fuerte a jardinero izquierdo Kyle Schwarber.   Jose Martinez anota  Yadier Molina a 3ra.    Kolten Wong a 2da.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="500874" play_guid="c2cfa75d-cb21-479f-9aae-b84af82341c9" >
+		<p type="S" id="684" event_num="684" x="85.89" y="190.15" des="Called Strike" des_es="Strike cantado" sv_id="170403_041019" play_guid="873539bb-69b5-45c8-9bfe-0151f8d09ecf" start_speed="77.7" end_speed="70.0" sz_top="3.0066386380922054" sz_bot="1.4734468356274633" pfx_x="-5.080204448832876" pfx_z="-6.743183034651168" px="0.816039939603538" pz="1.80115153587525" x0="2.47538036256809" y0="50" z0="6.11710282932994" vx0="-2.20595525278444" vy0="-112.911732901333" vz0="-0.261696799084947" ax="-6.3493960057605" ay="26.6598656526122" az="-40.6018864234994" break_y="23.7" break_angle="9.5" break_length="13.5" pitch_type="CU" type_confidence="2.000" zone="14" nasty="93" spin_dir="323.008" spin_rate="1355.804"  cc=""/>		<p type="B" id="685" event_num="685" x="106.95" y="207.82" des="Ball" des_es="Bola mala" sv_id="170403_041037" play_guid="a8813e0a-1555-4d4b-ac20-dc6b4d6bcbac" start_speed="80.5" end_speed="72.8" sz_top="3.2254051236373726" sz_bot="1.5360566782219145" pfx_x="-2.035202106460416" pfx_z="-7.291733669417557" px="0.263774654402686" pz="1.14674948536717" x0="2.30732244235194" y0="50" z0="6.05824679367485" vx0="-4.06085947205313" vy0="-116.887593251595" vz0="-1.99901736187122" ax="-2.73765051788248" ay="27.7208140554223" az="-41.9825183850412" break_y="23.7" break_angle="4.8" break_length="12.9" pitch_type="CU" type_confidence="2.000" zone="14" nasty="36" spin_dir="344.407" spin_rate="1263.941"  cc=""/>		<p type="X" id="686" event_num="686" x="139.13" y="184.7" des="In play, run(s)" des_es="En juego, carrera(s)" sv_id="170403_041101" play_guid="c2cfa75d-cb21-479f-9aae-b84af82341c9" start_speed="93.5" end_speed="84.7" sz_top="3.221501050394437" sz_bot="1.5823918425517753" pfx_x="6.335656228138513" pfx_z="8.66795587821834" px="-0.580503390147473" pz="2.0028345303953" x0="2.08111905058447" y0="50" z0="5.87627765237239" vx0="-9.28375335935751" vy0="-135.548062664968" vz0="-7.28384908797265" ax="11.6731009701296" ay="32.3106963500792" az="-16.2038127153992" break_y="23.7" break_angle="-28.0" break_length="4.5" pitch_type="FF" type_confidence="2.000" zone="7" nasty="43" spin_dir="143.837" spin_rate="2117.232"  cc=""/>		<runner id="543939" start="1B" end="2B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="425877" start="2B" end="3B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="500874" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" score="T"/>
+		<runner id="545341" start="" end="1B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="sln">
+			<man bnum="1" pid="545341" boxname="Grichuk" note="Single" sb="0" cs="0"/>
+			<man bnum="2" pid="543939" boxname="Wong" note="Walk" sb="0" cs="0"/>
+			<man bnum="3" pid="425877" boxname="Molina" note="Intent Walk" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="chn">
+			<man pid="543557" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="575929" s_po="8" s_ass="0" s_err="0" s_fldg="1.000" c_sb="2" c_cs="0" pos="c"/>
+			<man pid="519203" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="595879" s_po="2" s_ass="4" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="608365" s_po="5" s_ass="3" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="592178" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="3b"/>
+			<man pid="656941" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="518792" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="450314" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="S" x="122.55" y="65.52" batter="545341" pitcher="543557"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="493200" index="8">
+			<man pid="451594"/>
+			<man pid="649557"/>
+			<man pid="572761"/>
+			<man pid="500874"/>
+			<man pid="425877"/>
+			<man pid="572039"/>
+			<man pid="543939"/>
+			<man pid="545341"/>
+			<man pid="594824"/>
+		</team>
+		<team type="away" pitcher="543557" index="1">
+			<man pid="656941"/>
+			<man pid="592178"/>
+			<man pid="519203"/>
+			<man pid="450314"/>
+			<man pid="608365"/>
+			<man pid="518792"/>
+			<man pid="575929"/>
+			<man pid="543557"/>
+			<man pid="595879"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Cloudy" wind="8mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

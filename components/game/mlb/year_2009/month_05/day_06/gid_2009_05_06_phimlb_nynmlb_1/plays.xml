@@ -1,0 +1,56 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_phimlb_nynmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="0" ah="3" ae="3" hr="1" hh="2" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="122644" team_abbrev="PHI" team_id="143" parent_team_abbrev="PHI" parent_team_id="143" current_position="PH" stand="L" b_height="5-9" ab="1" h="0" avg=".267" boxname="Stairs">
+			<ab inning="9" event="Flyout"/>
+		</batter>
+		<pitcher pid="408061" p_throws="R" pitches="13" strikes="7" balls="6" era="1.42" boxname="Rodriguez, Fr"/>
+		<deck pid="434563" boxname="Ruiz"/>
+		<hole pid="239795" boxname="Durbin"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="64" des="Matt Stairs flies out to center fielder Carlos Beltran.  " des_es="Matt Stairs batea elevado de out a jardinero central Carlos Beltran.  " event="null" player="122644">
+		<p type="S" id="526" x="138.20" y="152.83" des="Called Strike" des_es="Strike cantado" sv_id="090506_214529" start_speed="79.6" end_speed="73.7" sz_top="3.38" sz_bot="1.5" pfx_x="9.783" pfx_z="0.379" px="-1.111" pz="2.194" x0="-1.85" y0="50.0" z0="6.376" vx0="-1.222" vy0="-116.674" vz0="-2.748" ax="13.427" ay="22.855" az="-31.58" break_y="23.8" break_angle="-22.3" break_length="10.3" pitch_type="CU" type_confidence="2.000" zone="13" spin_dir="92.533" spin_rate="1671.213"  cc=""/>		<p type="B" id="527" x="146.78" y="120.02" des="Ball" des_es="Bola mala" sv_id="090506_214545" start_speed="78.1" end_speed="71.4" sz_top="3.165" sz_bot="1.592" pfx_x="11.531" pfx_z="-3.624" px="-1.415" pz="3.683" x0="-1.953" y0="50.0" z0="6.45" vx0="-2.143" vy0="-114.556" vz0="1.993" ax="15.049" ay="24.696" az="-36.83" break_y="23.7" break_angle="-21.8" break_length="12.2" pitch_type="CU" type_confidence="2.000" zone="11" spin_dir="72.808" spin_rate="1994.997"  cc=""/>		<p type="X" id="528" x="133.05" y="159.74" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090506_214603" start_speed="85.6" end_speed="78.6" sz_top="3.38" sz_bot="1.5" pfx_x="-2.368" pfx_z="7.894" px="-0.962" pz="1.874" x0="-1.458" y0="50.0" z0="6.365" vx0="1.982" vy0="-125.336" vz0="-7.096" ax="-3.737" ay="27.143" az="-19.639" break_y="23.8" break_angle="9.0" break_length="5.5" pitch_type="CH" type_confidence="2.000" zone="13" spin_dir="196.599" spin_rate="1514.051"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="phi">
+		</offense>
+		<defense type="home" id="nyn">
+			<man pid="408061" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="135783" s_po="100" s_ass="5" s_err="2" s_fldg=".981" c_sb="2" c_cs="4" pos="c"/>
+			<man pid="113232" s_po="164" s_ass="5" s_err="2" s_fldg=".988" pos="1b"/>
+			<man pid="133321" s_po="27" s_ass="23" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="408314" s_po="35" s_ass="65" s_err="2" s_fldg=".980" pos="ss"/>
+			<man pid="431151" s_po="21" s_ass="57" s_err="3" s_fldg=".963" pos="3b"/>
+			<man pid="502517" s_po="43" s_ass="1" s_err="2" s_fldg=".957" pos="lf"/>
+			<man pid="136860" s_po="54" s_ass="0" s_err="1" s_fldg=".982" pos="cf"/>
+			<man pid="425508" s_po="36" s_ass="1" s_err="1" s_fldg=".974" pos="rf"/>
+		</defense>
+		<ball type="F" x="141.57" y="50.20" batter="122644" pitcher="408061"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="408061" index="4">
+			<man pid="408314"/>
+			<man pid="133321"/>
+			<man pid="136860"/>
+			<man pid="113232"/>
+			<man pid="431151"/>
+			<man pid="502517"/>
+			<man pid="135783"/>
+			<man pid="408061"/>
+			<man pid="425508"/>
+		</team>
+		<team type="away" pitcher="239795" index="7">
+			<man pid="276519"/>
+			<man pid="425664"/>
+			<man pid="400284"/>
+			<man pid="429667"/>
+			<man pid="150029"/>
+			<man pid="116380"/>
+			<man pid="122644"/>
+			<man pid="434563"/>
+			<man pid="239795"/>
+		</team>
+	</lineup>
+	<weather temp="58" condition="Cloudy" wind="9mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

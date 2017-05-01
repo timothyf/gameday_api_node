@@ -1,0 +1,66 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_seamlb_minmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="5" ah="10" ae="0" hr="3" hh="7" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="430593" team_abbrev="MIN" team_id="142" parent_team_abbrev="MIN" parent_team_id="142" current_position="3B" stand="R" b_height="6-1" ab="3" h="0" avg=".286" boxname="Harris, B">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="8" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="5" event="Walk" event_es="Base por Bolas"/>
+			<ab inning="3" event="Strikeout" event_es="Ponche"/>
+			<ab inning="2" event="Walk" event_es="Base por Bolas"/>
+		</batter>
+		<pitcher pid="453344" p_throws="R" pitches="35" strikes="19" balls="16" era="4.70" boxname="Morrow"/>
+		<deck pid="133226" boxname="Redmond, M"/>
+		<hole pid="460576" boxname="Gomez, C"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Loaded"/>
+	<atbat num="81" des="Brendan Harris grounds out, third baseman Adrian Beltre to first baseman Russell Branyan.  " des_es="Brendan Harris batea rodado de out, tercera base Adrian Beltre a primera base Russell Branyan.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="430593">
+		<p type="B" id="680" event_num="680" x="129.61" y="105.34" des="Ball" des_es="Bola mala" sv_id="090510_042528" play_guid="" start_speed="95.3" end_speed="86.5" sz_top="3.43" sz_bot="1.5" pfx_x="-0.475" pfx_z="12.866" px="-1.009" pz="4.19" x0="-1.881" y0="50.0" z0="6.471" vx0="2.558" vy0="-139.656" vz0="-4.968" ax="-0.925" ay="35.559" az="-7.046" break_y="23.7" break_angle="1.9" break_length="1.7" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="182.106" spin_rate="2612.129"  cc=""/>		<p type="B" id="681" event_num="681" x="117.60" y="101.89" des="Ball" des_es="Bola mala" sv_id="090510_042606" play_guid="" start_speed="95.7" end_speed="87.4" sz_top="3.525" sz_bot="1.774" pfx_x="-3.102" pfx_z="13.228" px="-0.487" pz="4.328" x0="-1.739" y0="50.0" z0="6.525" vx0="4.567" vy0="-140.206" vz0="-4.985" ax="-6.13" ay="33.813" az="-5.958" break_y="23.7" break_angle="35.1" break_length="1.8" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="193.159" spin_rate="2785.873"  cc=""/>		<p type="S" id="682" event_num="682" x="116.74" y="145.06" des="Called Strike" des_es="Strike cantado" sv_id="090510_042630" play_guid="" start_speed="96.0" end_speed="87.6" sz_top="3.43" sz_bot="1.5" pfx_x="-0.925" pfx_z="13.454" px="-0.559" pz="2.404" x0="-1.688" y0="50.0" z0="6.308" vx0="3.449" vy0="-140.416" vz0="-9.78" ax="-1.828" ay="34.708" az="-5.503" break_y="23.7" break_angle="7.1" break_length="1.6" pitch_type="FF" type_confidence="2.000" zone="4" spin_dir="183.919" spin_rate="2762.120"  cc=""/>		<p type="S" id="683" event_num="683" x="132.19" y="117.43" des="Foul" des_es="Foul" sv_id="090510_042654" play_guid="" start_speed="95.5" end_speed="87.0" sz_top="3.43" sz_bot="1.5" pfx_x="-1.611" pfx_z="11.707" px="-0.972" pz="3.696" x0="-1.912" y0="50.0" z0="6.332" vx0="3.159" vy0="-139.851" vz0="-5.585" ax="-3.159" ay="34.414" az="-9.14" break_y="23.7" break_angle="12.8" break_length="2.2" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="187.807" spin_rate="2411.861"  cc=""/>		<p type="S" id="684" event_num="684" x="131.33" y="165.78" des="Foul" des_es="Foul" sv_id="090510_042748" play_guid="" start_speed="96.8" end_speed="88.4" sz_top="3.43" sz_bot="1.5" pfx_x="-2.607" pfx_z="11.73" px="-0.936" pz="1.718" x0="-1.691" y0="50.0" z0="6.257" vx0="3.04" vy0="-141.485" vz0="-11.092" ax="-5.234" ay="35.154" az="-8.55" break_y="23.7" break_angle="21.8" break_length="2.5" pitch_type="FF" type_confidence="2.000" zone="13" spin_dir="192.491" spin_rate="2481.138"  cc=""/>		<p type="S" id="685" event_num="685" x="97.00" y="116.57" des="Foul" des_es="Foul" sv_id="090510_042825" play_guid="" start_speed="95.9" end_speed="87.9" sz_top="3.43" sz_bot="1.5" pfx_x="0.751" pfx_z="11.208" px="0.16" pz="3.866" x0="-1.559" y0="50.0" z0="6.407" vx0="4.488" vy0="-140.454" vz0="-5.261" ax="1.494" ay="33.141" az="-9.812" break_y="23.8" break_angle="-12.9" break_length="2.3" pitch_type="FF" type_confidence="2.000" zone="12" spin_dir="176.180" spin_rate="2314.973"  cc=""/>		<p type="B" id="686" event_num="686" x="92.70" y="106.20" des="Ball" des_es="Bola mala" sv_id="090510_042858" play_guid="" start_speed="86.9" end_speed="80.5" sz_top="3.43" sz_bot="1.777" pfx_x="2.651" pfx_z="0.415" px="0.19" pz="4.099" x0="-1.815" y0="50.0" z0="6.433" vx0="4.183" vy0="-127.438" vz0="0.353" ax="4.373" ay="25.418" az="-31.415" break_y="23.8" break_angle="-9.3" break_length="7.8" pitch_type="SL" type_confidence="2.000" zone="12" spin_dir="99.847" spin_rate="505.275"  cc=""/>		<p type="X" id="687" event_num="687" x="107.30" y="129.52" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090510_042929" play_guid="" start_speed="94.0" end_speed="85.9" sz_top="3.43" sz_bot="1.5" pfx_x="-2.265" pfx_z="13.14" px="-0.269" pz="3.147" x0="-1.681" y0="50.0" z0="6.308" vx0="4.618" vy0="-137.531" vz0="-7.249" ax="-4.308" ay="32.425" az="-7.103" break_y="23.7" break_angle="20.2" break_length="2.0" pitch_type="FF" type_confidence="2.000" zone="1" spin_dir="189.748" spin_rate="2683.441"  cc=""/>		<runner id="150212" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="408047" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="408045" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="min">
+			<man bnum="1" pid="150212" boxname="Cuddyer" note="Walk" sb="3" cs="1"/>
+			<man bnum="2" pid="408047" boxname="Morneau" note="Walk" sb="0" cs="0"/>
+			<man bnum="3" pid="408045" boxname="Mauer" note="Single" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="sea">
+			<man pid="453344" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="453531" s_po="123" s_ass="10" s_err="1" s_fldg=".993" c_sb="12" c_cs="5" pos="c"/>
+			<man pid="137140" s_po="212" s_ass="16" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="430946" s_po="62" s_ass="74" s_err="4" s_fldg=".971" pos="2b"/>
+			<man pid="435358" s_po="51" s_ass="77" s_err="4" s_fldg=".970" pos="ss"/>
+			<man pid="134181" s_po="24" s_ass="66" s_err="7" s_fldg=".928" pos="3b"/>
+			<man pid="346795" s_po="60" s_ass="2" s_err="1" s_fldg=".984" pos="lf"/>
+			<man pid="429711" s_po="82" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="400085" s_po="57" s_ass="1" s_err="1" s_fldg=".983" pos="rf"/>
+		</defense>
+		<ball type="G" x="103.41" y="164.66" batter="430593" pitcher="453344"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="444520" index="6">
+			<man pid="452655"/>
+			<man pid="430585"/>
+			<man pid="408045"/>
+			<man pid="408047"/>
+			<man pid="150212"/>
+			<man pid="430593"/>
+			<man pid="133226"/>
+			<man pid="460576"/>
+			<man pid="346857"/>
+		</team>
+		<team type="away" pitcher="453344" index="4">
+			<man pid="400085"/>
+			<man pid="430946"/>
+			<man pid="115135"/>
+			<man pid="134181"/>
+			<man pid="137140"/>
+			<man pid="429711"/>
+			<man pid="435358"/>
+			<man pid="453531"/>
+			<man pid="346795"/>
+		</team>
+	</lineup>
+	<weather temp="70" condition="Dome" wind="-1mph "/>
+	<control wait="10" box="0"/>
+</game>

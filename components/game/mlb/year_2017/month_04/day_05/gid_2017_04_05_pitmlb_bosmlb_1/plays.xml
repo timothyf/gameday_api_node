@@ -1,0 +1,64 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_05_pitmlb_bosmlb_1" status_ind="F"  status="Final" inning="12" top_inning="F" b="0" s="0" o="1" inning_state="" event="home_run" is_perfect_game="N" is_no_hitter="N">
+	<score ar="0" ah="5" ae="0" hr="3" hh="8" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="1" challenges_home_remaining="0"/>	<players>
+		<batter pid="506702" team_abbrev="BOS" team_id="111" parent_team_abbrev="BOS" parent_team_id="111" current_position="C" stand="R" b_height="5-10" ab="5" h="3" avg=".625" boxname="Leon, S">
+			<ab inning="12" event="Home Run" event_es="Jonr&#243;n"/>
+			<ab inning="10" event="Single" event_es="Sencillo"/>
+			<ab inning="8" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="5" event="Strikeout" event_es="Ponche"/>
+			<ab inning="3" event="Double" event_es="Doble"/>
+		</batter>
+		<pitcher pid="455374" p_throws="L" pitches="19" strikes="9" balls="10" era="81.00" boxname="Bastardo"/>
+		<deck pid="456030" boxname="Pedroia"/>
+		<hole pid="643217" boxname="Benintendi"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="87" des="Sandy Leon homers (1) on a fly ball to left center field.   Jackie Bradley scores.    Pablo Sandoval scores.  " des_es="Sandy Leon batea jonr&#243;n (1) con elevado entre los jardines izquierdo y central.   Jackie Bradley anota  Pablo Sandoval anota .  " event="Home Run" event_es="Jonr&#243;n" player="506702" play_guid="82a74cc1-b5eb-418c-8708-de8e447effec" >
+		<po des="Pickoff Attempt 2B" des_es="Viraje a 2B" event_num="715" play_guid="52610866-0c97-4b1e-a3ed-f70595554664" />
+		<p type="S" id="716" event_num="716" x="95.32" y="151.59" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170406_030301" play_guid="ce63c1cd-eaad-41b1-8edc-e288c1b783fe" start_speed="91.3" end_speed="83.1" sz_top="3.694" sz_bot="1.513" pfx_x="5.243371776319788" pfx_z="10.025517240188629" px="0.568817611620412" pz="3.22930587177343" x0="1.90144844322823" y0="50" z0="5.62712273228786" vx0="-5.27033919784615" vy0="-132.764380613631" vz0="-3.53829792979077" ax="9.32912214810919" ay="29.2616375407466" az="-14.3364282385096" break_y="23.8" break_angle="-28.5" break_length="3.9" pitch_type="FF" type_confidence=".851" zone="3" nasty="64" spin_dir="152.392" spin_rate="2199.690"  cc=""/>		<p type="X" id="717" event_num="717" x="112.2" y="171.27" des="In play, run(s)" des_es="En juego, carrera(s)" sv_id="170406_030347" play_guid="82a74cc1-b5eb-418c-8708-de8e447effec" start_speed="91.9" end_speed="83.5" sz_top="3.694" sz_bot="1.513" pfx_x="4.68234465718416" pfx_z="11.1460346721618" px="0.112302105737717" pz="2.50296245899527" x0="1.91126694292318" y0="50" z0="5.43333313474845" vx0="-6.32880458232879" vy0="-133.504210701493" vz0="-5.39269331869294" ax="8.40464970658964" ay="30.2045809437993" az="-12.1672946979141" break_y="23.8" break_angle="-27.6" break_length="3.4" pitch_type="FF" type_confidence=".892" zone="5" nasty="24" spin_dir="157.215" spin_rate="2358.167"  cc=""/>		<runner id="467055" start="1B" end="" event="Home Run" event_es="Jonr&#243;n" score="T"/>
+		<runner id="598265" start="2B" end="" event="Home Run" event_es="Jonr&#243;n" score="T"/>
+		<runner id="506702" start="" end="" event="Home Run" event_es="Jonr&#243;n" score="T"/>
+	</atbat>
+	<field>
+		<offense type="home" id="bos">
+		</offense>
+		<defense type="away" id="pit">
+			<man pid="455374" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="465041" s_po="18" s_ass="0" s_err="0" s_fldg="1.000" c_sb="3" c_cs="0" pos="c"/>
+			<man pid="594838" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="543281" s_po="4" s_ass="10" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="474568" s_po="4" s_ass="6" s_err="1" s_fldg=".909" pos="ss"/>
+			<man pid="501896" s_po="0" s_ass="5" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="570256" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="516782" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="457705" s_po="3" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="H" x="72.54" y="45.52" batter="506702" pitcher="455374"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="523260" index="9">
+			<man pid="456030"/>
+			<man pid="643217"/>
+			<man pid="593428"/>
+			<man pid="434670"/>
+			<man pid="519048"/>
+			<man pid="455759"/>
+			<man pid="598265"/>
+			<man pid="467055"/>
+			<man pid="506702"/>
+		</team>
+		<team type="away" pitcher="455374" index="7">
+			<man pid="474568"/>
+			<man pid="516782"/>
+			<man pid="457705"/>
+			<man pid="570256"/>
+			<man pid="501896"/>
+			<man pid="465041"/>
+			<man pid="543281"/>
+			<man pid="594838"/>
+			<man pid="624428"/>
+		</team>
+	</lineup>
+	<weather temp="40" condition="Cloudy" wind="8mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

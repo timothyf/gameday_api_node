@@ -1,0 +1,60 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_bosmlb_nyamlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="7" ah="8" ae="1" hr="3" hh="10" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="116539" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" current_position="SS" stand="R" b_height="6-3" ab="5" h="2" avg=".279" boxname="Jeter">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Single" event_es="Sencillo"/>
+			<ab inning="5" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="3" event="Single" event_es="Sencillo"/>
+			<ab inning="1" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="493416" p_throws="R" pitches="12" strikes="9" balls="3" era="4.50" boxname="Saito"/>
+		<deck pid="113028" boxname="Damon"/>
+		<hole pid="407893" boxname="Teixeira"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="81" des="Derek Jeter grounds out, second baseman Dustin Pedroia to first baseman Jeff Bailey.  " des_es="Derek Jeter batea rodado de out, segunda base Dustin Pedroia a primera base Jeff Bailey.  " event="" event_es="" player="116539">
+		<p type="B" id="703" event_num="703" x="56.65" y="151.10" des="Ball" des_es="Bola mala" sv_id="090505_225442" play_guid="" start_speed="91.8" end_speed="83.6" sz_top="3.695" sz_bot="1.857" pfx_x="-8.327" pfx_z="12.849" px="1.283" pz="2.324" x0="-1.993" y0="50.0" z0="5.997" vx0="11.469" vy0="-133.893" vz0="-7.962" ax="-14.969" ay="31.546" az="-9.002" break_y="23.7" break_angle="48.6" break_length="3.7" pitch_type="FF" type_confidence=".911" zone="14" spin_dir="212.861" spin_rate="2989.099"  cc=""/>		<p type="S" id="704" event_num="704" x="75.54" y="141.61" des="Called Strike" des_es="Strike cantado" sv_id="090505_225502" play_guid="" start_speed="91.4" end_speed="83.6" sz_top="3.32" sz_bot="1.84" pfx_x="-6.388" pfx_z="11.461" px="0.678" pz="2.624" x0="-2.155" y0="50.0" z0="5.982" vx0="9.631" vy0="-133.51" vz0="-6.637" ax="-11.462" ay="30.296" az="-11.534" break_y="23.8" break_angle="35.6" break_length="3.6" pitch_type="FF" type_confidence=".914" zone="6" spin_dir="209.043" spin_rate="2565.470"  cc=""/>		<p type="X" id="705" event_num="705" x="119.31" y="161.47" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090505_225524" play_guid="" start_speed="91.3" end_speed="83.9" sz_top="3.32" sz_bot="1.84" pfx_x="-10.405" pfx_z="4.183" px="-0.598" pz="1.909" x0="-2.483" y0="50.0" z0="5.756" vx0="8.511" vy0="-133.556" vz0="-5.449" ax="-18.695" ay="30.176" az="-24.584" break_y="23.8" break_angle="33.2" break_length="7.0" pitch_type="FT" type_confidence=".901" zone="7" spin_dir="247.903" spin_rate="2191.772"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="nya">
+		</offense>
+		<defense type="away" id="bos">
+			<man pid="493416" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="2" p_cs="0" pos="p"/>
+			<man pid="123660" s_po="166" s_ass="7" s_err="1" s_fldg=".994" c_sb="28" c_cs="7" pos="c"/>
+			<man pid="431158" s_po="32" s_ass="4" s_err="1" s_fldg=".973" pos="1b"/>
+			<man pid="456030" s_po="46" s_ass="68" s_err="1" s_fldg=".991" pos="2b"/>
+			<man pid="407797" s_po="27" s_ass="45" s_err="6" s_fldg=".923" pos="ss"/>
+			<man pid="136780" s_po="27" s_ass="43" s_err="3" s_fldg=".959" pos="3b"/>
+			<man pid="424726" s_po="52" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="457508" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="136770" s_po="38" s_ass="1" s_err="1" s_fldg=".975" pos="rf"/>
+		</defense>
+		<ball type="G" x="130.52" y="158.63" batter="116539" pitcher="493416"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="502085" index="1">
+			<man pid="116539"/>
+			<man pid="113028"/>
+			<man pid="407893"/>
+			<man pid="425686"/>
+			<man pid="429664"/>
+			<man pid="430897"/>
+			<man pid="466320"/>
+			<man pid="455369"/>
+			<man pid="458731"/>
+		</team>
+		<team type="away" pitcher="493416" index="9">
+			<man pid="457508"/>
+			<man pid="456030"/>
+			<man pid="120074"/>
+			<man pid="424726"/>
+			<man pid="136780"/>
+			<man pid="136770"/>
+			<man pid="431158"/>
+			<man pid="123660"/>
+			<man pid="407797"/>
+		</team>
+	</lineup>
+	<weather temp="54" condition="Cloudy" wind="7mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

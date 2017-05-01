@@ -1,0 +1,59 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_04_nyamlb_tbamlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="5" ah="9" ae="0" hr="0" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="621002" team_abbrev="TB" team_id="139" parent_team_abbrev="TB" parent_team_id="139" current_position="SS" stand="R" b_height="6-1" ab="4" h="0" avg=".000" boxname="Robertson">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Strikeout" event_es="Ponche"/>
+			<ab inning="5" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="3" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="547973" p_throws="L" pitches="14" strikes="11" balls="3" era="0.00" boxname="Chapman"/>
+		<deck pid="572816" boxname="Dickerson, C"/>
+		<hole pid="519306" boxname="Souza Jr."/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="74" des="Daniel Robertson strikes out swinging.  " des_es="Daniel Robertson se poncha tir&#225;ndole.  " event="Strikeout" event_es="Ponche" player="621002" play_guid="e9a7d310-f894-4cb5-a405-a11af7398e54" >
+		<p type="S" id="608" event_num="608" x="149.41" y="204.74" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170405_021500" play_guid="c1fd3970-ff3e-43fe-8b9e-cf4a665109d8"  cc=""/>		<p type="B" id="609" event_num="609" x="73.99" y="139.94" des="Ball" des_es="Bola mala" sv_id="170405_021520" play_guid="2e5c2b4e-a551-4900-b11b-f37d71be51e6" start_speed="88.0" end_speed="79.7" sz_top="3.367685220073634" sz_bot="1.4368679544719711" pfx_x="7.132141636677672" pfx_z="5.676569072486844" px="1.15036607171173" pz="3.65595082684342" x0="0.970515138592384" y0="50.0000000000001" z0="6.02588345201976" vx0="-1.87486618051664" vy0="-128.207831994557" vz0="-1.43063734974534" ax="11.7216645858414" ay="29.6194896387882" az="-22.8446153993728" break_y="23.7" break_angle="-26.0" break_length="6.4" pitch_type="SL" type_confidence=".828" zone="12" nasty="60" spin_dir="128.517" spin_rate="1695.246"  cc=""/>		<p type="S" id="610" event_num="610" x="119.93" y="149.27" des="Foul" des_es="Foul" sv_id="170405_021539" play_guid="cecadade-c6d1-4868-9ae0-408e8e43c73d" start_speed="99.4" end_speed="90.1" sz_top="3.786" sz_bot="1.565" pfx_x="3.5230850164198317" pfx_z="12.59422953634968" px="-0.0808727099736446" pz="3.28740025333356" x0="0.974452837185084" y0="50" z0="6.1540353383697" vx0="-4.30184036967081" vy0="-144.569368870836" vz0="-7.14574243849315" ax="7.39552264897897" ay="36.262995414952" az="-5.73673315006991" break_y="23.7" break_angle="-40.1" break_length="1.9" pitch_type="FF" type_confidence=".901" zone="2" nasty="29" spin_dir="164.373" spin_rate="2754.882"  cc=""/>		<p type="S" id="611" event_num="611" x="89.34" y="172.05" des="Foul" des_es="Foul" sv_id="170405_021609" play_guid="14c4c00f-7ab0-45ae-9055-8cd584a4a4f5" start_speed="100.2" end_speed="91.0" sz_top="3.786" sz_bot="1.565" pfx_x="7.84536713426562" pfx_z="8.81605839935298" px="0.712134019956562" pz="2.43642116534726" x0="0.924320439338693" y0="50" z0="6.11484105226232" vx0="-3.52633321484902" vy0="-145.815764325573" vz0="-8.21754719562898" ax="16.7348505733505" ay="37.2513677452091" az="-13.3686290732906" break_y="23.7" break_angle="-45.8" break_length="4.2" pitch_type="FF" type_confidence=".901" zone="14" nasty="47" spin_dir="138.335" spin_rate="2504.602"  cc=""/>		<p type="S" id="612" event_num="612" x="90.99" y="169.54" des="Foul" des_es="Foul" sv_id="170405_021636" play_guid="d9bddcf6-743b-4863-b9ca-83c0ad4c71d9" start_speed="88.5" end_speed="80.8" sz_top="3.786" sz_bot="1.565" pfx_x="8.784575720931228" pfx_z="6.561875092582008" px="0.667805868990704" pz="2.54549616698221" x0="0.744696029199475" y0="50" z0="5.97983434038304" vx0="-3.08876326608529" vy0="-128.940006607531" vz0="-4.54291838096227" ax="14.691274081493" ay="28.4628068121839" az="-21.2000062650145" break_y="23.8" break_angle="-32.3" break_length="6.4" pitch_type="SL" type_confidence=".797" zone="6" nasty="38" spin_dir="126.760" spin_rate="2063.258"  cc=""/>		<p type="S" id="613" event_num="613" x="119.75" y="156.37" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170405_021705" play_guid="e9a7d310-f894-4cb5-a405-a11af7398e54"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="tba">
+		</offense>
+		<defense type="away" id="nya">
+			<man pid="547973" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="596142" s_po="18" s_ass="0" s_err="1" s_fldg=".947" c_sb="1" c_cs="0" pos="c"/>
+			<man pid="595885" s_po="14" s_ass="2" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="516770" s_po="4" s_ass="2" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="591720" s_po="1" s_ass="5" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="452104" s_po="1" s_ass="4" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="458731" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="453056" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="592450" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="488984" index="8">
+			<man pid="519306"/>
+			<man pid="595281"/>
+			<man pid="446334"/>
+			<man pid="430001"/>
+			<man pid="489149"/>
+			<man pid="543543"/>
+			<man pid="519083"/>
+			<man pid="621002"/>
+			<man pid="572816"/>
+		</team>
+		<team type="away" pitcher="547973" index="4">
+			<man pid="458731"/>
+			<man pid="596142"/>
+			<man pid="595885"/>
+			<man pid="407812"/>
+			<man pid="453056"/>
+			<man pid="516770"/>
+			<man pid="452104"/>
+			<man pid="592450"/>
+			<man pid="591720"/>
+		</team>
+	</lineup>
+	<weather temp="72" condition="Dome" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

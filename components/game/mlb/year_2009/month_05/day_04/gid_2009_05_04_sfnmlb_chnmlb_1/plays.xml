@@ -1,0 +1,58 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_04_sfnmlb_chnmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="2" ah="6" ae="0" hr="4" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="110383" team_abbrev="SF" team_id="137" parent_team_abbrev="SF" parent_team_id="137" current_position="PH" stand="R" b_height="6-1" ab="1" h="0" avg=".192" boxname="Aurilia">
+			<ab inning="9" event="Flyout"/>
+		</batter>
+		<pitcher pid="276514" p_throws="R" pitches="23" strikes="14" balls="9" era="4.97" boxname="Gregg"/>
+		<deck pid="464299" boxname="Velez"/>
+		<hole pid="430930" boxname="Lewis, F"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="72" des="Rich Aurilia flies out to center fielder Reed Johnson.  " des_es="Rich Aurilia batea elevado de out a jardinero central Reed Johnson.  " event="Left On Base" player="110383">
+		<p type="B" id="592" x="58.37" y="183.92" des="Ball" des_es="Bola mala" sv_id="090504_215242" start_speed="80.7" end_speed="76.4" sz_top="3.11" sz_bot="1.59" pfx_x="2.985" pfx_z="-0.751" px="1.31" pz="0.846" x0="-2.547" y0="50.0" z0="6.459" vx0="8.126" vy0="-117.923" vz0="-6.071" ax="4.267" ay="19.189" az="-33.174" break_y="24.0" break_angle="-8.8" break_length="9.7" pitch_type="CU" type_confidence="2.000" zone="14" spin_dir="76.810" spin_rate="539.184"  cc=""/>		<p type="S" id="596" x="92.70" y="135.56" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090504_215304" start_speed="91.8" end_speed="84.0" sz_top="3.11" sz_bot="1.59" pfx_x="-8.23" pfx_z="12.949" px="0.185" pz="2.973" x0="-2.632" y0="50.0" z0="6.174" vx0="10.267" vy0="-134.064" vz0="-6.826" ax="-14.92" ay="30.047" az="-8.627" break_y="23.8" break_angle="51.3" break_length="3.6" pitch_type="FF" type_confidence="2.000" zone="2" spin_dir="212.358" spin_rate="3016.612"  cc=""/>		<p type="S" id="597" x="76.39" y="158.01" des="Called Strike" des_es="Strike cantado" sv_id="090504_215332" start_speed="92.3" end_speed="85.3" sz_top="3.11" sz_bot="1.59" pfx_x="-7.882" pfx_z="10.902" px="0.784" pz="2.058" x0="-2.369" y0="50.0" z0="6.259" vx0="11.127" vy0="-134.567" vz0="-8.942" ax="-14.546" ay="27.419" az="-11.979" break_y="23.8" break_angle="41.9" break_length="4.1" pitch_type="FF" type_confidence="2.000" zone="14" spin_dir="215.763" spin_rate="2683.229"  cc=""/>		<p type="X" id="598" x="103.00" y="158.01" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090504_215400" start_speed="91.4" end_speed="84.6" sz_top="3.11" sz_bot="1.59" pfx_x="-7.051" pfx_z="11.258" px="-0.144" pz="1.92" x0="-2.176" y0="50.0" z0="6.266" vx0="7.797" vy0="-133.572" vz0="-9.286" ax="-12.813" ay="27.199" az="-11.643" break_y="23.8" break_angle="39.9" break_length="3.9" pitch_type="FF" type_confidence="2.000" zone="8" spin_dir="211.966" spin_rate="2628.588"  cc=""/>		<runner id="133160" start="1B" end="2B" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="away" id="sfn">
+			<man bnum="2" pid="133160" boxname="Winn" note="Walk" sb="4" cs="0"/>
+		</offense>
+		<defense type="home" id="chn">
+			<man pid="276514" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="434567" s_po="153" s_ass="10" s_err="0" s_fldg="1.000" c_sb="14" c_cs="4" pos="c"/>
+			<man pid="117601" s_po="169" s_ass="14" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="425446" s_po="42" s_ass="33" s_err="1" s_fldg=".987" pos="2b"/>
+			<man pid="444135" s_po="18" s_ass="59" s_err="4" s_fldg=".951" pos="ss"/>
+			<man pid="133380" s_po="9" s_ass="28" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="150093" s_po="40" s_ass="3" s_err="2" s_fldg=".956" pos="lf"/>
+			<man pid="407862" s_po="26" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="150396" s_po="18" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="F" x="108.43" y="44.18" batter="110383" pitcher="276514"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="276514" index="2">
+			<man pid="150093"/>
+			<man pid="444135"/>
+			<man pid="150396"/>
+			<man pid="117601"/>
+			<man pid="133380"/>
+			<man pid="434567"/>
+			<man pid="407862"/>
+			<man pid="425446"/>
+			<man pid="276514"/>
+		</team>
+		<team type="away" pitcher="133982" index="8">
+			<man pid="430930"/>
+			<man pid="121074"/>
+			<man pid="467055"/>
+			<man pid="134260"/>
+			<man pid="400023"/>
+			<man pid="133160"/>
+			<man pid="448170"/>
+			<man pid="110383"/>
+			<man pid="464299"/>
+		</team>
+	</lineup>
+	<weather temp="56" condition="Cloudy" wind="8mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

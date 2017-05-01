@@ -1,0 +1,62 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_03_clemlb_texmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="8" ah="9" ae="0" hr="5" hh="8" he="1" />
+<review challenges_away_used="1" challenges_away_remaining="0" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="460576" team_abbrev="TEX" team_id="140" parent_team_abbrev="TEX" parent_team_id="140" current_position="CF" stand="R" b_height="6-3" ab="4" h="1" avg=".250" boxname="Gomez">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="4" event="Strikeout" event_es="Ponche"/>
+			<ab inning="3" event="Home Run" event_es="Jonr&#243;n"/>
+			<ab inning="1" event="Walk" event_es="Base por Bolas"/>
+		</batter>
+		<pitcher pid="592102" p_throws="R" pitches="19" strikes="13" balls="6" era="0.00" boxname="Allen, C"/>
+		<deck pid="425783" boxname="Choo"/>
+		<hole pid="608577" boxname="Mazara"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="77" des="Carlos Gomez strikes out swinging.  " des_es="Carlos Gomez se poncha tir&#225;ndole.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="460576" play_guid="650ba999-8e2e-4dbc-a137-91cce25d644c" >
+		<p type="S" id="642" event_num="642" x="104.91" y="203.65" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170404_023033" play_guid="34c6af06-f2c9-4742-901b-97da5ed27ed4" start_speed="84.1" end_speed="77.4" sz_top="3.985" sz_bot="1.51" pfx_x="3.403288078724808" pfx_z="-6.73669707164826" px="0.317137664879633" pz="1.30110027175854" x0="-1.54670908374987" y0="50" z0="5.47083339172172" vx0="3.42763163539864" vy0="-122.367314033156" vz0="-1.26765104085107" ax="5.1307750741255" ay="25.4337373045754" az="-42.3302494473342" break_y="23.8" break_angle="-7.6" break_length="11.6" pitch_type="KC" type_confidence=".901" zone="14" nasty="77" spin_dir="26.801" spin_rate="1349.051"  cc=""/>		<p type="S" id="643" event_num="643" x="143.38" y="163.34" des="Called Strike" des_es="Strike cantado" sv_id="170404_023053" play_guid="bdc6fca0-95b5-4a89-9afd-3be1b46beeee" start_speed="83.7" end_speed="76.1" sz_top="3.360739009111878" sz_bot="1.441561477892808" pfx_x="5.455496564025432" pfx_z="-4.40280421545234" px="-0.692086338247883" pz="2.79409174681707" x0="-1.64185632910555" y0="50" z0="5.62913195996396" vx0="0.580150518614532" vy0="-121.759334578516" vz0="1.31205171003202" ax="8.08845447754416" ay="26.6710324824725" az="-38.7017552559557" break_y="23.8" break_angle="-12.0" break_length="10.8" pitch_type="KC" type_confidence=".900" zone="1" nasty="56" spin_dir="51.094" spin_rate="1238.459"  cc=""/>		<p type="S" id="644" event_num="644" x="77.25" y="200.72" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170404_023112" play_guid="650ba999-8e2e-4dbc-a137-91cce25d644c" start_speed="84.6" end_speed="77.6" sz_top="3.985" sz_bot="1.51" pfx_x="2.7696148620025083" pfx_z="-6.602980985331588" px="1.0428202815395" pz="1.40964550265623" x0="-1.35705693396898" y0="50" z0="5.61305956536943" vx0="4.93476483551897" vy0="-122.980255275705" vz0="-1.44133318455695" ax="4.20066871720093" ay="26.5863547275146" az="-42.1887751691049" break_y="23.8" break_angle="-6.8" break_length="11.5" pitch_type="KC" type_confidence=".901" zone="14" nasty="74" spin_dir="22.754" spin_rate="1281.150"  cc=""/>		<runner id="462101" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="tex">
+			<man bnum="3" pid="462101" boxname="Andrus" note="Triple" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="cle">
+			<man pid="592102" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="543228" s_po="11" s_ass="2" s_err="0" s_fldg="1.000" c_sb="1" c_cs="1" pos="c"/>
+			<man pid="429665" s_po="5" s_ass="2" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="608070" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="2b"/>
+			<man pid="596019" s_po="3" s_ass="1" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="492841" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="3b"/>
+			<man pid="488726" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="571980" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="501659" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="592222" index="1">
+			<man pid="460576"/>
+			<man pid="425783"/>
+			<man pid="608577"/>
+			<man pid="435063"/>
+			<man pid="596059"/>
+			<man pid="518960"/>
+			<man pid="608336"/>
+			<man pid="462101"/>
+			<man pid="595777"/>
+		</team>
+		<team type="away" pitcher="592102" index="5">
+			<man pid="467793"/>
+			<man pid="596019"/>
+			<man pid="488726"/>
+			<man pid="429665"/>
+			<man pid="608070"/>
+			<man pid="543228"/>
+			<man pid="571980"/>
+			<man pid="492841"/>
+			<man pid="501659"/>
+		</team>
+	</lineup>
+	<weather temp="80" condition="Clear" wind="5mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

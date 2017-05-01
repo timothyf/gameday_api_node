@@ -1,0 +1,61 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_atlmlb_phimlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="6" ah="9" ae="0" hr="2" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="429667" team_abbrev="PHI" team_id="143" parent_team_abbrev="PHI" parent_team_id="143" current_position="1B" stand="L" b_height="6-4" ab="4" h="0" avg=".279" boxname="Howard">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="4" event="Strikeout" event_es="Ponche"/>
+			<ab inning="2" event="Pop Out" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="283166" p_throws="L" pitches="16" strikes="9" balls="7" era="3.55" boxname="Gonzalez, M"/>
+		<deck pid="150029" boxname="Werth"/>
+		<hole pid="116380" boxname="Ibanez"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="69" des="Ryan Howard grounds out, second baseman Kelly Johnson to first baseman Casey Kotchman.  " des_es="Ryan Howard batea rodado de out, segunda base Kelly Johnson a primera base Casey Kotchman.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="429667">
+		<p type="B" id="531" event_num="531" x="135.62" y="108.80" des="Ball" des_es="Bola mala" sv_id="090509_060831" play_guid="" start_speed="79.2" end_speed="72.2" sz_top="4.0" sz_bot="1.87" pfx_x="-0.411" pfx_z="0.257" px="-0.986" pz="4.224" x0="1.833" y0="50.0" z0="6.532" vx0="-6.292" vy0="-116.035" vz0="1.731" ax="-0.551" ay="25.167" az="-31.756" break_y="23.7" break_angle="3.3" break_length="9.6" pitch_type="SL" type_confidence="2.000" zone="11" spin_dir="232.815" spin_rate="86.472"  cc=""/>		<p type="S" id="532" event_num="532" x="108.15" y="137.29" des="Foul" des_es="Foul" sv_id="090509_060845" play_guid="" start_speed="83.0" end_speed="76.3" sz_top="4.0" sz_bot="1.87" pfx_x="-1.121" pfx_z="3.091" px="-0.219" pz="2.793" x0="1.858" y0="50.0" z0="6.323" vx0="-4.623" vy0="-121.673" vz0="-2.702" ax="-1.666" ay="25.798" az="-27.507" break_y="23.8" break_angle="5.2" break_length="7.7" pitch_type="SL" type_confidence="2.000" zone="5" spin_dir="199.644" spin_rate="590.868"  cc=""/>		<p type="X" id="533" event_num="533" x="112.45" y="138.15" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_060923" play_guid="" start_speed="84.1" end_speed="76.6" sz_top="4.0" sz_bot="1.87" pfx_x="1.702" pfx_z="-1.331" px="-0.365" pz="2.883" x0="1.83" y0="50.0" z0="6.404" vx0="-5.829" vy0="-123.247" vz0="-1.427" ax="2.566" ay="29.097" az="-34.106" break_y="23.7" break_angle="-2.2" break_length="9.3" pitch_type="SL" type_confidence="2.000" zone="4" spin_dir="53.022" spin_rate="378.096"  cc=""/>		<runner id="400284" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="phi">
+			<man bnum="2" pid="400284" boxname="Utley" note="Double" sb="2" cs="0"/>
+		</offense>
+		<defense type="away" id="atl">
+			<man pid="283166" s_po="0" s_ass="3" s_err="0" s_fldg="1.000" p_sb="1" p_cs="1" pos="p"/>
+			<man pid="435263" s_po="114" s_ass="7" s_err="2" s_fldg=".984" c_sb="5" c_cs="1" pos="c"/>
+			<man pid="425773" s_po="220" s_ass="17" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="430637" s_po="33" s_ass="54" s_err="2" s_fldg=".978" pos="2b"/>
+			<man pid="488862" s_po="32" s_ass="81" s_err="2" s_fldg=".983" pos="ss"/>
+			<man pid="116706" s_po="15" s_ass="37" s_err="4" s_fldg=".929" pos="3b"/>
+			<man pid="110236" s_po="17" s_ass="0" s_err="2" s_fldg=".895" pos="lf"/>
+			<man pid="457788" s_po="81" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="425796" s_po="62" s_ass="3" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="141.57" y="154.62" batter="429667" pitcher="283166"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="113961" index="4">
+			<man pid="276519"/>
+			<man pid="425664"/>
+			<man pid="400284"/>
+			<man pid="429667"/>
+			<man pid="150029"/>
+			<man pid="116380"/>
+			<man pid="113961"/>
+			<man pid="400120"/>
+			<man pid="150268"/>
+		</team>
+		<team type="away" pitcher="283166" index="3">
+			<man pid="430637"/>
+			<man pid="488862"/>
+			<man pid="116706"/>
+			<man pid="110236"/>
+			<man pid="435263"/>
+			<man pid="425773"/>
+			<man pid="425796"/>
+			<man pid="457788"/>
+			<man pid="283166"/>
+		</team>
+	</lineup>
+	<weather temp="82" condition="Partly Cloudy" wind="14mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

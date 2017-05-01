@@ -1,0 +1,59 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_04_sdnmlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="11" ae="0" hr="0" hh="5" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="1" challenges_home_remaining="0"/>	<players>
+		<batter pid="457759" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" current_position="3B" stand="R" b_height="5-11" ab="4" h="1" avg=".444" boxname="Turner">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="6" event="Grounded Into DP" event_es="Roletazo de Doble Play"/>
+			<ab inning="4" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="1" event="Single" event_es="Sencillo"/>
+		</batter>
+		<pitcher pid="543272" p_throws="L" pitches="11" strikes="7" balls="4" era="0.00" boxname="Hand"/>
+		<deck pid="429711" boxname="Gutierrez"/>
+		<hole pid="624577" boxname="Puig"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="67" des="Justin Turner grounds out, shortstop Erick Aybar to first baseman Wil Myers.  " des_es="Justin Turner batea rodado de out, campo corto Erick Aybar a primera base Wil Myers.  " event="" event_es="" player="457759" play_guid="60771c98-bcf8-4aa8-a969-50f82468f056" >
+		<p type="S" id="533" event_num="533" x="87.09" y="171.56" des="Called Strike" des_es="Strike cantado" sv_id="170405_045331" play_guid="70fa2677-ebda-4a2d-82c1-02fd11f96ee2" start_speed="93.4" end_speed="84.9" sz_top="3.771488359027586" sz_bot="1.7945973452477695" pfx_x="12.120841626124442" pfx_z="6.281716878251183" px="0.756300455247542" pz="2.51721694136349" x0="1.83166139414469" y0="50" z0="6.24424052305769" vx0="-7.06525629959158" vy0="-135.465657056924" vz0="-6.08813705806181" ax="22.3905691919243" ay="31.2203326551718" az="-20.5699685143803" break_y="23.8" break_angle="-43.5" break_length="6.7" pitch_type="FT" type_confidence=".901" zone="14" nasty="58" spin_dir="117.396" spin_rate="2700.838"  cc=""/>		<p type="S" id="534" event_num="534" x="77.76" y="166.26" des="Called Strike" des_es="Strike cantado" sv_id="170405_045349" play_guid="58e6d207-161f-4a6a-bbbf-d9999ca90b96" start_speed="78.7" end_speed="71.7" sz_top="3.5167918089498116" sz_bot="1.8455567107140602" pfx_x="-4.159894811114208" pfx_z="-7.8500485632228605" px="1.00284971610645" pz="2.75009454512715" x0="1.71703416317342" y0="50" z0="6.9041437751316" vx0="-0.392264836511384" vy0="-114.122936326017" vz0="0.162971181185284" ax="-5.40247839397221" ay="23.9912305222668" az="-42.3689500335389" break_y="23.8" break_angle="7.3" break_length="13.4" pitch_type="CU" type_confidence=".952" zone="12" nasty="39" spin_dir="332.081" spin_rate="1466.753"  cc=""/>		<p type="B" id="535" event_num="535" x="109.7" y="124.23" des="Ball" des_es="Bola mala" sv_id="170405_045411" play_guid="5334eeef-864d-4529-bd52-2303f31e2f39" start_speed="93.5" end_speed="85.5" sz_top="3.7629988027388492" sz_bot="1.905008409585374" pfx_x="6.7603524677785085" pfx_z="8.566654806217201" px="0.191632996629793" pz="4.24254413390458" x0="1.75890880827151" y0="49.9999999999999" z0="6.26480117612248" vx0="-6.56551924166035" vy0="-135.739230018056" vz0="-2.42371352997215" ax="12.6621802570129" ay="28.6282674498883" az="-16.1286533092249" break_y="23.8" break_angle="-34.2" break_length="4.4" pitch_type="FF" type_confidence=".911" zone="12" nasty="22" spin_dir="141.722" spin_rate="2184.604"  cc=""/>		<p type="X" id="536" event_num="536" x="127.3" y="203.71" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170405_045433" play_guid="60771c98-bcf8-4aa8-a969-50f82468f056" start_speed="81.6" end_speed="75.0" sz_top="3.694" sz_bot="1.513" pfx_x="-7.61347865742108" pfx_z="-5.231792209124388" px="-0.27024268665246" pz="1.29890645010388" x0="1.72409744226785" y0="50" z0="6.23317001162014" vx0="-2.34597804487323" vy0="-118.479065912247" vz0="-3.00985023102185" ax="-10.718470654105" ay="24.6574194495139" az="-39.53951364606" break_y="23.8" break_angle="15.4" break_length="12.0" pitch_type="SL" type_confidence=".906" zone="13" nasty="42" spin_dir="304.497" spin_rate="1592.499"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="lan">
+		</offense>
+		<defense type="away" id="sdn">
+			<man pid="543272" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="595978" s_po="8" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="571976" s_po="17" s_ass="3" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="500208" s_po="3" s_ass="4" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="430947" s_po="1" s_ass="8" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="572114" s_po="2" s_ass="3" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="608671" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="622534" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="592669" s_po="2" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="86.67" y="99.52" batter="457759" pitcher="543272"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="594795" index="3">
+			<man pid="523253"/>
+			<man pid="608369"/>
+			<man pid="457759"/>
+			<man pid="429711"/>
+			<man pid="624577"/>
+			<man pid="408236"/>
+			<man pid="518735"/>
+			<man pid="571771"/>
+			<man pid="594795"/>
+		</team>
+		<team type="away" pitcher="543272" index="2">
+			<man pid="608671"/>
+			<man pid="622534"/>
+			<man pid="571976"/>
+			<man pid="500208"/>
+			<man pid="572114"/>
+			<man pid="592669"/>
+			<man pid="595978"/>
+			<man pid="430947"/>
+			<man pid="543272"/>
+		</team>
+	</lineup>
+	<weather temp="65" condition="Clear" wind="6mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

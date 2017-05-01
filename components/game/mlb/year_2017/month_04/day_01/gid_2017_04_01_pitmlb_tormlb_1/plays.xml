@@ -1,0 +1,62 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_01_pitmlb_tormlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="9" ae="0" hr="6" hh="12" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="607780" team_abbrev="PIT" team_id="134" parent_team_abbrev="PIT" parent_team_id="134" current_position="1B" stand="R" b_height="6-2" ab="3" h="1" avg=".235" boxname="Wood">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="5" event="Single" event_es="Sencillo"/>
+		</batter>
+		<pitcher pid="596101" p_throws="R" pitches="13" strikes="8" balls="5" era="0.00" boxname="Shafer"/>
+		<deck pid="657019" boxname="Suchy"/>
+		<hole pid="608382" boxname="Weiss"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="80" des="Eric Wood strikes out swinging.  " des_es="Eric Wood se poncha tir&#225;ndole.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="607780">
+		<p type="B" id="574" event_num="574" x="60.48938782935624" y="208.26124511082136" des="Ball" des_es="Bola mala" sz_top="3.467" sz_bot="1.589"  cc=""/>		<p type="S" id="579" event_num="579" x="95.16162335890355" y="147.870110821382" des="Swinging Strike" des_es="Strike tir&#225;ndole" sz_top="3.467" sz_bot="1.589"  cc=""/>		<p type="S" id="580" event_num="580" x="92.96717807222336" y="164.85511734028682" des="Swinging Strike" des_es="Strike tir&#225;ndole" sz_top="3.467" sz_bot="1.589"  cc=""/>		<p type="S" id="581" event_num="581" x="61.367165944028336" y="184.6709582790091" des="Swinging Strike" des_es="Strike tir&#225;ndole" sz_top="3.467" sz_bot="1.589"  cc=""/>		<runner id="640457" start="1B" end="2B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="621036" start="2B" end="3B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="pit">
+			<man bnum="2" pid="640457" boxname="Meadows" note="Single" sb="2" cs="2"/>
+			<man bnum="3" pid="621036" boxname="Diaz, C" note="Walk" sb="0" cs="0"/>
+		</offense>
+		<defense type="home" id="tor">
+			<man pid="596101" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="643500" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="642133" s_po="68" s_ass="7" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="547173" s_po="5" s_ass="10" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="463610" s_po="8" s_ass="20" s_err="1" s_fldg=".966" pos="ss"/>
+			<man pid="594950" s_po="7" s_ass="19" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="596105" s_po="11" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="641505" s_po="4" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="622210" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="596101" index="4">
+			<man pid="596105"/>
+			<man pid="547173"/>
+			<man pid="463610"/>
+			<man pid="594950"/>
+			<man pid="642133"/>
+			<man pid="641505"/>
+			<man pid="643500"/>
+			<man pid="622210"/>
+			<man pid="596101"/>
+		</team>
+		<team type="away" pitcher="621208" index="4">
+			<man pid="657061"/>
+			<man pid="640457"/>
+			<man pid="543611"/>
+			<man pid="607780"/>
+			<man pid="657019"/>
+			<man pid="608382"/>
+			<man pid="593700"/>
+			<man pid="656582"/>
+			<man pid="621036"/>
+		</team>
+	</lineup>
+	<weather temp="70" condition="Dome" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

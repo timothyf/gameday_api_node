@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="430565"
+                pitcher="458709"
+                des="Kazuo Matsui singles on a bunt ground ball to third baseman Ryan Zimmerman.  "
+                des_es="Kazuo Matsui pega sencillo con rodado con toque a tercera base Ryan Zimmerman.  "
+                event="Single"
+                b1="430565"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_190934" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="1" s="2" o="0"
+                 des="With Michael Bourn batting, Kazuo Matsui picked off and caught stealing 2nd base, Kazuo Matsui to 2nd.   throwing error by Nick Johnson.  "
+                 des_es="Con Michael Bourn bateando, Kazuo Matsui sorprendido fuera de base y atrapado robando la 2da base, Kazuo Matsui a 2da.   error en tiro de Nick Johnson.  "
+                 event="Picked off stealing 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="430565"
+                 pitch="4"/>
+         <atbat num="2" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="456422"
+                pitcher="458709"
+                des="Michael Bourn flies out to center fielder Elijah Dukes.   Kazuo Matsui to 3rd.  "
+                des_es="Michael Bourn batea elevado de out a jardinero central Elijah Dukes en jugada de infield fly.   Kazuo Matsui a 3ra.  "
+                event="Flyout"
+                b1=""
+                b2="430565"
+                b3="430565">
+            <pitch sv_id="090504_191014" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="86.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_191038" des="Foul" des_es="Foul" type="S" start_speed="88.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_191118" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_191135" des="Foul" des_es="Foul" type="S" start_speed="87.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_191330" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="76.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_191412" des="Foul" des_es="Foul" type="S" start_speed="73.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="3" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="204020"
+                pitcher="458709"
+                des="Lance Berkman doubles (3) on a line drive to center fielder Elijah Dukes.   Kazuo Matsui scores.  "
+                des_es="Lance Berkman pega doble (3) con l&#237;nea a jardinero central Elijah Dukes.   Kazuo Matsui anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2="204020"
+                b3=""
+                rbi="1">
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="090504_191536" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="" des="In play, run(s)" des_es="En juego, carrera(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <action b="2" s="0" o="2"
+                 des="With Carlos Lee batting, Lance Berkman caught stealing 3rd base, catcher Jesus Flores to third baseman Ryan Zimmerman.  "
+                 des_es="Con Carlos Lee bateando, Lance Berkman atrapado robando la 3ra base, receptor Jesus Flores a tercera base Ryan Zimmerman.  "
+                 event="Caught Stealing 3B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="204020"
+                 pitch="2"/>
+         <atbat num="4" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="150324"
+                pitcher="458709"
+                des="Carlos Lee grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="Carlos Lee batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_191640" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="89.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_191659" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_191729" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_191740" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.4"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="5" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="119215"
+                des="Cristian Guzman grounds out, second baseman Kazuo Matsui to first baseman Lance Berkman.  "
+                des_es="Cristian Guzman batea rodado de out, segunda base Kazuo Matsui a primera base Lance Berkman.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_192009" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_192025" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="6" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="119215"
+                des="Nick Johnson walks.  "
+                des_es="Nick Johnson recibe base por bolas.  "
+                event="Walk"
+                b1="276376"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_192101" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192121" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_192143" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_192204" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192226" des="Ball" des_es="Bola mala" type="B" start_speed="79.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_192245" des="Foul" des_es="Foul" type="S" start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192308" des="Foul" des_es="Foul" type="S" start_speed="89.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192334" des="Ball" des_es="Bola mala" type="B" start_speed="80.1"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="7" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="475582"
+                pitcher="119215"
+                des="Ryan Zimmerman singles on a ground ball to center fielder Michael Bourn.   Nick Johnson to 2nd.  "
+                des_es="Ryan Zimmerman pega sencillo con rodado a jardinero central Michael Bourn.   Nick Johnson a 2da.  "
+                event="Single"
+                b1="475582"
+                b2="276376"
+                b3="">
+            <pitch sv_id="090504_192410" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_192429" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192448" des="Foul" des_es="Foul" type="S" start_speed="87.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192514" des="Foul" des_es="Foul" type="S" start_speed="82.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_192545" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="8" b="3" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="276055"
+                pitcher="119215"
+                des="Adam Dunn strikes out swinging.  "
+                des_es="Adam Dunn se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_192632" des="Ball" des_es="Bola mala" type="B" start_speed="80.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_192654" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192716" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192739" des="Foul" des_es="Foul" type="S" start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_192809" des="Foul" des_es="Foul" type="S" start_speed="88.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_192840" des="Ball" des_es="Bola mala" type="B" start_speed="88.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_192907" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="9" b="3" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="452668"
+                pitcher="119215"
+                des="Elijah Dukes called out on strikes.  "
+                des_es="Elijah Dukes se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_192944" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_193004" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193039" des="Ball" des_es="Bola mala" type="B" start_speed="81.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_193104" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_193130" des="Ball" des_es="Bola mala" type="B" start_speed="86.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_193158" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.0"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="10" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="123173"
+                pitcher="458709"
+                des="Miguel Tejada grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="Miguel Tejada batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_193418" des="Ball" des_es="Bola mala" type="B" start_speed="80.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_193434" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="11" b="4" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="452254"
+                pitcher="458709"
+                des="Hunter Pence walks.  "
+                des_es="Hunter Pence recibe base por bolas.  "
+                event="Walk"
+                b1="452254"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_193512" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193555" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_193611" des="Ball" des_es="Bola mala" type="B" start_speed="88.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193625" des="Ball" des_es="Bola mala" type="B" start_speed="82.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_193642" des="Ball" des_es="Bola mala" type="B" start_speed="87.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="12" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="433898"
+                pitcher="458709"
+                des="Jeff Keppinger grounds into a double play, shortstop Cristian Guzman to second baseman Anderson Hernandez to first baseman Nick Johnson.   Hunter Pence out at 2nd.  "
+                des_es="Jeff Keppinger batea rodado batea para doble matanza, campo corto Cristian Guzman a segunda base Anderson Hernandez a primera base Nick Johnson.   Hunter Pence a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_193715" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193736" des="Ball" des_es="Bola mala" type="B" start_speed="86.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193757" des="Ball" des_es="Bola mala" type="B" start_speed="87.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193827" des="Foul" des_es="Foul" type="S" start_speed="87.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_193857" des="Ball" des_es="Bola mala" type="B" start_speed="74.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_193917" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.4"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="13" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="400290"
+                pitcher="119215"
+                des="Austin Kearns singles on a ground ball to center fielder Michael Bourn.  "
+                des_es="Austin Kearns pega sencillo con rodado a jardinero central Michael Bourn.  "
+                event="Single"
+                b1="400290"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_194155" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.7"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="14" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="435520"
+                pitcher="119215"
+                des="Jesus Flores called out on strikes.  "
+                des_es="Jesus Flores se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_194243" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_194305" des="Ball" des_es="Bola mala" type="B" start_speed="86.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_194328" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="84.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_194352" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="15" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="435038"
+                pitcher="119215"
+                des="Anderson Hernandez singles on a ground ball to center fielder Michael Bourn.   Austin Kearns to 2nd.  "
+                des_es="Anderson Hernandez pega sencillo con rodado a jardinero central Michael Bourn.   Austin Kearns a 2da.  "
+                event="Single"
+                b1="435038"
+                b2="400290"
+                b3="">
+            <pitch sv_id="090504_194425" des="Foul" des_es="Foul" type="S" start_speed="87.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_194449" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_194512" des="Ball" des_es="Bola mala" type="B" start_speed="86.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_194535" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="77.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="16" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="458709"
+                pitcher="119215"
+                des="John Lannan strikes out on a missed bunt.  "
+                des_es="John Lannan se poncha con intento fallido de toque.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_194615" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_194634" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_194659" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="86.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_194731" des="Missed Bunt" des_es="Toque fallado" type="S"
+                   start_speed="77.3"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="17" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="119215"
+                des="Cristian Guzman flies out to right fielder Hunter Pence.  "
+                des_es="Cristian Guzman batea elevado de out a jardinero derecho Hunter Pence.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_194812" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.7"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="18" b="3" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="453525"
+                pitcher="458709"
+                des="J.  R.   Towles flies out to center fielder Elijah Dukes.  "
+                des_es="J.  R.   Towles batea elevado de out a jardinero central Elijah Dukes.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195040" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_195102" des="Ball" des_es="Bola mala" type="B" start_speed="84.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_195117" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_195130" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195144" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="19" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="119215"
+                pitcher="458709"
+                des="Brian Moehler flies out to center fielder Elijah Dukes.  "
+                des_es="Brian Moehler batea elevado de out a jardinero central Elijah Dukes.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195220" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195230" des="Foul" des_es="Foul" type="S" start_speed="86.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_195300" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.7"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="20" b="4" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="430565"
+                pitcher="458709"
+                des="Kazuo Matsui walks.  "
+                des_es="Kazuo Matsui recibe base por bolas.  "
+                event="Walk"
+                b1="430565"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195340" des="Ball" des_es="Bola mala" type="B" start_speed="79.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_195352" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195410" des="Ball" des_es="Bola mala" type="B" start_speed="87.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_195421" des="Ball" des_es="Bola mala" type="B" start_speed="85.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="21" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="456422"
+                pitcher="458709"
+                des="Michael Bourn flies out to center fielder Elijah Dukes.  "
+                des_es="Michael Bourn batea elevado de out a jardinero central Elijah Dukes.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195509" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_195529" des="Ball" des_es="Bola mala" type="B" start_speed="72.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_195552" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.2"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="22" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="119215"
+                des="Nick Johnson flies out to right fielder Hunter Pence.  "
+                des_es="Nick Johnson batea elevado de out a jardinero derecho Hunter Pence.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195821" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195837" des="Foul" des_es="Foul" type="S" start_speed="86.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195903" des="Ball" des_es="Bola mala" type="B" start_speed="84.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_195921" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="23" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="475582"
+                pitcher="119215"
+                des="Ryan Zimmerman singles on a ground ball to left fielder Carlos Lee.  "
+                des_es="Ryan Zimmerman pega sencillo con rodado a jardinero izquierdo Carlos Lee.  "
+                event="Single"
+                b1="475582"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_195959" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_200023" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="24" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="276055"
+                pitcher="119215"
+                des="Adam Dunn flies out to right fielder Hunter Pence.  "
+                des_es="Adam Dunn batea elevado de out a jardinero derecho Hunter Pence.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_200113" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_200135" des="Foul" des_es="Foul" type="S" start_speed="88.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_200206" des="Ball" des_es="Bola mala" type="B" start_speed="86.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_200228" des="Foul" des_es="Foul" type="S" start_speed="80.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_200303" des="Foul" des_es="Foul" type="S" start_speed="88.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_200331" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="25" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="452668"
+                pitcher="119215"
+                des="Elijah Dukes strikes out swinging.  "
+                des_es="Elijah Dukes se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_200428" des="Foul" des_es="Foul" type="S" start_speed="83.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_200451" des="Ball" des_es="Bola mala" type="B" start_speed="88.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_200510" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_200534" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="83.7"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="26" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="204020"
+                pitcher="458709"
+                des="Lance Berkman grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="Lance Berkman batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_200754" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.1"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="27" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150324"
+                pitcher="458709"
+                des="Carlos Lee doubles (7) on a fly ball to center fielder Elijah Dukes.  "
+                des_es="Carlos Lee pega doble (7) con elevado a jardinero central Elijah Dukes.  "
+                event="Double"
+                b1=""
+                b2="150324"
+                b3="">
+            <pitch sv_id="090504_200830" des="Ball" des_es="Bola mala" type="B" start_speed="86.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_200846" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_200856" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="28" b="2" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="123173"
+                pitcher="458709"
+                des="Miguel Tejada grounds out, third baseman Ryan Zimmerman to first baseman Nick Johnson.  "
+                des_es="Miguel Tejada batea rodado de out, tercera base Ryan Zimmerman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_200944" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_201003" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201024" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="29" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="452254"
+                pitcher="458709"
+                des="Hunter Pence grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="Hunter Pence batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_201101" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="71.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_201120" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="74.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_201143" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.9"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="30" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="400290"
+                pitcher="119215"
+                des="Austin Kearns grounds out, third baseman Jeff Keppinger to first baseman Lance Berkman.  "
+                des_es="Austin Kearns batea rodado de out, tercera base Jeff Keppinger a primera base Lance Berkman.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_201411" des="Ball" des_es="Bola mala" type="B" start_speed="84.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_201425" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.1"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="31" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="435520"
+                pitcher="119215"
+                des="Jesus Flores doubles (3) on a line drive to center fielder Michael Bourn.  "
+                des_es="Jesus Flores pega doble (3) con l&#237;nea a jardinero central Michael Bourn.  "
+                event="Double"
+                b1=""
+                b2="435520"
+                b3="">
+            <pitch sv_id="090504_201507" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.9"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="32" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="435038"
+                pitcher="119215"
+                des="Anderson Hernandez grounds out, third baseman Jeff Keppinger to first baseman Lance Berkman.   Jesus Flores to 3rd.  "
+                des_es="Anderson Hernandez batea rodado de out a primera base Lance Berkman en jugada de infield fly.   Jesus Flores a 3ra.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="435520">
+            <pitch sv_id="090504_201602" des="Ball" des_es="Bola mala" type="B" start_speed="86.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201625" des="Foul" des_es="Foul" type="S" start_speed="86.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201651" des="Ball" des_es="Bola mala" type="B" start_speed="86.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201719" des="Foul" des_es="Foul" type="S" start_speed="86.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201754" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="33" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="458709"
+                pitcher="119215"
+                des="John Lannan grounds out, catcher J.  R.   Towles to first baseman Lance Berkman.  "
+                des_es="John Lannan batea rodado de out, receptor J.  R.   Towles a primera base Lance Berkman.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_201842" des="Ball" des_es="Bola mala" type="B" start_speed="76.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_201900" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201918" des="Ball" des_es="Bola mala" type="B" start_speed="87.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_201936" des="Foul" des_es="Foul" type="S" start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202003" des="Foul" des_es="Foul" type="S" start_speed="88.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202029" des="Foul" des_es="Foul" type="S" start_speed="88.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202058" des="Foul" des_es="Foul" type="S" start_speed="88.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_202123" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.5"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="34" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="433898"
+                pitcher="458709"
+                des="Jeff Keppinger singles on a fly ball to center fielder Elijah Dukes.  "
+                des_es="Jeff Keppinger pega sencillo con elevado a jardinero central Elijah Dukes.  "
+                event="Single"
+                b1="433898"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_202353" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="35" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="453525"
+                pitcher="458709"
+                des="J.  R.   Towles singles on a line drive to left fielder Adam Dunn.   Jeff Keppinger to 2nd.  "
+                des_es="J.  R.   Towles pega sencillo con l&#237;nea a jardinero izquierdo Adam Dunn.   Jeff Keppinger a 2da.  "
+                event="Single"
+                b1="453525"
+                b2="433898"
+                b3="">
+            <pitch sv_id="090504_202437" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_202457" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_202540" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="80.6"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="36" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="119215"
+                pitcher="458709"
+                des="Brian Moehler out on a sacrifice bunt, catcher Jesus Flores to second baseman Anderson Hernandez.   Jeff Keppinger to 3rd.  R.   Towles to 2nd.  "
+                des_es="Brian Moehler out en toque de sacrificio, receptor Jesus Flores a segunda base Anderson Hernandez.   Jeff Keppinger a 3ra.  R.   Towles a 2da.  "
+                event="Sac Bunt"
+                b1=""
+                b2="453525"
+                b3="433898">
+            <pitch sv_id="090504_202625" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="37" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="430565"
+                pitcher="458709"
+                des="Kazuo Matsui doubles (3) on a ground ball to left fielder Adam Dunn.   Jeff Keppinger scores.  R.   Towles scores.  "
+                des_es="Kazuo Matsui pega doble (3) con rodado a jardinero izquierdo Adam Dunn.   Jeff Keppinger anota  J.  R.   Towles anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2="430565"
+                b3=""
+                rbi="2">
+            <pitch sv_id="090504_202710" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202731" des="Ball" des_es="Bola mala" type="B" start_speed="71.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_202753" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202815" des="Foul" des_es="Foul" type="S" start_speed="86.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_202839" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="71.7"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="38" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="456422"
+                pitcher="458709"
+                des="Michael Bourn doubles (4) on a line drive to center fielder Elijah Dukes.   Kazuo Matsui scores.  Michael Bourn out at 3rd, center fielder Elijah Dukes to second baseman Anderson Hernandez to third baseman Ryan Zimmerman.  "
+                des_es="Michael Bourn pega doble (4) con l&#237;nea a jardinero central Elijah Dukes.   Kazuo Matsui anota .  Michael Bourn out en 3ra, jardinero central Elijah Dukes a segunda base Anderson Hernandez a tercera base Ryan Zimmerman.  "
+                event="Double"
+                event2="Runner Out"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="4"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090504_202921" des="Ball" des_es="Bola mala" type="B" start_speed="85.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_202938" des="Foul" des_es="Foul" type="S" start_speed="84.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_203003" des="Ball" des_es="Bola mala" type="B" start_speed="85.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_203018" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="84.5"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="39" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="204020"
+                pitcher="458709"
+                des="Lance Berkman singles on a line drive to left fielder Adam Dunn.  "
+                des_es="Lance Berkman pega sencillo con l&#237;nea a jardinero izquierdo Adam Dunn.  "
+                event="Single"
+                b1="204020"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_203111" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_203122" des="Foul" des_es="Foul" type="S" start_speed="80.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_203139" des="Ball" des_es="Bola mala" type="B" start_speed="86.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_203202" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_203215" des="Foul" des_es="Foul" type="S" start_speed="71.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_203237" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="40" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="150324"
+                pitcher="458709"
+                des="Carlos Lee singles on a ground ball to third baseman Ryan Zimmerman.   Lance Berkman to 2nd.  "
+                des_es="Carlos Lee pega sencillo con rodado a tercera base Ryan Zimmerman.   Lance Berkman a 2da.  "
+                event="Single"
+                b1="150324"
+                b2="204020"
+                b3="">
+            <pitch sv_id="090504_203313" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_203326" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="71.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_203349" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="71.9"
+                   pitch_type="CU"/>
+         </atbat>
+         <action b="0" s="0" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="123173"
+                 pitch="0"/>
+         <atbat num="41" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="123173"
+                pitcher="458709"
+                des="Miguel Tejada lines out to center fielder Elijah Dukes.  "
+                des_es="Miguel Tejada batea l&#237;nea de out a jardinero central Elijah Dukes.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_203524" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_203542" des="Foul" des_es="Foul" type="S" start_speed="87.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_203609" des="Ball" des_es="Bola mala" type="B" start_speed="88.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_203630" des="Ball" des_es="Bola mala" type="B" start_speed="81.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_203651" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.4"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="42" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="119215"
+                des="Cristian Guzman grounds out, second baseman Kazuo Matsui to first baseman Lance Berkman.  "
+                des_es="Cristian Guzman batea rodado de out, segunda base Kazuo Matsui a primera base Lance Berkman.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_203918" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="43" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="119215"
+                des="Nick Johnson flies out to center fielder Michael Bourn.  "
+                des_es="Nick Johnson batea elevado de out a jardinero central Michael Bourn.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_203954" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_204010" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="44" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="475582"
+                pitcher="119215"
+                des="Ryan Zimmerman doubles (10) on a sharp line drive to left fielder Carlos Lee.  "
+                des_es="Ryan Zimmerman pega doble (10) con l&#237;nea fuerte a jardinero izquierdo Carlos Lee.  "
+                event="Double"
+                b1=""
+                b2="475582"
+                b3="">
+            <pitch sv_id="090504_204054" des="Foul" des_es="Foul" type="S" start_speed="84.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_204121" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="45" b="4" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="276055"
+                pitcher="119215"
+                des="Adam Dunn walks.  "
+                des_es="Adam Dunn recibe base por bolas.  "
+                event="Walk"
+                b1="276055"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_204224" des="Ball" des_es="Bola mala" type="B" start_speed="80.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_204246" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_204309" des="Foul" des_es="Foul" type="S" start_speed="87.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_204408" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_204439" des="Foul" des_es="Foul" type="S" start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_204512" des="Foul" des_es="Foul" type="S" start_speed="87.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_204604" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_204631" des="Foul" des_es="Foul" type="S" start_speed="87.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_204701" des="Ball" des_es="Bola mala" type="B" start_speed="78.6"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="46" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="452668"
+                pitcher="119215"
+                des="Elijah Dukes singles on a soft line drive to left fielder Carlos Lee.   Ryan Zimmerman scores.    Adam Dunn to 2nd.  "
+                des_es="Elijah Dukes pega sencillo con l&#237;nea suave a jardinero izquierdo Carlos Lee.   Ryan Zimmerman anota  Adam Dunn a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="4"
+                b1="452668"
+                b2="276055"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090504_204801" des="Foul" des_es="Foul" type="S" start_speed="85.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_204829" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="84.0"
+                   pitch_type="FC"/>
+         </atbat>
+         <action b="0" s="0" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="400290"
+                 pitch="0"/>
+         <atbat num="47" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="400290"
+                pitcher="119215"
+                des="Austin Kearns singles on a line drive to right fielder Hunter Pence.   Adam Dunn scores.    Elijah Dukes to 3rd.  "
+                des_es="Austin Kearns pega sencillo con l&#237;nea a jardinero derecho Hunter Pence.   Adam Dunn anota  Elijah Dukes a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="2"
+                away_team_runs="4"
+                b1="400290"
+                b2=""
+                b3="452668"
+                rbi="1">
+            <pitch sv_id="090504_205010" des="Foul" des_es="Foul" type="S" start_speed="86.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_205038" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="87.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="48" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="435520"
+                pitcher="119215"
+                des="Jesus Flores flies out to center fielder Michael Bourn.  "
+                des_es="Jesus Flores batea elevado de out a jardinero central Michael Bourn.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_205143" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_205203" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.7"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="49" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="452254"
+                pitcher="458709"
+                des="Hunter Pence grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="Hunter Pence batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_205438" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="50" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="433898"
+                pitcher="458709"
+                des="Jeff Keppinger grounds out, third baseman Ryan Zimmerman to first baseman Nick Johnson.  "
+                des_es="Jeff Keppinger batea rodado de out, tercera base Ryan Zimmerman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_205513" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_205528" des="Ball" des_es="Bola mala" type="B" start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_205541" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_205555" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="51" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="453525"
+                pitcher="458709"
+                des="J.  R.   Towles grounds out, shortstop Cristian Guzman to first baseman Nick Johnson.  "
+                des_es="J.  R.   Towles batea rodado de out, campo corto Cristian Guzman a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_205629" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_205641" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_205653" des="Ball" des_es="Bola mala" type="B" start_speed="74.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_205712" des="Ball" des_es="Bola mala" type="B" start_speed="86.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_205729" des="Ball" des_es="Bola mala" type="B" start_speed="81.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_205746" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.9"
+                   pitch_type="FT"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Wesley Wright replaces Brian Moehler, batting 9th.  "
+                 des_es="Cambio de Lanzador: Wesley Wright reemplaza a Brian Moehler, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="449079"
+                 pitch="6"/>
+         <atbat num="52" b="4" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="435038"
+                pitcher="449079"
+                des="Anderson Hernandez walks.  "
+                des_es="Anderson Hernandez recibe base por bolas.  "
+                event="Walk"
+                b1="435038"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_210035" des="Ball" des_es="Bola mala" type="B" start_speed="88.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210101" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210118" des="Ball" des_es="Bola mala" type="B" start_speed="88.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210136" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210152" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="0"
+                 des="Offensive Substitution: Pinch-hitter Ronnie Belliard replaces John Lannan.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Ronnie Belliard reemplaza a John Lannan.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150071"
+                 pitch="5"/>
+         <atbat num="53" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="150071"
+                pitcher="449079"
+                des="Ronnie Belliard flies out to left fielder Carlos Lee.  "
+                des_es="Ronnie Belliard batea elevado de out a jardinero izquierdo Carlos Lee.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_210237" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="76.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="090504_210257" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.2"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="54" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="449079"
+                des="Cristian Guzman singles on a ground ball to right fielder Hunter Pence.   Anderson Hernandez to 2nd.  "
+                des_es="Cristian Guzman pega sencillo con rodado a jardinero derecho Hunter Pence.   Anderson Hernandez a 2da.  "
+                event="Single"
+                b1="150217"
+                b2="435038"
+                b3="">
+            <pitch sv_id="090504_210351" des="Ball" des_es="Bola mala" type="B" start_speed="81.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="090504_210415" des="Foul" des_es="Foul" type="S" start_speed="89.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210515" des="Ball" des_es="Bola mala" type="B" start_speed="83.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_210541" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210621" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210649" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="3" s="2" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="276376"
+                 pitch="6"/>
+         <atbat num="55" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="449079"
+                des="Nick Johnson walks.   Anderson Hernandez to 3rd.    Cristian Guzman to 2nd.  "
+                des_es="Nick Johnson recibe base por bolas.   Anderson Hernandez a 3ra.    Cristian Guzman a 2da.  "
+                event="Walk"
+                b1="276376"
+                b2="150217"
+                b3="435038">
+            <pitch sv_id="090504_210806" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210828" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_210853" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_210918" des="Foul" des_es="Foul" type="S" start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211011" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211037" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="4" s="2" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="475582"
+                 pitch="6"/>
+         <action b="0" s="0" o="1"
+                 des="Pitching Change: Felipe Paulino replaces Wesley Wright, batting 7th.  "
+                 des_es="Cambio de Lanzador: Felipe Paulino reemplaza a Wesley Wright, bateando s&#233;ptimo.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="462956"
+                 pitch="6"/>
+         <action b="0" s="0" o="1"
+                 des="Defensive Substitution: Geoff Blum replaces pitcher Wesley Wright, batting 9th, playing third base.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Geoff Blum reemplaza a lanzador Wesley Wright, como noveno bate y jugando en el tercera base.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150398"
+                 pitch="6"/>
+         <atbat num="56" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="475582"
+                pitcher="462956"
+                des="Ryan Zimmerman walks.   Anderson Hernandez scores.    Cristian Guzman to 3rd.    Nick Johnson to 2nd.  "
+                des_es="Ryan Zimmerman recibe base por bolas.   Anderson Hernandez anota  Cristian Guzman a 3ra.    Nick Johnson a 2da.  "
+                event="Walk"
+                score="T"
+                home_team_runs="3"
+                away_team_runs="4"
+                b1="475582"
+                b2="276376"
+                b3="150217"
+                rbi="1">
+            <pitch sv_id="090504_211321" des="Ball" des_es="Bola mala" type="B" start_speed="94.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211345" des="Foul" des_es="Foul" type="S" start_speed="93.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211434" des="Ball" des_es="Bola mala" type="B" start_speed="94.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211529" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_211558" des="Ball" des_es="Bola mala" type="B" start_speed="85.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_211629" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="57" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="276055"
+                pitcher="462956"
+                des="Adam Dunn singles on a line drive to right fielder Hunter Pence.   Cristian Guzman scores.    Nick Johnson scores.    Ryan Zimmerman to 3rd.  "
+                des_es="Adam Dunn pega sencillo con l&#237;nea a jardinero derecho Hunter Pence.   Cristian Guzman anota  Nick Johnson anota  Ryan Zimmerman a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="5"
+                away_team_runs="4"
+                b1="276055"
+                b2=""
+                b3="475582"
+                rbi="2">
+            <pitch sv_id="090504_211710" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211731" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_211756" des="Ball" des_es="Bola mala" type="B" start_speed="95.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211817" des="Ball" des_es="Bola mala" type="B" start_speed="95.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_211857" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="74.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <action b="2" s="2" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="452668"
+                 pitch="5"/>
+         <atbat num="58" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="452668"
+                pitcher="462956"
+                des="Elijah Dukes singles on a ground ball to center fielder Michael Bourn.   Ryan Zimmerman scores.    Adam Dunn to 2nd.  "
+                des_es="Elijah Dukes pega sencillo con rodado a jardinero central Michael Bourn.   Ryan Zimmerman anota  Adam Dunn a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="6"
+                away_team_runs="4"
+                b1="452668"
+                b2="276055"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090504_212024" des="Ball" des_es="Bola mala" type="B" start_speed="84.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_212040" des="Ball" des_es="Bola mala" type="B" start_speed="84.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_212100" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="95.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="59" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="400290"
+                pitcher="462956"
+                des="Austin Kearns hit by pitch.    Adam Dunn to 3rd.    Elijah Dukes to 2nd.  "
+                des_es="Austin Kearns golpeado por lanzamiento.   Adam Dunn a 3ra.    Elijah Dukes a 2da.  "
+                event="Hit By Pitch"
+                b1="400290"
+                b2="452668"
+                b3="276055">
+            <pitch sv_id="090504_212200" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_212221" des="Ball" des_es="Bola mala" type="B" start_speed="94.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_212242" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="94.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="60" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="435520"
+                pitcher="462956"
+                des="Jesus Flores pops out to second baseman Kazuo Matsui.  "
+                des_es="Jesus Flores batea elevadito de out a segunda base Kazuo Matsui.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_212330" des="Ball" des_es="Bola mala" type="B" start_speed="85.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_212353" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="61" b="4" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="435038"
+                pitcher="462956"
+                des="Anderson Hernandez walks.   Adam Dunn scores.    Elijah Dukes to 3rd.    Austin Kearns to 2nd.  "
+                des_es="Anderson Hernandez recibe base por bolas.   Adam Dunn anota  Elijah Dukes a 3ra.    Austin Kearns a 2da.  "
+                event="Walk"
+                score="T"
+                home_team_runs="7"
+                away_team_runs="4"
+                b1="435038"
+                b2="400290"
+                b3="452668"
+                rbi="1">
+            <pitch sv_id="090504_212441" des="Ball" des_es="Bola mala" type="B" start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_212512" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_212529" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_212550" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="4" s="0" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150071"
+                 pitch="4"/>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: Jeff Fulchino replaces Felipe Paulino, batting 7th.  "
+                 des_es="Cambio de Lanzador: Jeff Fulchino reemplaza a Felipe Paulino, bateando s&#233;ptimo.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="445246"
+                 pitch="4"/>
+         <atbat num="62" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="150071"
+                pitcher="445246"
+                des="Ronnie Belliard flies out to center fielder Michael Bourn.  "
+                des_es="Ronnie Belliard batea elevado de out a jardinero central Michael Bourn.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_212844" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.9"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Joel Hanrahan replaces John Lannan, batting 9th, replacing  Ronnie Belliard.  "
+                 des_es="Cambio de lanzador: Joel Hanrahan reemplaza a John Lannan, como noveno bate, en lugar de  Ronnie Belliard.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="430629"
+                 pitch="1"/>
+         <atbat num="63" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="150398"
+                pitcher="430629"
+                des="Geoff Blum pops out to shortstop Cristian Guzman.  "
+                des_es="Geoff Blum batea elevadito de out a campo corto Cristian Guzman.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_213127" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213141" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_213159" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_213222" des="Ball" des_es="Bola mala" type="B" start_speed="82.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_213239" des="Foul" des_es="Foul" type="S" start_speed="92.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213300" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="64" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="430565"
+                pitcher="430629"
+                des="Kazuo Matsui strikes out swinging.  "
+                des_es="Kazuo Matsui se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_213343" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213356" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213411" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_213429" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="65" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="456422"
+                pitcher="430629"
+                des="Michael Bourn grounds out, second baseman Anderson Hernandez to first baseman Nick Johnson.  "
+                des_es="Michael Bourn batea rodado de out, segunda base Anderson Hernandez a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_213506" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213520" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_213536" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="66" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="445246"
+                des="Cristian Guzman singles on a ground ball to center fielder Michael Bourn.  "
+                des_es="Cristian Guzman pega sencillo con rodado a jardinero central Michael Bourn.  "
+                event="Single"
+                b1="150217"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_213753" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_213807" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="67" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="445246"
+                des="Nick Johnson lines out to shortstop Miguel Tejada.  "
+                des_es="Nick Johnson batea l&#237;nea de out a campo corto Miguel Tejada.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_213848" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_213911" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="68" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="475582"
+                pitcher="445246"
+                des="Ryan Zimmerman doubles (11) on a line drive to right fielder Hunter Pence.   Cristian Guzman scores.  "
+                des_es="Ryan Zimmerman pega doble (11) con l&#237;nea a jardinero derecho Hunter Pence.   Cristian Guzman anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="4"
+                b1=""
+                b2="475582"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090504_214012" des="Foul" des_es="Foul" type="S" start_speed="86.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214045" des="Ball" des_es="Bola mala" type="B" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214107" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214131" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214200" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="93.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="69" b="4" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="276055"
+                pitcher="445246"
+                des="Jeff Fulchino intentionally walks Adam Dunn.  "
+                des_es="Jeff Fulchino recibe base por bolas intencional Adam Dunn.  "
+                event="Intent Walk"
+                b1="276055"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_214249" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="66.4"
+                   pitch_type="IN"/>
+            <pitch sv_id="090504_214257" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="67.7"
+                   pitch_type="IN"/>
+            <pitch sv_id="090504_214307" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="66.2"
+                   pitch_type="IN"/>
+            <pitch sv_id="090504_214317" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="67.1"
+                   pitch_type="IN"/>
+         </atbat>
+         <atbat num="70" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="452668"
+                pitcher="445246"
+                des="Elijah Dukes singles on a ground ball to center fielder Michael Bourn.   Ryan Zimmerman scores.    Adam Dunn to 2nd.  "
+                des_es="Elijah Dukes pega sencillo con rodado a jardinero central Michael Bourn.   Ryan Zimmerman anota  Adam Dunn a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="9"
+                away_team_runs="4"
+                b1="452668"
+                b2="276055"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090504_214351" des="Foul" des_es="Foul" type="S" start_speed="93.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214428" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214448" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="83.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="71" b="3" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="400290"
+                pitcher="445246"
+                des="Austin Kearns strikes out swinging.  "
+                des_es="Austin Kearns se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_214546" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214608" des="Foul" des_es="Foul" type="S" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214640" des="Foul" des_es="Foul" type="S" start_speed="83.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214710" des="Ball" des_es="Bola mala" type="B" start_speed="94.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214732" des="Ball" des_es="Bola mala" type="B" start_speed="83.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214754" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214819" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="72" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435520"
+                pitcher="445246"
+                des="Jesus Flores strikes out on a foul tip.  "
+                des_es="Jesus Flores se poncha con foul tip.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_214905" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_214927" des="Ball" des_es="Bola mala" type="B" start_speed="86.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_214951" des="Foul" des_es="Foul" type="S" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215029" des="Foul" des_es="Foul" type="S" start_speed="94.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_215058" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="94.7"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Garrett Mock replaces Joel Hanrahan, batting 4th, replacing left fielder Adam Dunn.  "
+                 des_es="Cambio de Lanzador: Garrett Mock reemplaza a Joel Hanrahan, como cuarto bate, en lugar de jardinero izquierdo Adam Dunn.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="452241"
+                 pitch="5"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Willie Harris replaces pitcher Joel Hanrahan, batting 9th, playing left field.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Willie Harris reemplaza a lanzador Joel Hanrahan, como noveno bate y jugando en el jardinero izquierdo.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407483"
+                 pitch="5"/>
+         <atbat num="73" b="3" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="204020"
+                pitcher="452241"
+                des="Lance Berkman flies out to center fielder Elijah Dukes.  "
+                des_es="Lance Berkman batea elevado de out a jardinero central Elijah Dukes.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_215411" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215424" des="Ball" des_es="Bola mala" type="B" start_speed="91.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215440" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215504" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215520" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="74" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150324"
+                pitcher="452241"
+                des="Carlos Lee singles on a ground ball to center fielder Elijah Dukes.  "
+                des_es="Carlos Lee pega sencillo con rodado a jardinero central Elijah Dukes.  "
+                event="Single"
+                b1="150324"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_215557" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="75" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="123173"
+                pitcher="452241"
+                des="Miguel Tejada pops out to first baseman Nick Johnson in foul territory.  "
+                des_es="Miguel Tejada batea elevadito de out a primera base Nick Johnson en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_215644" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215705" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215728" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_215749" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_215810" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="76" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="452254"
+                pitcher="452241"
+                des="Hunter Pence pops out to first baseman Nick Johnson in foul territory.  "
+                des_es="Hunter Pence batea elevadito de out a primera base Nick Johnson en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_215854" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_215912" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.1"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="77" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="435038"
+                pitcher="445246"
+                des="Anderson Hernandez singles on a line drive to left fielder Carlos Lee.  "
+                des_es="Anderson Hernandez pega sencillo con l&#237;nea a jardinero izquierdo Carlos Lee.  "
+                event="Single"
+                b1="435038"
+                b2=""
+                b3="">
+            <pitch sv_id="090504_220143" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220157" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220212" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="86.3"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="78" b="4" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="407483"
+                pitcher="445246"
+                des="Willie Harris walks.   Anderson Hernandez to 2nd.  "
+                des_es="Willie Harris recibe base por bolas.   Anderson Hernandez a 2da.  "
+                event="Walk"
+                b1="407483"
+                b2="435038"
+                b3="">
+            <pitch sv_id="090504_220250" des="Ball" des_es="Bola mala" type="B" start_speed="92.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220307" des="Ball" des_es="Bola mala" type="B" start_speed="93.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_220325" des="Ball" des_es="Bola mala" type="B" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220346" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220403" des="Ball" des_es="Bola mala" type="B" start_speed="92.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="0" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150217"
+                 pitch="0"/>
+         <atbat num="79" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="150217"
+                pitcher="445246"
+                des="Cristian Guzman grounds into a double play, pitcher Jeff Fulchino to shortstop Miguel Tejada to first baseman Lance Berkman.   Anderson Hernandez to 3rd.    Willie Harris out at 2nd.  "
+                des_es="Cristian Guzman batea rodado batea para doble matanza, lanzador Jeff Fulchino a campo corto Miguel Tejada a primera base Lance Berkman.   Anderson Hernandez a 3ra.    Willie Harris a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="435038">
+            <pitch sv_id="090504_220441" des="Ball" des_es="Bola mala" type="B" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220532" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220552" des="Foul" des_es="Foul" type="S" start_speed="85.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_220620" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="80" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="276376"
+                pitcher="445246"
+                des="Nick Johnson called out on strikes.  "
+                des_es="Nick Johnson se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_220701" des="Foul" des_es="Foul" type="S" start_speed="94.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_220725" des="Ball" des_es="Bola mala" type="B" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220745" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_220808" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_220830" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.9"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Offensive Substitution: Pinch-hitter Darin Erstad replaces Jeff Fulchino.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Darin Erstad reemplaza a Jeff Fulchino.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="113889"
+                 pitch="5"/>
+         <atbat num="81" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="113889"
+                pitcher="452241"
+                des="Darin Erstad grounds out to first baseman Nick Johnson.  "
+                des_es="Darin Erstad batea rodado de out a primera base Nick Johnson.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_221147" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_221201" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="82" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="453525"
+                pitcher="452241"
+                des="J.  R.   Towles called out on strikes.  "
+                des_es="J.  R.   Towles se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_221234" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_221249" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090504_221302" des="Foul" des_es="Foul" type="S" start_speed="91.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090504_221324" des="Foul" des_es="Foul" type="S" start_speed="90.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090504_221344" des="Ball" des_es="Bola mala" type="B" start_speed="75.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090504_221402" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="83" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="150398"
+                pitcher="452241"
+                des="Geoff Blum pops out to third baseman Ryan Zimmerman.  "
+                des_es="Geoff Blum batea elevadito de out a tercera base Ryan Zimmerman.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090504_221432" des="Foul" des_es="Foul" type="S" start_speed="92.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090504_221451" des="Ball" des_es="Bola mala" type="B" start_speed="79.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090504_221509" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.8"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="150398"/>
+   <deck pid="430565"/>
+   <hole pid="456422"/>
+</game>

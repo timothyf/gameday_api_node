@@ -1,0 +1,62 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_tbamlb_nyamlb_1" status_ind="F"  status="Final" inning="10" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="4" ah="9" ae="0" hr="3" hh="9" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="425686" team_abbrev="NYY" team_id="147" parent_team_abbrev="NYY" parent_team_id="147" current_position="DH" stand="L" b_height="6-2" ab="5" h="2" avg=".289" boxname="Matsui">
+			<ab inning="10" event="Flyout"/>
+			<ab inning="8" event="Strikeout"/>
+			<ab inning="7" event="Groundout"/>
+			<ab inning="4" event="Double"/>
+			<ab inning="2" event="Single"/>
+		</batter>
+		<pitcher pid="120401" p_throws="R" pitches="18" strikes="11" balls="7" era="2.08" boxname="Percival"/>
+		<deck pid="429664" boxname="Cano"/>
+		<hole pid="458731" boxname="Gardner, B"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="83" des="Hideki Matsui flies out to left fielder Carl Crawford.  " des_es="Hideki Matsui batea elevado de out a jardinero izquierdo Carl Crawford.  " event="Left On Base" player="425686">
+		<p type="B" id="699" x="138.20" y="123.47" des="Ball" des_es="Bola mala" sv_id="090506_231728" start_speed="91.2" end_speed="82.7" sz_top="3.43" sz_bot="1.64" pfx_x="-9.761" pfx_z="10.546" px="-1.282" pz="3.356" x0="-1.625" y0="50.0" z0="6.234" vx0="4.208" vy0="-133.545" vz0="-4.982" ax="-17.337" ay="33.182" az="-13.369" break_y="23.7" break_angle="48.2" break_length="5.0" pitch_type="FT" type_confidence=".987" zone="11" spin_dir="222.673" spin_rate="2778.624"  cc=""/>		<p type="S" id="700" x="127.04" y="138.15" des="Foul" des_es="Foul" sv_id="090506_231755" start_speed="90.6" end_speed="82.2" sz_top="3.43" sz_bot="1.64" pfx_x="-5.528" pfx_z="11.402" px="-0.914" pz="2.759" x0="-1.597" y0="50.0" z0="6.018" vx0="3.64" vy0="-132.633" vz0="-6.149" ax="-9.69" ay="32.585" az="-12.113" break_y="23.7" break_angle="32.9" break_length="3.8" pitch_type="FF" type_confidence=".915" zone="11" spin_dir="205.780" spin_rate="2436.914"  cc=""/>		<p type="X" id="701" x="113.30" y="116.57" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090506_231840" start_speed="91.1" end_speed="81.2" sz_top="3.43" sz_bot="1.64" pfx_x="-6.505" pfx_z="12.283" px="-0.45" pz="3.781" x0="-1.697" y0="50.0" z0="6.147" vx0="5.42" vy0="-133.441" vz0="-4.081" ax="-11.328" ay="37.835" az="-10.708" break_y="23.6" break_angle="39.6" break_length="3.6" pitch_type="FF" type_confidence=".912" zone="11" spin_dir="207.820" spin_rate="2638.834"  cc=""/>		<runner id="113028" start="3B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="home" id="nya">
+			<man bnum="3" pid="113028" boxname="Damon" note="Double" sb="3" cs="0"/>
+		</offense>
+		<defense type="away" id="tba">
+			<man pid="120401" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" p_sb="3" p_cs="1" pos="p"/>
+			<man pid="425900" s_po="141" s_ass="11" s_err="1" s_fldg=".993" c_sb="17" c_cs="5" pos="c"/>
+			<man pid="150289" s_po="228" s_ass="23" s_err="5" s_fldg=".980" pos="1b"/>
+			<man pid="493127" s_po="50" s_ass="64" s_err="4" s_fldg=".966" pos="2b"/>
+			<man pid="430583" s_po="37" s_ass="69" s_err="2" s_fldg=".981" pos="ss"/>
+			<man pid="446334" s_po="21" s_ass="62" s_err="2" s_fldg=".976" pos="3b"/>
+			<man pid="408307" s_po="66" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="425834" s_po="48" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="450314" s_po="31" s_ass="16" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="F" x="58.23" y="105.42" batter="425686" pitcher="120401"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="457435" index="4">
+			<man pid="116539"/>
+			<man pid="113028"/>
+			<man pid="407893"/>
+			<man pid="425686"/>
+			<man pid="429664"/>
+			<man pid="458731"/>
+			<man pid="466320"/>
+			<man pid="455369"/>
+			<man pid="150040"/>
+		</team>
+		<team type="away" pitcher="120401" index="8">
+			<man pid="425834"/>
+			<man pid="408307"/>
+			<man pid="446334"/>
+			<man pid="150289"/>
+			<man pid="150100"/>
+			<man pid="450314"/>
+			<man pid="430583"/>
+			<man pid="493127"/>
+			<man pid="425900"/>
+		</team>
+	</lineup>
+	<weather temp="61" condition="Cloudy" wind="8mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

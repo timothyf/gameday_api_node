@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_milmlb_pitmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="8" ah="7" ae="0" hr="5" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="425560" team_abbrev="PIT" team_id="134" parent_team_abbrev="PIT" parent_team_id="134" current_position="1B" stand="L" b_height="6-3" ab="5" h="0" avg=".250" boxname="LaRoche">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Flyout"/>
+			<ab inning="5" event="Flyout"/>
+			<ab inning="3" event="Strikeout"/>
+			<ab inning="1" event="Groundout"/>
+		</batter>
+		<pitcher pid="453646" p_throws="R" pitches="14" strikes="9" balls="5" era="6.75" boxname="Villanueva, Ca"/>
+		<deck pid="461235" boxname="Moss"/>
+		<hole pid="451188" boxname="LaRoche"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="84" des="Adam LaRoche grounds out, first baseman Prince Fielder to pitcher Carlos Villanueva.  " des_es="Adam LaRoche batea rodado de out, primera base Prince Fielder a lanzador Carlos Villanueva.  " event="null" player="425560">
+		<p type="S" id="729" x="92.70" y="123.47" des="Foul" des_es="Foul" sv_id="090505_224707" start_speed="89.6" end_speed="82.2" sz_top="3.88" sz_bot="1.72" pfx_x="-0.194" pfx_z="11.038" px="0.191" pz="3.349" x0="-0.795" y0="50.0" z0="6.693" vx0="2.613" vy0="-131.257" vz0="-6.145" ax="-0.337" ay="29.092" az="-12.941" break_y="23.8" break_angle="-.9" break_length="3.3" pitch_type="FF" type_confidence="2.000" zone="2" spin_dir="181.002" spin_rate="2126.148"  cc=""/>		<p type="B" id="730" x="78.11" y="113.98" des="Ball" des_es="Bola mala" sv_id="090505_224739" start_speed="90.0" end_speed="82.6" sz_top="3.88" sz_bot="1.72" pfx_x="0.023" pfx_z="11.685" px="0.605" pz="3.912" x0="-0.874" y0="50.0" z0="6.79" vx0="3.836" vy0="-131.894" vz0="-5.252" ax="0.041" ay="29.044" az="-11.595" break_y="23.8" break_angle="-3.9" break_length="3.0" pitch_type="FF" type_confidence="2.000" zone="12" spin_dir="179.888" spin_rate="2263.614"  cc=""/>		<p type="B" id="731" x="59.23" y="158.88" des="Ball" des_es="Bola mala" sv_id="090505_224758" start_speed="90.2" end_speed="83.1" sz_top="3.65" sz_bot="1.72" pfx_x="-0.695" pfx_z="11.937" px="1.152" pz="2.007" x0="-0.667" y0="50.0" z0="6.585" vx0="4.966" vy0="-131.788" vz0="-9.781" ax="-1.223" ay="27.934" az="-11.101" break_y="23.8" break_angle=".9" break_length="3.0" pitch_type="FF" type_confidence="2.000" zone="14" spin_dir="183.320" spin_rate="2323.715"  cc=""/>		<p type="X" id="732" x="110.73" y="167.51" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090505_224820" start_speed="83.6" end_speed="77.4" sz_top="3.88" sz_bot="1.72" pfx_x="-4.042" pfx_z="7.341" px="-0.313" pz="1.525" x0="-1.196" y0="50.0" z0="6.403" vx0="3.402" vy0="-122.342" vz0="-7.447" ax="-6.131" ay="23.952" az="-20.964" break_y="23.8" break_angle="13.9" break_length="6.2" pitch_type="CH" type_confidence="2.000" zone="13" spin_dir="208.674" spin_rate="1515.157"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="pit">
+		</offense>
+		<defense type="away" id="mil">
+			<man pid="453646" s_po="2" s_ass="3" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="116974" s_po="175" s_ass="12" s_err="3" s_fldg=".984" c_sb="14" c_cs="3" pos="c"/>
+			<man pid="425902" s_po="225" s_ass="11" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="430001" s_po="53" s_ass="75" s_err="5" s_fldg=".962" pos="2b"/>
+			<man pid="429666" s_po="30" s_ass="67" s_err="3" s_fldg=".970" pos="ss"/>
+			<man pid="112736" s_po="9" s_ass="24" s_err="2" s_fldg=".943" pos="3b"/>
+			<man pid="460075" s_po="41" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="111904" s_po="74" s_ass="2" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="434659" s_po="13" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="143.57" y="165.66" batter="425560" pitcher="453646"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="453264" index="4">
+			<man pid="460579"/>
+			<man pid="408108"/>
+			<man pid="434661"/>
+			<man pid="425560"/>
+			<man pid="461235"/>
+			<man pid="451188"/>
+			<man pid="407496"/>
+			<man pid="452232"/>
+			<man pid="453264"/>
+		</team>
+		<team type="away" pitcher="453646" index="9">
+			<man pid="430001"/>
+			<man pid="112736"/>
+			<man pid="460075"/>
+			<man pid="425902"/>
+			<man pid="111904"/>
+			<man pid="453646"/>
+			<man pid="429666"/>
+			<man pid="116974"/>
+			<man pid="434659"/>
+		</team>
+	</lineup>
+	<weather temp="55" condition="Cloudy" wind="9mph In From LF"/>
+	<control wait="10" box="0"/>
+</game>

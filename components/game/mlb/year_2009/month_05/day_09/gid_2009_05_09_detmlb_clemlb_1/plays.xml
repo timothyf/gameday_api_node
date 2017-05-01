@@ -1,0 +1,62 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_detmlb_clemlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="4" ah="8" ae="0" hr="0" hh="7" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="434939" team_abbrev="CLE" team_id="114" parent_team_abbrev="CLE" parent_team_id="114" current_position="1B" stand="R" b_height="6-2" ab="4" h="0" avg=".278" boxname="Garko">
+			<ab inning="9" event="Forceout"/>
+			<ab inning="7" event="Flyout"/>
+			<ab inning="5" event="Groundout"/>
+			<ab inning="2" event="Pop Out"/>
+		</batter>
+		<pitcher pid="407845" p_throws="R" pitches="22" strikes="12" balls="10" era="4.09" boxname="Rodney"/>
+		<deck pid="450204" boxname="Francisco, B"/>
+		<hole pid="472528" boxname="Valbuena"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="72" des="Ryan Garko grounds into a force out, shortstop Ramon Santiago to second baseman Placido Polanco.   Mark DeRosa out at 2nd.  " des_es="Ryan Garko batea rodado batea para out forzado, campo corto Ramon Santiago a segunda base Placido Polanco.   Mark DeRosa a cabo a 2da.  " event="Left On Base" player="136660">
+		<p type="S" id="592" x="113.30" y="135.56" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090509_221327" start_speed="84.1" end_speed="77.1" sz_top="3.6" sz_bot="1.73" pfx_x="-9.937" pfx_z="3.429" px="-0.429" pz="2.906" x0="-2.717" y0="50.0" z0="5.799" vx0="8.664" vy0="-123.012" vz0="-1.456" ax="-15.127" ay="25.885" az="-26.88" break_y="23.8" break_angle="26.2" break_length="8.1" pitch_type="CH" type_confidence="2.000" zone="4" spin_dir="250.711" spin_rate="1890.152"  cc=""/>		<p type="B" id="593" x="70.39" y="164.92" des="Ball" des_es="Bola mala" sv_id="090509_221355" start_speed="97.7" end_speed="90.1" sz_top="3.6" sz_bot="1.73" pfx_x="-7.462" pfx_z="6.664" px="0.849" pz="1.657" x0="-2.065" y0="50.0" z0="5.799" vx0="10.946" vy0="-142.673" vz0="-8.419" ax="-15.4" ay="32.463" az="-18.348" break_y="23.8" break_angle="32.8" break_length="4.7" pitch_type="FT" type_confidence="2.000" zone="14" spin_dir="228.082" spin_rate="2104.475"  cc=""/>		<p type="B" id="594" x="72.96" y="193.41" des="Ball In Dirt" des_es="Bola por el suelo" sv_id="090509_221423" start_speed="96.5" end_speed="90.1" sz_top="3.316" sz_bot="1.73" pfx_x="-8.598" pfx_z="6.08" px="0.884" pz="0.521" x0="-2.115" y0="50.0" z0="5.711" vx0="11.502" vy0="-140.668" vz0="-10.964" ax="-17.472" ay="27.663" az="-19.744" break_y="23.9" break_angle="35.1" break_length="5.3" pitch_type="FT" type_confidence="2.000" zone="14" spin_dir="234.570" spin_rate="2211.464"  cc=""/>		<p type="B" id="595" x="114.16" y="165.78" des="Ball" des_es="Bola mala" sv_id="090509_221457" start_speed="94.9" end_speed="87.3" sz_top="3.6" sz_bot="1.73" pfx_x="-9.525" pfx_z="2.754" px="-0.273" pz="1.731" x0="-2.5" y0="50.0" z0="5.671" vx0="9.475" vy0="-138.686" vz0="-5.889" ax="-18.511" ay="31.642" az="-26.747" break_y="23.8" break_angle="30.4" break_length="6.8" pitch_type="FT" type_confidence="2.000" zone="7" spin_dir="253.660" spin_rate="2017.925"  cc=""/>		<p type="X" id="596" x="138.20" y="139.88" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_221524" start_speed="96.1" end_speed="87.4" sz_top="3.6" sz_bot="1.73" pfx_x="-6.097" pfx_z="6.983" px="-1.032" pz="2.812" x0="-2.609" y0="50.0" z0="5.626" vx0="6.541" vy0="-140.694" vz0="-4.463" ax="-12.06" ay="35.838" az="-18.287" break_y="23.7" break_angle="28.3" break_length="4.5" pitch_type="FT" type_confidence="2.000" zone="11" spin_dir="220.971" spin_rate="1896.587"  cc=""/>		<runner id="136660" start="1B" end="" event="Left On Base"/>
+		<runner id="400121" start="2B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="home" id="cle">
+			<man bnum="2" pid="400121" boxname="Martinez, V" note="Single" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="det">
+			<man pid="407845" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="408042" s_po="141" s_ass="14" s_err="0" s_fldg="1.000" c_sb="7" c_cs="5" pos="c"/>
+			<man pid="460252" s_po="21" s_ass="3" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="135784" s_po="57" s_ass="79" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="421124" s_po="19" s_ass="36" s_err="2" s_fldg=".965" pos="ss"/>
+			<man pid="276346" s_po="17" s_ass="57" s_err="4" s_fldg=".949" pos="3b"/>
+			<man pid="461811" s_po="37" s_ass="2" s_err="1" s_fldg=".975" pos="lf"/>
+			<man pid="434158" s_po="73" s_ass="2" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="460004" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="105.42" y="156.63" batter="434939" pitcher="407845"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="134268" index="7">
+			<man pid="429713"/>
+			<man pid="452678"/>
+			<man pid="400121"/>
+			<man pid="425783"/>
+			<man pid="136660"/>
+			<man pid="113240"/>
+			<man pid="434939"/>
+			<man pid="450204"/>
+			<man pid="472528"/>
+		</team>
+		<team type="away" pitcher="407845" index="3">
+			<man pid="461811"/>
+			<man pid="135784"/>
+			<man pid="460004"/>
+			<man pid="408234"/>
+			<man pid="434158"/>
+			<man pid="460252"/>
+			<man pid="276346"/>
+			<man pid="408042"/>
+			<man pid="421124"/>
+		</team>
+	</lineup>
+	<weather temp="55" condition="Overcast" wind="12mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

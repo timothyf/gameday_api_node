@@ -1,0 +1,62 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_08_sfnmlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="3" ah="10" ae="0" hr="1" hh="9" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="279577" team_abbrev="LAD" team_id="119" parent_team_abbrev="LAD" parent_team_id="119" current_position="SS" stand="L" b_height="5-8" ab="5" h="1" avg=".250" boxname="Furcal">
+			<ab inning="9" event="Grounded Into DP"/>
+			<ab inning="7" event="Grounded Into DP"/>
+			<ab inning="5" event="Strikeout"/>
+			<ab inning="3" event="Groundout"/>
+			<ab inning="1" event="Double"/>
+		</batter>
+		<pitcher pid="451216" p_throws="R" pitches="28" strikes="20" balls="8" era="3.07" boxname="Wilson, Br"/>
+		<deck pid="407861" boxname="Hudson, O"/>
+		<hole pid="444843" boxname="Ethier"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="78" des="Rafael Furcal grounds into a double play, shortstop Edgar Renteria to second baseman Emmanuel Burriss to first baseman Travis Ishikawa.   Juan Pierre out at 2nd.  " des_es="Rafael Furcal batea rodado batea para doble matanza, campo corto Edgar Renteria a segunda base Emmanuel Burriss a primera base Travis Ishikawa.   Juan Pierre a cabo a 2da.  " event="Grounded Into DP" player="334393">
+		<p type="B" id="663" x="111.59" y="158.01" des="Ball" des_es="Bola mala" sv_id="090508_222258" start_speed="89.0" end_speed="82.2" sz_top="3.17" sz_bot="1.63" pfx_x="0.69" pfx_z="5.718" px="-0.39" pz="1.806" x0="-2.223" y0="50.0" z0="5.678" vx0="4.484" vy0="-130.368" vz0="-5.631" ax="1.186" ay="27.811" az="-22.275" break_y="23.8" break_angle="-5.1" break_length="5.6" pitch_type="SL" type_confidence="2.000" zone="7" spin_dir="173.170" spin_rate="1109.475"  cc=""/>		<po des="Pickoff Attempt 1B"/>
+		<p type="S" id="665" x="109.87" y="126.06" des="Called Strike" des_es="Strike cantado" sv_id="090508_222326" start_speed="95.4" end_speed="87.2" sz_top="3.17" sz_bot="1.63" pfx_x="-2.399" pfx_z="11.915" px="-0.379" pz="3.222" x0="-2.056" y0="50.0" z0="5.497" vx0="5.472" vy0="-139.691" vz0="-4.682" ax="-4.714" ay="33.134" az="-8.689" break_y="23.8" break_angle="19.3" break_length="2.1" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="191.348" spin_rate="2487.721"  cc=""/>		<p type="B" id="666" x="149.36" y="158.88" des="Ball" des_es="Bola mala" sv_id="090508_222343" start_speed="88.1" end_speed="81.4" sz_top="3.06" sz_bot="1.65" pfx_x="3.882" pfx_z="2.534" px="-1.531" pz="1.805" x0="-2.429" y0="50.0" z0="5.524" vx0="1.003" vy0="-129.203" vz0="-4.016" ax="6.544" ay="27.616" az="-27.829" break_y="23.8" break_angle="-13.2" break_length="7.1" pitch_type="SL" type_confidence="2.000" zone="13" spin_dir="123.584" spin_rate="882.029"  cc=""/>		<p type="S" id="667" x="136.48" y="139.02" des="Called Strike" des_es="Strike cantado" sv_id="090508_222405" start_speed="95.4" end_speed="87.5" sz_top="3.17" sz_bot="1.63" pfx_x="-6.269" pfx_z="12.677" px="-1.04" pz="2.734" x0="-2.128" y0="50.0" z0="5.483" vx0="5.237" vy0="-139.694" vz0="-6.279" ax="-12.351" ay="32.333" az="-7.124" break_y="23.8" break_angle="52.5" break_length="2.9" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="206.244" spin_rate="2900.585"  cc=""/>		<p type="B" id="668" x="162.23" y="146.79" des="Ball" des_es="Bola mala" sv_id="090508_222426" start_speed="88.7" end_speed="81.9" sz_top="3.17" sz_bot="1.63" pfx_x="1.254" pfx_z="4.306" px="-1.787" pz="2.427" x0="-2.467" y0="50.0" z0="5.658" vx0="1.327" vy0="-129.982" vz0="-3.47" ax="2.145" ay="27.329" az="-24.736" break_y="23.8" break_angle="-5.4" break_length="6.1" pitch_type="SL" type_confidence="2.000" zone="11" spin_dir="163.915" spin_rate="864.018"  cc=""/>		<p type="S" id="669" x="145.92" y="124.34" des="Foul" des_es="Foul" sv_id="090508_222452" start_speed="97.4" end_speed="89.0" sz_top="3.17" sz_bot="1.63" pfx_x="-4.085" pfx_z="13.433" px="-1.408" pz="3.353" x0="-2.142" y0="50.0" z0="5.286" vx0="3.552" vy0="-142.748" vz0="-4.624" ax="-8.375" ay="34.803" az="-4.559" break_y="23.7" break_angle="52.9" break_length="1.9" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="196.870" spin_rate="2932.810"  cc=""/>		<p type="S" id="670" x="127.90" y="123.47" des="Foul" des_es="Foul" sv_id="090508_222514" start_speed="96.9" end_speed="88.9" sz_top="3.17" sz_bot="1.63" pfx_x="-1.452" pfx_z="11.719" px="-0.94" pz="3.378" x0="-2.003" y0="50.0" z0="5.517" vx0="3.508" vy0="-142.006" vz0="-4.524" ax="-2.959" ay="33.098" az="-8.216" break_y="23.8" break_angle="13.1" break_length="1.9" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="187.039" spin_rate="2466.229"  cc=""/>		<p type="X" id="671" x="134.76" y="128.65" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090508_222537" start_speed="96.9" end_speed="88.0" sz_top="3.17" sz_bot="1.63" pfx_x="-4.443" pfx_z="12.137" px="-1.085" pz="3.229" x0="-2.071" y0="50.0" z0="5.434" vx0="4.351" vy0="-141.943" vz0="-4.765" ax="-8.941" ay="36.611" az="-7.676" break_y="23.7" break_angle="41.3" break_length="2.4" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="200.049" spin_rate="2665.462"  cc=""/>		<runner id="334393" start="1B" end="" event="Grounded Into DP"/>
+	</atbat>
+	<field>
+		<offense type="home" id="lan">
+		</offense>
+		<defense type="away" id="sfn">
+			<man pid="451216" s_po="0" s_ass="2" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="467055" s_po="41" s_ass="48" s_err="0" s_fldg="1.000" c_sb="1" c_cs="1" pos="c"/>
+			<man pid="448170" s_po="151" s_ass="13" s_err="1" s_fldg=".994" pos="1b"/>
+			<man pid="502034" s_po="55" s_ass="56" s_err="2" s_fldg=".982" pos="2b"/>
+			<man pid="121074" s_po="36" s_ass="66" s_err="2" s_fldg=".981" pos="ss"/>
+			<man pid="346874" s_po="10" s_ass="22" s_err="1" s_fldg=".970" pos="3b"/>
+			<man pid="133160" s_po="64" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="400023" s_po="52" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="435625" s_po="20" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="110.44" y="151.61" batter="279577" pitcher="451216"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="470462" index="1">
+			<man pid="279577"/>
+			<man pid="407861"/>
+			<man pid="444843"/>
+			<man pid="461314"/>
+			<man pid="431145"/>
+			<man pid="470462"/>
+			<man pid="232694"/>
+			<man pid="425766"/>
+			<man pid="334393"/>
+		</team>
+		<team type="away" pitcher="451216" index="4">
+			<man pid="435625"/>
+			<man pid="121074"/>
+			<man pid="133160"/>
+			<man pid="467055"/>
+			<man pid="400023"/>
+			<man pid="448170"/>
+			<man pid="346874"/>
+			<man pid="502034"/>
+			<man pid="451216"/>
+		</team>
+	</lineup>
+	<weather temp="72" condition="Clear" wind="8mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

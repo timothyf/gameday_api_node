@@ -1,0 +1,64 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_06_miamlb_wasmlb_1" status_ind="F"  status="Final" inning="10" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="14" ae="0" hr="3" hh="8" he="0" />
+<review challenges_away_used="1" challenges_away_remaining="0" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="543685" team_abbrev="WSH" team_id="120" parent_team_abbrev="WSH" parent_team_id="120" current_position="3B" stand="R" b_height="6-1" ab="4" h="0" avg=".000" boxname="Rendon">
+			<ab inning="10" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="8" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="6" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="4" event="Walk" event_es="Base por Bolas"/>
+			<ab inning="2" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="573109" p_throws="R" pitches="21" strikes="14" balls="7" era="0.00" boxname="Ramos, A"/>
+		<deck pid="150029" boxname="Werth"/>
+		<hole pid="446308" boxname="Wieters"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="86" des="Anthony Rendon pops out to second baseman Dee Gordon.  " des_es="Anthony Rendon batea elevadito de out a segunda base Dee Gordon.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="543685" play_guid="a54ad2cb-caaa-4b6c-8a74-8423fa31b448" >
+		<p type="S" id="701" event_num="701" x="102.12" y="201.44" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170407_015332" play_guid="7048f81f-edbf-4d54-81f3-5da3c687bce7" start_speed="80.1" end_speed="73.5" sz_top="3.865" sz_bot="1.601" pfx_x="2.266558825931508" pfx_z="-1.621552595522616" px="0.318573429871544" pz="1.36654746722945" x0="-2.44938953131816" y0="50" z0="5.60058225391863" vx0="5.66489711355308" vy0="-116.305001768481" vz0="-2.18847099257521" ax="3.08424914843807" ay="23.1474735223811" az="-34.3805971598327" break_y="23.8" break_angle="-6.6" break_length="10.4" pitch_type="SL" type_confidence=".909" zone="14" nasty="75" spin_dir="54.418" spin_rate="473.051"  cc=""/>		<p type="X" id="702" event_num="702" x="119.11" y="180.3" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170407_015401" play_guid="a54ad2cb-caaa-4b6c-8a74-8423fa31b448" start_speed="90.0" end_speed="82.0" sz_top="3.865" sz_bot="1.601" pfx_x="-1.50234164469552" pfx_z="11.060356148908152" px="-0.095925878655752" pz="2.12766080672694" x0="-2.42271040365344" y0="50" z0="5.51551632739695" vx0="6.49860445575137" vy0="-130.740691165031" vz0="-6.18767773952434" ax="-2.5901848933356" ay="28.5692824966027" az="-13.1049057200021" break_y="23.8" break_angle="4.8" break_length="3.4" pitch_type="FF" type_confidence=".905" zone="8" nasty="29" spin_dir="187.733" spin_rate="2135.460"  cc=""/>		<runner id="502517" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="547180" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="was">
+			<man bnum="1" pid="502517" boxname="Murphy" note="Single" sb="0" cs="0"/>
+			<man bnum="2" pid="547180" boxname="Harper" note="Walk" sb="0" cs="1"/>
+		</offense>
+		<defense type="away" id="mia">
+			<man pid="573109" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="592663" s_po="20" s_ass="4" s_err="0" s_fldg="1.000" c_sb="3" c_cs="1" pos="c"/>
+			<man pid="571506" s_po="25" s_ass="1" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="543829" s_po="7" s_ass="9" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="588751" s_po="7" s_ass="7" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="518618" s_po="1" s_ass="3" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="542303" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="592885" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="519317" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="O" x="0.00" y="0.00" batter="543685" pitcher="573109"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="430599" index="6">
+			<man pid="607208"/>
+			<man pid="594809"/>
+			<man pid="547180"/>
+			<man pid="502517"/>
+			<man pid="475582"/>
+			<man pid="543685"/>
+			<man pid="150029"/>
+			<man pid="446308"/>
+			<man pid="430599"/>
+		</team>
+		<team type="away" pitcher="573109" index="9">
+			<man pid="543829"/>
+			<man pid="573109"/>
+			<man pid="592885"/>
+			<man pid="519317"/>
+			<man pid="542303"/>
+			<man pid="592663"/>
+			<man pid="571506"/>
+			<man pid="588751"/>
+			<man pid="518618"/>
+		</team>
+	</lineup>
+	<weather temp="56" condition="Cloudy" wind="9mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

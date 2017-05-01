@@ -1,0 +1,61 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_texmlb_chamlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="7" ah="9" ae="0" hr="1" hh="2" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="117244" team_abbrev="CWS" team_id="145" parent_team_abbrev="CWS" parent_team_id="145" current_position="1B" stand="R" b_height="6-2" ab="4" h="0" avg=".291" boxname="Konerko">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="4" event="Forceout" event_es="Out Forzado"/>
+			<ab inning="2" event="Grounded Into DP" event_es="Roletazo de Doble Play"/>
+		</batter>
+		<pitcher pid="450351" p_throws="L" pitches="17" strikes="9" balls="8" era="4.85" boxname="Wilson, C"/>
+		<deck pid="400140" boxname="Betemit"/>
+		<hole pid="493351" boxname="Ramirez, Al"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Men_On"/>
+	<atbat num="73" des="Paul Konerko strikes out swinging.  " des_es="Paul Konerko se poncha tir&#225;ndole.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="117244">
+		<p type="B" id="566" event_num="566" x="84.12" y="134.70" des="Ball" des_es="Bola mala" sv_id="090510_153405" play_guid="" start_speed="95.4" end_speed="83.1" sz_top="3.55" sz_bot="1.67" pfx_x="9.637" pfx_z="7.003" px="0.486" pz="2.961" x0="0.699" y0="50.0" z0="5.679" vx0="-3.902" vy0="-139.766" vz0="-3.752" ax="17.895" ay="49.401" az="-19.096" break_y="23.5" break_angle="-39.0" break_length="5.8" pitch_type="FT" type_confidence="2.000" zone="3" spin_dir="126.161" spin_rate="2300.693"  cc=""/>		<p type="S" id="567" event_num="567" x="102.15" y="165.78" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090510_153425" play_guid="" start_speed="88.3" end_speed="76.7" sz_top="3.55" sz_bot="1.67" pfx_x="5.598" pfx_z="7.205" px="-0.117" pz="1.562" x0="0.946" y0="50.0" z0="5.593" vx0="-4.418" vy0="-129.275" vz0="-5.817" ax="8.839" ay="43.679" az="-20.724" break_y="23.4" break_angle="-18.1" break_length="6.2" pitch_type="CH" type_confidence="2.000" zone="13" spin_dir="142.334" spin_rate="1623.305"  cc=""/>		<p type="B" id="568" event_num="568" x="127.04" y="138.15" des="Ball" des_es="Bola mala" sv_id="090510_153444" play_guid="" start_speed="85.4" end_speed="75.2" sz_top="3.55" sz_bot="1.67" pfx_x="2.952" pfx_z="5.986" px="-0.823" pz="2.849" x0="0.893" y0="50.0" z0="5.678" vx0="-5.064" vy0="-125.079" vz0="-2.053" ax="4.436" ay="37.273" az="-23.104" break_y="23.5" break_angle="-7.2" break_length="6.5" pitch_type="SL" type_confidence="2.000" zone="11" spin_dir="153.939" spin_rate="1171.107"  cc=""/>		<p type="S" id="569" event_num="569" x="67.81" y="167.51" des="Foul" des_es="Foul" sv_id="090510_153505" play_guid="" start_speed="94.9" end_speed="82.3" sz_top="3.55" sz_bot="1.67" pfx_x="10.089" pfx_z="7.672" px="0.92" pz="1.582" x0="0.774" y0="50.0" z0="5.549" vx0="-3.059" vy0="-138.977" vz0="-7.163" ax="18.367" ay="51.099" az="-18.133" break_y="23.4" break_angle="-39.8" break_length="6.1" pitch_type="FT" type_confidence="2.000" zone="14" spin_dir="127.398" spin_rate="2413.413"  cc=""/>		<p type="B" id="570" event_num="570" x="127.90" y="148.51" des="Ball" des_es="Bola mala" sv_id="090510_153546" play_guid="" start_speed="86.5" end_speed="78.0" sz_top="3.55" sz_bot="1.67" pfx_x="-0.923" pfx_z="-0.359" px="-0.839" pz="2.326" x0="0.95" y0="50.0" z0="5.798" vx0="-4.125" vy0="-126.791" vz0="-1.97" ax="-1.457" ay="33.345" az="-32.666" break_y="23.7" break_angle="4.2" break_length="8.6" pitch_type="SL" type_confidence="2.000" zone="13" spin_dir="288.659" spin_rate="175.963"  cc=""/>		<p type="S" id="571" event_num="571" x="92.70" y="165.78" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090510_153612" play_guid="" start_speed="87.5" end_speed="77.1" sz_top="3.55" sz_bot="1.67" pfx_x="6.173" pfx_z="4.523" px="0.192" pz="1.713" x0="0.844" y0="50.0" z0="5.672" vx0="-3.578" vy0="-128.17" vz0="-4.741" ax="9.721" ay="39.595" az="-24.978" break_y="23.5" break_angle="-18.2" break_length="7.3" pitch_type="CH" type_confidence="2.000" zone="8" spin_dir="126.512" spin_rate="1369.017"  cc=""/>		<runner id="434624" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="cha">
+			<man bnum="1" pid="434624" boxname="Nix, J" note="Walk" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="tex">
+			<man pid="450351" s_po="0" s_ass="3" s_err="1" s_fldg=".750" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="457454" s_po="110" s_ass="9" s_err="1" s_fldg=".992" c_sb="3" c_cs="4" pos="c"/>
+			<man pid="448801" s_po="257" s_ass="15" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="435079" s_po="61" s_ass="91" s_err="3" s_fldg=".981" pos="2b"/>
+			<man pid="462101" s_po="41" s_ass="85" s_err="7" s_fldg=".947" pos="ss"/>
+			<man pid="123744" s_po="5" s_ass="21" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="461815" s_po="45" s_ass="3" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="407781" s_po="61" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="443558" s_po="78" s_ass="2" s_err="3" s_fldg=".964" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="136734" index="6">
+			<man pid="460051"/>
+			<man pid="452121"/>
+			<man pid="435041"/>
+			<man pid="113679"/>
+			<man pid="434624"/>
+			<man pid="117244"/>
+			<man pid="400140"/>
+			<man pid="493351"/>
+			<man pid="280061"/>
+		</team>
+		<team type="away" pitcher="450351" index="5">
+			<man pid="435079"/>
+			<man pid="123744"/>
+			<man pid="407781"/>
+			<man pid="408213"/>
+			<man pid="443558"/>
+			<man pid="461815"/>
+			<man pid="448801"/>
+			<man pid="457454"/>
+			<man pid="462101"/>
+		</team>
+	</lineup>
+	<weather temp="61" condition="Partly Cloudy" wind="11mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

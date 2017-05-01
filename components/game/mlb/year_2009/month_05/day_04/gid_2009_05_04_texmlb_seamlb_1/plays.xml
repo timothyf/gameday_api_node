@@ -1,0 +1,64 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_04_texmlb_seamlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="6" ah="10" ae="0" hr="5" hh="9" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="400085" team_abbrev="SEA" team_id="136" parent_team_abbrev="SEA" parent_team_id="136" current_position="RF" stand="L" b_height="5-11" ab="5" h="1" avg=".298" boxname="Suzuki, I">
+			<ab inning="9" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="7" event="Forceout" event_es="Out Forzado"/>
+			<ab inning="5" event="Triple" event_es="Triple"/>
+			<ab inning="4" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="1" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="407911" p_throws="R" pitches="16" strikes="9" balls="7" era="0.00" boxname="Francisco, F"/>
+		<deck pid="346795" boxname="Chavez, En"/>
+		<hole pid="123041" boxname="Sweeney, M"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="75" des="Ichiro Suzuki flies out to center fielder Marlon Byrd.  " des_es="Ichiro Suzuki batea elevado de out a jardinero central Marlon Byrd.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="400085">
+		<p type="X" id="555" event_num="555" x="86.70" y="151.10" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090504_213757" play_guid="" start_speed="94.6" end_speed="86.5" sz_top="3.34" sz_bot="1.51" pfx_x="-5.184" pfx_z="10.675" px="0.43" pz="2.153" x0="-1.906" y0="50.0" z0="5.618" vx0="8.191" vy0="-138.268" vz0="-7.305" ax="-9.966" ay="32.817" az="-11.577" break_y="23.7" break_angle="31.3" break_length="3.3" pitch_type="FF" type_confidence="2.000" zone="6" spin_dir="205.819" spin_rate="2400.837"  cc=""/>		<runner id="435358" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="429711" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="sea">
+			<man bnum="1" pid="435358" boxname="Betancourt, Y" note="Walk" sb="2" cs="0"/>
+			<man bnum="2" pid="429711" boxname="Gutierrez, F" note="Single" sb="0" cs="2"/>
+		</offense>
+		<defense type="away" id="tex">
+			<man pid="407911" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="457454" s_po="85" s_ass="9" s_err="1" s_fldg=".989" c_sb="3" c_cs="4" pos="c"/>
+			<man pid="448801" s_po="200" s_ass="13" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="435079" s_po="47" s_ass="67" s_err="1" s_fldg=".991" pos="2b"/>
+			<man pid="462101" s_po="32" s_ass="63" s_err="6" s_fldg=".941" pos="ss"/>
+			<man pid="276545" s_po="16" s_ass="41" s_err="2" s_fldg=".966" pos="3b"/>
+			<man pid="461815" s_po="31" s_ass="3" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="407781" s_po="45" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="443558" s_po="70" s_ass="2" s_err="3" s_fldg=".960" pos="rf"/>
+		</defense>
+		<ball type="F" x="123.49" y="78.31" batter="400085" pitcher="407911"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="150128" index="1">
+			<man pid="400085"/>
+			<man pid="346795"/>
+			<man pid="123041"/>
+			<man pid="137140"/>
+			<man pid="134181"/>
+			<man pid="430946"/>
+			<man pid="492706"/>
+			<man pid="429711"/>
+			<man pid="435358"/>
+		</team>
+		<team type="away" pitcher="407911" index="3">
+			<man pid="435079"/>
+			<man pid="462101"/>
+			<man pid="276545"/>
+			<man pid="408213"/>
+			<man pid="407781"/>
+			<man pid="443558"/>
+			<man pid="461815"/>
+			<man pid="448801"/>
+			<man pid="457454"/>
+		</team>
+	</lineup>
+	<weather temp="54" condition="Roof Closed" wind="2mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,64 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_01_chamlb_milmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="1" inning_state="" event="single" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="7" ae="3" hr="5" hh="7" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="592881" team_abbrev="MIL" team_id="158" parent_team_abbrev="MIL" parent_team_id="158" current_position="CF" stand="L" b_height="5-10" ab="2" h="1" avg=".344" boxname="Wren">
+			<ab inning="9" event="Single" event_es="Sencillo"/>
+			<ab inning="7" event="Field Error" event_es="Error de Fildeo"/>
+		</batter>
+		<pitcher pid="657793" p_throws="R" pitches="4" strikes="3" balls="1" era="0.00" boxname="Walsh"/>
+		<deck pid="519346" boxname="Thames"/>
+		<hole pid="570267" boxname="Santana, Do"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Loaded"/>
+	<atbat num="74" des="Kyle Wren singles on a ground ball to left fielder Nicky Delmonico.   Jett Bandy scores.    Kirk Nieuwenhuis to 3rd.    Nate Orf to 2nd.  " des_es="Kyle Wren pega sencillo con rodado a jardinero izquierdo Nicky Delmonico.   Jett Bandy anota  Kirk Nieuwenhuis a 3ra.    Nate Orf a 2da.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="542908" play_guid="c7f55be9-d43d-4830-a7a6-c30a91b9ecf4" >
+		<p type="B" id="653" event_num="653" x="136.91" y="100.19" des="Ball" des_es="Bola mala" sv_id="170401_213021" play_guid="2e218b80-35cc-4fe1-80a8-006c760db9a4" start_speed="80.2" end_speed="72.4" sz_top="3.493963465128971" sz_bot="1.7049194420384168" pfx_x="5.096104521908904" pfx_z="-8.073282974180772" px="-0.522417123785447" pz="5.13283632043895" x0="-0.522034892154469" y0="50.0000000000001" z0="6.68771651256436" vx0="-1.50645656042748" vy0="-116.043968354821" vz0="5.89963041712277" ax="6.86295305063729" ay="24.2255469180664" az="-43.0463848238894" break_y="23.7" break_angle="-8.9" break_length="12.8" pitch_type="CU" type_confidence=".847" zone="11" nasty="74" spin_dir="32.260" spin_rate="1607.414"  cc=""/>		<p type="S" id="654" event_num="654" x="132.82" y="176.35" des="Called Strike" des_es="Strike cantado" sv_id="170401_213045" play_guid="925d9f85-7e66-4df5-957d-272aa3148dfb" start_speed="97.3" end_speed="88.5" sz_top="3.645" sz_bot="1.47" pfx_x="-6.486524698987909" pfx_z="12.878008921940758" px="-0.46733186348698" pz="2.28757446766073" x0="-0.329577515294989" y0="50" z0="5.95193107843627" vx0="1.96014178198666" vy0="-141.10597434403" vz0="-9.06755638735397" ax="-13.0416550722069" ay="32.9420093915754" az="-6.28182457353888" break_y="23.8" break_angle="56.4" break_length="3.1" pitch_type="FF" type_confidence=".894" zone="4" nasty="36" spin_dir="206.733" spin_rate="2980.732"  cc=""/>		<p type="S" id="655" event_num="655" x="157.29" y="157.59" des="Called Strike" des_es="Strike cantado" sv_id="170401_213114" play_guid="951062c6-f6f4-4935-817a-2a630f07eea7" start_speed="81.4" end_speed="73.6" sz_top="3.364218931201261" sz_bot="1.8002105701286553" pfx_x="7.080239926614757" pfx_z="-6.595352047235389" px="-1.04186173440385" pz="2.99243463924161" x0="-0.787870435766058" y0="50" z0="6.38841741709375" vx0="-2.70412362546382" vy0="-117.828256408169" vz0="1.09656478093867" ax="9.78018951261171" ay="26.0297698278219" az="-41.2844450391658" break_y="23.8" break_angle="-12.7" break_length="12.4" pitch_type="CU" type_confidence=".828" zone="11" nasty="46" spin_dir="47.030" spin_rate="1645.724"  cc=""/>		<p type="X" id="656" event_num="656" x="116.46" y="163.16" des="In play, run(s)" des_es="En juego, carrera(s)" sv_id="170401_213148" play_guid="c7f55be9-d43d-4830-a7a6-c30a91b9ecf4" start_speed="82.1" end_speed="74.2" sz_top="3.645" sz_bot="1.47" pfx_x="6.321244892712157" pfx_z="-5.96967045826116" px="0.0141086361164449" pz="2.80082168823386" x0="-0.655979620835958" y0="49.9999999999999" z0="6.34995278318227" vx0="-0.345609276360783" vy0="-119.000915381008" vz0="0.434334128123201" ax="8.88781512445087" ay="26.9868597352711" az="-40.5675419722751" break_y="23.7" break_angle="-12.3" break_length="12.0" pitch_type="CU" type_confidence=".852" zone="5" nasty="13" spin_dir="46.637" spin_rate="1490.364"  cc=""/>		<runner id="644337" start="1B" end="2B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="543590" start="2B" end="3B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="542908" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" score="T"/>
+		<runner id="592881" start="" end="1B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="mil">
+			<man bnum="1" pid="592881" boxname="Wren" note="Single" sb="0" cs="2"/>
+			<man bnum="2" pid="644337" boxname="Orf" note="Intent Walk" sb="1" cs="0"/>
+			<man bnum="3" pid="543590" boxname="Nieuwenhuis" note="Intent Walk" sb="2" cs="0"/>
+		</offense>
+		<defense type="away" id="cha">
+			<man pid="657793" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="607345" s_po="62" s_ass="4" s_err="1" s_fldg=".985" c_sb="15" c_cs="2" pos="c"/>
+			<man pid="643356" s_po="91" s_ass="5" s_err="2" s_fldg=".980" pos="1b"/>
+			<man pid="657193" s_po="3" s_ass="10" s_err="2" s_fldg=".867" pos="2b"/>
+			<man pid="465784" s_po="9" s_ass="43" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="544725" s_po="37" s_ass="34" s_err="3" s_fldg=".959" pos="3b"/>
+			<man pid="547170" s_po="52" s_ass="16" s_err="1" s_fldg=".986" pos="lf"/>
+			<man pid="642772" s_po="3" s_ass="0" s_err="1" s_fldg=".750" pos="cf"/>
+			<man pid="542642" s_po="23" s_ass="2" s_err="1" s_fldg=".962" pos="rf"/>
+		</defense>
+		<ball type="S" x="92.38" y="110.21" batter="592881" pitcher="657793"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="608349" index="2">
+			<man pid="644337"/>
+			<man pid="592881"/>
+			<man pid="519346"/>
+			<man pid="570267"/>
+			<man pid="542583"/>
+			<man pid="474443"/>
+			<man pid="542908"/>
+			<man pid="519299"/>
+			<man pid="543590"/>
+		</team>
+		<team type="away" pitcher="657793" index="1">
+			<man pid="642772"/>
+			<man pid="465784"/>
+			<man pid="547170"/>
+			<man pid="571602"/>
+			<man pid="544725"/>
+			<man pid="643356"/>
+			<man pid="542642"/>
+			<man pid="607345"/>
+			<man pid="657193"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Roof Closed" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,56 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_06_colmlb_milmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="2" ah="5" ae="0" hr="1" hh="5" he="0" />
+<review challenges_away_used="1" challenges_away_remaining="0" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="460075" team_abbrev="MIL" team_id="158" parent_team_abbrev="MIL" parent_team_id="158" current_position="PH" stand="R" b_height="6-2" ab="1" h="0" avg=".250" boxname="Braun">
+			<ab inning="9" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="518813" p_throws="R" pitches="9" strikes="8" balls="1" era="0.00" boxname="Holland, G"/>
+		<deck pid="542340" boxname="Villar"/>
+		<hole pid="519346" boxname="Thames"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="70" des="Ryan Braun flies out to right fielder Carlos Gonzalez.  " des_es="Ryan Braun batea elevado de out a jardinero derecho Carlos Gonzalez.  " event="" event_es="" player="460075" play_guid="0c27e9bc-dfe5-45e3-b155-f8b126ffb4e9" >
+		<p type="S" id="586" event_num="586" x="148.28" y="153.79" des="Called Strike" des_es="Strike cantado" sv_id="170406_204820" play_guid="4d894c16-88d5-404f-8ed6-4966211f5384" start_speed="94.6" end_speed="85.8" sz_top="3.718081746376548" sz_bot="1.8330716500939488" pfx_x="-1.6894604065251722" pfx_z="12.96873873866208" px="-0.849715969802129" pz="3.08205166812437" x0="-0.595302224902528" y0="50" z0="5.84191536592244" vx0="-0.0953581046789468" vy0="-137.527545280931" vz0="-6.08176051345393" ax="-3.21194422820941" ay="32.5904298077097" az="-7.5183268964739" break_y="23.7" break_angle="19.9" break_length="2.0" pitch_type="FF" type_confidence="2.000" zone="11" nasty="70" spin_dir="187.420" spin_rate="2622.911"  cc=""/>		<p type="X" id="587" event_num="587" x="105.4" y="164.99" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170406_204845" play_guid="0c27e9bc-dfe5-45e3-b155-f8b126ffb4e9" start_speed="94.8" end_speed="86.1" sz_top="3.865" sz_bot="1.601" pfx_x="-0.8985612850659348" pfx_z="12.23311880518632" px="0.218484047931199" pz="2.68215263592043" x0="-0.39240852184312" y0="50" z0="5.72236694601451" vx0="1.97348876174057" vy0="-137.762308637344" vz0="-6.62324992059411" ax="-1.7160777517417" ay="32.3830638040905" az="-8.81116461640747" break_y="23.8" break_angle="6.9" break_length="2.2" pitch_type="FF" type_confidence="2.000" zone="5" nasty="27" spin_dir="184.199" spin_rate="2466.981"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="mil">
+		</offense>
+		<defense type="away" id="col">
+			<man pid="518813" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="572863" s_po="12" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="448602" s_po="28" s_ass="2" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="518934" s_po="5" s_ass="11" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="596115" s_po="8" s_ass="11" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="571448" s_po="0" s_ass="5" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="467827" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="453568" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="471865" s_po="9" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="F" x="197.97" y="83.25" batter="460075" pitcher="518813"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="491703" index="9">
+			<man pid="542340"/>
+			<man pid="519346"/>
+			<man pid="542583"/>
+			<man pid="543768"/>
+			<man pid="570267"/>
+			<man pid="541650"/>
+			<man pid="543590"/>
+			<man pid="542908"/>
+			<man pid="460075"/>
+		</team>
+		<team type="away" pitcher="518813" index="8">
+			<man pid="453568"/>
+			<man pid="518934"/>
+			<man pid="471865"/>
+			<man pid="571448"/>
+			<man pid="596115"/>
+			<man pid="467827"/>
+			<man pid="448602"/>
+			<man pid="572863"/>
+			<man pid="518813"/>
+		</team>
+	</lineup>
+	<weather temp="65" condition="Roof Closed" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

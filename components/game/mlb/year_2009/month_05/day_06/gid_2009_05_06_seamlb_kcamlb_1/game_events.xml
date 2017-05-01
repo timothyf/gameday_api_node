@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="400085"
+                pitcher="132260"
+                des="Ichiro Suzuki pops out to second baseman Alberto Callaspo.  "
+                des_es="Ichiro Suzuki batea elevadito de out a segunda base Alberto Callaspo.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191057" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191107" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="2" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="346795"
+                pitcher="132260"
+                des="Endy Chavez grounds out, second baseman Alberto Callaspo to first baseman Billy Butler.  "
+                des_es="Endy Chavez batea rodado de out, segunda base Alberto Callaspo a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191142" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191157" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191210" des="Ball" des_es="Bola mala" type="B" start_speed="77.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_191224" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191238" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="3" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="430946"
+                pitcher="132260"
+                des="Jose Lopez grounds out, second baseman Alberto Callaspo to first baseman Billy Butler.  "
+                des_es="Jose Lopez batea rodado de out, segunda base Alberto Callaspo a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191310" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191321" des="Foul" des_es="Foul" type="S" start_speed="92.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191345" des="Ball" des_es="Bola mala" type="B" start_speed="94.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191358" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.8"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="4" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="430203"
+                pitcher="400067"
+                des="David DeJesus doubles (4) on a soft fly ball to left fielder Endy Chavez.  "
+                des_es="David DeJesus pega doble (4) con elevado suave a jardinero izquierdo Endy Chavez.  "
+                event="Double"
+                b1=""
+                b2="430203"
+                b3="">
+            <pitch sv_id="090506_191627" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191644" des="Foul" des_es="Foul" type="S" start_speed="88.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191706" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.6"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="5" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="217100"
+                pitcher="400067"
+                des="Willie Bloomquist singles on a line drive to center fielder Franklin Gutierrez.   David DeJesus to 3rd.  "
+                des_es="Willie Bloomquist pega sencillo con l&#237;nea a jardinero central Franklin Gutierrez.   David DeJesus a 3ra.  "
+                event="Single"
+                b1="217100"
+                b2=""
+                b3="430203">
+            <pitch sv_id="090506_191801" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191817" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191839" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_191856" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.8"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="6" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="433597"
+                pitcher="400067"
+                des="Mark Teahen grounds into a double play, first baseman Russell Branyan to shortstop Yuniesky Betancourt to first baseman Russell Branyan.   David DeJesus scores.    Willie Bloomquist out at 2nd.  "
+                des_es="Mark Teahen batea rodado batea para doble matanza, primera base Russell Branyan a campo corto Yuniesky Betancourt a primera base Russell Branyan.   David DeJesus anota  Willie Bloomquist a cabo a 2da.  "
+                event="Grounded Into DP"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192000" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192020" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="79.8"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="7" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="115229"
+                pitcher="400067"
+                des="Jose Guillen hit by pitch.  "
+                des_es="Jose Guillen golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="115229"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192057" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192110" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="88.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="8" b="2" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="456714"
+                pitcher="400067"
+                des="Billy Butler doubles (7) on a fly ball to right fielder Ichiro Suzuki.   Jose Guillen to 3rd.  "
+                des_es="Billy Butler pega doble (7) con elevado a jardinero derecho Ichiro Suzuki.   Jose Guillen a 3ra.  "
+                event="Double"
+                b1=""
+                b2="456714"
+                b3="115229">
+            <pitch sv_id="090506_192149" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192210" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192230" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.6"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="9" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="408312"
+                pitcher="400067"
+                des="Mike Jacobs singles on a line drive to center fielder Franklin Gutierrez.   Jose Guillen scores.    Billy Butler scores.  "
+                des_es="Mike Jacobs pega sencillo con l&#237;nea a jardinero central Franklin Gutierrez.   Jose Guillen anota  Billy Butler anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="3"
+                away_team_runs="0"
+                b1="408312"
+                b2=""
+                b3=""
+                rbi="2">
+            <pitch sv_id="090506_192325" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192355" des="Foul" des_es="Foul" type="S" start_speed="80.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_192430" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192452" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="10" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="430948"
+                pitcher="400067"
+                des="Alberto Callaspo grounds out to first baseman Russell Branyan.  "
+                des_es="Alberto Callaspo batea rodado de out a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192534" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192549" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192603" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192619" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.2"
+                   pitch_type="SI"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="11" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="137140"
+                pitcher="132260"
+                des="Russell Branyan flies out to left fielder David DeJesus.  "
+                des_es="Russell Branyan batea elevado de out a jardinero izquierdo David DeJesus.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192837" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="12" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="134181"
+                pitcher="132260"
+                des="Adrian Beltre flies out to right fielder Jose Guillen.  "
+                des_es="Adrian Beltre batea elevado de out a jardinero derecho Jose Guillen.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192909" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192922" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192935" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="13" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="115135"
+                pitcher="132260"
+                des="Ken Griffey doubles (3) on a fly ball to right fielder Jose Guillen.  "
+                des_es="Ken Griffey pega doble (3) con elevado a jardinero derecho Jose Guillen.  "
+                event="Double"
+                b1=""
+                b2="115135"
+                b3="">
+            <pitch sv_id="090506_193017" des="Ball" des_es="Bola mala" type="B" start_speed="92.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193029" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.9"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="14" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="492706"
+                pitcher="132260"
+                des="Kenji Johjima grounds out, pitcher Sidney Ponson to first baseman Billy Butler.  "
+                des_es="Kenji Johjima batea rodado de out, lanzador Sidney Ponson a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193125" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.0"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="15" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="400018"
+                pitcher="400067"
+                des="Miguel Olivo grounds out, shortstop Yuniesky Betancourt to first baseman Russell Branyan.  "
+                des_es="Miguel Olivo batea rodado de out, campo corto Yuniesky Betancourt a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193343" des="Ball" des_es="Bola mala" type="B" start_speed="86.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193357" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193415" des="Foul" des_es="Foul" type="S" start_speed="87.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193437" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="16" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="430574"
+                pitcher="400067"
+                des="Mitch Maier grounds out, shortstop Yuniesky Betancourt to first baseman Russell Branyan.  "
+                des_es="Mitch Maier batea rodado de out, campo corto Yuniesky Betancourt a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193507" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193518" des="Foul" des_es="Foul" type="S" start_speed="89.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193536" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193548" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.0"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="17" b="4" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="430203"
+                pitcher="400067"
+                des="David DeJesus walks.  "
+                des_es="David DeJesus recibe base por bolas.  "
+                event="Walk"
+                b1="430203"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193622" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_193644" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193702" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193720" des="Foul" des_es="Foul" type="S" start_speed="81.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_193747" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193806" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="80.7"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="18" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="217100"
+                pitcher="400067"
+                des="Willie Bloomquist flies out to right fielder Ichiro Suzuki.  "
+                des_es="Willie Bloomquist batea elevado de out a jardinero derecho Ichiro Suzuki.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193841" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_193937" des="Foul" des_es="Foul" type="S" start_speed="88.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194015" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.3"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="19" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="429711"
+                pitcher="132260"
+                des="Franklin Gutierrez flies out to right fielder Jose Guillen.  "
+                des_es="Franklin Gutierrez batea elevado de out a jardinero derecho Jose Guillen.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194239" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194254" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194309" des="Ball" des_es="Bola mala" type="B" start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_194325" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="20" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="435358"
+                pitcher="132260"
+                des="Yuniesky Betancourt grounds out, third baseman Mark Teahen to first baseman Billy Butler.  "
+                des_es="Yuniesky Betancourt batea rodado de out, tercera base Mark Teahen a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194356" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194410" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194422" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="21" b="2" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="400085"
+                pitcher="132260"
+                des="Ichiro Suzuki singles on a ground ball to center fielder Mitch Maier.  "
+                des_es="Ichiro Suzuki pega sencillo con rodado a jardinero central Mitch Maier.  "
+                event="Single"
+                b1="400085"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194500" des="Ball" des_es="Bola mala" type="B" start_speed="76.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_194514" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194526" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="22" b="3" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="346795"
+                pitcher="132260"
+                des="Endy Chavez grounds out, second baseman Alberto Callaspo to first baseman Billy Butler.  "
+                des_es="Endy Chavez batea rodado de out, segunda base Alberto Callaspo a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194609" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194628" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194650" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194715" des="Ball" des_es="Bola mala" type="B" start_speed="94.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194740" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.0"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="23" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="433597"
+                pitcher="400067"
+                des="Mark Teahen homers (4) on a fly ball to right field.  "
+                des_es="Mark Teahen batea jonr&#243;n (4) con elevado por el jard&#237;n derecho.  "
+                event="Home Run"
+                score="T"
+                home_team_runs="4"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090506_194951" des="Ball" des_es="Bola mala" type="B" start_speed="77.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_195004" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195016" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195029" des="Ball" des_es="Bola mala" type="B" start_speed="88.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195043" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="89.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="24" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="115229"
+                pitcher="400067"
+                des="Jose Guillen singles on a ground ball to left fielder Endy Chavez.  "
+                des_es="Jose Guillen pega sencillo con rodado a jardinero izquierdo Endy Chavez.  "
+                event="Single"
+                b1="115229"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195121" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195130" des="Foul" des_es="Foul" type="S" start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195149" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="25" b="2" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="456714"
+                pitcher="400067"
+                des="Billy Butler singles on a ground ball to left fielder Endy Chavez.   Jose Guillen to 2nd.  "
+                des_es="Billy Butler pega sencillo con rodado a jardinero izquierdo Endy Chavez.   Jose Guillen a 2da.  "
+                event="Single"
+                b1="456714"
+                b2="115229"
+                b3="">
+            <pitch sv_id="090506_195230" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195245" des="Foul" des_es="Foul" type="S" start_speed="90.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195310" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195344" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_195406" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="26" b="3" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="408312"
+                pitcher="400067"
+                des="Mike Jacobs singles on a ground ball to left fielder Endy Chavez.   Jose Guillen to 3rd.    Billy Butler to 2nd.  "
+                des_es="Mike Jacobs pega sencillo con rodado a jardinero izquierdo Endy Chavez.   Jose Guillen a 3ra.    Billy Butler a 2da.  "
+                event="Single"
+                b1="408312"
+                b2="456714"
+                b3="115229">
+            <pitch sv_id="090506_195453" des="Ball" des_es="Bola mala" type="B" start_speed="80.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_195510" des="Foul" des_es="Foul" type="S" start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195542" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195558" des="Foul" des_es="Foul" type="S" start_speed="81.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_195633" des="Foul" des_es="Foul" type="S" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195657" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195721" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="27" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="430948"
+                pitcher="400067"
+                des="Alberto Callaspo grounds into a double play, shortstop Yuniesky Betancourt to second baseman Jose Lopez to first baseman Russell Branyan.   Jose Guillen scores.    Billy Butler to 3rd.    Mike Jacobs out at 2nd.  "
+                des_es="Alberto Callaspo batea rodado batea para doble matanza, campo corto Yuniesky Betancourt a segunda base Jose Lopez a primera base Russell Branyan.   Jose Guillen anota  Billy Butler a 3ra.    Mike Jacobs a cabo a 2da.  "
+                event="Grounded Into DP"
+                score="T"
+                home_team_runs="5"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="456714">
+            <pitch sv_id="090506_195807" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195834" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195849" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195905" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="2" s="2" o="2"
+                 des="With Miguel Olivo batting, Billy Butler scores on a balk.  "
+                 des_es="Con Miguel Olivo bateando, Billy Butler anota por balk.  "
+                 event="Balk"
+                 tfs=""
+                 tfs_zulu=""
+                 player="456714"
+                 pitch="4"
+                 score="T"
+                 home_team_runs="6"
+                 away_team_runs="0"/>
+         <atbat num="28" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="400018"
+                pitcher="400067"
+                des="Miguel Olivo flies out to left fielder Endy Chavez.  "
+                des_es="Miguel Olivo batea elevado de out a jardinero izquierdo Endy Chavez.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195946" des="Ball" des_es="Bola mala" type="B" start_speed="82.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200000" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200018" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200032" des="Foul" des_es="Foul" type="S" start_speed="80.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200128" des="Foul" des_es="Foul" type="S" start_speed="90.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200148" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="82.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200206" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.5"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="29" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="430946"
+                pitcher="132260"
+                des="Jose Lopez grounds out, third baseman Mark Teahen to first baseman Billy Butler.  "
+                des_es="Jose Lopez batea rodado de out, tercera base Mark Teahen a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200441" des="Ball" des_es="Bola mala" type="B" start_speed="82.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200459" des="Foul" des_es="Foul" type="S" start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_200523" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200536" des="Ball" des_es="Bola mala" type="B" start_speed="83.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200549" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="30" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="137140"
+                pitcher="132260"
+                des="Russell Branyan flies out to left fielder David DeJesus.  "
+                des_es="Russell Branyan batea elevado de out a jardinero izquierdo David DeJesus.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200627" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200643" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200657" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.3"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="31" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="134181"
+                pitcher="132260"
+                des="Adrian Beltre strikes out swinging.  "
+                des_es="Adrian Beltre se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200729" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200741" des="Foul" des_es="Foul" type="S" start_speed="82.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200804" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.0"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0" des="Pitching Change: Garrett Olson replaces Carlos Silva.  "
+                 des_es="Cambio de Lanzador: Garrett Olson reemplaza a Carlos Silva.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="457796"
+                 pitch="3"/>
+         <atbat num="32" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="430574"
+                pitcher="457796"
+                des="Mitch Maier singles on a ground ball to center fielder Franklin Gutierrez.  "
+                des_es="Mitch Maier pega sencillo con rodado a jardinero central Franklin Gutierrez.  "
+                event="Single"
+                b1="430574"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_201114" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201125" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201137" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="81.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="33" b="3" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="430203"
+                pitcher="457796"
+                des="David DeJesus singles on a line drive to center fielder Franklin Gutierrez.   Mitch Maier to 2nd.  "
+                des_es="David DeJesus pega sencillo con l&#237;nea a jardinero central Franklin Gutierrez.   Mitch Maier a 2da.  "
+                event="Single"
+                b1="430203"
+                b2="430574"
+                b3="">
+            <pitch sv_id="090506_201217" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201240" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201316" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201342" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201406" des="Ball" des_es="Bola mala" type="B" start_speed="91.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201437" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="34" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="217100"
+                pitcher="457796"
+                des="Willie Bloomquist singles on a ground ball to right fielder Ichiro Suzuki.  Mitch Maier out at home, right fielder Ichiro Suzuki to catcher Kenji Johjima to shortstop Yuniesky Betancourt to catcher Kenji Johjima.   David DeJesus to 3rd on the throw.    Willie Bloomquist to 2nd.  "
+                des_es="Willie Bloomquist pega sencillo con rodado a jardinero derecho Ichiro Suzuki.  Mitch Maier out en home, jardinero derecho Ichiro Suzuki a receptor Kenji Johjima a campo corto Yuniesky Betancourt a receptor Kenji Johjima.   David DeJesus a 3ra con el tiro.    Willie Bloomquist a 2da.  "
+                event="Single"
+                event2="Runner Out"
+                b1=""
+                b2="217100"
+                b3="430203">
+            <pitch sv_id="090506_201525" des="Foul" des_es="Foul" type="S" start_speed="90.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201552" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="35" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="433597"
+                pitcher="457796"
+                des="Mark Teahen singles on a ground ball to center fielder Franklin Gutierrez.   David DeJesus scores.    Willie Bloomquist scores.  "
+                des_es="Mark Teahen pega sencillo con rodado a jardinero central Franklin Gutierrez.   David DeJesus anota  Willie Bloomquist anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="0"
+                b1="433597"
+                b2=""
+                b3=""
+                rbi="2">
+            <pitch sv_id="090506_201743" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201804" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201831" des="Foul" des_es="Foul" type="S" start_speed="82.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201856" des="Foul" des_es="Foul" type="S" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_201923" des="Foul" des_es="Foul" type="S" start_speed="82.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201951" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="83.0"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="36" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="115229"
+                pitcher="457796"
+                des="Jose Guillen flies out to center fielder Franklin Gutierrez.  "
+                des_es="Jose Guillen batea elevado de out a jardinero central Franklin Gutierrez.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202038" des="Ball" des_es="Bola mala" type="B" start_speed="82.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_202058" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202120" des="Foul" des_es="Foul" type="S" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202147" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202210" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="37" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="456714"
+                pitcher="457796"
+                des="Billy Butler singles on a sharp ground ball to left fielder Endy Chavez.   Mark Teahen to 2nd.  "
+                des_es="Billy Butler pega sencillo con rodado fuerte a jardinero izquierdo Endy Chavez.   Mark Teahen a 2da.  "
+                event="Single"
+                b1="456714"
+                b2="433597"
+                b3="">
+            <pitch sv_id="090506_202252" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202310" des="Foul" des_es="Foul" type="S" start_speed="83.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_202334" des="Ball" des_es="Bola mala" type="B" start_speed="83.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_202356" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="82.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="38" b="4" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="408312"
+                pitcher="457796"
+                des="Mike Jacobs walks.   Mark Teahen to 3rd.    Billy Butler to 2nd.  "
+                des_es="Mike Jacobs recibe base por bolas.   Mark Teahen a 3ra.    Billy Butler a 2da.  "
+                event="Walk"
+                b1="408312"
+                b2="456714"
+                b3="433597">
+            <pitch sv_id="090506_202453" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202514" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_202539" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_202603" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="39" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="430948"
+                pitcher="457796"
+                des="Alberto Callaspo flies out to right fielder Ichiro Suzuki.  "
+                des_es="Alberto Callaspo batea elevado de out a jardinero derecho Ichiro Suzuki.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202640" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_202700" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_202734" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.8"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="40" b="4" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="115135"
+                pitcher="132260"
+                des="Ken Griffey walks.  "
+                des_es="Ken Griffey recibe base por bolas.  "
+                event="Walk"
+                b1="115135"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203005" des="Ball" des_es="Bola mala" type="B" start_speed="82.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_203017" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203030" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203049" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="41" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="492706"
+                pitcher="132260"
+                des="Kenji Johjima flies out to right fielder Jose Guillen.  "
+                des_es="Kenji Johjima batea elevado de out a jardinero derecho Jose Guillen.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203121" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203151" des="Foul" des_es="Foul" type="S" start_speed="90.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203209" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="42" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="429711"
+                pitcher="132260"
+                des="Franklin Gutierrez singles on a soft ground ball to catcher Miguel Olivo.   Ken Griffey to 2nd.  "
+                des_es="Franklin Gutierrez pega sencillo con rodado suave a receptor Miguel Olivo.   Ken Griffey a 2da.  "
+                event="Single"
+                b1="429711"
+                b2="115135"
+                b3="">
+            <pitch sv_id="090506_203251" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203307" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_203325" des="Foul" des_es="Foul" type="S" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203408" des="Foul" des_es="Foul" type="S" start_speed="92.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_203437" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="43" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="435358"
+                pitcher="132260"
+                des="Yuniesky Betancourt singles on a ground ball to left fielder David DeJesus.   Ken Griffey to 3rd.    Franklin Gutierrez to 2nd.  "
+                des_es="Yuniesky Betancourt pega sencillo con rodado a jardinero izquierdo David DeJesus.   Ken Griffey a 3ra.    Franklin Gutierrez a 2da.  "
+                event="Single"
+                b1="435358"
+                b2="429711"
+                b3="115135">
+            <pitch sv_id="090506_203523" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203542" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.6"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="44" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="400085"
+                pitcher="132260"
+                des="Ichiro Suzuki grounds into a force out, pitcher Sidney Ponson to catcher Miguel Olivo.   Ken Griffey out at home.    Franklin Gutierrez to 3rd.    Yuniesky Betancourt to 2nd.    Ichiro Suzuki to 1st.  "
+                des_es="Ichiro Suzuki batea rodado batea para out forzado, lanzador Sidney Ponson a receptor Miguel Olivo.   Ken Griffey a cabo a home.    Franklin Gutierrez a 3ra.    Yuniesky Betancourt a 2da.    Ichiro Suzuki a 1ra.  "
+                event="Forceout"
+                b1="400085"
+                b2="435358"
+                b3="429711">
+            <pitch sv_id="090506_203625" des="Ball" des_es="Bola mala" type="B" start_speed="94.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203646" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203705" des="Foul" des_es="Foul" type="S" start_speed="92.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203728" des="Ball" des_es="Bola mala" type="B" start_speed="94.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203751" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="45" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="346795"
+                pitcher="132260"
+                des="Endy Chavez grounds out, pitcher Sidney Ponson to first baseman Billy Butler.  "
+                des_es="Endy Chavez batea rodado de out, lanzador Sidney Ponson a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203834" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203859" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.7"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="46" b="0" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="400018"
+                pitcher="457796"
+                des="Miguel Olivo strikes out swinging.  "
+                des_es="Miguel Olivo se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204141" des="Foul" des_es="Foul" type="S" start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204202" des="Foul" des_es="Foul" type="S" start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204223" des="Foul" des_es="Foul" type="S" start_speed="90.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_204249" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.4"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="47" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="430574"
+                pitcher="457796"
+                des="Mitch Maier walks.  "
+                des_es="Mitch Maier recibe base por bolas.  "
+                event="Walk"
+                b1="430574"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204316" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204330" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204344" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204359" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204415" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204431" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="48" b="2" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="430203"
+                pitcher="457796"
+                des="David DeJesus flies out to right fielder Ichiro Suzuki.  "
+                des_es="David DeJesus batea elevado de out a jardinero derecho Ichiro Suzuki.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204507" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204527" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204551" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="49" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="217100"
+                pitcher="457796"
+                des="Willie Bloomquist grounds out, third baseman Adrian Beltre to first baseman Russell Branyan.  "
+                des_es="Willie Bloomquist batea rodado de out, tercera base Adrian Beltre a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204635" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204655" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.2"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="50" b="2" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="430946"
+                pitcher="132260"
+                des="Jose Lopez singles on a line drive to left fielder David DeJesus.  "
+                des_es="Jose Lopez pega sencillo con l&#237;nea a jardinero izquierdo David DeJesus.  "
+                event="Single"
+                b1="430946"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204909" des="Ball" des_es="Bola mala" type="B" start_speed="83.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_204919" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_204933" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="51" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="137140"
+                pitcher="132260"
+                des="Russell Branyan doubles (7) on a line drive to right fielder Jose Guillen.   Jose Lopez to 3rd.  "
+                des_es="Russell Branyan pega doble (7) con l&#237;nea a jardinero derecho Jose Guillen.   Jose Lopez a 3ra.  "
+                event="Double"
+                b1=""
+                b2="137140"
+                b3="430946">
+            <pitch sv_id="090506_205010" des="Ball" des_es="Bola mala" type="B" start_speed="84.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_205027" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.6"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="52" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="134181"
+                pitcher="132260"
+                des="Adrian Beltre out on a sacrifice fly to center fielder Mitch Maier.   Jose Lopez scores.    Russell Branyan to 3rd.  "
+                des_es="Adrian Beltre out con elevado de sacrificio a jardinero central Mitch Maier.   Jose Lopez anota  Russell Branyan a 3ra.  "
+                event="Sac Fly"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="137140"
+                rbi="1">
+            <pitch sv_id="090506_205119" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_205144" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="92.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="53" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="115135"
+                pitcher="132260"
+                des="Ken Griffey flies into a double play, center fielder Mitch Maier to catcher Miguel Olivo.   Russell Branyan out at home.  "
+                des_es="Ken Griffey batea elevado para doble matanza, jardinero central Mitch Maier a receptor Miguel Olivo.   Russell Branyan a cabo a home.  "
+                event="Double Play"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205227" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.2"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="54" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="433597"
+                pitcher="457796"
+                des="Mark Teahen singles on a ground ball to shortstop Yuniesky Betancourt, deflected by second baseman Jose Lopez.  "
+                des_es="Mark Teahen pega sencillo con rodado a campo corto Yuniesky Betancourt, desviada por segunda base Jose Lopez.  "
+                event="Single"
+                b1="433597"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205538" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205555" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205612" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="55" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="115229"
+                pitcher="457796"
+                des="Jose Guillen strikes out swinging.  "
+                des_es="Jose Guillen se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205652" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205710" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205732" des="Foul" des_es="Foul" type="S" start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205759" des="Foul" des_es="Foul" type="S" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205832" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.9"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="56" b="4" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="456714"
+                pitcher="457796"
+                des="Billy Butler walks.   Mark Teahen to 2nd.  "
+                des_es="Billy Butler recibe base por bolas.   Mark Teahen a 2da.  "
+                event="Walk"
+                b1="456714"
+                b2="433597"
+                b3="">
+            <pitch sv_id="090506_205906" des="Ball" des_es="Bola mala" type="B" start_speed="80.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_205926" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205948" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210009" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="57" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="408312"
+                pitcher="457796"
+                des="Mike Jacobs grounds into a double play, second baseman Jose Lopez to shortstop Yuniesky Betancourt to first baseman Russell Branyan.   Billy Butler out at 2nd.  "
+                des_es="Mike Jacobs batea rodado batea para doble matanza, segunda base Jose Lopez a campo corto Yuniesky Betancourt a primera base Russell Branyan.   Billy Butler a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210049" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210113" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210134" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210159" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.1"
+                   pitch_type="SL"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <atbat num="58" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="492706"
+                pitcher="132260"
+                des="Kenji Johjima grounds out, pitcher Sidney Ponson to first baseman Billy Butler.  "
+                des_es="Kenji Johjima batea rodado de out, lanzador Sidney Ponson a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210426" des="Ball" des_es="Bola mala" type="B" start_speed="80.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210437" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="59" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="429711"
+                pitcher="132260"
+                des="Franklin Gutierrez grounds out, third baseman Mark Teahen to first baseman Billy Butler.  "
+                des_es="Franklin Gutierrez batea rodado de out, tercera base Mark Teahen a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210517" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210533" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="60" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="435358"
+                pitcher="132260"
+                des="Yuniesky Betancourt flies out to left fielder David DeJesus.  "
+                des_es="Yuniesky Betancourt batea elevado de out a jardinero izquierdo David DeJesus.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210605" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_210619" des="Ball" des_es="Bola mala" type="B" start_speed="82.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210637" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.5"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="61" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="430948"
+                pitcher="457796"
+                des="Alberto Callaspo lines out to center fielder Franklin Gutierrez.  "
+                des_es="Alberto Callaspo batea l&#237;nea de out a jardinero central Franklin Gutierrez.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210913" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="62" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="400018"
+                pitcher="457796"
+                des="Miguel Olivo singles on a soft fly ball to center fielder Franklin Gutierrez.  "
+                des_es="Miguel Olivo pega sencillo con elevado suave a jardinero central Franklin Gutierrez.  "
+                event="Single"
+                b1="400018"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210948" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="82.0"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="63" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="430574"
+                pitcher="457796"
+                des="Mitch Maier singles on a ground ball to right fielder Ichiro Suzuki.   Miguel Olivo to 2nd.  "
+                des_es="Mitch Maier pega sencillo con rodado a jardinero derecho Ichiro Suzuki.   Miguel Olivo a 2da.  "
+                event="Single"
+                b1="430574"
+                b2="400018"
+                b3="">
+            <pitch sv_id="090506_211024" des="Ball" des_es="Bola mala" type="B" start_speed="88.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_211039" des="Ball" des_es="Bola mala" type="B" start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_211057" des="Foul" des_es="Foul" type="S" start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_211121" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="64" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="430203"
+                pitcher="457796"
+                des="David DeJesus flies out to left fielder Endy Chavez.   Miguel Olivo to 3rd.  "
+                des_es="David DeJesus batea elevado de out a jardinero izquierdo Endy Chavez en jugada de infield fly.   Miguel Olivo a 3ra.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="400018">
+            <pitch sv_id="090506_211201" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="65" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="217100"
+                pitcher="457796"
+                des="Willie Bloomquist grounds out, second baseman Jose Lopez to first baseman Russell Branyan.  "
+                des_es="Willie Bloomquist batea rodado de out, segunda base Jose Lopez a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211251" des="Ball" des_es="Bola mala" type="B" start_speed="80.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_211313" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_211335" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_211356" des="Foul" des_es="Foul" type="S" start_speed="81.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_211425" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.3"
+                   pitch_type="SL"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from shortstop to right field for Willie Bloomquist.  "
+                 des_es="Sustituci&#243;n a la defensiva de campo corto a jardinero derecho por Willie Bloomquist.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="217100"
+                 pitch="5"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Luis Hernandez replaces right fielder Jose Guillen, batting 4th, playing shortstop.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Luis Hernandez reemplaza a jardinero derecho Jose Guillen, como cuarto bate y jugando en el campo corto.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="434682"
+                 pitch="5"/>
+         <atbat num="66" b="0" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="400085"
+                pitcher="132260"
+                des="Ichiro Suzuki singles on a line drive to center fielder Mitch Maier.  "
+                des_es="Ichiro Suzuki pega sencillo con l&#237;nea a jardinero central Mitch Maier.  "
+                event="Single"
+                b1="400085"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211653" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211705" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="75.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="67" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="346795"
+                pitcher="132260"
+                des="Endy Chavez flies out to center fielder Mitch Maier.  "
+                des_es="Endy Chavez batea elevado de out a jardinero central Mitch Maier.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211741" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211801" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="68" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="430946"
+                pitcher="132260"
+                des="Jose Lopez doubles (4) on a fly ball to left fielder David DeJesus.   Ichiro Suzuki to 3rd.  "
+                des_es="Jose Lopez pega doble (4) con elevado a jardinero izquierdo David DeJesus.   Ichiro Suzuki a 3ra.  "
+                event="Double"
+                b1=""
+                b2="430946"
+                b3="400085">
+            <pitch sv_id="090506_211839" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Pitching Change: Horacio Ramirez replaces Sidney Ponson.  "
+                 des_es="Cambio de Lanzador: Horacio Ramirez reemplaza a Sidney Ponson.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="400141"
+                 pitch="1"/>
+         <action b="0" s="0" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="137140"
+                 pitch="1"/>
+         <atbat num="69" b="3" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="137140"
+                pitcher="400141"
+                des="Russell Branyan strikes out swinging.  "
+                des_es="Russell Branyan se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212248" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212304" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_212321" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="79.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_212340" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_212359" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="78.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_212420" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="70" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="134181"
+                pitcher="400141"
+                des="Adrian Beltre grounds out, shortstop Luis Hernandez to first baseman Billy Butler.  "
+                des_es="Adrian Beltre batea rodado de out, campo corto Luis Hernandez a primera base Billy Butler.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212450" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212506" des="Foul" des_es="Foul" type="S" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212529" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.5"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="71" b="1" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="433597"
+                pitcher="457796"
+                des="Mark Teahen reaches on a fielding error by second baseman Jose Lopez.  "
+                des_es="Mark Teahen se embasa por error en fildeo de segunda base Jose Lopez.  "
+                event="Field Error"
+                b1="433597"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212753" des="Foul" des_es="Foul" type="S" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212809" des="Foul" des_es="Foul" type="S" start_speed="89.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212826" des="Foul" des_es="Foul" type="S" start_speed="80.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_212851" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_212908" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="72" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="434682"
+                pitcher="457796"
+                des="Luis Hernandez flies out to center fielder Franklin Gutierrez.  "
+                des_es="Luis Hernandez batea elevado de out a jardinero central Franklin Gutierrez.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212955" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213015" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213040" des="Foul" des_es="Foul" type="S" start_speed="89.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213105" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213127" des="Foul" des_es="Foul" type="S" start_speed="88.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213151" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="73" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="456714"
+                pitcher="457796"
+                des="Billy Butler pops out to first baseman Russell Branyan in foul territory.  "
+                des_es="Billy Butler batea elevadito de out a primera base Russell Branyan en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_213232" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="74" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="408312"
+                pitcher="457796"
+                des="Mike Jacobs doubles (7) on a line drive to right fielder Ichiro Suzuki.   Mark Teahen scores.  "
+                des_es="Mike Jacobs pega doble (7) con l&#237;nea a jardinero derecho Ichiro Suzuki.   Mark Teahen anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="9"
+                away_team_runs="1"
+                b1=""
+                b2="408312"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090506_213318" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_213338" des="Foul" des_es="Foul" type="S" start_speed="81.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_213402" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="75" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="430948"
+                pitcher="457796"
+                des="Alberto Callaspo grounds out to first baseman Russell Branyan.  "
+                des_es="Alberto Callaspo batea rodado de out a primera base Russell Branyan.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_213458" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213522" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213547" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213613" des="Foul" des_es="Foul" type="S" start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_213648" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.7"
+                   pitch_type="SL"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Kyle Farnsworth replaces Horacio Ramirez.  "
+                 des_es="Cambio de Lanzador: Kyle Farnsworth reemplaza a Horacio Ramirez.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150035"
+                 pitch="5"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: John Buck replaces catcher Miguel Olivo, batting 8th, playing catcher.  "
+                 des_es="Sustituci&#243;n a la Defensiva: John Buck reemplaza a receptor Miguel Olivo, como octavo bate y jugando en el  receptor.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407833"
+                 pitch="5"/>
+         <atbat num="76" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="115135"
+                pitcher="150035"
+                des="Ken Griffey reaches on a missed catch error by pitcher Kyle Farnsworth, assist to first baseman Billy Butler.  "
+                des_es="Ken Griffey se embasa por error con batazo dejado caer de lanzador Kyle Farnsworth, asistencia de primera base Billy Butler.  "
+                event="Field Error"
+                b1="115135"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214006" des="Ball" des_es="Bola mala" type="B" start_speed="97.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_214022" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214039" des="Ball" des_es="Bola mala" type="B" start_speed="81.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_214052" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214109" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.1"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="77" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="492706"
+                pitcher="150035"
+                des="Kenji Johjima flies out to right fielder Willie Bloomquist.  "
+                des_es="Kenji Johjima batea elevado de out a jardinero derecho Willie Bloomquist.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214200" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_214216" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="98.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_214240" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="78" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="429711"
+                pitcher="150035"
+                des="Franklin Gutierrez singles on a soft ground ball to third baseman Mark Teahen, deflected by pitcher Kyle Farnsworth.   Ken Griffey to 2nd.  "
+                des_es="Franklin Gutierrez pega sencillo con rodado suave a tercera base Mark Teahen, desviada por lanzador Kyle Farnsworth.   Ken Griffey a 2da.  "
+                event="Single"
+                b1="429711"
+                b2="115135"
+                b3="">
+            <pitch sv_id="090506_214326" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214343" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214405" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="82.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="79" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="435358"
+                pitcher="150035"
+                des="Yuniesky Betancourt pops out to second baseman Alberto Callaspo on the infield fly rule.  "
+                des_es="Yuniesky Betancourt batea elevadito de out a segunda base Alberto Callaspo en jugada de infield fly.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214452" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214520" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="96.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="80" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="400085"
+                pitcher="150035"
+                des="Ichiro Suzuki strikes out swinging.  "
+                des_es="Ichiro Suzuki se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214606" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_214626" des="Foul" des_es="Foul" type="S" start_speed="90.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214711" des="Foul" des_es="Foul" type="S" start_speed="87.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_214737" des="Foul" des_es="Foul" type="S" start_speed="97.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_214806" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="97.0"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="400085"/>
+   <deck pid="346795"/>
+   <hole pid="430946"/>
+</game>

@@ -1,0 +1,64 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_03_pitmlb_bosmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="3" ah="8" ae="1" hr="5" hh="10" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="516782" team_abbrev="PIT" team_id="134" parent_team_abbrev="PIT" parent_team_id="134" current_position="CF" stand="R" b_height="6-1" ab="4" h="0" avg=".000" boxname="Marte">
+			<ab inning="9" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="7" event="Sac Fly" event_es="Elevado de Sacrificio"/>
+			<ab inning="6" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="3" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="1" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="518886" p_throws="R" pitches="22" strikes="15" balls="7" era="0.00" boxname="Kimbrel"/>
+		<deck pid="457705" boxname="McCutchen"/>
+		<hole pid="570256" boxname="Polanco"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="73" des="Starling Marte pops out to first baseman Mitch Moreland in foul territory.  " des_es="Starling Marte batea elevadito de out a primera base Mitch Moreland en territorio de foul.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="516782" play_guid="36e0994f-c514-4272-aead-59287bf67586" >
+		<p type="S" id="585" event_num="585" x="132.32" y="142.69" des="Foul Tip" des_es="Foul atr&#225;s" sv_id="170403_210903" play_guid="e25fb1b5-d940-40c4-b374-33cbb27d4798" start_speed="98.0" end_speed="88.9" sz_top="3.786" sz_bot="1.565" pfx_x="-7.760720915855797" pfx_z="9.083119209977449" px="-0.40438333295591" pz="3.54698868101666" x0="-2.43237580029992" y0="50" z0="4.75039966068708" vx0="8.52273123299097" vy0="-142.557525585178" vz0="-0.960215060763406" ax="-15.8827477754841" ay="34.4561466123273" az="-13.5849389890472" break_y="23.7" break_angle="45.0" break_length="3.9" pitch_type="FF" type_confidence=".900" zone="1" nasty="63" spin_dir="220.510" spin_rate="2488.258"  cc=""/>		<p type="B" id="586" event_num="586" x="116.31" y="132.59" des="Ball" des_es="Bola mala" sv_id="170403_210926" play_guid="012d3c50-50a5-43cd-afd5-d45d5846d58e" start_speed="97.9" end_speed="88.8" sz_top="3.466197458790639" sz_bot="1.565104124554594" pfx_x="-6.59560950567948" pfx_z="11.13692003065056" px="0.0320468472353117" pz="3.93138559257294" x0="-2.25133545831937" y0="50" z0="4.9271954408564" vx0="8.80001625280861" vy0="-142.225402306849" vz0="-1.10403058722393" ax="-13.4529028393461" ay="33.9024633412939" az="-9.45834609210229" break_y="23.7" break_angle="49.4" break_length="3.0" pitch_type="FF" type_confidence=".920" zone="12" nasty="20" spin_dir="210.634" spin_rate="2692.996"  cc=""/>		<p type="X" id="587" event_num="587" x="86.94" y="172.64" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170403_210952" play_guid="36e0994f-c514-4272-aead-59287bf67586" start_speed="98.1" end_speed="89.0" sz_top="3.786" sz_bot="1.565" pfx_x="-7.588579444110492" pfx_z="10.130182974627768" px="0.788601837632492" pz="2.44969895962436" x0="-2.19837357149726" y0="50" z0="4.7355432637193" vx0="11.1420194541664" vy0="-142.421840283031" vz0="-4.36590313004695" ax="-15.5003133582746" ay="34.4021062035216" az="-11.4822956875516" break_y="23.7" break_angle="45.7" break_length="3.6" pitch_type="FF" type_confidence=".914" zone="14" nasty="50" spin_dir="216.836" spin_rate="2633.576"  cc=""/>		<runner id="624428" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="605137" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="pit">
+			<man bnum="1" pid="624428" boxname="Frazier" note="Hit By Pitch" sb="0" cs="0"/>
+			<man bnum="2" pid="605137" boxname="Bell" note="Double" sb="0" cs="0"/>
+		</offense>
+		<defense type="home" id="bos">
+			<man pid="518886" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="506702" s_po="7" s_ass="2" s_err="0" s_fldg="1.000" c_sb="0" c_cs="1" pos="c"/>
+			<man pid="519048" s_po="9" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="456030" s_po="2" s_ass="3" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="593428" s_po="0" s_ass="2" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="467055" s_po="1" s_ass="1" s_err="1" s_fldg=".667" pos="3b"/>
+			<man pid="643217" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="598265" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="605141" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="rf"/>
+		</defense>
+		<ball type="O" x="169.98" y="184.84" batter="516782" pitcher="518886"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="518886" index="9">
+			<man pid="456030"/>
+			<man pid="643217"/>
+			<man pid="605141"/>
+			<man pid="434670"/>
+			<man pid="519048"/>
+			<man pid="593428"/>
+			<man pid="598265"/>
+			<man pid="467055"/>
+			<man pid="506702"/>
+		</team>
+		<team type="away" pitcher="543339" index="2">
+			<man pid="624428"/>
+			<man pid="516782"/>
+			<man pid="457705"/>
+			<man pid="570256"/>
+			<man pid="501896"/>
+			<man pid="465041"/>
+			<man pid="605137"/>
+			<man pid="543281"/>
+			<man pid="474568"/>
+		</team>
+	</lineup>
+	<weather temp="48" condition="Partly Cloudy" wind="13mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

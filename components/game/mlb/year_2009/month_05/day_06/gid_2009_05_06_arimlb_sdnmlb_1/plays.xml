@@ -1,0 +1,61 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_arimlb_sdnmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="3" ah="6" ae="4" hr="1" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="452104" team_abbrev="SD" team_id="135" parent_team_abbrev="SD" parent_team_id="135" current_position="PH" stand="L" b_height="6-2" ab="1" h="0" avg=".253" boxname="Headley">
+			<ab inning="9" event="Strikeout"/>
+		</batter>
+		<pitcher pid="430589" p_throws="R" pitches="24" strikes="13" balls="11" era="2.45" boxname="Qualls"/>
+		<deck pid="114789" boxname="Giles"/>
+		<hole pid="275930" boxname="Eckstein"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="73" des="Chase Headley strikes out swinging.  " des_es="Chase Headley se poncha tir&#225;ndole.  " event="Left On Base" player="452104">
+		<p type="S" id="582" x="137.34" y="146.79" des="Foul" des_es="Foul" sv_id="090506_214554" start_speed="94.3" end_speed="86.3" sz_top="3.55" sz_bot="1.5" pfx_x="-8.752" pfx_z="2.669" px="-1.011" pz="2.526" x0="-2.696" y0="50.0" z0="5.713" vx0="7.663" vy0="-138.07" vz0="-3.689" ax="-16.755" ay="33.098" az="-26.991" break_y="23.8" break_angle="28.3" break_length="6.7" pitch_type="SI" type_confidence="2.000" zone="11" spin_dir="252.811" spin_rate="1842.856"  cc=""/>		<po des="Pickoff Attempt 1B"/>
+		<p type="S" id="584" x="95.28" y="153.69" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090506_214643" start_speed="86.8" end_speed="80.2" sz_top="3.55" sz_bot="1.5" pfx_x="1.341" pfx_z="4.731" px="0.107" pz="2.218" x0="-2.421" y0="50.0" z0="6.116" vx0="5.902" vy0="-127.033" vz0="-4.91" ax="2.189" ay="26.307" az="-24.378" break_y="23.8" break_angle="-7.4" break_length="6.4" pitch_type="SL" type_confidence="2.000" zone="5" spin_dir="164.318" spin_rate="924.775"  cc=""/>		<p type="S" id="585" x="74.68" y="177.87" des="Swinging Strike (Blocked)" des_es="Strike tir&#225;ndole (Bloqueado)" sv_id="090506_214724" start_speed="87.6" end_speed="80.3" sz_top="3.55" sz_bot="1.5" pfx_x="4.09" pfx_z="1.332" px="0.683" pz="0.981" x0="-2.271" y0="50.0" z0="5.959" vx0="6.092" vy0="-128.106" vz0="-6.553" ax="6.691" ay="30.296" az="-29.92" break_y="23.8" break_angle="-14.2" break_length="8.1" pitch_type="SL" type_confidence="2.000" zone="14" spin_dir="108.618" spin_rate="799.586"  cc=""/>		<runner id="425904" start="1B" end="" event="Left On Base"/>
+		<runner id="425506" start="3B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="home" id="sdn">
+			<man bnum="1" pid="425904" boxname="Rodriguez, L" note="Walk" sb="0" cs="0"/>
+			<man bnum="3" pid="425506" boxname="Gerut" note="Single" sb="1" cs="0"/>
+		</offense>
+		<defense type="away" id="ari">
+			<man pid="430589" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="471083" s_po="68" s_ass="2" s_err="3" s_fldg=".959" c_sb="7" c_cs="3" pos="c"/>
+			<man pid="444882" s_po="8" s_ass="1" s_err="1" s_fldg=".900" pos="1b"/>
+			<man pid="150479" s_po="52" s_ass="80" s_err="3" s_fldg=".978" pos="2b"/>
+			<man pid="324432" s_po="17" s_ass="37" s_err="2" s_fldg=".964" pos="ss"/>
+			<man pid="448602" s_po="17" s_ass="51" s_err="4" s_fldg=".944" pos="3b"/>
+			<man pid="433582" s_po="75" s_ass="1" s_err="2" s_fldg=".974" pos="lf"/>
+			<man pid="455759" s_po="67" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="457708" s_po="44" s_ass="1" s_err="1" s_fldg=".978" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="465629" index="9">
+			<man pid="114789"/>
+			<man pid="275930"/>
+			<man pid="430668"/>
+			<man pid="408236"/>
+			<man pid="425506"/>
+			<man pid="450260"/>
+			<man pid="111072"/>
+			<man pid="425904"/>
+			<man pid="452104"/>
+		</team>
+		<team type="away" pitcher="430589" index="2">
+			<man pid="150479"/>
+			<man pid="324432"/>
+			<man pid="457708"/>
+			<man pid="448602"/>
+			<man pid="444882"/>
+			<man pid="433582"/>
+			<man pid="471083"/>
+			<man pid="455759"/>
+			<man pid="430589"/>
+		</team>
+	</lineup>
+	<weather temp="70" condition="Clear" wind="7mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

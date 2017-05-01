@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="150479"
+                pitcher="150116"
+                des="Felipe Lopez singles on a line drive to left fielder Juan Pierre.  "
+                des_es="Felipe Lopez pega sencillo con l&#237;nea a jardinero izquierdo Juan Pierre.  "
+                event="Single"
+                b1="150479"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_191114" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="2" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="440251"
+                pitcher="150116"
+                des="Ryan Roberts singles on a ground ball to right fielder Andre Ethier.   Felipe Lopez to 2nd.  "
+                des_es="Ryan Roberts pega sencillo con rodado a jardinero derecho Andre Ethier.   Felipe Lopez a 2da.  "
+                event="Single"
+                b1="440251"
+                b2="150479"
+                b3="">
+            <pitch sv_id="090602_191156" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.8"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="3" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="457708"
+                pitcher="150116"
+                des="Justin Upton walks.   Felipe Lopez to 3rd.    Ryan Roberts to 2nd.  "
+                des_es="Justin Upton recibe base por bolas.   Felipe Lopez a 3ra.    Ryan Roberts a 2da.  "
+                event="Walk"
+                b1="457708"
+                b2="440251"
+                b3="150479">
+            <pitch sv_id="090602_191250" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_191312" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="81.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_191345" des="Ball" des_es="Bola mala" type="B" start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_191410" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_191434" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="79.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_191540" des="Foul" des_es="Foul" type="S" start_speed="88.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_191610" des="Ball" des_es="Bola mala" type="B" start_speed="90.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="4" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="448602"
+                pitcher="150116"
+                des="Mark Reynolds grounds out, third baseman Casey Blake to first baseman James Loney.   Felipe Lopez scores.    Ryan Roberts to 3rd.    Justin Upton to 2nd.  "
+                des_es="Mark Reynolds batea rodado de out a primera base James Loney en jugada de infield fly.   Felipe Lopez anota  Ryan Roberts a 3ra.    Justin Upton a 2da.  "
+                event="Groundout"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2="457708"
+                b3="440251"
+                rbi="1">
+            <pitch sv_id="090602_191649" des="Ball" des_es="Bola mala" type="B" start_speed="67.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_191712" des="Foul" des_es="Foul" type="S" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_191751" des="Ball" des_es="Bola mala" type="B" start_speed="83.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_191829" des="Foul" des_es="Foul" type="S" start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_191900" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="5" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="291565"
+                pitcher="150116"
+                des="Eric Byrnes reaches on a fielder's choice out, pitcher Randy Wolf to third baseman Casey Blake.   Ryan Roberts out at home.  "
+                des_es="Eric Byrnes se embasa por out en jugada de selecci&#243;n, lanzador Randy Wolf a tercera base Casey Blake.   Ryan Roberts a cabo a home.  "
+                event="Fielders Choice Out"
+                b1="291565"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_191947" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="67.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_192009" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192033" des="Foul" des_es="Foul" type="S" start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192107" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192154" des="Foul" des_es="Foul" type="S" start_speed="82.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_192228" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="6" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="455759"
+                pitcher="150116"
+                des="Chris Young flies out to center fielder Matt Kemp.  "
+                des_es="Chris Young batea elevado de out a jardinero central Matt Kemp.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_192328" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_192400" des="Foul" des_es="Foul" type="S" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_192451" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="7" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="334393"
+                pitcher="429717"
+                des="Juan Pierre flies out to center fielder Chris Young.  "
+                des_es="Juan Pierre batea elevado de out a jardinero central Chris Young.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_192733" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192745" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_192801" des="Ball" des_es="Bola mala" type="B" start_speed="78.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_192815" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="8" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="279577"
+                pitcher="429717"
+                des="Rafael Furcal grounds out to first baseman Mark Reynolds.  "
+                des_es="Rafael Furcal batea rodado de out a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_192856" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192911" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_192926" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="9" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="407861"
+                pitcher="429717"
+                des="Orlando Hudson called out on strikes.  "
+                des_es="Orlando Hudson se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_193014" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193030" des="Foul" des_es="Foul" type="S" start_speed="88.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193055" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193109" des="Foul" des_es="Foul" type="S" start_speed="79.4"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_193136" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.3"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="10" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="430965"
+                pitcher="150116"
+                des="Chris Snyder walks.  "
+                des_es="Chris Snyder recibe base por bolas.  "
+                event="Walk"
+                b1="430965"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_193403" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193418" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193434" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_193453" des="Foul" des_es="Foul" type="S" start_speed="82.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_193518" des="Foul" des_es="Foul" type="S" start_speed="89.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193609" des="Foul" des_es="Foul" type="S" start_speed="78.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_193639" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193658" des="Ball" des_es="Bola mala" type="B" start_speed="68.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_193728" des="Foul" des_es="Foul" type="S" start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_193752" des="Ball" des_es="Bola mala" type="B" start_speed="79.1"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="11" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="324432"
+                pitcher="150116"
+                des="Augie Ojeda pops out to second baseman Orlando Hudson.  "
+                des_es="Augie Ojeda batea elevadito de out a segunda base Orlando Hudson.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_193826" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_193915" des="Foul" des_es="Foul" type="S" start_speed="79.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_193951" des="Foul" des_es="Foul" type="S" start_speed="86.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_194019" des="Foul" des_es="Foul" type="S" start_speed="67.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_194051" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="12" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="429717"
+                pitcher="150116"
+                des="Dan Haren singles on a ground ball to right fielder Andre Ethier.   Chris Snyder to 2nd.  "
+                des_es="Dan Haren pega sencillo con rodado a jardinero derecho Andre Ethier.   Chris Snyder a 2da.  "
+                event="Single"
+                b1="429717"
+                b2="430965"
+                b3="">
+            <pitch sv_id="090602_194209" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="13" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150479"
+                pitcher="150116"
+                des="Felipe Lopez singles on a ground ball to right fielder Andre Ethier.   Chris Snyder to 3rd.    Dan Haren to 2nd.  "
+                des_es="Felipe Lopez pega sencillo con rodado a jardinero derecho Andre Ethier.   Chris Snyder a 3ra.    Dan Haren a 2da.  "
+                event="Single"
+                b1="150479"
+                b2="429717"
+                b3="430965">
+            <pitch sv_id="090602_194254" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="67.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_194332" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="78.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="14" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="440251"
+                pitcher="150116"
+                des="Ryan Roberts pops out to first baseman James Loney in foul territory.  "
+                des_es="Ryan Roberts batea elevadito de out a primera base James Loney en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_194426" des="Ball" des_es="Bola mala" type="B" start_speed="87.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_194444" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="15" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="457708"
+                pitcher="150116"
+                des="Justin Upton hits a grand slam (10) to left field.   Chris Snyder scores.    Dan Haren scores.    Felipe Lopez scores.  "
+                des_es="Justin Upton batea jonr&#243;n con las bases llenas (10) por el jard&#237;n izquierdo.   Chris Snyder anota  Dan Haren anota  Felipe Lopez anota  .  "
+                event="Home Run"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3=""
+                rbi="4">
+            <pitch sv_id="090602_194534" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="78.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_194600" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="89.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="16" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="448602"
+                pitcher="150116"
+                des="Mark Reynolds strikes out swinging.  "
+                des_es="Mark Reynolds se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_194707" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_194723" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_194741" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_194758" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.0"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="17" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425766"
+                pitcher="429717"
+                des="James Loney grounds out, second baseman Felipe Lopez to first baseman Mark Reynolds.  "
+                des_es="James Loney batea rodado de out, segunda base Felipe Lopez a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_195010" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_195023" des="Foul" des_es="Foul" type="S" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195045" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195059" des="Foul" des_es="Foul" type="S" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195123" des="Foul" des_es="Foul" type="S" start_speed="91.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195144" des="Foul" des_es="Foul" type="S" start_speed="84.7"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_195207" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.8"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="18" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="232694"
+                pitcher="429717"
+                des="Casey Blake grounds out, third baseman Ryan Roberts to first baseman Mark Reynolds.  "
+                des_es="Casey Blake batea rodado de out, tercera base Ryan Roberts a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_195238" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195251" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195305" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195321" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195337" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.0"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="19" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="444843"
+                pitcher="429717"
+                des="Andre Ethier homers (7) on a fly ball to right field.  "
+                des_es="Andre Ethier batea jonr&#243;n (7) con elevado por el jard&#237;n derecho.  "
+                event="Home Run"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090602_195415" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="92.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="20" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="461314"
+                pitcher="429717"
+                des="Matt Kemp strikes out swinging.  "
+                des_es="Matt Kemp se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_195507" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_195522" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195540" des="Ball" des_es="Bola mala" type="B" start_speed="86.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195558" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_195613" des="Foul" des_es="Foul" type="S" start_speed="86.2"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_195638" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.2"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="21" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="291565"
+                pitcher="150116"
+                des="Eric Byrnes pops out to first baseman James Loney in foul territory.  "
+                des_es="Eric Byrnes batea elevadito de out a primera base James Loney en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_195851" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="76.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_195903" des="Ball" des_es="Bola mala" type="B" start_speed="87.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_195916" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="22" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="455759"
+                pitcher="150116"
+                des="Chris Young grounds out, third baseman Casey Blake to first baseman James Loney.  "
+                des_es="Chris Young batea rodado de out, tercera base Casey Blake a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_195955" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200009" des="Ball" des_es="Bola mala" type="B" start_speed="79.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_200024" des="Foul" des_es="Foul" type="S" start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200048" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="23" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="430965"
+                pitcher="150116"
+                des="Chris Snyder flies out to right fielder Andre Ethier.  "
+                des_es="Chris Snyder batea elevado de out a jardinero derecho Andre Ethier.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_200127" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_200140" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.5"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="24" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="110385"
+                pitcher="429717"
+                des="Brad Ausmus grounds out, third baseman Ryan Roberts to first baseman Mark Reynolds.  "
+                des_es="Brad Ausmus batea rodado de out, tercera base Ryan Roberts a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_200421" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.1"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_200437" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200453" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200515" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.5"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_200534" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.7"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="25" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="150116"
+                pitcher="429717"
+                des="Randy Wolf flies out to center fielder Chris Young.  "
+                des_es="Randy Wolf batea elevado de out a jardinero central Chris Young.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_200610" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200621" des="Ball" des_es="Bola mala" type="B" start_speed="78.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_200636" des="Foul" des_es="Foul" type="S" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200658" des="Ball" des_es="Bola mala" type="B" start_speed="92.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200719" des="Ball" des_es="Bola mala" type="B" start_speed="92.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200743" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="26" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="334393"
+                pitcher="429717"
+                des="Juan Pierre strikes out swinging.  "
+                des_es="Juan Pierre se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_200829" des="Ball" des_es="Bola mala" type="B" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_200843" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.8"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_200857" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.8"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_200911" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.0"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="27" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="324432"
+                pitcher="150116"
+                des="Augie Ojeda flies out to right fielder Andre Ethier.  "
+                des_es="Augie Ojeda batea elevado de out a jardinero derecho Andre Ethier.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_201120" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_201137" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="28" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="429717"
+                pitcher="150116"
+                des="Dan Haren singles on a ground ball to right fielder Andre Ethier.  "
+                des_es="Dan Haren pega sencillo con rodado a jardinero derecho Andre Ethier.  "
+                event="Single"
+                b1="429717"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_201209" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_201222" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="78.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="29" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="150479"
+                pitcher="150116"
+                des="Felipe Lopez grounds into a double play, third baseman Casey Blake to second baseman Orlando Hudson to first baseman James Loney.   Dan Haren out at 2nd.  "
+                des_es="Felipe Lopez batea rodado batea para doble matanza, tercera base Casey Blake a segunda base Orlando Hudson a primera base James Loney.   Dan Haren a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_201311" des="Ball" des_es="Bola mala" type="B" start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_201325" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="66.2"
+                   pitch_type="CU"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="30" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="279577"
+                pitcher="429717"
+                des="Rafael Furcal grounds out, first baseman Mark Reynolds to pitcher Dan Haren.  "
+                des_es="Rafael Furcal batea rodado de out, primera base Mark Reynolds a lanzador Dan Haren.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_201737" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="" des="Foul" des_es="Foul" type="S" start_speed="" pitch_type=""/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="31" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="407861"
+                pitcher="429717"
+                des="Orlando Hudson pops out to third baseman Ryan Roberts in foul territory.  "
+                des_es="Orlando Hudson batea elevadito de out a tercera base Ryan Roberts en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_201819" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.8"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_201833" des="Ball" des_es="Bola mala" type="B" start_speed="85.8"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_201851" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_201910" des="Ball" des_es="Bola mala" type="B" start_speed="87.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_201925" des="Ball" des_es="Bola mala" type="B" start_speed="92.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_201942" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.2"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="32" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="425766"
+                pitcher="429717"
+                des="James Loney called out on strikes.  "
+                des_es="James Loney se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_202022" des="Ball" des_es="Bola mala" type="B" start_speed="78.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_202041" des="Foul" des_es="Foul" type="S" start_speed="86.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_202104" des="Foul" des_es="Foul" type="S" start_speed="92.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_202131" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="33" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="440251"
+                pitcher="150116"
+                des="Ryan Roberts singles on a ground ball to right fielder Andre Ethier.  "
+                des_es="Ryan Roberts pega sencillo con rodado a jardinero derecho Andre Ethier.  "
+                event="Single"
+                b1="440251"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_202343" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="64.9"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="34" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="457708"
+                pitcher="150116"
+                des="Justin Upton lines into a double play, third baseman Casey Blake to first baseman James Loney.   Ryan Roberts doubled off 1st.  "
+                des_es="Justin Upton batea l&#237;nea para doble matanza, tercera base Casey Blake a primera base James Loney.   Ryan Roberts doblado 1ra.  "
+                event="Double Play"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_202427" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="35" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="448602"
+                pitcher="150116"
+                des="Mark Reynolds pops out to second baseman Orlando Hudson in foul territory.  "
+                des_es="Mark Reynolds batea elevadito de out a segunda base Orlando Hudson en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_202509" des="Ball" des_es="Bola mala" type="B" start_speed="77.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_202525" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.4"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="36" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="232694"
+                pitcher="429717"
+                des="Casey Blake lines out to third baseman Ryan Roberts.  "
+                des_es="Casey Blake batea l&#237;nea de out a tercera base Ryan Roberts.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_202821" des="Ball" des_es="Bola mala" type="B" start_speed="86.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_202835" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_202849" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="37" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="444843"
+                pitcher="429717"
+                des="Andre Ethier hits a ground-rule double (12) on a fly ball to right field.  "
+                des_es="Andre Ethier pega doble por reglas de terreno (12) con elevado al jard&#237;n derecho.  "
+                event="Double"
+                b1=""
+                b2="444843"
+                b3="">
+            <pitch sv_id="090602_202924" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_202947" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="38" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="461314"
+                pitcher="429717"
+                des="Matt Kemp flies out to center fielder Chris Young.  "
+                des_es="Matt Kemp batea elevado de out a jardinero central Chris Young.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_203047" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_203106" des="Ball" des_es="Bola mala" type="B" start_speed="87.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_203132" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_203158" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_203226" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.6"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="39" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="110385"
+                pitcher="429717"
+                des="Brad Ausmus flies out to center fielder Chris Young.  "
+                des_es="Brad Ausmus batea elevado de out a jardinero central Chris Young.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_203313" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.4"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_203335" des="Ball" des_es="Bola mala" type="B" start_speed="87.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_203359" des="Foul" des_es="Foul" type="S" start_speed="87.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_203429" des="Ball" des_es="Bola mala" type="B" start_speed="86.3"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_203452" des="Foul" des_es="Foul" type="S" start_speed="79.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_203525" des="Ball" des_es="Bola mala" type="B" start_speed="85.1"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_203627" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.7"
+                   pitch_type="KC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="40" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="291565"
+                pitcher="150116"
+                des="Eric Byrnes pops out to first baseman James Loney.  "
+                des_es="Eric Byrnes batea elevadito de out a primera base James Loney.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_203857" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="41" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="455759"
+                pitcher="150116"
+                des="Chris Young flies out to left fielder Juan Pierre.  "
+                des_es="Chris Young batea elevado de out a jardinero izquierdo Juan Pierre.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_203933" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_203947" des="Foul" des_es="Foul" type="S" start_speed="78.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_204006" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="42" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="430965"
+                pitcher="150116"
+                des="Chris Snyder grounds out, shortstop Rafael Furcal to first baseman James Loney.  "
+                des_es="Chris Snyder batea rodado de out, campo corto Rafael Furcal a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_204047" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204103" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="67.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_204120" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="68.0"
+                   pitch_type="CU"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Offensive Substitution: Pinch-hitter Jamie Hoffmann replaces Randy Wolf.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Jamie Hoffmann reemplaza a Randy Wolf.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="469845"
+                 pitch="3"/>
+         <atbat num="43" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="469845"
+                pitcher="429717"
+                des="Jamie Hoffmann grounds out, second baseman Felipe Lopez to first baseman Mark Reynolds.  "
+                des_es="Jamie Hoffmann batea rodado de out, segunda base Felipe Lopez a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_204358" des="Ball" des_es="Bola mala" type="B" start_speed="77.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_204411" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="78.0"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_204424" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204437" des="Ball" des_es="Bola mala" type="B" start_speed="87.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_204451" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="44" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="334393"
+                pitcher="429717"
+                des="Juan Pierre grounds out, shortstop Augie Ojeda to first baseman Mark Reynolds.  "
+                des_es="Juan Pierre batea rodado de out, campo corto Augie Ojeda a primera base Mark Reynolds.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_204528" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="77.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_204540" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_204552" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="45" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="279577"
+                pitcher="429717"
+                des="Rafael Furcal strikes out swinging.  "
+                des_es="Rafael Furcal se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_204631" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204645" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204659" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.1"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_204716" des="Foul" des_es="Foul" type="S" start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204738" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204801" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_204818" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.4"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Jeff Weaver replaces Randy Wolf, batting 9th, replacing  Jamie Hoffmann.  "
+                 des_es="Cambio de lanzador: Jeff Weaver reemplaza a Randy Wolf, como noveno bate, en lugar de  Jamie Hoffmann.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="213711"
+                 pitch="7"/>
+         <atbat num="46" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="324432"
+                pitcher="213711"
+                des="Augie Ojeda grounds out, shortstop Rafael Furcal to first baseman James Loney.  "
+                des_es="Augie Ojeda batea rodado de out, campo corto Rafael Furcal a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_205125" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205143" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205202" des="Foul" des_es="Foul" type="S" start_speed="88.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_205228" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.0"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="47" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="429717"
+                pitcher="213711"
+                des="Dan Haren singles on a line drive to left fielder Juan Pierre.  "
+                des_es="Dan Haren pega sencillo con l&#237;nea a jardinero izquierdo Juan Pierre.  "
+                event="Single"
+                b1="429717"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_205315" des="Foul" des_es="Foul" type="S" start_speed="87.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205337" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_205354" des="Foul" des_es="Foul" type="S" start_speed="81.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_205414" des="Ball" des_es="Bola mala" type="B" start_speed="81.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_205435" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="48" b="3" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="150479"
+                pitcher="213711"
+                des="Felipe Lopez strikes out swinging.  "
+                des_es="Felipe Lopez se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_205515" des="Ball" des_es="Bola mala" type="B" start_speed="81.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_205535" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205552" des="Foul" des_es="Foul" type="S" start_speed="90.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205617" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205642" des="Foul" des_es="Foul" type="S" start_speed="91.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205711" des="Ball" des_es="Bola mala" type="B" start_speed="86.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205733" des="Foul" des_es="Foul" type="S" start_speed="91.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205757" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="49" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="440251"
+                pitcher="213711"
+                des="Ryan Roberts grounds into a force out, third baseman Casey Blake to second baseman Orlando Hudson.   Dan Haren out at 2nd.  "
+                des_es="Ryan Roberts batea rodado batea para out forzado, tercera base Casey Blake a segunda base Orlando Hudson.   Dan Haren a cabo a 2da.  "
+                event="Forceout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_205835" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_205852" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205908" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205929" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_205951" des="Foul" des_es="Foul" type="S" start_speed="92.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_210020" des="Foul" des_es="Foul" type="S" start_speed="79.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_210100" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.8"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="50" b="4" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="407861"
+                pitcher="429717"
+                des="Orlando Hudson walks.  "
+                des_es="Orlando Hudson recibe base por bolas.  "
+                event="Walk"
+                b1="407861"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_210549" des="Ball" des_es="Bola mala" type="B" start_speed="74.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_210604" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_210625" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_210650" des="Ball" des_es="Bola mala" type="B" start_speed="88.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="0" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425766"
+                 pitch="0"/>
+         <atbat num="51" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="425766"
+                pitcher="429717"
+                des="James Loney strikes out swinging.  "
+                des_es="James Loney se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_210803" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_210819" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="77.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_210837" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_210901" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="1" s="1" o="1"
+                 des="With Casey Blake batting, wild pitch by Dan Haren, Orlando Hudson to 2nd.  "
+                 des_es="Con Casey Blake bateando, lanzamiento desviado de Dan Haren, Orlando Hudson a 2da.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407861"
+                 pitch="2"/>
+         <atbat num="52" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="232694"
+                pitcher="429717"
+                des="Casey Blake called out on strikes.  "
+                des_es="Casey Blake se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2="407861"
+                b3="">
+            <pitch sv_id="090602_210932" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_210951" des="Ball" des_es="Bola mala" type="B" start_speed="86.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090602_211031" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_211055" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="53" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="444843"
+                pitcher="429717"
+                des="Andre Ethier grounds out, first baseman Mark Reynolds to pitcher Dan Haren.  "
+                des_es="Andre Ethier batea rodado de out, primera base Mark Reynolds a lanzador Dan Haren.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_211132" des="Ball" des_es="Bola mala" type="B" start_speed="78.7"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_211209" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="85.1"
+                   pitch_type="FS"/>
+            <pitch sv_id="090602_211238" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="78.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="090602_211259" des="Foul" des_es="Foul" type="S" start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_211346" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.0"
+                   pitch_type="FS"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <atbat num="54" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="457708"
+                pitcher="213711"
+                des="Justin Upton grounds out to first baseman James Loney.  "
+                des_es="Justin Upton batea rodado de out a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_211622" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_211639" des="Ball" des_es="Bola mala" type="B" start_speed="90.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_211658" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_211725" des="Foul" des_es="Foul" type="S" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_211753" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="55" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="448602"
+                pitcher="213711"
+                des="Mark Reynolds called out on strikes.  "
+                des_es="Mark Reynolds se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_211841" des="Ball" des_es="Bola mala" type="B" start_speed="82.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_211901" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_211920" des="Foul" des_es="Foul" type="S" start_speed="83.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_211948" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="56" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="291565"
+                pitcher="213711"
+                des="Eric Byrnes singles on a ground ball to center fielder Matt Kemp.  "
+                des_es="Eric Byrnes pega sencillo con rodado a jardinero central Matt Kemp.  "
+                event="Single"
+                b1="291565"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_212021" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="57" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="455759"
+                pitcher="213711"
+                des="Chris Young singles on a line drive to center fielder Matt Kemp.  Eric Byrnes advances to 3rd, on a fielding error by center fielder Matt Kemp.  "
+                des_es="Chris Young pega sencillo con l&#237;nea a jardinero central Matt Kemp.  Eric Byrnes avanza a la 3ra, on error en en fildeo de jardinero central Matt Kemp.  "
+                event="Single"
+                event2="Error"
+                b1="455759"
+                b2=""
+                b3="291565">
+            <pitch sv_id="090602_212227" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_212254" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="2" s="1" o="2"
+                 des="With Chris Snyder batting, Chris Young steals (5) 2nd base.  "
+                 des_es="Con Chris Snyder bateando, Chris Young se roba (5) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="455759"
+                 pitch="3"/>
+         <atbat num="58" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="430965"
+                pitcher="213711"
+                des="Chris Snyder grounds out, shortstop Rafael Furcal to first baseman James Loney.  "
+                des_es="Chris Snyder batea rodado de out, campo corto Rafael Furcal a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2="455759"
+                b3="">
+            <pitch sv_id="090602_212355" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_212422" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090602_212454" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_212547" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_212617" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.5"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Ramon Pena replaces Dan Haren, batting 9th.  "
+                 des_es="Cambio de Lanzador: Ramon Pena reemplaza a Dan Haren, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="430963"
+                 pitch="5"/>
+         <atbat num="59" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="461314"
+                pitcher="430963"
+                des="Matt Kemp singles on a line drive to left fielder Eric Byrnes.  "
+                des_es="Matt Kemp pega sencillo con l&#237;nea a jardinero izquierdo Eric Byrnes.  "
+                event="Single"
+                b1="461314"
+                b2=""
+                b3="">
+            <pitch sv_id="090602_212918" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090602_212938" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="60" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="110385"
+                pitcher="430963"
+                des="Brad Ausmus pops out to second baseman Felipe Lopez.  "
+                des_es="Brad Ausmus batea elevadito de out a segunda base Felipe Lopez.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_213026" des="Ball" des_es="Bola mala" type="B" start_speed="95.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_213054" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="95.1"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Mark Loretta replaces Jeff Weaver.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Mark Loretta reemplaza a Jeff Weaver.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="117928"
+                 pitch="2"/>
+         <atbat num="61" b="0" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="117928"
+                pitcher="430963"
+                des="Mark Loretta strikes out swinging.  "
+                des_es="Mark Loretta se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_213148" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_213210" des="Foul" des_es="Foul" type="S" start_speed="89.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_213242" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="95.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="62" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="334393"
+                pitcher="430963"
+                des="Juan Pierre singles on a ground ball to right fielder Justin Upton.   Matt Kemp to 3rd.  "
+                des_es="Juan Pierre pega sencillo con rodado a jardinero derecho Justin Upton.   Matt Kemp a 3ra.  "
+                event="Single"
+                b1="334393"
+                b2=""
+                b3="461314">
+            <pitch sv_id="090602_213324" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="96.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="63" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="279577"
+                pitcher="430963"
+                des="Rafael Furcal walks.   Juan Pierre to 2nd.  "
+                des_es="Rafael Furcal recibe base por bolas.   Juan Pierre a 2da.  "
+                event="Walk"
+                b1="279577"
+                b2="334393"
+                b3="">
+            <pitch sv_id="090602_213442" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="96.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_213538" des="Ball" des_es="Bola mala" type="B" start_speed="88.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="090602_213643" des="Ball" des_es="Bola mala" type="B" start_speed="96.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="4" s="1" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407861"
+                 pitch="5"/>
+         <atbat num="64" b="4" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="407861"
+                pitcher="430963"
+                des="Orlando Hudson walks.   Matt Kemp scores.    Juan Pierre to 3rd.    Rafael Furcal to 2nd.  "
+                des_es="Orlando Hudson recibe base por bolas.   Matt Kemp anota  Juan Pierre a 3ra.    Rafael Furcal a 2da.  "
+                event="Walk"
+                score="T"
+                home_team_runs="2"
+                away_team_runs="5"
+                b1="407861"
+                b2="279577"
+                b3="334393"
+                rbi="1">
+            <pitch sv_id="090602_213807" des="Ball" des_es="Bola mala" type="B" start_speed="95.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_213833" des="Ball" des_es="Bola mala" type="B" start_speed="95.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_213906" des="Ball" des_es="Bola mala" type="B" start_speed="95.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090602_213946" des="Ball" des_es="Bola mala" type="B" start_speed="94.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="4" s="0" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425766"
+                 pitch="4"/>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: Daniel Schlereth replaces Ramon Pena, batting 9th.  "
+                 des_es="Cambio de Lanzador: Daniel Schlereth reemplaza a Ramon Pena, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="519259"
+                 pitch="4"/>
+         <atbat num="65" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="425766"
+                pitcher="519259"
+                des="James Loney doubles (12) on a fly ball to right fielder Justin Upton.   Juan Pierre scores.    Rafael Furcal scores.    Orlando Hudson scores.  "
+                des_es="James Loney pega doble (12) con elevado a jardinero derecho Justin Upton.   Juan Pierre anota  Rafael Furcal anota  Orlando Hudson anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="5"
+                away_team_runs="5"
+                b1=""
+                b2="425766"
+                b3=""
+                rbi="3">
+            <pitch sv_id="090602_214333" des="Foul" des_es="Foul" type="S" start_speed="93.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_214416" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_214440" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="93.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="1" s="1" o="2"
+                 des="With Casey Blake batting, wild pitch by Daniel Schlereth, James Loney to 3rd.  "
+                 des_es="Con Casey Blake bateando, lanzamiento desviado de Daniel Schlereth, James Loney a 3ra.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425766"
+                 pitch="2"/>
+         <atbat num="66" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="232694"
+                pitcher="519259"
+                des="Casey Blake singles on a ground ball to center fielder Chris Young.   James Loney scores.  "
+                des_es="Casey Blake pega sencillo con rodado a jardinero central Chris Young.   James Loney anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="6"
+                away_team_runs="5"
+                b1="232694"
+                b2=""
+                b3="425766"
+                rbi="1">
+            <pitch sv_id="090602_214545" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_214608" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_214653" des="Ball" des_es="Bola mala" type="B" start_speed="93.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_214717" des="Ball" des_es="Bola mala" type="B" start_speed="75.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_214748" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="76.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <action b="2" s="0" o="2"
+                 des="With Andre Ethier batting, wild pitch by Daniel Schlereth, Casey Blake to 2nd.  "
+                 des_es="Con Andre Ethier bateando, lanzamiento desviado de Daniel Schlereth, Casey Blake a 2da.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="232694"
+                 pitch="2"/>
+         <atbat num="67" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="444843"
+                pitcher="519259"
+                des="Andre Ethier pops out to shortstop Augie Ojeda.  "
+                des_es="Andre Ethier batea elevadito de out a campo corto Augie Ojeda.  "
+                event="Pop Out"
+                b1=""
+                b2="232694"
+                b3="">
+            <pitch sv_id="090602_214827" des="Ball" des_es="Bola mala" type="B" start_speed="80.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090602_214846" des="Ball" des_es="Bola mala" type="B" start_speed="93.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_214929" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.0"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Jonathan Broxton replaces Jeff Weaver, batting 9th, replacing  Mark Loretta.  "
+                 des_es="Cambio de lanzador: Jonathan Broxton reemplaza a Jeff Weaver, como noveno bate, en lugar de  Mark Loretta.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="455009"
+                 pitch="3"/>
+         <atbat num="68" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="324432"
+                pitcher="455009"
+                des="Augie Ojeda grounds out, second baseman Orlando Hudson to first baseman James Loney.  "
+                des_es="Augie Ojeda batea rodado de out, segunda base Orlando Hudson a primera base James Loney.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_215232" des="Ball" des_es="Bola mala" type="B" start_speed="97.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215305" des="Ball" des_es="Bola mala" type="B" start_speed="97.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215339" des="Ball" des_es="Bola mala" type="B" start_speed="98.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215405" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="97.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215428" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="97.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215452" des="Foul" des_es="Foul" type="S" start_speed="99.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215530" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="97.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Gerardo Parra replaces Daniel Schlereth.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Gerardo Parra reemplaza a Daniel Schlereth.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="467827"
+                 pitch="7"/>
+         <atbat num="69" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="467827"
+                pitcher="455009"
+                des="Gerardo Parra strikes out swinging.  "
+                des_es="Gerardo Parra se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_215619" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="98.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215639" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_215706" des="Ball" des_es="Bola mala" type="B" start_speed="99.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215729" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="90.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="70" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="150479"
+                pitcher="455009"
+                des="Felipe Lopez strikes out swinging.  "
+                des_es="Felipe Lopez se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090602_215811" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_215830" des="Ball" des_es="Bola mala" type="B" start_speed="98.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090602_215852" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090602_215918" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.3"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="150479"/>
+   <deck pid="440251"/>
+   <hole pid="457708"/>
+</game>

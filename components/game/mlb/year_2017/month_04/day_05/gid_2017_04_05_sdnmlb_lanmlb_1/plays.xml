@@ -1,0 +1,59 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_05_sdnmlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="1" ah="3" ae="1" hr="3" hh="6" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="572114" team_abbrev="SD" team_id="135" parent_team_abbrev="SD" parent_team_id="135" current_position="3B" stand="L" b_height="5-9" ab="4" h="0" avg=".273" boxname="Schimpf">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Strikeout" event_es="Ponche"/>
+			<ab inning="4" event="Strikeout" event_es="Ponche"/>
+			<ab inning="2" event="Pop Out" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="445276" p_throws="R" pitches="8" strikes="7" balls="1" era="0.00" boxname="Jansen"/>
+		<deck pid="595978" boxname="Hedges"/>
+		<hole pid="430947" boxname="Aybar"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="66" des="Ryan Schimpf grounds out softly, first baseman Adrian Gonzalez to pitcher Kenley Jansen.  " des_es="Ryan Schimpf batea rodado de out suavemente, primera base Adrian Gonzalez a lanzador Kenley Jansen.  " event="" event_es="" player="572114" play_guid="dfc90dac-b759-436a-a91f-d09c88ea8de1" >
+		<p type="X" id="535" event_num="535" x="114.61" y="178.6" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170406_045317" play_guid="dfc90dac-b759-436a-a91f-d09c88ea8de1" start_speed="91.6" end_speed="84.6" sz_top="3.458596143349208" sz_bot="1.6729376115013501" pfx_x="5.807802840866436" pfx_z="10.389911053523196" px="0.0627617189857429" pz="2.22893646152695" x0="-1.93501035557721" y0="50" z0="6.23585105626007" vx0="3.2800499214359" vy0="-133.330921845351" vz0="-8.05154555417012" ax="10.5280308647932" ay="26.7854850642068" az="-13.3398513133247" break_y="23.8" break_angle="-36.7" break_length="4.2" pitch_type="FC" type_confidence="2.000" zone="8" nasty="41" spin_dir="150.797" spin_rate="2347.801"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="sdn">
+		</offense>
+		<defense type="home" id="lan">
+			<man pid="445276" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="518735" s_po="28" s_ass="0" s_err="1" s_fldg=".966" c_sb="1" c_cs="1" pos="c"/>
+			<man pid="408236" s_po="20" s_ass="2" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="523253" s_po="6" s_ass="6" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="608369" s_po="4" s_ass="6" s_err="1" s_fldg=".909" pos="ss"/>
+			<man pid="457759" s_po="4" s_ass="6" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="475100" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="lf"/>
+			<man pid="592626" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="624577" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="127.11" y="195.26" batter="572114" pitcher="445276"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="445276" index="8">
+			<man pid="475100"/>
+			<man pid="608369"/>
+			<man pid="457759"/>
+			<man pid="408236"/>
+			<man pid="523253"/>
+			<man pid="592626"/>
+			<man pid="518735"/>
+			<man pid="624577"/>
+			<man pid="445276"/>
+		</team>
+		<team type="away" pitcher="488748" index="5">
+			<man pid="622534"/>
+			<man pid="571976"/>
+			<man pid="500208"/>
+			<man pid="592669"/>
+			<man pid="572114"/>
+			<man pid="595978"/>
+			<man pid="430947"/>
+			<man pid="488748"/>
+			<man pid="608671"/>
+		</team>
+	</lineup>
+	<weather temp="70" condition="Clear" wind="5mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

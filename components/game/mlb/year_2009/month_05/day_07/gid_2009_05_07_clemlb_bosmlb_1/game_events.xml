@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2014 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="450204"
+                pitcher="123801"
+                des="Ben Francisco grounds out, third baseman Mike Lowell to first baseman Jeff Bailey.  "
+                des_es="Ben Francisco batea rodado de out, tercera base Mike Lowell a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_190907" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_190917" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="64.2"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="2" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="452678"
+                pitcher="123801"
+                des="Asdrubal Cabrera lines out to first baseman Jeff Bailey.  "
+                des_es="Asdrubal Cabrera batea línea de out a primera base Jeff Bailey.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_190953" des="Ball" des_es="Bola mala" type="B" start_speed="64.6"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191003" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191013" des="Foul" des_es="Foul" type="S" start_speed="64.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191032" des="Foul" des_es="Foul" type="S" start_speed="66.6"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191048" des="Foul" des_es="Foul" type="S" start_speed="58.8"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191104" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="66.4"
+                   pitch_type="KN"/>
+         </atbat>
+         <action b="0" s="2" o="2" des="Victor Martinez turns around to bat right-handed.  "
+                 des_es="Victor Martinez se cambia de lado para batear a la derecha.  "
+                 event="Batter Turn"
+                 tfs=""
+                 tfs_zulu=""
+                 player="400121"
+                 pitch="6"/>
+         <atbat num="3" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="400121"
+                pitcher="123801"
+                des="Victor Martinez walks.  "
+                des_es="Victor Martinez recibe base por bolas.  "
+                event="Walk"
+                b1="400121"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_191143" des="Ball" des_es="Bola mala" type="B" start_speed="64.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191154" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191204" des="Ball" des_es="Bola mala" type="B" start_speed="64.6"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191215" des="Ball" des_es="Bola mala" type="B" start_speed="64.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191234" des="Ball" des_es="Bola mala" type="B" start_speed="65.3"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="4" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="136660"
+                pitcher="123801"
+                des="Mark DeRosa strikes out swinging.  "
+                des_es="Mark DeRosa se poncha tirándole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_191303" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191319" des="Ball" des_es="Bola mala" type="B" start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191334" des="Ball" des_es="Bola mala" type="B" start_speed="64.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191354" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="59.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_191414" des="Foul" des_es="Foul" type="S" start_speed="65.9"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_191432" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="65.8"
+                   pitch_type="KN"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="5" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="150061"
+                pitcher="460265"
+                des="Julio Lugo triples (1) on a fly ball to right fielder Matt LaPorta.  "
+                des_es="Julio Lugo pega triple (1) con elevado al jardinero derecho Matt LaPorta.  "
+                event="Triple"
+                b1=""
+                b2=""
+                b3="150061">
+            <pitch sv_id="090507_191708" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_191721" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_191734" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="6" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="456030"
+                pitcher="460265"
+                des="Dustin Pedroia singles on a line drive to left fielder David Dellucci.   Julio Lugo scores.  "
+                des_es="Dustin Pedroia pega sencillo con línea a jardinero izquierdo David Dellucci.   Julio Lugo anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1="456030"
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090507_191831" des="Ball" des_es="Bola mala" type="B" start_speed="79.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_191849" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="82.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_191912" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_191934" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="83.3"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="7" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="424726"
+                pitcher="460265"
+                des="Jason Bay grounds into a force out, shortstop Asdrubal Cabrera to second baseman Luis Valbuena.   Dustin Pedroia out at 2nd.    Jason Bay to 1st.  "
+                des_es="Jason Bay batea rodado batea para out forzado, campo corto Asdrubal Cabrera a segunda base Luis Valbuena.   Dustin Pedroia a cabo a 2da.    Jason Bay a 1ra.  "
+                event="Forceout"
+                b1="424726"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_192016" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_192034" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_192053" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192114" des="Foul" des_es="Foul" type="S" start_speed="79.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_192201" des="Ball" des_es="Bola mala" type="B" start_speed="83.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_192226" des="Foul" des_es="Foul" type="S" start_speed="91.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_192251" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192317" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="8" b="3" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="136780"
+                pitcher="460265"
+                des="Mike Lowell grounds into a double play, shortstop Asdrubal Cabrera to second baseman Luis Valbuena to first baseman Ryan Garko.   Jason Bay out at 2nd.  "
+                des_es="Mike Lowell batea rodado batea para doble matanza, campo corto Asdrubal Cabrera a segunda base Luis Valbuena a primera base Ryan Garko.   Jason Bay a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_192400" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192420" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192439" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192459" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192519" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.0"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="9" b="3" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="113240"
+                pitcher="123801"
+                des="David Dellucci called out on strikes.  "
+                des_es="David Dellucci se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_192725" des="Ball" des_es="Bola mala" type="B" start_speed="63.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_192735" des="Foul" des_es="Foul" type="S" start_speed="63.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_192753" des="Ball" des_es="Bola mala" type="B" start_speed="64.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_192804" des="Ball" des_es="Bola mala" type="B" start_speed="63.9"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_192816" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="71.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_192829" des="Foul" des_es="Foul" type="S" start_speed="58.8"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_192852" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="72.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="10" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="434939"
+                pitcher="123801"
+                des="Ryan Garko flies out to left fielder Jason Bay.  "
+                des_es="Ryan Garko batea elevado de out a jardinero izquierdo Jason Bay.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_192921" des="Ball" des_es="Bola mala" type="B" start_speed="65.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_192933" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="72.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="11" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="425509"
+                pitcher="123801"
+                des="Jhonny Peralta called out on strikes.  "
+                des_es="Jhonny Peralta se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_193002" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_193017" des="Ball" des_es="Bola mala" type="B" start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_193028" des="Foul" des_es="Foul" type="S" start_speed="65.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_193046" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.8"
+                   pitch_type="KN"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="12" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="408306"
+                pitcher="460265"
+                des="Rocco Baldelli flies out to right fielder Matt LaPorta.  "
+                des_es="Rocco Baldelli batea elevado de out a jardinero derecho Matt LaPorta.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_193303" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="13" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="136770"
+                pitcher="460265"
+                des="J.  D.   Drew grounds out, shortstop Asdrubal Cabrera to first baseman Ryan Garko.  "
+                des_es="J.  D.   Drew batea rodado de out, campo corto Asdrubal Cabrera a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_193335" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193347" des="Foul" des_es="Foul" type="S" start_speed="78.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_193411" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.5"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="14" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="431158"
+                pitcher="460265"
+                des="Jeff Bailey singles on a fly ball to right fielder Matt LaPorta.  "
+                des_es="Jeff Bailey pega sencillo con elevado a jardinero derecho Matt LaPorta.  "
+                event="Single"
+                b1="431158"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_193444" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193456" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_193508" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_193521" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="3" s="0" o="2"
+                 des="With Nick Green batting, passed ball by Victor Martinez, Jeff Bailey to 2nd.  "
+                 des_es="Con Nick Green bateando, pasbol deVictor Martinez, Jeff Bailey a 2da.  "
+                 event="Passed Ball"
+                 tfs=""
+                 tfs_zulu=""
+                 player="431158"
+                 pitch="3"/>
+         <atbat num="15" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="407797"
+                pitcher="460265"
+                des="Nick Green grounds out, shortstop Asdrubal Cabrera to first baseman Ryan Garko.  "
+                des_es="Nick Green batea rodado de out, campo corto Asdrubal Cabrera a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2="431158"
+                b3="">
+            <pitch sv_id="090507_193558" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193613" des="Ball" des_es="Bola mala" type="B" start_speed="87.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193637" des="Ball" des_es="Bola mala" type="B" start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193716" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_193738" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="82.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_193801" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="16" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="453181"
+                pitcher="123801"
+                des="Matt LaPorta walks.  "
+                des_es="Matt LaPorta recibe base por bolas.  "
+                event="Walk"
+                b1="453181"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194020" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194031" des="Ball" des_es="Bola mala" type="B" start_speed="65.6"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194044" des="Ball" des_es="Bola mala" type="B" start_speed="64.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194058" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="58.8"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_194113" des="Foul" des_es="Foul" type="S" start_speed="65.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194130" des="Ball" des_es="Bola mala" type="B" start_speed="66.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194147" des="Foul" des_es="Foul" type="S" start_speed="59.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_194205" des="Foul" des_es="Foul" type="S" start_speed="74.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_194224" des="Ball" des_es="Bola mala" type="B" start_speed="60.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="17" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="472528"
+                pitcher="123801"
+                des="Luis Valbuena grounds into a force out, second baseman Dustin Pedroia to shortstop Nick Green.   Matt LaPorta out at 2nd.    Luis Valbuena to 1st.  "
+                des_es="Luis Valbuena batea rodado batea para out forzado, segunda base Dustin Pedroia a campo corto Nick Green.   Matt LaPorta a cabo a 2da.    Luis Valbuena a 1ra.  "
+                event="Forceout"
+                b1="472528"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194256" des="Ball" des_es="Bola mala" type="B" start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194312" des="Ball" des_es="Bola mala" type="B" start_speed="65.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194328" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="72.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_194343" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="72.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="18" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="450204"
+                pitcher="123801"
+                des="Ben Francisco grounds into a double play, third baseman Mike Lowell to second baseman Dustin Pedroia to first baseman Jeff Bailey.   Luis Valbuena out at 2nd.  "
+                des_es="Ben Francisco batea rodado batea para doble matanza, tercera base Mike Lowell a segunda base Dustin Pedroia a primera base Jeff Bailey.   Luis Valbuena a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194429" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="66.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194454" des="Foul" des_es="Foul" type="S" start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_194522" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="66.3"
+                   pitch_type="KN"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="19" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="435459"
+                pitcher="460265"
+                des="George Kottaras flies out to center fielder Ben Francisco.  "
+                des_es="George Kottaras batea elevado de out a jardinero central Ben Francisco.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194752" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_194805" des="Ball" des_es="Bola mala" type="B" start_speed="77.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_194817" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="20" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="150061"
+                pitcher="460265"
+                des="Julio Lugo lines out to center fielder Ben Francisco.  "
+                des_es="Julio Lugo batea línea de out a jardinero central Ben Francisco.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194855" des="Foul" des_es="Foul" type="S" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_194918" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="21" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="456030"
+                pitcher="460265"
+                des="Dustin Pedroia flies out to right fielder Matt LaPorta.  "
+                des_es="Dustin Pedroia batea elevado de out a jardinero derecho Matt LaPorta.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_194952" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.1"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="22" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="452678"
+                pitcher="123801"
+                des="Asdrubal Cabrera singles on a line drive to right fielder J.  D.   Drew.  "
+                des_es="Asdrubal Cabrera pega sencillo con línea a jardinero derecho J.  D.   Drew.  "
+                event="Single"
+                b1="452678"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_195158" des="Ball" des_es="Bola mala" type="B" start_speed="64.2"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195208" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="64.1"
+                   pitch_type="KN"/>
+         </atbat>
+         <action b="0" s="0" o="0" des="Victor Martinez turns around to bat right-handed.  "
+                 des_es="Victor Martinez se cambia de lado para batear a la derecha.  "
+                 event="Batter Turn"
+                 tfs=""
+                 tfs_zulu=""
+                 player="400121"
+                 pitch="2"/>
+         <action b="0" s="2" o="0"
+                 des="With Victor Martinez batting, Asdrubal Cabrera steals (5) 2nd base.  "
+                 des_es="Con Victor Martinez bateando, Asdrubal Cabrera se roba (5) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="452678"
+                 pitch="2"/>
+         <atbat num="23" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="400121"
+                pitcher="123801"
+                des="Victor Martinez grounds out, second baseman Dustin Pedroia to first baseman Jeff Bailey.   Asdrubal Cabrera to 3rd.  "
+                des_es="Victor Martinez batea rodado de out a primera base Jeff Bailey en jugada de infield fly.   Asdrubal Cabrera a 3ra.  "
+                event="Groundout"
+                b1=""
+                b2="452678"
+                b3="452678">
+            <pitch sv_id="090507_195251" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195306" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.2"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195332" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="65.1"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="24" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="136660"
+                pitcher="123801"
+                des="Mark DeRosa flies out to right fielder J.   Drew.  "
+                des_es="Mark DeRosa batea elevado de out a jardinero derecho J.   Drew.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_195405" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195419" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="65.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195437" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="65.7"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="25" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="113240"
+                pitcher="123801"
+                des="David Dellucci hit by pitch.  "
+                des_es="David Dellucci golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="113240"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_195519" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="65.4"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="26" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="434939"
+                pitcher="123801"
+                des="Ryan Garko walks.   David Dellucci to 2nd.  "
+                des_es="Ryan Garko recibe base por bolas.   David Dellucci a 2da.  "
+                event="Walk"
+                b1="434939"
+                b2="113240"
+                b3="">
+            <pitch sv_id="090507_195602" des="Foul" des_es="Foul" type="S" start_speed="65.8"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195625" des="Ball" des_es="Bola mala" type="B" start_speed="65.9"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195645" des="Ball" des_es="Bola mala" type="B" start_speed="65.8"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195704" des="Ball" des_es="Bola mala" type="B" start_speed="65.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195725" des="Ball" des_es="Bola mala" type="B" start_speed="65.1"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="27" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="425509"
+                pitcher="123801"
+                des="Jhonny Peralta grounds out, third baseman Mike Lowell to first baseman Jeff Bailey.  "
+                des_es="Jhonny Peralta batea rodado de out, tercera base Mike Lowell a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_195755" des="Foul" des_es="Foul" type="S" start_speed="64.8"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195826" des="Foul Tip" des_es="Foul atrás" type="S"
+                   start_speed="65.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_195850" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="66.7"
+                   pitch_type="KN"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="28" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="424726"
+                pitcher="460265"
+                des="Jason Bay pops out to shortstop Asdrubal Cabrera.  "
+                des_es="Jason Bay batea elevadito de out a campo corto Asdrubal Cabrera.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_200114" des="Ball" des_es="Bola mala" type="B" start_speed="81.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_200127" des="Foul" des_es="Foul" type="S" start_speed="81.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_200145" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_200202" des="Foul" des_es="Foul" type="S" start_speed="76.8"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_200226" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="29" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="136780"
+                pitcher="460265"
+                des="Mike Lowell flies out to center fielder Ben Francisco.  "
+                des_es="Mike Lowell batea elevado de out a jardinero central Ben Francisco.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_200259" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_200319" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_200339" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="30" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="408306"
+                pitcher="460265"
+                des="Rocco Baldelli grounds out, pitcher Jeremy Sowers to first baseman Ryan Garko.  "
+                des_es="Rocco Baldelli batea rodado de out, lanzador Jeremy Sowers a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_200411" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_200422" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.2"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="31" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="453181"
+                pitcher="123801"
+                des="Matt LaPorta singles on a line drive to left fielder Jason Bay.  "
+                des_es="Matt LaPorta pega sencillo con línea a jardinero izquierdo Jason Bay.  "
+                event="Single"
+                b1="453181"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_200626" des="Ball" des_es="Bola mala" type="B" start_speed="63.8"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200637" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="64.3"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="32" b="0" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="472528"
+                pitcher="123801"
+                des="Luis Valbuena doubles (1) on a soft line drive to left fielder Jason Bay.   Matt LaPorta to 3rd.  "
+                des_es="Luis Valbuena pega doble (1) con línea suave a jardinero izquierdo Jason Bay.   Matt LaPorta a 3ra.  "
+                event="Double"
+                b1=""
+                b2="472528"
+                b3="453181">
+            <pitch sv_id="090507_200711" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200737" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="65.8"
+                   pitch_type="KN"/>
+         </atbat>
+         <action b="2" s="1" o="0"
+                 des="With Ben Francisco batting, passed ball by George Kottaras, Matt LaPorta scores.    Luis Valbuena to 3rd.  "
+                 des_es="Con Ben Francisco bateando, pasbol deGeorge Kottaras, Matt LaPorta anota  Luis Valbuena a 3ra.  "
+                 event="Passed Ball"
+                 tfs=""
+                 tfs_zulu=""
+                 player="453181"
+                 pitch="3"
+                 score="T"
+                 home_team_runs="1"
+                 away_team_runs="1"/>
+         <atbat num="33" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="450204"
+                pitcher="123801"
+                des="Ben Francisco hit by pitch.  "
+                des_es="Ben Francisco golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="450204"
+                b2=""
+                b3="472528">
+            <pitch sv_id="090507_200821" des="Ball" des_es="Bola mala" type="B" start_speed="65.2"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200836" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="64.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200852" des="Ball" des_es="Bola mala" type="B" start_speed="65.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200926" des="Ball" des_es="Bola mala" type="B" start_speed="65.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_200942" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="64.8"
+                   pitch_type="KN"/>
+         </atbat>
+         <action b="3" s="1" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="452678"
+                 pitch="5"/>
+         <atbat num="34" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="452678"
+                pitcher="123801"
+                des="Asdrubal Cabrera out on a sacrifice fly to center fielder Rocco Baldelli.   Luis Valbuena scores.    Ben Francisco to 2nd.  "
+                des_es="Asdrubal Cabrera out con elevado de sacrificio a jardinero central Rocco Baldelli.   Luis Valbuena anota  Ben Francisco a 2da.  "
+                event="Sac Fly"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="2"
+                b1=""
+                b2="450204"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090507_201051" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="65.6"
+                   pitch_type="KN"/>
+         </atbat>
+         <action b="0" s="0" o="1" des="Victor Martinez turns around to bat right-handed.  "
+                 des_es="Victor Martinez se cambia de lado para batear a la derecha.  "
+                 event="Batter Turn"
+                 tfs=""
+                 tfs_zulu=""
+                 player="400121"
+                 pitch="1"/>
+         <action b="2" s="2" o="1"
+                 des="With Victor Martinez batting, wild pitch by Tim Wakefield, Ben Francisco to 3rd.  "
+                 des_es="Con Victor Martinez bateando, lanzamiento desviado de Tim Wakefield, Ben Francisco a 3ra.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="450204"
+                 pitch="4"/>
+         <atbat num="35" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="400121"
+                pitcher="123801"
+                des="Victor Martinez walks.  "
+                des_es="Victor Martinez recibe base por bolas.  "
+                event="Walk"
+                b1="400121"
+                b2=""
+                b3="450204">
+            <pitch sv_id="090507_201137" des="Ball" des_es="Bola mala" type="B" start_speed="64.7"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201156" des="Foul" des_es="Foul" type="S" start_speed="65.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201233" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.2"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201252" des="Ball" des_es="Bola mala" type="B" start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201325" des="Ball" des_es="Bola mala" type="B" start_speed="66.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201344" des="Ball" des_es="Bola mala" type="B" start_speed="66.2"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="36" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="136660"
+                pitcher="123801"
+                des="Mark DeRosa grounds into a double play, shortstop Nick Green to second baseman Dustin Pedroia to first baseman Jeff Bailey.   Victor Martinez out at 2nd.  "
+                des_es="Mark DeRosa batea rodado batea para doble matanza, campo corto Nick Green a segunda base Dustin Pedroia a primera base Jeff Bailey.   Victor Martinez a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_201418" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.3"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201437" des="Swinging Strike (Blocked)"
+                   des_es="Strike tirándole (Bloqueado)"
+                   type="S"
+                   start_speed="65.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_201502" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="65.4"
+                   pitch_type="KN"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="37" b="0" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="136770"
+                pitcher="460265"
+                des="J.  D.   Drew strikes out swinging.  "
+                des_es="J.  D.   Drew se poncha tirándole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_201730" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="78.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_201744" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_201758" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="38" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="431158"
+                pitcher="460265"
+                des="Jeff Bailey grounds out, second baseman Luis Valbuena to first baseman Ryan Garko.  "
+                des_es="Jeff Bailey batea rodado de out, segunda base Luis Valbuena a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_201826" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="39" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="407797"
+                pitcher="460265"
+                des="Nick Green doubles (7) on a fly ball to left fielder David Dellucci.  "
+                des_es="Nick Green pega doble (7) con elevado a jardinero izquierdo David Dellucci.  "
+                event="Double"
+                b1=""
+                b2="407797"
+                b3="">
+            <pitch sv_id="090507_201907" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_201919" des="Ball" des_es="Bola mala" type="B" start_speed="82.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_201932" des="Foul" des_es="Foul" type="S" start_speed="88.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_201956" des="Ball" des_es="Bola mala" type="B" start_speed="90.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_202017" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="80.8"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="40" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="435459"
+                pitcher="460265"
+                des="George Kottaras pops out to shortstop Asdrubal Cabrera.  "
+                des_es="George Kottaras batea elevadito de out a campo corto Asdrubal Cabrera.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_202111" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_202135" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="41" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="113240"
+                pitcher="123801"
+                des="David Dellucci flies out to center fielder Rocco Baldelli.  "
+                des_es="David Dellucci batea elevado de out a jardinero central Rocco Baldelli.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_202355" des="Foul" des_es="Foul" type="S" start_speed="63.4"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202411" des="Ball" des_es="Bola mala" type="B" start_speed="62.9"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202424" des="Ball" des_es="Bola mala" type="B" start_speed="64.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202441" des="Ball" des_es="Bola mala" type="B" start_speed="58.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_202536" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="72.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_202552" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="71.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="42" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="434939"
+                pitcher="123801"
+                des="Ryan Garko grounds out, third baseman Mike Lowell to first baseman Jeff Bailey.  "
+                des_es="Ryan Garko batea rodado de out, tercera base Mike Lowell a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_202627" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="58.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_202638" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="65.9"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202651" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="66.6"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="43" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="425509"
+                pitcher="123801"
+                des="Jhonny Peralta singles on a soft ground ball to third baseman Mike Lowell.  "
+                des_es="Jhonny Peralta pega sencillo con rodado suave a tercera base Mike Lowell.  "
+                event="Single"
+                b1="425509"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_202723" des="Ball" des_es="Bola mala" type="B" start_speed="64.5"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202734" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="64.4"
+                   pitch_type="KN"/>
+         </atbat>
+         <atbat num="44" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="453181"
+                pitcher="123801"
+                des="Matt LaPorta flies out to center fielder Rocco Baldelli.  "
+                des_es="Matt LaPorta batea elevado de out a jardinero central Rocco Baldelli.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_202823" des="Ball" des_es="Bola mala" type="B" start_speed="65.1"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202841" des="Ball" des_es="Bola mala" type="B" start_speed="65.0"
+                   pitch_type="KN"/>
+            <pitch sv_id="090507_202903" des="Ball" des_es="Bola mala" type="B" start_speed="72.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_202919" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="72.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_202937" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="59.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_203000" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="73.9"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="45" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="150061"
+                pitcher="460265"
+                des="Julio Lugo singles on a ground ball to left fielder David Dellucci.  "
+                des_es="Julio Lugo pega sencillo con rodado a jardinero izquierdo David Dellucci.  "
+                event="Single"
+                b1="150061"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_203223" des="Ball" des_es="Bola mala" type="B" start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_203236" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="46" b="4" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="456030"
+                pitcher="460265"
+                des="Dustin Pedroia walks.   Julio Lugo to 2nd.  "
+                des_es="Dustin Pedroia recibe base por bolas.   Julio Lugo a 2da.  "
+                event="Walk"
+                b1="456030"
+                b2="150061"
+                b3="">
+            <pitch sv_id="090507_203323" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_203355" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_203421" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_203447" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_203513" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="47" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="424726"
+                pitcher="460265"
+                des="Jason Bay doubles (6) on a fly ball to center fielder Ben Francisco.   Julio Lugo scores.    Dustin Pedroia to 3rd.  "
+                des_es="Jason Bay pega doble (6) con elevado a jardinero central Ben Francisco.   Julio Lugo anota  Dustin Pedroia a 3ra.  "
+                event="Double"
+                score="T"
+                home_team_runs="2"
+                away_team_runs="2"
+                b1=""
+                b2="424726"
+                b3="456030"
+                rbi="1">
+            <pitch sv_id="090507_203615" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_203636" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="90.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="48" b="4" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="136780"
+                pitcher="460265"
+                des="Jeremy Sowers intentionally walks Mike Lowell.  "
+                des_es="Jeremy Sowers recibe base por bolas intencional Mike Lowell.  "
+                event="Intent Walk"
+                b1="136780"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_203734" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="69.8"
+                   pitch_type="IN"/>
+            <pitch sv_id="090507_203745" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="69.7"
+                   pitch_type="IN"/>
+            <pitch sv_id="090507_203756" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="68.3"
+                   pitch_type="IN"/>
+            <pitch sv_id="090507_203807" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="71.2"
+                   pitch_type="IN"/>
+         </atbat>
+         <action b="4" s="0" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="408306"
+                 pitch="4"/>
+         <atbat num="49" b="1" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="408306"
+                pitcher="460265"
+                des="Rocco Baldelli singles on a line drive to center fielder Ben Francisco.   Dustin Pedroia scores.    Jason Bay scores.    Mike Lowell to 3rd.  "
+                des_es="Rocco Baldelli pega sencillo con línea a jardinero central Ben Francisco.   Dustin Pedroia anota  Jason Bay anota  Mike Lowell a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="4"
+                away_team_runs="2"
+                b1="408306"
+                b2=""
+                b3="136780"
+                rbi="2">
+            <pitch sv_id="090507_203950" des="Foul" des_es="Foul" type="S" start_speed="90.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_204018" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="80.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_204044" des="Ball" des_es="Bola mala" type="B" start_speed="80.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_204110" des="Foul" des_es="Foul" type="S" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_204140" des="Foul" des_es="Foul" type="S" start_speed="81.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_204215" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="50" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="136770"
+                pitcher="460265"
+                des="J.  D.   Drew walks.   Rocco Baldelli to 2nd.  "
+                des_es="J.  D.   Drew recibe base por bolas.   Rocco Baldelli a 2da.  "
+                event="Walk"
+                b1="136770"
+                b2="408306"
+                b3="">
+            <pitch sv_id="090507_204322" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_204342" des="Foul" des_es="Foul" type="S" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_204408" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_204430" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_204458" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_204522" des="Ball" des_es="Bola mala" type="B" start_speed="78.6"
+                   pitch_type="CU"/>
+         </atbat>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Masa Kobayashi replaces Jeremy Sowers.  "
+                 des_es="Cambio de Lanzador: Masa Kobayashi reemplaza a Jeremy Sowers.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="460265"
+                 pitch="6"/>
+         <action b="0" s="0" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="431158"
+                 pitch="6"/>
+         <atbat num="51" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="431158"
+                pitcher="493131"
+                des="Jeff Bailey doubles (1) on a line drive to left fielder David Dellucci.   Mike Lowell scores.    Rocco Baldelli scores.    J.   Drew to 3rd.  "
+                des_es="Jeff Bailey pega doble (1) con línea a jardinero izquierdo David Dellucci.   Mike Lowell anota  Rocco Baldelli anota  J.   Drew a 3ra.  "
+                event="Double"
+                score="T"
+                home_team_runs="6"
+                away_team_runs="2"
+                b1=""
+                b2="431158"
+                b3="136770"
+                rbi="2">
+            <pitch sv_id="090507_204826" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="52" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="407797"
+                pitcher="493131"
+                des="Nick Green singles on a soft ground ball to second baseman Luis Valbuena.  "
+                des_es="Nick Green pega sencillo con rodado suave a segunda base Luis Valbuena.  "
+                event="Single"
+                b1="407797"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_204918" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_204939" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="53" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="435459"
+                pitcher="493131"
+                des="George Kottaras singles on a line drive to center fielder Ben Francisco.   J.  D.   Drew scores.    Jeff Bailey scores.    Nick Green to 2nd.  "
+                des_es="George Kottaras pega sencillo con línea a jardinero central Ben Francisco.   J.  D.   Drew anota  Jeff Bailey anota  Nick Green a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="2"
+                b1="435459"
+                b2="407797"
+                b3=""
+                rbi="2">
+            <pitch sv_id="090507_205033" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="90.1"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="54" b="2" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="150061"
+                pitcher="493131"
+                des="Julio Lugo singles on a soft ground ball to third baseman Mark DeRosa.   Nick Green to 3rd.    George Kottaras to 2nd.  "
+                des_es="Julio Lugo pega sencillo con rodado suave a tercera base Mark DeRosa.   Nick Green a 3ra.    George Kottaras a 2da.  "
+                event="Single"
+                b1="150061"
+                b2="435459"
+                b3="407797">
+            <pitch sv_id="090507_205137" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_205202" des="Ball" des_es="Bola mala" type="B" start_speed="82.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_205226" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_205250" des="Foul" des_es="Foul" type="S" start_speed="90.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_205328" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="85.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="55" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="456030"
+                pitcher="493131"
+                des="Dustin Pedroia singles on a fly ball to left fielder David Dellucci.   Nick Green scores.    George Kottaras scores.    Julio Lugo to 2nd.  "
+                des_es="Dustin Pedroia pega sencillo con elevado a jardinero izquierdo David Dellucci.   Nick Green anota  George Kottaras anota  Julio Lugo a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="10"
+                away_team_runs="2"
+                b1="456030"
+                b2="150061"
+                b3=""
+                rbi="2">
+            <pitch sv_id="090507_205422" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_205446" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_205512" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="0" o="0" des="Pitching Change: Matt Herges replaces Masa Kobayashi.  "
+                 des_es="Cambio de Lanzador: Matt Herges reemplaza a Masa Kobayashi.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="0"
+                 pitch="3"/>
+         <action b="0" s="0" o="0" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="424726"
+                 pitch="3"/>
+         <atbat num="56" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="424726"
+                pitcher="150382"
+                des="Jason Bay homers (8) on a fly ball to right field.    Julio Lugo scores.    Dustin Pedroia scores.  "
+                des_es="Jason Bay batea jonrón (8) con elevado por el jardín derecho.    Julio Lugo anota  Dustin Pedroia anota.  "
+                event="Home Run"
+                score="T"
+                home_team_runs="13"
+                away_team_runs="2"
+                b1=""
+                b2=""
+                b3=""
+                rbi="3">
+            <pitch sv_id="090507_205829" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_205854" des="Ball" des_es="Bola mala" type="B" start_speed="74.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_205917" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_205944" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210007" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="88.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="57" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="136780"
+                pitcher="150382"
+                des="Mike Lowell grounds out, shortstop Asdrubal Cabrera to first baseman Ryan Garko.  "
+                des_es="Mike Lowell batea rodado de out, campo corto Asdrubal Cabrera a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_210059" des="Ball" des_es="Bola mala" type="B" start_speed="74.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_210116" des="Ball" des_es="Bola mala" type="B" start_speed="75.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_210136" des="Foul" des_es="Foul" type="S" start_speed="87.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210200" des="Ball" des_es="Bola mala" type="B" start_speed="88.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210218" des="Foul" des_es="Foul" type="S" start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210250" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="58" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="408306"
+                pitcher="150382"
+                des="Rocco Baldelli strikes out swinging.  "
+                des_es="Rocco Baldelli se poncha tirándole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_210329" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210348" des="Foul" des_es="Foul" type="S" start_speed="89.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210443" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210505" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="80.5"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="59" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="136770"
+                pitcher="150382"
+                des="J.  D.   Drew grounds out, second baseman Luis Valbuena to first baseman Ryan Garko.  "
+                des_es="J.  D.   Drew batea rodado de out, segunda base Luis Valbuena a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_210540" des="Ball" des_es="Bola mala" type="B" start_speed="88.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210557" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="80.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_210617" des="Ball" des_es="Bola mala" type="B" start_speed="88.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_210636" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.6"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Manny Delcarmen replaces Tim Wakefield.  "
+                 des_es="Cambio de Lanzador: Manny Delcarmen reemplaza a Tim Wakefield.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="434668"
+                 pitch="4"/>
+         <atbat num="60" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="472528"
+                pitcher="434668"
+                des="Luis Valbuena pops out to third baseman Mike Lowell.  "
+                des_es="Luis Valbuena batea elevadito de out a tercera base Mike Lowell.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_210949" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211006" des="Foul" des_es="Foul" type="S" start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211029" des="Foul" des_es="Foul" type="S" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211058" des="Foul" des_es="Foul" type="S" start_speed="95.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211127" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_211152" des="Ball" des_es="Bola mala" type="B" start_speed="76.1"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_211220" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="61" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="450204"
+                pitcher="434668"
+                des="Ben Francisco singles on a line drive to left fielder Jason Bay.  Ben Francisco out at 2nd, left fielder Jason Bay to second baseman Dustin Pedroia.  "
+                des_es="Ben Francisco pega sencillo con línea a jardinero izquierdo Jason Bay.  Ben Francisco out en 2da, jardinero izquierdo Jason Bay a segunda base Dustin Pedroia.  "
+                event="Single"
+                event2="Runner Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_211259" des="Ball" des_es="Bola mala" type="B" start_speed="95.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211338" des="Foul" des_es="Foul" type="S" start_speed="77.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="090507_211427" des="Ball" des_es="Bola mala" type="B" start_speed="95.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="62" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="452678"
+                pitcher="434668"
+                des="Asdrubal Cabrera called out on strikes.  "
+                des_es="Asdrubal Cabrera se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_211518" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_211534" des="Foul" des_es="Foul" type="S" start_speed="81.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_211602" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.1"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Josh Barfield replaces third baseman Mark DeRosa, batting 4th, playing second base.  "
+                 des_es="Sustitución a la Defensiva: Josh Barfield reemplaza a tercera base Mark DeRosa, como cuarto bate y jugando en el segunda base.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="429662"
+                 pitch="3"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from second base to third base for Luis Valbuena.  "
+                 des_es="Sustitución a la defensiva de segunda base a tercera base por Luis Valbuena.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="472528"
+                 pitch="3"/>
+         <atbat num="63" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="431158"
+                pitcher="150382"
+                des="Jeff Bailey grounds out, third baseman Luis Valbuena to first baseman Ryan Garko.  "
+                des_es="Jeff Bailey batea rodado de out, tercera base Luis Valbuena a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_211831" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_211853" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_211915" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="64" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="407797"
+                pitcher="150382"
+                des="Nick Green pops out to second baseman Josh Barfield.  "
+                des_es="Nick Green batea elevadito de out a segunda base Josh Barfield.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_211953" des="Ball" des_es="Bola mala" type="B" start_speed="88.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212012" des="Foul" des_es="Foul" type="S" start_speed="80.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_212041" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="65" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435459"
+                pitcher="150382"
+                des="George Kottaras called out on strikes.  "
+                des_es="George Kottaras se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_212119" des="Foul" des_es="Foul" type="S" start_speed="88.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212157" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212215" des="Foul" des_es="Foul" type="S" start_speed="80.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_212252" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_212314" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.2"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Javier Lopez replaces Manny Delcarmen.  "
+                 des_es="Cambio de Lanzador: Javier Lopez reemplaza a Manny Delcarmen.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425657"
+                 pitch="5"/>
+         <atbat num="66" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="400121"
+                pitcher="425657"
+                des="Victor Martinez grounds out, shortstop Nick Green to first baseman Jeff Bailey.  "
+                des_es="Victor Martinez batea rodado de out, campo corto Nick Green a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_212606" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.3"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="67" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="429662"
+                pitcher="425657"
+                des="Josh Barfield singles on a line drive to left fielder Jason Bay.  "
+                des_es="Josh Barfield pega sencillo con línea a jardinero izquierdo Jason Bay.  "
+                event="Single"
+                b1="429662"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_212640" des="Ball" des_es="Bola mala" type="B" start_speed="86.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212654" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="68" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="113240"
+                pitcher="425657"
+                des="David Dellucci grounds out softly to first baseman Jeff Bailey.   Josh Barfield to 2nd.  "
+                des_es="David Dellucci batea rodado de out suavemente a primera base Jeff Bailey en jugada de infield fly.   Josh Barfield a 2da.  "
+                event="Groundout"
+                b1=""
+                b2="429662"
+                b3="">
+            <pitch sv_id="090507_212730" des="Ball" des_es="Bola mala" type="B" start_speed="73.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_212745" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212801" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="75.4"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="69" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="434939"
+                pitcher="425657"
+                des="Ryan Garko doubles (4) on a line drive to left fielder Jason Bay.   Josh Barfield scores.  "
+                des_es="Ryan Garko pega doble (4) con línea a jardinero izquierdo Jason Bay.   Josh Barfield anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="13"
+                away_team_runs="3"
+                b1=""
+                b2="434939"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090507_212846" des="Ball" des_es="Bola mala" type="B" start_speed="71.8"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_212906" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_212928" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="87.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="70" b="3" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="425509"
+                pitcher="425657"
+                des="Jhonny Peralta grounds out, shortstop Nick Green to first baseman Jeff Bailey.  "
+                des_es="Jhonny Peralta batea rodado de out, campo corto Nick Green a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_213012" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_213031" des="Ball" des_es="Bola mala" type="B" start_speed="79.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_213050" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090507_213112" des="Ball" des_es="Bola mala" type="B" start_speed="74.0"
+                   pitch_type="CU"/>
+            <pitch sv_id="090507_213135" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.7"
+                   pitch_type="FT"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0" des="Pitching Change: Jensen Lewis replaces Matt Herges.  "
+                 des_es="Cambio de Lanzador: Jensen Lewis reemplaza a Matt Herges.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="460029"
+                 pitch="5"/>
+         <atbat num="71" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150061"
+                pitcher="460029"
+                des="Julio Lugo flies out to left fielder David Dellucci.  "
+                des_es="Julio Lugo batea elevado de out a jardinero izquierdo David Dellucci.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_213410" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_213424" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_213439" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="72" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="456030"
+                pitcher="460029"
+                des="Dustin Pedroia grounds out, shortstop Asdrubal Cabrera to first baseman Ryan Garko.  "
+                des_es="Dustin Pedroia batea rodado de out, campo corto Asdrubal Cabrera a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_213517" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_213533" des="Ball" des_es="Bola mala" type="B" start_speed="85.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090507_213552" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.0"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="73" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="424726"
+                pitcher="460029"
+                des="Jason Bay grounds out, shortstop Asdrubal Cabrera to first baseman Ryan Garko.  "
+                des_es="Jason Bay batea rodado de out, campo corto Asdrubal Cabrera a primera base Ryan Garko.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_213627" des="Ball" des_es="Bola mala" type="B" start_speed="92.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_213642" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090507_213701" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.0"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0" des="Pitching Change: Takashi Saito replaces Javier Lopez.  "
+                 des_es="Cambio de Lanzador: Takashi Saito reemplaza a Javier Lopez.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="493416"
+                 pitch="3"/>
+         <atbat num="74" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="453181"
+                pitcher="493416"
+                des="Matt LaPorta grounds out to first baseman Jeff Bailey.  "
+                des_es="Matt LaPorta batea rodado de out a primera base Jeff Bailey.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_213932" des="Foul" des_es="Foul" type="S" start_speed="89.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_213956" des="Ball" des_es="Bola mala" type="B" start_speed="80.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_214014" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="75" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="472528"
+                pitcher="493416"
+                des="Luis Valbuena pops out to third baseman Mike Lowell.  "
+                des_es="Luis Valbuena batea elevadito de out a tercera base Mike Lowell.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_214057" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_214113" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="76" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="450204"
+                pitcher="493416"
+                des="Ben Francisco hit by pitch.  "
+                des_es="Ben Francisco golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="450204"
+                b2=""
+                b3="">
+            <pitch sv_id="090507_214154" des="Foul" des_es="Foul" type="S" start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_214217" des="Ball" des_es="Bola mala" type="B" start_speed="81.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_214234" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="91.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="77" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="452678"
+                pitcher="493416"
+                des="Asdrubal Cabrera flies out to left fielder Jason Bay.  "
+                des_es="Asdrubal Cabrera batea elevado de out a jardinero izquierdo Jason Bay.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090507_214317" des="Swinging Strike" des_es="Strike tirándole" type="S"
+                   start_speed="82.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090507_214339" des="Foul" des_es="Foul" type="S" start_speed="92.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090507_214407" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.1"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="452678"/>
+   <deck pid="400121"/>
+   <hole pid="429662"/>
+</game>

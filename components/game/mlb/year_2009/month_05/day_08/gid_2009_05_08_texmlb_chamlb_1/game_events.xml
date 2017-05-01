@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="435079"
+                pitcher="425747"
+                des="Ian Kinsler walks.  "
+                des_es="Ian Kinsler recibe base por bolas.  "
+                event_num="11"
+                event="Walk"
+                event_es="Base por Bolas"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1="435079"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_191122" des="Ball" des_es="Bola mala" type="B" start_speed="95.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_191138" des="Ball" des_es="Bola mala" type="B" start_speed="94.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191154" des="Foul" des_es="Foul" type="S" start_speed="95.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_191216" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_191242" des="Ball" des_es="Bola mala" type="B" start_speed="94.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191300" des="Foul" des_es="Foul" type="S" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191322" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="2" s="1" o="0"
+                 des="With Omar Vizquel batting, Ian Kinsler steals (8) 2nd base.  "
+                 des_es="Con Omar Vizquel bateando, Ian Kinsler se roba (8) la 2da base.  "
+                 event="Stolen Base 2B"
+                 event_es="Base Robada 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="435079"
+                 pitch="3"
+                 event_num="19"
+                 home_team_runs="0"
+                 away_team_runs="0"/>
+         <atbat num="2" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="123744"
+                pitcher="425747"
+                des="Omar Vizquel singles on a ground ball to center fielder Brent Lillibridge.   Ian Kinsler scores.  "
+                des_es="Omar Vizquel pega sencillo con rodado a jardinero central Brent Lillibridge.   Ian Kinsler anota.  "
+                event_num="25"
+                event="Single"
+                event_es="Sencillo"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="123744"
+                b2="435079"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090508_191400" des="Ball" des_es="Bola mala" type="B" start_speed="94.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191434" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191500" des="Pitchout" des_es="Bola franca" type="B"
+                   start_speed="93.5"
+                   pitch_type="PO"/>
+            <pitch sv_id="090508_191537" des="Ball" des_es="Bola mala" type="B" start_speed="93.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_191557" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="93.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="3" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="276545"
+                pitcher="425747"
+                des="Michael Young flies out to center fielder Brent Lillibridge.  "
+                des_es="Michael Young batea elevado de out a jardinero central Brent Lillibridge.  "
+                event_num="32"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_191650" des="Ball" des_es="Bola mala" type="B" start_speed="95.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_191710" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_191746" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="1" s="0" o="1"
+                 des="With Andruw Jones batting, Omar Vizquel steals (1) 2nd base.  "
+                 des_es="Con Andruw Jones bateando, Omar Vizquel se roba (1) la 2da base.  "
+                 event="Stolen Base 2B"
+                 event_es="Base Robada 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="123744"
+                 pitch="1"
+                 event_num="39"
+                 home_team_runs="0"
+                 away_team_runs="1"/>
+         <atbat num="4" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="116662"
+                pitcher="425747"
+                des="Andruw Jones walks.  "
+                des_es="Andruw Jones recibe base por bolas.  "
+                event_num="46"
+                event="Walk"
+                event_es="Base por Bolas"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="116662"
+                b2="123744"
+                b3="">
+            <pitch sv_id="090508_191903" des="Ball" des_es="Bola mala" type="B" start_speed="88.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_191935" des="Foul" des_es="Foul" type="S" start_speed="88.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_192005" des="Foul" des_es="Foul" type="S" start_speed="94.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_192033" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_192052" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="90.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_192122" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="94.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="5" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="407781"
+                pitcher="425747"
+                des="Marlon Byrd grounds into a double play, second baseman Chris Getz to shortstop Jayson Nix to first baseman Paul Konerko.   Andruw Jones out at 2nd.  "
+                des_es="Marlon Byrd batea rodado batea para doble matanza, segunda base Chris Getz a campo corto Jayson Nix a primera base Paul Konerko.   Andruw Jones a cabo a 2da.  "
+                event_num="51"
+                event="Grounded Into DP"
+                event_es="Roletazo de Doble Play"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_192205" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="95.1"
+                   pitch_type="FT"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="6" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="460051"
+                pitcher="457448"
+                des="Chris Getz grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="Chris Getz batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="60"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_192419" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_192429" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_192439" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_192448" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="7" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="435222"
+                pitcher="457448"
+                des="Josh Fields singles on a ground ball to right fielder Nelson Cruz.  "
+                des_es="Josh Fields pega sencillo con rodado a jardinero derecho Nelson Cruz.  "
+                event_num="65"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="435222"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_192520" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_192529" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="93.8"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="8" b="3" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435041"
+                pitcher="457448"
+                des="Carlos Quentin strikes out swinging and Josh Fields caught stealing 2nd, catcher Taylor Teagarden to second baseman Ian Kinsler to first baseman Chris Davis to shortstop Omar Vizquel.  "
+                des_es="Carlos Quentin se poncha tir&#225;ndole y Josh Fields atrapado robando la 2da, receptor Taylor Teagarden a segunda base Ian Kinsler a primera base Chris Davis a campo corto Omar Vizquel.  "
+                event_num="75"
+                event="Strikeout - DP"
+                event_es="Doble Play en Ponche"
+                event2="Caught Stealing 2B"
+                event2_es="Retirado en Intento de Robo 2B"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_192610" des="Ball" des_es="Bola mala" type="B" start_speed="93.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_192625" des="Foul" des_es="Foul" type="S" start_speed="92.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_192649" des="Foul" des_es="Foul" type="S" start_speed="82.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_192726" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_192750" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="88.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_192814" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="94.4"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="9" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="443558"
+                pitcher="425747"
+                des="Nelson Cruz strikes out swinging.  "
+                des_es="Nelson Cruz se poncha tir&#225;ndole.  "
+                event_num="86"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_193048" des="Foul" des_es="Foul" type="S" start_speed="91.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193108" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193125" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193141" des="Foul" des_es="Foul" type="S" start_speed="81.1"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_193202" des="Ball" des_es="Bola mala" type="B" start_speed="78.5"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_193223" des="Foul" des_es="Foul" type="S" start_speed="95.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193242" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="10" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="461815"
+                pitcher="425747"
+                des="David Murphy reaches on a throwing error by third baseman Josh Fields.  "
+                des_es="David Murphy se embasa por error en tiro de tercera base Josh Fields.  "
+                event_num="95"
+                event="Field Error"
+                event_es="Error de Fildeo"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="461815"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_193313" des="Ball" des_es="Bola mala" type="B" start_speed="86.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_193329" des="Ball" des_es="Bola mala" type="B" start_speed="94.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193347" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193403" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193421" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.7"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="11" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="448801"
+                pitcher="425747"
+                des="Chris Davis singles on a fly ball to right fielder Jermaine Dye.   David Murphy to 2nd.  "
+                des_es="Chris Davis pega sencillo con elevado a jardinero derecho Jermaine Dye.   David Murphy a 2da.  "
+                event_num="100"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="448801"
+                b2="461815"
+                b3="">
+            <pitch sv_id="090508_193513" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="93.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="12" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="460003"
+                pitcher="425747"
+                des="Taylor Teagarden singles on a ground ball to left fielder Carlos Quentin.   David Murphy to 3rd.    Chris Davis to 2nd.  "
+                des_es="Taylor Teagarden pega sencillo con rodado a jardinero izquierdo Carlos Quentin.   David Murphy a 3ra.    Chris Davis a 2da.  "
+                event_num="107"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1="460003"
+                b2="448801"
+                b3="461815">
+            <pitch sv_id="090508_193559" des="Foul" des_es="Foul" type="S" start_speed="95.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193624" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="13" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="435079"
+                pitcher="425747"
+                des="Ian Kinsler grounds into a force out, shortstop Jayson Nix to second baseman Chris Getz.   David Murphy scores.    Chris Davis to 3rd.    Taylor Teagarden out at 2nd.    Ian Kinsler to 1st.  "
+                des_es="Ian Kinsler batea rodado batea para out forzado, campo corto Jayson Nix a segunda base Chris Getz.   David Murphy anota  Chris Davis a 3ra.    Taylor Teagarden a cabo a 2da.    Ian Kinsler a 1ra.  "
+                event_num="120"
+                event="Forceout"
+                event_es="Out Forzado"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="2"
+                b1="435079"
+                b2=""
+                b3="448801"
+                rbi="1">
+            <pitch sv_id="090508_193709" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193727" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193747" des="Ball" des_es="Bola mala" type="B" start_speed="91.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193808" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_193834" des="Ball" des_es="Bola mala" type="B" start_speed="94.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_193855" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="95.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="2" s="1" o="2"
+                 des="With Omar Vizquel batting, wild pitch by Jose Contreras, Chris Davis scores.    Ian Kinsler to 2nd.  "
+                 des_es="Con Omar Vizquel bateando, lanzamiento desviado de Jose Contreras, Chris Davis anota  Ian Kinsler a 2da.  "
+                 event="Wild Pitch"
+                 event_es="Lanzamiento Descontrolado"
+                 tfs=""
+                 tfs_zulu=""
+                 player="448801"
+                 pitch="3"
+                 event_num="130"
+                 score="T"
+                 home_team_runs="0"
+                 away_team_runs="3"/>
+         <atbat num="14" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="123744"
+                pitcher="425747"
+                des="Omar Vizquel pops out to third baseman Josh Fields in foul territory.  "
+                des_es="Omar Vizquel batea elevadito de out a tercera base Josh Fields en territorio de foul.  "
+                event_num="133"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2="435079"
+                b3="">
+            <pitch sv_id="090508_193953" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_194043" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.0"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_194107" des="Ball" des_es="Bola mala" type="B" start_speed="79.1"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_194227" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.7"
+                   pitch_type="FS"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="15" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="123272"
+                pitcher="457448"
+                des="Jim Thome strikes out on a foul tip.  "
+                des_es="Jim Thome se poncha con foul tip.  "
+                event_num="143"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_194439" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_194449" des="Foul" des_es="Foul" type="S" start_speed="90.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_194504" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_194531" des="Ball" des_es="Bola mala" type="B" start_speed="81.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_194539" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="94.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="16" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="113679"
+                pitcher="457448"
+                des="Jermaine Dye singles on a ground ball to left fielder David Murphy.  "
+                des_es="Jermaine Dye pega sencillo con rodado a jardinero izquierdo David Murphy.  "
+                event_num="149"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1="113679"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_194606" des="Ball" des_es="Bola mala" type="B" start_speed="95.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_194615" des="Ball" des_es="Bola mala" type="B" start_speed="94.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_194627" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="93.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="17" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="117244"
+                pitcher="457448"
+                des="Paul Konerko flies out to center fielder Marlon Byrd.  "
+                des_es="Paul Konerko batea elevado de out a jardinero central Marlon Byrd.  "
+                event_num="154"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_194719" des="Foul" des_es="Foul" type="S" start_speed="93.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_194758" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.7"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="18" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="150229"
+                pitcher="457448"
+                des="A.  J.   Pierzynski grounds out softly, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="A.  J.   Pierzynski batea rodado de out suavemente, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="160"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_194835" des="Foul" des_es="Foul" type="S" start_speed="95.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_194857" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="89.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_194922" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.5"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="19" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="276545"
+                pitcher="425747"
+                des="Michael Young pops out to second baseman Chris Getz in foul territory.  "
+                des_es="Michael Young batea elevadito de out a segunda base Chris Getz en territorio de foul.  "
+                event_num="168"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_195146" des="Foul" des_es="Foul" type="S" start_speed="92.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195210" des="Ball" des_es="Bola mala" type="B" start_speed="79.0"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_195226" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="20" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="116662"
+                pitcher="425747"
+                des="Andruw Jones flies out to right fielder Jermaine Dye.  "
+                des_es="Andruw Jones batea elevado de out a jardinero derecho Jermaine Dye.  "
+                event_num="176"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_195307" des="Ball" des_es="Bola mala" type="B" start_speed="94.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195323" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_195339" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195412" des="Ball" des_es="Bola mala" type="B" start_speed="80.4"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_195428" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="96.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="21" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="407781"
+                pitcher="425747"
+                des="Marlon Byrd doubles (12) on a line drive to left fielder Carlos Quentin.  "
+                des_es="Marlon Byrd pega doble (12) con l&#237;nea a jardinero izquierdo Carlos Quentin.  "
+                event_num="186"
+                event="Double"
+                event_es="Doble"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2="407781"
+                b3="">
+            <pitch sv_id="090508_195507" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195522" des="Ball" des_es="Bola mala" type="B" start_speed="79.8"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_195537" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195551" des="Foul" des_es="Foul" type="S" start_speed="88.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_195618" des="Ball" des_es="Bola mala" type="B" start_speed="95.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_195633" des="Foul" des_es="Foul" type="S" start_speed="95.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_195653" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="95.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="22" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="443558"
+                pitcher="425747"
+                des="Nelson Cruz strikes out swinging.  "
+                des_es="Nelson Cruz se poncha tir&#225;ndole.  "
+                event_num="192"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_195739" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_195757" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_195817" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.0"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="23" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="434624"
+                pitcher="457448"
+                des="Jayson Nix flies out to left fielder David Murphy.  "
+                des_es="Jayson Nix batea elevado de out a jardinero izquierdo David Murphy.  "
+                event_num="203"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_200041" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_200055" des="Ball" des_es="Bola mala" type="B" start_speed="83.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_200112" des="Foul" des_es="Foul" type="S" start_speed="93.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_200135" des="Ball" des_es="Bola mala" type="B" start_speed="96.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_200150" des="Ball" des_es="Bola mala" type="B" start_speed="84.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_200213" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.8"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="24" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="452121"
+                pitcher="457448"
+                des="Brent Lillibridge lines out to right fielder Nelson Cruz.  "
+                des_es="Brent Lillibridge batea l&#237;nea de out a jardinero derecho Nelson Cruz.  "
+                event_num="207"
+                event="Lineout"
+                event_es="L&#237;nea de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_200246" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="25" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="460051"
+                pitcher="457448"
+                des="Chris Getz grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="Chris Getz batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="212"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_200314" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_200324" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.2"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="26" b="2" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="461815"
+                pitcher="425747"
+                des="David Murphy doubles (3) on a fly ball to left fielder Carlos Quentin.  "
+                des_es="David Murphy pega doble (3) con elevado a jardinero izquierdo Carlos Quentin.  "
+                event_num="221"
+                event="Double"
+                event_es="Doble"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2="461815"
+                b3="">
+            <pitch sv_id="090508_200548" des="Ball" des_es="Bola mala" type="B" start_speed="81.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_200603" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_200621" des="Foul" des_es="Foul" type="S" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_200645" des="Ball" des_es="Bola mala" type="B" start_speed="94.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_200701" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="82.5"
+                   pitch_type="SL"/>
+         </atbat>
+         <action b="1" s="2" o="0"
+                 des="With Chris Davis batting, wild pitch by Jose Contreras, David Murphy to 3rd.  "
+                 des_es="Con Chris Davis bateando, lanzamiento desviado de Jose Contreras, David Murphy a 3ra.  "
+                 event="Wild Pitch"
+                 event_es="Lanzamiento Descontrolado"
+                 tfs=""
+                 tfs_zulu=""
+                 player="461815"
+                 pitch="3"
+                 event_num="228"
+                 home_team_runs="0"
+                 away_team_runs="3"/>
+         <atbat num="27" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="448801"
+                pitcher="425747"
+                des="Chris Davis strikes out swinging.  "
+                des_es="Chris Davis se poncha tir&#225;ndole.  "
+                event_num="231"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1=""
+                b2=""
+                b3="461815">
+            <pitch sv_id="090508_200747" des="Foul" des_es="Foul" type="S" start_speed="85.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_200810" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="78.8"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_200842" des="Ball" des_es="Bola mala" type="B" start_speed="79.4"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_200915" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="78.1"
+                   pitch_type="FS"/>
+         </atbat>
+         <atbat num="28" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="460003"
+                pitcher="425747"
+                des="Taylor Teagarden hit by pitch.  "
+                des_es="Taylor Teagarden golpeado por lanzamiento.  "
+                event_num="234"
+                event="Hit By Pitch"
+                event_es="Pelotazo"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1="460003"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_200952" des="Hit By Pitch" des_es="Pelotazo" type="B"
+                   start_speed="94.7"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="29" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="435079"
+                pitcher="425747"
+                des="Ian Kinsler out on a sacrifice bunt, third baseman Josh Fields to first baseman Paul Konerko.   David Murphy scores.    Taylor Teagarden to 2nd.  "
+                des_es="Ian Kinsler out en toque de sacrificio, tercera base Josh Fields a primera base Paul Konerko.   David Murphy anota  Taylor Teagarden a 2da.  "
+                event_num="241"
+                event="Sac Bunt"
+                event_es="Toque de Sacrificio"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="4"
+                b1=""
+                b2="460003"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090508_201036" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="94.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="30" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="123744"
+                pitcher="425747"
+                des="Omar Vizquel doubles (3) on a line drive to right fielder Jermaine Dye.   Taylor Teagarden scores.  "
+                des_es="Omar Vizquel pega doble (3) con l&#237;nea a jardinero derecho Jermaine Dye.   Taylor Teagarden anota.  "
+                event_num="252"
+                event="Double"
+                event_es="Doble"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2="123744"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090508_201121" des="Ball" des_es="Bola mala" type="B" start_speed="93.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_201144" des="Foul" des_es="Foul" type="S" start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_201208" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="77.4"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_201232" des="Ball" des_es="Bola mala" type="B" start_speed="79.8"
+                   pitch_type="FS"/>
+            <pitch sv_id="090508_201251" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: D.  J.   Carrasco replaces Jose Contreras.  "
+                 des_es="Cambio de Lanzador: D.  J.   Carrasco reemplaza a Jose Contreras.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425647"
+                 pitch="5"
+                 event_num="254"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <action b="0" s="0" o="2" des="Coaching visit to mound.  "
+                 des_es="Visita del Instructor a la Lomita"
+                 event="Game Advisory"
+                 event_es="Aviso en el Juego"
+                 tfs=""
+                 tfs_zulu=""
+                 player="276545"
+                 pitch="5"
+                 event_num="255"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <atbat num="31" b="3" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="276545"
+                pitcher="425647"
+                des="Michael Young strikes out on a foul tip.  "
+                des_es="Michael Young se poncha con foul tip.  "
+                event_num="265"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_201632" des="Ball" des_es="Bola mala" type="B" start_speed="89.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_201648" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_201707" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_201727" des="Foul" des_es="Foul" type="S" start_speed="90.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_201807" des="Foul" des_es="Foul" type="S" start_speed="89.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_201851" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="83.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_201920" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="90.0"
+                   pitch_type="FC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="32" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="435222"
+                pitcher="457448"
+                des="Josh Fields grounds out, pitcher Matt Harrison to first baseman Chris Davis.  "
+                des_es="Josh Fields batea rodado de out, lanzador Matt Harrison a primera base Chris Davis.  "
+                event_num="271"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202133" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.2"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="33" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="435041"
+                pitcher="457448"
+                des="Carlos Quentin flies out to center fielder Marlon Byrd.  "
+                des_es="Carlos Quentin batea elevado de out a jardinero central Marlon Byrd.  "
+                event_num="277"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202209" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_202218" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_202238" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="34" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="123272"
+                pitcher="457448"
+                des="Jim Thome grounds out to first baseman Chris Davis.  "
+                des_es="Jim Thome batea rodado de out a primera base Chris Davis.  "
+                event_num="283"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202311" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_202320" des="Ball" des_es="Bola mala" type="B" start_speed="92.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_202331" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.1"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="35" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="116662"
+                pitcher="425647"
+                des="Andruw Jones grounds out, third baseman Josh Fields to first baseman Paul Konerko.  "
+                des_es="Andruw Jones batea rodado de out, tercera base Josh Fields a primera base Paul Konerko.  "
+                event_num="291"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202555" des="Ball" des_es="Bola mala" type="B" start_speed="81.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202606" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202622" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202635" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="36" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="407781"
+                pitcher="425647"
+                des="Marlon Byrd strikes out swinging.  "
+                des_es="Marlon Byrd se poncha tir&#225;ndole.  "
+                event_num="300"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202717" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202728" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_202741" des="Ball" des_es="Bola mala" type="B" start_speed="78.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_202756" des="Foul" des_es="Foul" type="S" start_speed="95.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_202814" des="Ball" des_es="Bola mala" type="B" start_speed="75.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_202827" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="37" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="443558"
+                pitcher="425647"
+                des="Nelson Cruz called out on strikes.  "
+                des_es="Nelson Cruz se poncha sin tirarle.  "
+                event_num="307"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_202855" des="Ball" des_es="Bola mala" type="B" start_speed="92.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202906" des="Foul" des_es="Foul" type="S" start_speed="91.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_202924" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_202938" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.7"
+                   pitch_type="FT"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from shortstop to third base for Omar Vizquel.  "
+                 des_es="Sustituci&#243;n a la defensiva de campo corto a tercera base por Omar Vizquel.  "
+                 event="Defensive Switch"
+                 event_es="Cambio Defensivo"
+                 tfs=""
+                 tfs_zulu=""
+                 player="123744"
+                 pitch="4"
+                 event_num="310"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Elvis Andrus replaces third baseman Michael Young, batting 3rd, playing shortstop.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Elvis Andrus reemplaza a tercera base Michael Young, como tercer bate y jugando en el campo corto.  "
+                 event="Defensive Sub"
+                 event_es="Sustituci&#243;n Defensiva"
+                 tfs=""
+                 tfs_zulu=""
+                 player="462101"
+                 pitch="4"
+                 event_num="312"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <atbat num="38" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="113679"
+                pitcher="457448"
+                des="Jermaine Dye called out on strikes.  "
+                des_es="Jermaine Dye se poncha sin tirarle.  "
+                event_num="320"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_203148" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_203157" des="Ball" des_es="Bola mala" type="B" start_speed="92.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_203209" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_203220" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_203236" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="39" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="117244"
+                pitcher="457448"
+                des="Paul Konerko pops out to second baseman Ian Kinsler.  "
+                des_es="Paul Konerko batea elevadito de out a segunda base Ian Kinsler.  "
+                event_num="326"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_203307" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_203322" des="Ball" des_es="Bola mala" type="B" start_speed="85.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_203344" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="40" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="150229"
+                pitcher="457448"
+                des="A.  J.   Pierzynski grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="A.  J.   Pierzynski batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="334"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_203421" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="96.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_203433" des="Foul" des_es="Foul" type="S" start_speed="97.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_203455" des="Ball" des_es="Bola mala" type="B" start_speed="85.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_203507" des="Foul" des_es="Foul" type="S" start_speed="93.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_203529" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.9"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Texas Rangers first baseman Michael Young left the game due to an injured back.  "
+                 des_es="Texas Rangers first baseman Michael Young sali&#243; del juego por lesi&#243;n en la espalda.  "
+                 event="Player Injured"
+                 event_es="Jugador Lesionado"
+                 tfs=""
+                 tfs_zulu=""
+                 player="276545"
+                 pitch="5"
+                 event_num="337"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <atbat num="41" b="1" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="461815"
+                pitcher="425647"
+                des="David Murphy singles on a ground ball to right fielder Jermaine Dye.  "
+                des_es="David Murphy pega sencillo con rodado a jardinero derecho Jermaine Dye.  "
+                event_num="344"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1="461815"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_203753" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="77.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_203805" des="Ball" des_es="Bola mala" type="B" start_speed="78.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_203817" des="Foul" des_es="Foul" type="S" start_speed="83.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_203836" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.6"
+                   pitch_type="FC"/>
+         </atbat>
+         <action b="1" s="2" o="0"
+                 des="With Chris Davis batting, wild pitch by D.  J.   Carrasco, David Murphy to 2nd.  "
+                 des_es="Con Chris Davis bateando, lanzamiento desviado de D.  J.   Carrasco, David Murphy a 2da.  "
+                 event="Wild Pitch"
+                 event_es="Lanzamiento Descontrolado"
+                 tfs=""
+                 tfs_zulu=""
+                 player="461815"
+                 pitch="3"
+                 event_num="352"
+                 home_team_runs="0"
+                 away_team_runs="5"/>
+         <atbat num="42" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="448801"
+                pitcher="425647"
+                des="Chris Davis strikes out swinging.  "
+                des_es="Chris Davis se poncha tir&#225;ndole.  "
+                event_num="355"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="5"
+                b1=""
+                b2="461815"
+                b3="">
+            <pitch sv_id="090508_203914" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_203932" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_204003" des="Ball" des_es="Bola mala" type="B" start_speed="78.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_204037" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.6"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="43" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="460003"
+                pitcher="425647"
+                des="Taylor Teagarden doubles (1) on a sharp ground ball to left fielder Carlos Quentin.   David Murphy scores.  "
+                des_es="Taylor Teagarden pega doble (1) con rodado fuerte a jardinero izquierdo Carlos Quentin.   David Murphy anota.  "
+                event_num="365"
+                event="Double"
+                event_es="Doble"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2="460003"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090508_204119" des="Foul" des_es="Foul" type="S" start_speed="94.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_204150" des="Ball" des_es="Bola mala" type="B" start_speed="82.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204211" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204229" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="90.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="44" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="435079"
+                pitcher="425647"
+                des="Ian Kinsler singles on a fly ball to left fielder Carlos Quentin.   Taylor Teagarden to 3rd.  "
+                des_es="Ian Kinsler pega sencillo con elevado a jardinero izquierdo Carlos Quentin.   Taylor Teagarden a 3ra.  "
+                event_num="371"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="435079"
+                b2=""
+                b3="460003">
+            <pitch sv_id="090508_204312" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204327" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="80.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="45" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="123744"
+                pitcher="425647"
+                des="Omar Vizquel pops out to second baseman Chris Getz.  "
+                des_es="Omar Vizquel batea elevadito de out a segunda base Chris Getz.  "
+                event_num="378"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_204405" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_204426" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_204445" des="Ball" des_es="Bola mala" type="B" start_speed="91.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_204507" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="46" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="462101"
+                pitcher="425647"
+                des="Elvis Andrus grounds out, second baseman Chris Getz to first baseman Paul Konerko.  "
+                des_es="Elvis Andrus batea rodado de out, segunda base Chris Getz a primera base Paul Konerko.  "
+                event_num="386"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_204558" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204614" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204631" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204654" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_204718" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.8"
+                   pitch_type="FC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="47" b="4" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="434624"
+                pitcher="457448"
+                des="Jayson Nix walks.  "
+                des_es="Jayson Nix recibe base por bolas.  "
+                event_num="395"
+                event="Walk"
+                event_es="Base por Bolas"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="434624"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_204937" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_204949" des="Ball" des_es="Bola mala" type="B" start_speed="91.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_205005" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_205022" des="Ball" des_es="Bola mala" type="B" start_speed="93.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="0" des="On-field Delay.  " des_es="Retraso en el Terreno"
+                 event="Game Advisory"
+                 event_es="Aviso en el Juego"
+                 tfs=""
+                 tfs_zulu=""
+                 player="452121"
+                 pitch="0"
+                 event_num="397"
+                 home_team_runs="0"
+                 away_team_runs="6"/>
+         <atbat num="48" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="452121"
+                pitcher="457448"
+                des="Brent Lillibridge called out on strikes.  "
+                des_es="Brent Lillibridge se poncha sin tirarle.  "
+                event_num="403"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_205056" des="Ball" des_es="Bola mala" type="B" start_speed="91.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_205159" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_205213" des="Foul" des_es="Foul" type="S" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_205236" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="49" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="460051"
+                pitcher="457448"
+                des="Chris Getz singles on a fly ball to right fielder Nelson Cruz.   Jayson Nix to 2nd.  "
+                des_es="Chris Getz pega sencillo con elevado a jardinero derecho Nelson Cruz.   Jayson Nix a 2da.  "
+                event_num="411"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="460051"
+                b2="434624"
+                b3="">
+            <pitch sv_id="090508_205304" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_205316" des="Ball" des_es="Bola mala" type="B" start_speed="88.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_205332" des="Ball" des_es="Bola mala" type="B" start_speed="93.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_205346" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="50" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="435222"
+                pitcher="457448"
+                des="Josh Fields grounds into a double play, third baseman Omar Vizquel to second baseman Ian Kinsler to first baseman Chris Davis.   Chris Getz out at 2nd.  "
+                des_es="Josh Fields batea rodado batea para doble matanza, tercera base Omar Vizquel a segunda base Ian Kinsler a primera base Chris Davis.   Chris Getz a cabo a 2da.  "
+                event_num="419"
+                event="Grounded Into DP"
+                event_es="Roletazo de Doble Play"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_205442" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="84.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_205507" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="95.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_205524" des="Ball" des_es="Bola mala" type="B" start_speed="94.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_205541" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.8"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <atbat num="51" b="0" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="116662"
+                pitcher="425647"
+                des="Andruw Jones singles on a ground ball to left fielder Carlos Quentin.  "
+                des_es="Andruw Jones pega sencillo con rodado a jardinero izquierdo Carlos Quentin.  "
+                event_num="425"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="116662"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_205813" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.4"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="52" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="407781"
+                pitcher="425647"
+                des="Marlon Byrd flies out to left fielder Carlos Quentin.  "
+                des_es="Marlon Byrd batea elevado de out a jardinero izquierdo Carlos Quentin.  "
+                event_num="430"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_205852" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_205907" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.0"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="53" b="0" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="443558"
+                pitcher="425647"
+                des="Nelson Cruz strikes out swinging.  "
+                des_es="Nelson Cruz se poncha tir&#225;ndole.  "
+                event_num="436"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_205938" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_205953" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="83.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_210010" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.5"
+                   pitch_type="FC"/>
+         </atbat>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: Clayton Richard replaces D.  J.   Carrasco.  "
+                 des_es="Cambio de Lanzador: Clayton Richard reemplaza a D.  J.   Carrasco.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs=""
+                 tfs_zulu=""
+                 player="453385"
+                 pitch="3"
+                 event_num="438"
+                 home_team_runs="0"
+                 away_team_runs="6"/>
+         <action b="0" s="0" o="2" des="Coaching visit to mound.  "
+                 des_es="Visita del Instructor a la Lomita"
+                 event="Game Advisory"
+                 event_es="Aviso en el Juego"
+                 tfs=""
+                 tfs_zulu=""
+                 player="461815"
+                 pitch="3"
+                 event_num="439"
+                 home_team_runs="0"
+                 away_team_runs="6"/>
+         <atbat num="54" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="461815"
+                pitcher="453385"
+                des="David Murphy grounds out, shortstop Jayson Nix to first baseman Paul Konerko.  "
+                des_es="David Murphy batea rodado de out, campo corto Jayson Nix a primera base Paul Konerko.  "
+                event_num="445"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_210239" des="Ball" des_es="Bola mala" type="B" start_speed="95.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210251" des="Foul" des_es="Foul" type="S" start_speed="94.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210310" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="96.6"
+                   pitch_type="FT"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="55" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="435041"
+                pitcher="457448"
+                des="Carlos Quentin flies out to left fielder David Murphy.  "
+                des_es="Carlos Quentin batea elevado de out a jardinero izquierdo David Murphy.  "
+                event_num="455"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_210520" des="Ball" des_es="Bola mala" type="B" start_speed="92.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_210532" des="Foul" des_es="Foul" type="S" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210559" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_210609" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210621" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.9"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="56" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="123272"
+                pitcher="457448"
+                des="Jim Thome grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="Jim Thome batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="460"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_210658" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_210708" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.7"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="57" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="113679"
+                pitcher="457448"
+                des="Jermaine Dye flies out to right fielder Nelson Cruz.  "
+                des_es="Jermaine Dye batea elevado de out a jardinero derecho Nelson Cruz.  "
+                event_num="469"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_210752" des="Foul" des_es="Foul" type="S" start_speed="95.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_210807" des="Ball" des_es="Bola mala" type="B" start_speed="84.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_210829" des="Foul" des_es="Foul" type="S" start_speed="93.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210852" des="Foul" des_es="Foul" type="S" start_speed="80.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090508_210911" des="Foul" des_es="Foul" type="S" start_speed="97.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_210932" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.5"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <atbat num="58" b="3" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="448801"
+                pitcher="453385"
+                des="Chris Davis strikes out swinging.  "
+                des_es="Chris Davis se poncha tir&#225;ndole.  "
+                event_num="479"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_211144" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211156" des="Ball" des_es="Bola mala" type="B" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211208" des="Ball" des_es="Bola mala" type="B" start_speed="92.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211220" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_211231" des="Foul" des_es="Foul" type="S" start_speed="93.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_211247" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="96.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="59" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="460003"
+                pitcher="453385"
+                des="Taylor Teagarden strikes out swinging.  "
+                des_es="Taylor Teagarden se poncha tir&#225;ndole.  "
+                event_num="487"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_211317" des="Ball" des_es="Bola mala" type="B" start_speed="75.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090508_211329" des="Foul" des_es="Foul" type="S" start_speed="95.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211348" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_211404" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_211430" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.5"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="60" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435079"
+                pitcher="453385"
+                des="Ian Kinsler strikes out swinging.  "
+                des_es="Ian Kinsler se poncha tir&#225;ndole.  "
+                event_num="496"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_211501" des="Ball" des_es="Bola mala" type="B" start_speed="97.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211512" des="Ball" des_es="Bola mala" type="B" start_speed="85.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_211525" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_211540" des="Foul" des_es="Foul" type="S" start_speed="97.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211559" des="Foul" des_es="Foul" type="S" start_speed="98.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211637" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.1"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="61" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="117244"
+                pitcher="457448"
+                des="Paul Konerko reaches on a fielding error by second baseman Ian Kinsler.  "
+                des_es="Paul Konerko se embasa por error en fildeo de segunda base Ian Kinsler.  "
+                event_num="504"
+                event="Field Error"
+                event_es="Error de Fildeo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="117244"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_211842" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_211900" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_211914" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="62" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="150229"
+                pitcher="457448"
+                des="A.  J.   Pierzynski pops out to first baseman Chris Davis.  "
+                des_es="A.  J.   Pierzynski batea elevadito de out a primera base Chris Davis.  "
+                event_num="508"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_212003" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.3"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="63" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="434624"
+                pitcher="457448"
+                des="Jayson Nix flies out to left fielder David Murphy.  "
+                des_es="Jayson Nix batea elevado de out a jardinero izquierdo David Murphy.  "
+                event_num="514"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_212042" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_212058" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_212115" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.3"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="64" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="452121"
+                pitcher="457448"
+                des="Brent Lillibridge singles on a fly ball to left fielder David Murphy.   Paul Konerko to 2nd.  "
+                des_es="Brent Lillibridge pega sencillo con elevado a jardinero izquierdo David Murphy.   Paul Konerko a 2da.  "
+                event_num="523"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="452121"
+                b2="117244"
+                b3="">
+            <pitch sv_id="090508_212156" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_212211" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="93.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_212234" des="Foul" des_es="Foul" type="S" start_speed="75.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090508_212259" des="Foul" des_es="Foul" type="S" start_speed="94.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_212325" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="75.8"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="65" b="1" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="460051"
+                pitcher="457448"
+                des="Chris Getz grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="Chris Getz batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="529"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_212408" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090508_212420" des="Foul" des_es="Foul" type="S" start_speed="92.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_212440" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.7"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Lance Broadway replaces Clayton Richard.  "
+                 des_es="Cambio de Lanzador: Lance Broadway reemplaza a Clayton Richard.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs=""
+                 tfs_zulu=""
+                 player="473560"
+                 pitch="3"
+                 event_num="533"
+                 home_team_runs="0"
+                 away_team_runs="6"/>
+         <atbat num="66" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="123744"
+                pitcher="473560"
+                des="Omar Vizquel grounds out, pitcher Lance Broadway to first baseman Paul Konerko.  "
+                des_es="Omar Vizquel batea rodado de out, lanzador Lance Broadway a primera base Paul Konerko.  "
+                event_num="538"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_212723" des="Foul" des_es="Foul" type="S" start_speed="92.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090508_212739" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.4"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="67" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="462101"
+                pitcher="473560"
+                des="Elvis Andrus singles on a fly ball to right fielder Jermaine Dye.  "
+                des_es="Elvis Andrus pega sencillo con elevado a jardinero derecho Jermaine Dye.  "
+                event_num="543"
+                event="Single"
+                event_es="Sencillo"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="462101"
+                b2=""
+                b3="">
+            <pitch sv_id="090508_212811" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090508_212823" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="68" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="116662"
+                pitcher="473560"
+                des="Andruw Jones walks.   Elvis Andrus to 2nd.  "
+                des_es="Andruw Jones recibe base por bolas.   Elvis Andrus a 2da.  "
+                event_num="553"
+                event="Walk"
+                event_es="Base por Bolas"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="116662"
+                b2="462101"
+                b3="">
+            <pitch sv_id="090508_212905" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_212918" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_212940" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="85.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_213007" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="84.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_213028" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_213048" des="Ball" des_es="Bola mala" type="B" start_speed="79.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="69" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="407781"
+                pitcher="473560"
+                des="Marlon Byrd grounds into a force out, third baseman Josh Fields to second baseman Chris Getz.   Elvis Andrus to 3rd.    Andruw Jones out at 2nd.    Marlon Byrd to 1st.  "
+                des_es="Marlon Byrd batea rodado batea para out forzado, tercera base Josh Fields a segunda base Chris Getz.   Elvis Andrus a 3ra.    Andruw Jones a cabo a 2da.    Marlon Byrd a 1ra.  "
+                event_num="560"
+                event="Forceout"
+                event_es="Out Forzado"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1="407781"
+                b2=""
+                b3="462101">
+            <pitch sv_id="090508_213126" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090508_213145" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.6"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="70" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="443558"
+                pitcher="473560"
+                des="Nelson Cruz flies out to right fielder Jermaine Dye.  "
+                des_es="Nelson Cruz batea elevado de out a jardinero derecho Jermaine Dye.  "
+                event_num="567"
+                event="Flyout"
+                event_es="Elevado de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_213224" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213240" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090508_213256" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="84.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090508_213316" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="83.9"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="71" b="3" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="435222"
+                pitcher="457448"
+                des="Josh Fields strikes out swinging.  "
+                des_es="Josh Fields se poncha tir&#225;ndole.  "
+                event_num="578"
+                event="Strikeout"
+                event_es="Ponche"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_213526" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_213535" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213547" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213559" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_213613" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213624" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="92.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="72" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="435041"
+                pitcher="457448"
+                des="Carlos Quentin grounds out, pitcher Matt Harrison to first baseman Chris Davis.  "
+                des_es="Carlos Quentin batea rodado de out, lanzador Matt Harrison a primera base Chris Davis.  "
+                event_num="583"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_213650" des="Foul" des_es="Foul" type="S" start_speed="94.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213707" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.3"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="73" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="123272"
+                pitcher="457448"
+                des="Jim Thome grounds out, second baseman Ian Kinsler to first baseman Chris Davis.  "
+                des_es="Jim Thome batea rodado de out, segunda base Ian Kinsler a primera base Chris Davis.  "
+                event_num="591"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                home_team_runs="0"
+                away_team_runs="6"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090508_213739" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213749" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_213815" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090508_213825" des="Foul" des_es="Foul" type="S" start_speed="93.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090508_213843" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.7"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <atBat pid="123272"/>
+   <deck pid="113679"/>
+   <hole pid="117244"/>
+</game>

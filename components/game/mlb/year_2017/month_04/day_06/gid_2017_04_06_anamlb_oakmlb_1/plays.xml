@@ -1,0 +1,58 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_06_anamlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="1" ah="5" ae="1" hr="5" hh="5" he="2" />
+<review challenges_away_used="1" challenges_away_remaining="0" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="457787" team_abbrev="LAA" team_id="108" parent_team_abbrev="LAA" parent_team_id="108" current_position="PH" stand="R" b_height="6-0" ab="1" h="0" avg=".167" boxname="Espinosa">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+		</batter>
+		<pitcher pid="448281" p_throws="L" pitches="20" strikes="16" balls="4" era="0.00" boxname="Doolittle"/>
+		<deck pid="542208" boxname="Perez, C"/>
+		<hole pid="488862" boxname="Escobar, Y"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="68" des="Danny Espinosa strikes out swinging.  " des_es="Danny Espinosa se poncha tir&#225;ndole.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="457787" play_guid="2244c145-681d-475a-bbb6-6800f3df58d8" >
+		<p type="S" id="540" event_num="540" x="122.58" y="198.5" des="Called Strike" des_es="Strike cantado" sv_id="170406_222036" play_guid="d75d2f45-a0c5-4acd-a6d6-a0cf5b838175" start_speed="94.1" end_speed="86.1" sz_top="3.2154775255438004" sz_bot="1.4902314015013864" pfx_x="2.751436315645992" pfx_z="12.92243938785252" px="-0.123784085622469" pz="1.50669287287793" x0="1.60239131431407" y0="50" z0="5.90022730389843" vx0="-5.61921068789596" vy0="-136.503945201511" vz0="-10.4111194198324" ax="5.19995167337475" ay="29.5872867855281" az="-7.75187315050205" break_y="23.8" break_angle="-21.9" break_length="2.3" pitch_type="FF" type_confidence=".902" zone="8" nasty="56" spin_dir="167.982" spin_rate="2653.800"  cc=""/>		<p type="S" id="541" event_num="541" x="95.15" y="165.73" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170406_222057" play_guid="5add8d73-8787-40d1-9314-db75c675db41" start_speed="94.5" end_speed="85.9" sz_top="3.842" sz_bot="1.589" pfx_x="2.14721317207248" pfx_z="13.58161883152452" px="0.573222367999905" pz="2.70545147804992" x0="1.79595959557095" y0="50" z0="6.01576206467633" vx0="-4.0611968650696" vy0="-137.201083785206" vz0="-7.77502631655559" ax="4.07862508570134" ay="31.3433998609983" az="-6.37580365407484" break_y="23.8" break_angle="-21.3" break_length="1.9" pitch_type="FF" type_confidence=".900" zone="6" nasty="39" spin_dir="171.018" spin_rate="2761.817"  cc=""/>		<p type="S" id="545" event_num="545" x="107.57" y="153.06" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170406_222138" play_guid="2244c145-681d-475a-bbb6-6800f3df58d8" start_speed="95.3" end_speed="86.9" sz_top="3.842" sz_bot="1.589" pfx_x="2.904254367900672" pfx_z="12.865229594508598" px="0.236613595368497" pz="3.1487648828235" x0="1.97264204983268" y0="50" z0="6.0230169790205" vx0="-5.77590600476243" vy0="-138.539508272898" vz0="-6.53700033845665" ax="5.63525759680343" ay="31.4209790884438" az="-7.21105509126769" break_y="23.8" break_angle="-26.6" break_length="2.0" pitch_type="FF" type_confidence=".898" zone="3" nasty="34" spin_dir="167.281" spin_rate="2679.894"  cc=""/>		<runner id="592743" start="1B" end="2B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="ana">
+			<man bnum="2" pid="592743" boxname="Simmons" note="Single" sb="0" cs="0"/>
+		</offense>
+		<defense type="home" id="oak">
+			<man pid="448281" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="572033" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="475174" s_po="36" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="489267" s_po="1" s_ass="3" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="543760" s_po="1" s_ass="13" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="461858" s_po="1" s_ass="7" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="501981" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="434658" s_po="10" s_ass="0" s_err="1" s_fldg=".909" pos="cf"/>
+			<man pid="592192" s_po="5" s_ass="0" s_err="1" s_fldg=".833" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="448281" index="7">
+			<man pid="434658"/>
+			<man pid="543760"/>
+			<man pid="476704"/>
+			<man pid="501981"/>
+			<man pid="475174"/>
+			<man pid="461858"/>
+			<man pid="592192"/>
+			<man pid="572033"/>
+			<man pid="489267"/>
+		</team>
+		<team type="away" pitcher="433589" index="8">
+			<man pid="488862"/>
+			<man pid="594777"/>
+			<man pid="545361"/>
+			<man pid="405395"/>
+			<man pid="543068"/>
+			<man pid="519184"/>
+			<man pid="592743"/>
+			<man pid="457787"/>
+			<man pid="542208"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Overcast" wind="3mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,62 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_07_atlmlb_pitmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="10" ae="2" hr="5" hh="11" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="621020" team_abbrev="ATL" team_id="144" parent_team_abbrev="ATL" parent_team_id="144" current_position="SS" stand="R" b_height="6-1" ab="5" h="1" avg=".158" boxname="Swanson">
+			<ab inning="9" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="8" event="Single" event_es="Sencillo"/>
+			<ab inning="5" event="Lineout" event_es="Línea de Out"/>
+			<ab inning="4" event="Strikeout" event_es="Ponche"/>
+			<ab inning="1" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="453265" p_throws="L" pitches="12" strikes="8" balls="4" era="0.00" boxname="Watson"/>
+		<deck pid="518692" boxname="Freeman, F"/>
+		<hole pid="488818" boxname="d'Arnaud, C"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="80" des="Dansby Swanson lines out to left fielder Gregory Polanco.  " des_es="Dansby Swanson batea l&#237;nea de out a jardinero izquierdo Gregory Polanco.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="621020" play_guid="6c26ecc0-4a9f-42b7-a151-e10dff8176f9" >
+		<p type="S" id="687" event_num="687" x="132.57" y="181.34" des="Foul" des_es="Foul" sv_id="170407_202524" play_guid="bc6b123b-bde9-4ce3-8b35-57d8e8278019" start_speed="91.6" end_speed="82.9" sz_top="3.735676389969818" sz_bot="1.7564039511450282" pfx_x="5.91754890273666" pfx_z="7.115525358089016" px="-0.408488248417537" pz="2.12742900070391" x0="3.13677475935129" y0="50" z0="5.15193076195936" vx0="-11.253155770166" vy0="-132.658875501892" vz0="-4.13441899737516" ax="10.4508425864553" ay="30.7494107258726" az="-19.6074882018673" break_y="23.7" break_angle="-21.1" break_length="5.1" pitch_type="SI" type_confidence="2.000" zone="7" nasty="56" spin_dir="140.253" spin_rate="1787.447"  cc=""/>		<p type="B" id="688" event_num="688" x="174.71" y="193.1" des="Ball" des_es="Bola mala" sv_id="170407_202547" play_guid="853c2c49-2a32-4213-8527-79d2de97386e" start_speed="90.6" end_speed="82.7" sz_top="3.7106961201286666" sz_bot="1.7480729661688983" pfx_x="6.70711915505088" pfx_z="6.904114859176296" px="-1.5141224914537" pz="1.69198052757768" x0="2.98922243934054" y0="50" z0="4.97621122343336" vx0="-13.9034428177603" vy0="-131.08487516382" vz0="-4.59731738526125" ax="11.6594037753447" ay="27.9498386378893" az="-20.1721948553711" break_y="23.8" break_angle="-22.6" break_length="5.3" pitch_type="SI" type_confidence="2.000" zone="13" nasty="42" spin_dir="135.830" spin_rate="1851.898"  cc=""/>		<p type="S" id="689" event_num="689" x="154.63" y="188.56" des="Called Strike" des_es="Strike cantado" sv_id="170407_202607" play_guid="b025b1f2-3950-4091-adad-6b0ae37c328b" start_speed="90.9" end_speed="81.8" sz_top="3.677388784853744" sz_bot="1.7564039511450285" pfx_x="8.625752389376952" pfx_z="9.133999450134995" px="-0.987162877016867" pz="1.85986902409347" x0="3.00179193003731" y0="50" z0="4.97795482869521" vx0="-13.1739002056438" vy0="-131.433714237475" vz0="-4.86121105453126" ax="14.8777229037042" ay="31.4910916776014" az="-16.4196996385257" break_y="23.7" break_angle="-33.9" break_length="5.0" pitch_type="SI" type_confidence="2.000" zone="13" nasty="69" spin_dir="136.640" spin_rate="2391.850"  cc=""/>		<p type="X" id="690" event_num="690" x="110.8" y="177.89" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170407_202635" play_guid="6c26ecc0-4a9f-42b7-a151-e10dff8176f9" start_speed="91.6" end_speed="83.3" sz_top="3.619100098851799" sz_bot="1.7897276702986744" pfx_x="9.04988441501562" pfx_z="6.0126041385922075" px="0.162755405540463" pz="2.25507388532341" x0="3.02254447388881" y0="50" z0="5.00762174716982" vx0="-10.56599380167" vy0="-132.859011499539" vz0="-3.10978691956969" ax="16.1145207098948" ay="29.4709617251431" az="-21.4678086235775" break_y="23.8" break_angle="-32.0" break_length="6.0" pitch_type="SI" type_confidence="2.000" zone="8" nasty="38" spin_dir="123.600" spin_rate="2112.620"  cc=""/>		<runner id="607054" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="atl">
+			<man bnum="3" pid="607054" boxname="Peterson, J" note="Pinch Runner" sb="0" cs="0"/>
+		</offense>
+		<defense type="home" id="pit">
+			<man pid="453265" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="465041" s_po="24" s_ass="1" s_err="0" s_fldg="1.000" c_sb="3" c_cs="0" pos="c"/>
+			<man pid="444379" s_po="4" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="594838" s_po="3" s_ass="1" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="474568" s_po="8" s_ass="11" s_err="1" s_fldg=".950" pos="ss"/>
+			<man pid="543281" s_po="5" s_ass="12" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="570256" s_po="3" s_ass="0" s_err="1" s_fldg=".750" pos="lf"/>
+			<man pid="516782" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="457705" s_po="4" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="L" x="41.17" y="0.00" batter="621020" pitcher="453265"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="453265" index="7">
+			<man pid="516782"/>
+			<man pid="453265"/>
+			<man pid="457705"/>
+			<man pid="570256"/>
+			<man pid="594838"/>
+			<man pid="465041"/>
+			<man pid="543281"/>
+			<man pid="474568"/>
+			<man pid="444379"/>
+		</team>
+		<team type="away" pitcher="527055" index="2">
+			<man pid="542255"/>
+			<man pid="621020"/>
+			<man pid="518692"/>
+			<man pid="488818"/>
+			<man pid="455976"/>
+			<man pid="408252"/>
+			<man pid="611177"/>
+			<man pid="607054"/>
+			<man pid="452095"/>
+		</team>
+	</lineup>
+	<weather temp="37" condition="Overcast" wind="13mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

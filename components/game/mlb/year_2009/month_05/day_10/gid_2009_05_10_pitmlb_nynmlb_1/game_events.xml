@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="3" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="460579"
+                pitcher="115817"
+                des="Nyjer Morgan singles on a line drive to left fielder Daniel Murphy.  "
+                des_es="Nyjer Morgan pega sencillo con l&#237;nea a jardinero izquierdo Daniel Murphy.  "
+                event="Single"
+                b1="460579"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_131017" des="Ball" des_es="Bola mala" type="B" start_speed="82.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_131027" des="Ball" des_es="Bola mala" type="B" start_speed="81.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_131040" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_131055" des="Foul" des_es="Foul" type="S" start_speed="83.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131114" des="Ball" des_es="Bola mala" type="B" start_speed="77.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_131133" des="Foul" des_es="Foul" type="S" start_speed="84.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131201" des="Foul" des_es="Foul" type="S" start_speed="83.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131220" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="2" s="2" o="0"
+                 des="With Delwyn Young batting, Nyjer Morgan steals (9) 2nd base.  "
+                 des_es="Con Delwyn Young bateando, Nyjer Morgan se roba (9) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="460579"
+                 pitch="4"/>
+         <atbat num="2" b="3" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="115817"
+                des="Delwyn Young singles on a line drive to left fielder Daniel Murphy.   Nyjer Morgan to 3rd.  "
+                des_es="Delwyn Young pega sencillo con l&#237;nea a jardinero izquierdo Daniel Murphy.   Nyjer Morgan a 3ra.  "
+                event="Single"
+                b1="434704"
+                b2="460579"
+                b3="460579">
+            <pitch sv_id="090510_131300" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131402" des="Ball" des_es="Bola mala" type="B" start_speed="83.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131429" des="Foul" des_es="Foul" type="S" start_speed="83.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131455" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131549" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="77.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_131613" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="78.0"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="3" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="434661"
+                pitcher="115817"
+                des="Nate McLouth out on a sacrifice fly to right fielder Ryan Church.   Nyjer Morgan scores.  "
+                des_es="Nate McLouth out con elevado de sacrificio a jardinero derecho Ryan Church.   Nyjer Morgan anota.  "
+                event="Sac Fly"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090510_131657" des="Foul" des_es="Foul" type="S" start_speed="85.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131719" des="Ball" des_es="Bola mala" type="B" start_speed="85.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131737" des="Foul" des_es="Foul" type="S" start_speed="78.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_131806" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="66.4"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="4" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425560"
+                pitcher="115817"
+                des="Adam LaRoche walks.   Delwyn Young to 2nd.  "
+                des_es="Adam LaRoche recibe base por bolas.   Delwyn Young a 2da.  "
+                event="Walk"
+                b1="425560"
+                b2="434704"
+                b3="">
+            <pitch sv_id="090510_131846" des="Ball" des_es="Bola mala" type="B" start_speed="85.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131906" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="79.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_131933" des="Ball" des_es="Bola mala" type="B" start_speed="78.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_131950" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_132006" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="76.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_132032" des="Ball" des_es="Bola mala" type="B" start_speed="83.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="5" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="400134"
+                pitcher="115817"
+                des="Eric Hinske strikes out swinging.  "
+                des_es="Eric Hinske se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_132112" des="Ball" des_es="Bola mala" type="B" start_speed="84.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_132130" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_132148" des="Foul" des_es="Foul" type="S" start_speed="79.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_132239" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="85.9"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="6" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="451188"
+                pitcher="115817"
+                des="Andy LaRoche grounds into a force out, shortstop Jose Reyes to second baseman Luis Castillo.   Adam LaRoche out at 2nd.  "
+                des_es="Andy LaRoche batea rodado batea para out forzado, campo corto Jose Reyes a segunda base Luis Castillo.   Adam LaRoche a cabo a 2da.  "
+                event="Forceout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_132309" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_132327" des="Foul" des_es="Foul" type="S" start_speed="78.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_132358" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="64.0"
+                   pitch_type="CU"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="7" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="408314"
+                pitcher="430636"
+                des="Jose Reyes grounds out, first baseman Adam LaRoche to pitcher Ian Snell.  "
+                des_es="Jose Reyes batea rodado de out, primera base Adam LaRoche a lanzador Ian Snell.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_132638" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_132652" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.8"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="8" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="112116"
+                pitcher="430636"
+                des="Luis Castillo singles on a line drive to center fielder Nate McLouth.  "
+                des_es="Luis Castillo pega sencillo con l&#237;nea a jardinero central Nate McLouth.  "
+                event="Single"
+                b1="112116"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_132730" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_132750" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_132818" des="Foul" des_es="Foul" type="S" start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_132840" des="Ball" des_es="Bola mala" type="B" start_speed="84.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_132859" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="1" s="1" o="1"
+                 des="With Carlos Beltran batting, Luis Castillo steals (3) 2nd base.  "
+                 des_es="Con Carlos Beltran bateando, Luis Castillo se roba (3) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="112116"
+                 pitch="2"/>
+         <atbat num="9" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="136860"
+                pitcher="430636"
+                des="Carlos Beltran strikes out swinging.  "
+                des_es="Carlos Beltran se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2="112116"
+                b3="">
+            <pitch sv_id="090510_132959" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_133022" des="Ball" des_es="Bola mala" type="B" start_speed="91.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_133135" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_133207" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_133238" des="Foul" des_es="Foul" type="S" start_speed="92.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_133310" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="80.7"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="10" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="113232"
+                pitcher="430636"
+                des="Carlos Delgado grounds out to first baseman Adam LaRoche.  "
+                des_es="Carlos Delgado batea rodado de out a primera base Adam LaRoche.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_133407" des="Foul" des_es="Foul" type="S" start_speed="91.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_133444" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_133515" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_133551" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.7"
+                   pitch_type="FT"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="11" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="433697"
+                pitcher="115817"
+                des="Robinzon Diaz doubles (2) on a ground ball to right fielder Ryan Church.  "
+                des_es="Robinzon Diaz pega doble (2) con rodado a jardinero derecho Ryan Church.  "
+                event="Double"
+                b1=""
+                b2="433697"
+                b3="">
+            <pitch sv_id="090510_133810" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_133825" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_133842" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="85.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="12" b="0" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="444448"
+                pitcher="115817"
+                des="Brian Bixler strikes out swinging.  "
+                des_es="Brian Bixler se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_133945" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_134004" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_134028" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="13" b="0" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="430636"
+                pitcher="115817"
+                des="Ian Snell strikes out swinging.  "
+                des_es="Ian Snell se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_134058" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_134125" des="Foul" des_es="Foul" type="S" start_speed="85.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_134148" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="14" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="460579"
+                pitcher="115817"
+                des="Nyjer Morgan walks.  "
+                des_es="Nyjer Morgan recibe base por bolas.  "
+                event="Walk"
+                b1="460579"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_134222" des="Foul" des_es="Foul" type="S" start_speed="86.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_134245" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_134300" des="Ball" des_es="Bola mala" type="B" start_speed="78.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_134318" des="Ball" des_es="Bola mala" type="B" start_speed="79.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_134339" des="Ball" des_es="Bola mala" type="B" start_speed="84.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="15" b="2" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="115817"
+                des="Delwyn Young flies out to left fielder Daniel Murphy.  "
+                des_es="Delwyn Young batea elevado de out a jardinero izquierdo Daniel Murphy.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_134413" des="Ball" des_es="Bola mala" type="B" start_speed="81.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_134429" des="Ball" des_es="Bola mala" type="B" start_speed="83.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_134459" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.6"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="16" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="431151"
+                pitcher="430636"
+                des="David Wright pops out to first baseman Adam LaRoche in foul territory.  "
+                des_es="David Wright batea elevadito de out a primera base Adam LaRoche en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_134727" des="Foul" des_es="Foul" type="S" start_speed="90.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_134750" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_134815" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_134833" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.7"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="17" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="502517"
+                pitcher="430636"
+                des="Daniel Murphy strikes out swinging.  "
+                des_es="Daniel Murphy se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_134908" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_134920" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_134932" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_134946" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.7"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_135001" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="94.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="18" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435408"
+                pitcher="430636"
+                des="Omir Santos called out on strikes.  "
+                des_es="Omir Santos se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_135033" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_135044" des="Foul" des_es="Foul" type="S" start_speed="86.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_135110" des="Foul" des_es="Foul" type="S" start_speed="94.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_135137" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.4"
+                   pitch_type="SL"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="19" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="434661"
+                pitcher="115817"
+                des="Nate McLouth doubles (4) on a fly ball to left fielder Daniel Murphy.  "
+                des_es="Nate McLouth pega doble (4) con elevado a jardinero izquierdo Daniel Murphy.  "
+                event="Double"
+                b1=""
+                b2="434661"
+                b3="">
+            <pitch sv_id="090510_135357" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_135411" des="Ball" des_es="Bola mala" type="B" start_speed="79.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135425" des="Ball" des_es="Bola mala" type="B" start_speed="78.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_135441" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="84.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="20" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="425560"
+                pitcher="115817"
+                des="Adam LaRoche pops out to third baseman David Wright in foul territory.  "
+                des_es="Adam LaRoche batea elevadito de out a tercera base David Wright en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_135527" des="Ball" des_es="Bola mala" type="B" start_speed="85.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135541" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135600" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="21" b="4" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="400134"
+                pitcher="115817"
+                des="Eric Hinske walks.  "
+                des_es="Eric Hinske recibe base por bolas.  "
+                event="Walk"
+                b1="400134"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_135644" des="Foul" des_es="Foul" type="S" start_speed="84.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135709" des="Ball" des_es="Bola mala" type="B" start_speed="85.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135728" des="Ball" des_es="Bola mala" type="B" start_speed="78.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_135755" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_135815" des="Ball" des_es="Bola mala" type="B" start_speed="77.8"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="22" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="451188"
+                pitcher="115817"
+                des="Andy LaRoche grounds out softly to pitcher Livan Hernandez.   Nate McLouth to 3rd.    Eric Hinske to 2nd.  "
+                des_es="Andy LaRoche batea rodado de out suavemente a lanzador Livan Hernandez en jugada de infield fly.   Nate McLouth a 3ra.    Eric Hinske a 2da.  "
+                event="Groundout"
+                b1=""
+                b2="400134"
+                b3="434661">
+            <pitch sv_id="090510_135846" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_135915" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.6"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="23" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="433697"
+                pitcher="115817"
+                des="Robinzon Diaz singles on a ground ball to right fielder Ryan Church.   Nate McLouth scores.    Eric Hinske to 3rd.  "
+                des_es="Robinzon Diaz pega sencillo con rodado a jardinero derecho Ryan Church.   Nate McLouth anota  Eric Hinske a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="2"
+                b1="433697"
+                b2=""
+                b3="400134"
+                rbi="1">
+            <pitch sv_id="090510_140005" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="80.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="24" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="444448"
+                pitcher="115817"
+                des="Brian Bixler strikes out swinging.  "
+                des_es="Brian Bixler se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_140053" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="85.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_140116" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_140140" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_140204" des="Ball" des_es="Bola mala" type="B" start_speed="79.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_140225" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.7"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="25" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="425508"
+                pitcher="430636"
+                des="Ryan Church pops out to shortstop Brian Bixler.  "
+                des_es="Ryan Church batea elevadito de out a campo corto Brian Bixler.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_140459" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_140517" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.5"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="26" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="115817"
+                pitcher="430636"
+                des="Livan Hernandez flies out to left fielder Nyjer Morgan.  "
+                des_es="Livan Hernandez batea elevado de out a jardinero izquierdo Nyjer Morgan.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_140555" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_140605" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="27" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="408314"
+                pitcher="430636"
+                des="Jose Reyes doubles (3) on a line drive to right fielder Eric Hinske.  "
+                des_es="Jose Reyes pega doble (3) con l&#237;nea a jardinero derecho Eric Hinske.  "
+                event="Double"
+                b1=""
+                b2="408314"
+                b3="">
+            <pitch sv_id="090510_140644" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_140708" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_140724" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_140746" des="Foul" des_es="Foul" type="S" start_speed="92.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_140815" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="28" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="112116"
+                pitcher="430636"
+                des="Luis Castillo grounds out to first baseman Adam LaRoche.  "
+                des_es="Luis Castillo batea rodado de out a primera base Adam LaRoche.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_140905" des="Ball" des_es="Bola mala" type="B" start_speed="80.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_140932" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_140958" des="Ball" des_es="Bola mala" type="B" start_speed="80.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_141021" des="Foul" des_es="Foul" type="S" start_speed="91.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_141055" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.8"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="29" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="430636"
+                pitcher="115817"
+                des="Ian Snell singles on a sharp ground ball to left fielder Daniel Murphy.  "
+                des_es="Ian Snell pega sencillo con rodado fuerte a jardinero izquierdo Daniel Murphy.  "
+                event="Single"
+                b1="430636"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_141318" des="Ball" des_es="Bola mala" type="B" start_speed="82.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_141328" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="84.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="30" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="460579"
+                pitcher="115817"
+                des="Nyjer Morgan out on a sacrifice bunt, third baseman David Wright to first baseman Carlos Delgado.   Ian Snell to 2nd.  "
+                des_es="Nyjer Morgan out en toque de sacrificio, tercera base David Wright a primera base Carlos Delgado.   Ian Snell a 2da.  "
+                event="Sac Bunt"
+                b1=""
+                b2="430636"
+                b3="">
+            <pitch sv_id="090510_141402" des="Ball" des_es="Bola mala" type="B" start_speed="84.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_141421" des="Ball" des_es="Bola mala" type="B" start_speed="84.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_141444" des="Foul" des_es="Foul" type="S" start_speed="82.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_141509" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="83.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="31" b="2" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="115817"
+                des="Delwyn Young grounds out, shortstop Jose Reyes to first baseman Carlos Delgado.  "
+                des_es="Delwyn Young batea rodado de out, campo corto Jose Reyes a primera base Carlos Delgado.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_141557" des="Ball" des_es="Bola mala" type="B" start_speed="85.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_141613" des="Ball" des_es="Bola mala" type="B" start_speed="80.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_141627" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="32" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="434661"
+                pitcher="115817"
+                des="Nate McLouth grounds out, shortstop Jose Reyes to first baseman Carlos Delgado.  "
+                des_es="Nate McLouth batea rodado de out, campo corto Jose Reyes a primera base Carlos Delgado.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_141717" des="Ball" des_es="Bola mala" type="B" start_speed="80.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_141735" des="Foul" des_es="Foul" type="S" start_speed="79.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_141805" des="Ball" des_es="Bola mala" type="B" start_speed="82.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_141827" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_141855" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.5"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="33" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="136860"
+                pitcher="430636"
+                des="Carlos Beltran grounds out, shortstop Brian Bixler to first baseman Adam LaRoche.  "
+                des_es="Carlos Beltran batea rodado de out, campo corto Brian Bixler a primera base Adam LaRoche.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_142129" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.8"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="34" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="113232"
+                pitcher="430636"
+                des="Carlos Delgado doubles (7) on a fly ball to center fielder Nate McLouth.  "
+                des_es="Carlos Delgado pega doble (7) con elevado a jardinero central Nate McLouth.  "
+                event="Double"
+                b1=""
+                b2="113232"
+                b3="">
+            <pitch sv_id="090510_142212" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_142228" des="Ball" des_es="Bola mala" type="B" start_speed="91.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_142248" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.9"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="35" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="431151"
+                pitcher="430636"
+                des="David Wright singles on a ground ball to shortstop Brian Bixler.   Carlos Delgado scores.  "
+                des_es="David Wright pega sencillo con rodado a campo corto Brian Bixler.   Carlos Delgado anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="2"
+                b1="431151"
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090510_142343" des="Ball" des_es="Bola mala" type="B" start_speed="84.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_142406" des="Ball" des_es="Bola mala" type="B" start_speed="84.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_142500" des="Ball" des_es="Bola mala" type="B" start_speed="93.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_142531" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_142603" des="Foul" des_es="Foul" type="S" start_speed="84.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_142644" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="80.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <action b="2" s="0" o="1"
+                 des="With Daniel Murphy batting, David Wright steals (5) 2nd base.  "
+                 des_es="Con Daniel Murphy bateando, David Wright se roba (5) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="431151"
+                 pitch="2"/>
+         <atbat num="36" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="502517"
+                pitcher="430636"
+                des="Daniel Murphy walks.  "
+                des_es="Daniel Murphy recibe base por bolas.  "
+                event="Walk"
+                b1="502517"
+                b2="431151"
+                b3="">
+            <pitch sv_id="090510_142757" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_142834" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_142910" des="Ball" des_es="Bola mala" type="B" start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_142933" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_142958" des="Foul" des_es="Foul" type="S" start_speed="92.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_143039" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="87.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <action b="4" s="2" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="435408"
+                 pitch="6"/>
+         <action b="1" s="0" o="1"
+                 des="With Omir Santos batting, wild pitch by Ian Snell, David Wright to 3rd.    Daniel Murphy to 2nd.  "
+                 des_es="Con Omir Santos bateando, lanzamiento desviado de Ian Snell, David Wright a 3ra.    Daniel Murphy a 2da.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="502517"
+                 pitch="1"/>
+         <atbat num="37" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="435408"
+                pitcher="430636"
+                des="Omir Santos singles on a line drive to right fielder Eric Hinske.   David Wright scores.    Daniel Murphy scores.  Omir Santos out at 2nd, right fielder Eric Hinske to shortstop Brian Bixler.  "
+                des_es="Omir Santos pega sencillo con l&#237;nea a jardinero derecho Eric Hinske.   David Wright anota  Daniel Murphy anota .  Omir Santos out en 2da, jardinero derecho Eric Hinske a campo corto Brian Bixler.  "
+                event="Single"
+                event2="Runner Out"
+                score="T"
+                home_team_runs="3"
+                away_team_runs="2"
+                b1=""
+                b2="502517"
+                b3="431151"
+                rbi="2">
+            <pitch sv_id="090510_143149" des="Ball" des_es="Bola mala" type="B" start_speed="85.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_143229" des="Foul" des_es="Foul" type="S" start_speed="83.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_143258" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="91.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_143428" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_143450" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_143512" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="94.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="38" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="425508"
+                pitcher="430636"
+                des="Ryan Church pops out to shortstop Brian Bixler.  "
+                des_es="Ryan Church batea elevadito de out a campo corto Brian Bixler.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_143602" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_143615" des="Foul" des_es="Foul" type="S" start_speed="85.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_143635" des="Ball" des_es="Bola mala" type="B" start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_143700" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.2"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="39" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="425560"
+                pitcher="115817"
+                des="Adam LaRoche pops out to shortstop Jose Reyes.  "
+                des_es="Adam LaRoche batea elevadito de out a campo corto Jose Reyes.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_143950" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="83.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="40" b="2" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="400134"
+                pitcher="115817"
+                des="Eric Hinske singles on a ground ball to center fielder Carlos Beltran.  "
+                des_es="Eric Hinske pega sencillo con rodado a jardinero central Carlos Beltran.  "
+                event="Single"
+                b1="400134"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_144027" des="Ball" des_es="Bola mala" type="B" start_speed="84.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_144041" des="Ball" des_es="Bola mala" type="B" start_speed="77.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_144102" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="82.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="41" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="451188"
+                pitcher="115817"
+                des="Andy LaRoche out on a sacrifice bunt, pitcher Livan Hernandez to first baseman Carlos Delgado.   Eric Hinske to 2nd.  "
+                des_es="Andy LaRoche out en toque de sacrificio, lanzador Livan Hernandez a primera base Carlos Delgado.   Eric Hinske a 2da.  "
+                event="Sac Bunt"
+                b1=""
+                b2="400134"
+                b3="">
+            <pitch sv_id="090510_144139" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="42" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="433697"
+                pitcher="115817"
+                des="Robinzon Diaz lines out softly to second baseman Luis Castillo.  "
+                des_es="Robinzon Diaz batea l&#237;nea de out suavemente a segunda base Luis Castillo.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_144242" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144300" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="69.2"
+                   pitch_type="CU"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="43" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="115817"
+                pitcher="430636"
+                des="Livan Hernandez singles on a line drive to left fielder Nyjer Morgan.  "
+                des_es="Livan Hernandez pega sencillo con l&#237;nea a jardinero izquierdo Nyjer Morgan.  "
+                event="Single"
+                b1="115817"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_144516" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144530" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144545" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="44" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="408314"
+                pitcher="430636"
+                des="Jose Reyes grounds into a force out, third baseman Andy LaRoche to second baseman Delwyn Young.   Livan Hernandez out at 2nd.    Jose Reyes to 1st.  "
+                des_es="Jose Reyes batea rodado batea para out forzado, tercera base Andy LaRoche a segunda base Delwyn Young.   Livan Hernandez a cabo a 2da.    Jose Reyes a 1ra.  "
+                event="Forceout"
+                b1="408314"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_144633" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144656" des="Ball" des_es="Bola mala" type="B" start_speed="94.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_144716" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="93.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_144748" des="Foul" des_es="Foul" type="S" start_speed="94.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144815" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.2"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="45" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="112116"
+                pitcher="430636"
+                des="Luis Castillo grounds into a force out, shortstop Brian Bixler to second baseman Delwyn Young.   Jose Reyes out at 2nd.    Luis Castillo to 1st.  "
+                des_es="Luis Castillo batea rodado batea para out forzado, campo corto Brian Bixler a segunda base Delwyn Young.   Jose Reyes a cabo a 2da.    Luis Castillo a 1ra.  "
+                event="Forceout"
+                b1="112116"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_144901" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_144927" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="46" b="3" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="136860"
+                pitcher="430636"
+                des="Carlos Beltran pops out to first baseman Adam LaRoche.  "
+                des_es="Carlos Beltran batea elevadito de out a primera base Adam LaRoche.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_145035" des="Ball" des_es="Bola mala" type="B" start_speed="81.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_145123" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_145152" des="Foul" des_es="Foul" type="S" start_speed="83.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_145221" des="Ball" des_es="Bola mala" type="B" start_speed="92.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_145302" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_145326" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.9"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="47" b="0" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="444448"
+                pitcher="115817"
+                des="Brian Bixler strikes out swinging.  "
+                des_es="Brian Bixler se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_145555" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_145611" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_145641" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="48" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="430636"
+                pitcher="115817"
+                des="Ian Snell grounds out, second baseman Luis Castillo to first baseman Carlos Delgado.  "
+                des_es="Ian Snell batea rodado de out, segunda base Luis Castillo a primera base Carlos Delgado.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_145706" des="Ball" des_es="Bola mala" type="B" start_speed="84.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_145716" des="Ball" des_es="Bola mala" type="B" start_speed="84.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_145727" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_145743" des="Foul" des_es="Foul" type="S" start_speed="77.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_145804" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="49" b="4" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="460579"
+                pitcher="115817"
+                des="Nyjer Morgan walks.  "
+                des_es="Nyjer Morgan recibe base por bolas.  "
+                event="Walk"
+                b1="460579"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_145847" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_145903" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_145920" des="Ball" des_es="Bola mala" type="B" start_speed="77.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_145941" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_150005" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_150022" des="Ball" des_es="Bola mala" type="B" start_speed="78.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <action b="1" s="0" o="3"
+                 des="With Delwyn Young batting, Nyjer Morgan caught stealing 2nd base, catcher Omir Santos to shortstop Jose Reyes.  "
+                 des_es="Con Delwyn Young bateando, Nyjer Morgan atrapado robando la 2da base, receptor Omir Santos a campo corto Jose Reyes.  "
+                 event="Caught Stealing 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="460579"
+                 pitch="1"/>
+         <atbat num="50" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="115817"
+                des="With Delwyn Young batting, Nyjer Morgan caught stealing 2nd base, catcher Omir Santos to shortstop Jose Reyes.  "
+                des_es="Con Delwyn Young bateando, Nyjer Morgan atrapado robando la 2da base, receptor Omir Santos a campo corto Jose Reyes.  "
+                event="Runner Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_150117" des="Ball" des_es="Bola mala" type="B" start_speed="85.0"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="51" b="3" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="113232"
+                pitcher="430636"
+                des="Carlos Delgado hit by pitch.  "
+                des_es="Carlos Delgado golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="113232"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_150342" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_150357" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_150415" des="Ball" des_es="Bola mala" type="B" start_speed="92.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_150432" des="Ball" des_es="Bola mala" type="B" start_speed="92.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_150500" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="92.8"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="52" b="3" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="431151"
+                pitcher="430636"
+                des="David Wright strikes out swinging.  "
+                des_es="David Wright se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_150552" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_150613" des="Ball" des_es="Bola mala" type="B" start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_150633" des="Ball" des_es="Bola mala" type="B" start_speed="85.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_150657" des="Ball" des_es="Bola mala" type="B" start_speed="93.0"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_150724" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_150752" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="93.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="53" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="502517"
+                pitcher="430636"
+                des="Daniel Murphy flies out to left fielder Nyjer Morgan.  "
+                des_es="Daniel Murphy batea elevado de out a jardinero izquierdo Nyjer Morgan.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_150825" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.4"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="54" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="435408"
+                pitcher="430636"
+                des="Omir Santos strikes out swinging.  "
+                des_es="Omir Santos se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_150910" des="Ball" des_es="Bola mala" type="B" start_speed="93.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_150955" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151030" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151103" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="83.4"
+                   pitch_type="SL"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Pedro Feliciano replaces Livan Hernandez, batting 9th.  "
+                 des_es="Cambio de Lanzador: Pedro Feliciano reemplaza a Livan Hernandez, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="408230"
+                 pitch="4"/>
+         <atbat num="55" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="408230"
+                des="Delwyn Young singles on a fly ball to center fielder Carlos Beltran.  "
+                des_es="Delwyn Young pega sencillo con elevado a jardinero central Carlos Beltran.  "
+                event="Single"
+                b1="434704"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_151349" des="Ball" des_es="Bola mala" type="B" start_speed="72.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_151402" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="71.4"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="56" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="434661"
+                pitcher="408230"
+                des="Nate McLouth called out on strikes.  "
+                des_es="Nate McLouth se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_151446" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="80.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151512" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151533" des="Foul" des_es="Foul" type="S" start_speed="79.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151605" des="Ball" des_es="Bola mala" type="B" start_speed="74.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_151629" des="Ball" des_es="Bola mala" type="B" start_speed="80.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151652" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="57" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="425560"
+                pitcher="408230"
+                des="Adam LaRoche flies out to left fielder Daniel Murphy.  "
+                des_es="Adam LaRoche batea elevado de out a jardinero izquierdo Daniel Murphy.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_151732" des="Ball" des_es="Bola mala" type="B" start_speed="86.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_151749" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.9"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="58" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="400134"
+                pitcher="408230"
+                des="Eric Hinske grounds out, second baseman Luis Castillo to first baseman Carlos Delgado.  "
+                des_es="Eric Hinske batea rodado de out, segunda base Luis Castillo a primera base Carlos Delgado.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_151830" des="Ball" des_es="Bola mala" type="B" start_speed="80.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_151847" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_151908" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_151927" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.3"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Sean Burnett replaces Ian Snell, batting 9th.  "
+                 des_es="Cambio de Lanzador: Sean Burnett reemplaza a Ian Snell, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="430634"
+                 pitch="4"/>
+         <atbat num="59" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425508"
+                pitcher="430634"
+                des="Ryan Church grounds out, second baseman Delwyn Young to first baseman Adam LaRoche.  "
+                des_es="Ryan Church batea rodado de out, segunda base Delwyn Young a primera base Adam LaRoche.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_152330" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="89.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_152358" des="Ball" des_es="Bola mala" type="B" start_speed="78.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_152416" des="Foul" des_es="Foul" type="S" start_speed="87.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152451" des="Foul" des_es="Foul" type="S" start_speed="89.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152512" des="Ball" des_es="Bola mala" type="B" start_speed="78.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_152535" des="Ball" des_es="Bola mala" type="B" start_speed="88.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152557" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Gary Sheffield replaces Pedro Feliciano.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Gary Sheffield reemplaza a Pedro Feliciano.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="122111"
+                 pitch="7"/>
+         <atbat num="60" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="122111"
+                pitcher="430634"
+                des="Gary Sheffield reaches on a fielding error by shortstop Brian Bixler.  "
+                des_es="Gary Sheffield se embasa por error en fildeo de campo corto Brian Bixler.  "
+                event="Field Error"
+                b1="122111"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_152708" des="Ball" des_es="Bola mala" type="B" start_speed="88.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152724" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152742" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152758" des="Ball" des_es="Bola mala" type="B" start_speed="83.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_152816" des="Foul" des_es="Foul" type="S" start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152846" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="61" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="408314"
+                pitcher="430634"
+                des="Jose Reyes singles on a line drive to right fielder Eric Hinske.   Gary Sheffield to 2nd.  "
+                des_es="Jose Reyes pega sencillo con l&#237;nea a jardinero derecho Eric Hinske.   Gary Sheffield a 2da.  "
+                event="Single"
+                b1="408314"
+                b2="122111"
+                b3="">
+            <pitch sv_id="090510_152930" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_152947" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="62" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="112116"
+                pitcher="430634"
+                des="Luis Castillo singles on a ground ball to center fielder Nate McLouth.   Gary Sheffield scores.    Jose Reyes to 2nd.  "
+                des_es="Luis Castillo pega sencillo con rodado a jardinero central Nate McLouth.   Gary Sheffield anota  Jose Reyes a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="4"
+                away_team_runs="2"
+                b1="112116"
+                b2="408314"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090510_153050" des="Ball" des_es="Bola mala" type="B" start_speed="81.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_153110" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_153131" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_153152" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="89.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="0" s="1" o="1"
+                 des="With Carlos Beltran batting, Jose Reyes steals (10) 3rd base.  Luis Castillo steals (4) 2nd base.  "
+                 des_es="Con Carlos Beltran bateando, Jose Reyes se roba (10) la 3ra base.  Luis Castillo se roba (4) la 2da base.  "
+                 event="Stolen Base 2B"
+                 tfs=""
+                 tfs_zulu=""
+                 player="112116"
+                 pitch="1"/>
+         <atbat num="63" b="4" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="136860"
+                pitcher="430634"
+                des="Sean Burnett intentionally walks Carlos Beltran.  "
+                des_es="Sean Burnett recibe base por bolas intencional Carlos Beltran.  "
+                event="Intent Walk"
+                b1="136860"
+                b2="112116"
+                b3="408314">
+            <pitch sv_id="090510_153251" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_153325" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="63.7"
+                   pitch_type="IN"/>
+            <pitch sv_id="090510_153335" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="66.1"
+                   pitch_type="IN"/>
+            <pitch sv_id="090510_153344" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="66.2"
+                   pitch_type="IN"/>
+            <pitch sv_id="090510_153354" des="Intent Ball" des_es="Bola mala intencional" type="B"
+                   start_speed="64.9"
+                   pitch_type="IN"/>
+         </atbat>
+         <action b="4" s="1" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="113232"
+                 pitch="5"/>
+         <atbat num="64" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="113232"
+                pitcher="430634"
+                des="Carlos Delgado pops out to second baseman Delwyn Young on the infield fly rule.  "
+                des_es="Carlos Delgado batea elevadito de out a segunda base Delwyn Young en jugada de infield fly.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_153502" des="Ball" des_es="Bola mala" type="B" start_speed="88.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_153521" des="Foul" des_es="Foul" type="S" start_speed="87.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_153606" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="1" s="1" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="431151"
+                 pitch="3"/>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: Jesse Chavez replaces Sean Burnett, batting 9th.  "
+                 des_es="Cambio de Lanzador: Jesse Chavez reemplaza a Sean Burnett, bateando noveno.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="445926"
+                 pitch="3"/>
+         <atbat num="65" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="431151"
+                pitcher="445926"
+                des="David Wright strikes out swinging.  "
+                des_es="David Wright se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_153914" des="Ball" des_es="Bola mala" type="B" start_speed="94.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_153943" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154011" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="90.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090510_154043" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154107" des="Foul" des_es="Foul" type="S" start_speed="94.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154138" des="Foul" des_es="Foul" type="S" start_speed="94.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154208" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="85.1"
+                   pitch_type="CH"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: J.   Putz replaces Pedro Feliciano, batting 9th, replacing  Gary Sheffield.  "
+                 des_es="Cambio de lanzador: J.   Putz reemplaza a Pedro Feliciano, como noveno bate, en lugar de  Gary Sheffield.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407816"
+                 pitch="7"/>
+         <atbat num="66" b="1" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="451188"
+                pitcher="407816"
+                des="Andy LaRoche strikes out swinging.  "
+                des_es="Andy LaRoche se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_154448" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154505" des="Foul" des_es="Foul" type="S" start_speed="95.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154529" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154552" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="94.3"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="67" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="433697"
+                pitcher="407816"
+                des="Robinzon Diaz singles on a ground ball to center fielder Carlos Beltran.  "
+                des_es="Robinzon Diaz pega sencillo con rodado a jardinero central Carlos Beltran.  "
+                event="Single"
+                b1="433697"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_154624" des="Ball" des_es="Bola mala" type="B" start_speed="87.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_154642" des="Ball" des_es="Bola mala" type="B" start_speed="94.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_154709" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_154729" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="93.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Ramon Vazquez replaces Brian Bixler.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Ramon Vazquez reemplaza a Brian Bixler.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407496"
+                 pitch="4"/>
+         <atbat num="68" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="407496"
+                pitcher="407816"
+                des="Ramon Vazquez singles on a line drive to right fielder Ryan Church.   Robinzon Diaz to 2nd.  "
+                des_es="Ramon Vazquez pega sencillo con l&#237;nea a jardinero derecho Ryan Church.   Robinzon Diaz a 2da.  "
+                event="Single"
+                b1="407496"
+                b2="433697"
+                b3="">
+            <pitch sv_id="090510_154820" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_154845" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="96.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_154911" des="Foul" des_es="Foul" type="S" start_speed="96.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_154940" des="Ball" des_es="Bola mala" type="B" start_speed="92.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_155009" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Brandon Moss replaces Jesse Chavez.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Brandon Moss reemplaza a Jesse Chavez.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="461235"
+                 pitch="5"/>
+         <atbat num="69" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="461235"
+                pitcher="407816"
+                des="Brandon Moss lines out to left fielder Daniel Murphy.  "
+                des_es="Brandon Moss batea l&#237;nea de out a jardinero izquierdo Daniel Murphy.  "
+                event="Lineout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_155100" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.4"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_155126" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="94.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_155158" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.1"
+                   pitch_type="FS"/>
+         </atbat>
+         <atbat num="70" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="460579"
+                pitcher="407816"
+                des="Nyjer Morgan strikes out swinging.  "
+                des_es="Nyjer Morgan se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_155251" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_155320" des="Ball" des_es="Bola mala" type="B" start_speed="84.3"
+                   pitch_type="FS"/>
+            <pitch sv_id="090510_155346" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="95.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090510_155418" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.5"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0" des="Ramon Vazquez remains in the game as the shortstop.  "
+                 des_es="Ramon Vazquez permanece en el juego como el campo corto.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407496"
+                 pitch="4"/>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: John Grabow replaces Jesse Chavez, batting 9th, replacing  Brandon Moss.  "
+                 des_es="Cambio de lanzador: John Grabow reemplaza a Jesse Chavez, como noveno bate, en lugar de  Brandon Moss.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="346848"
+                 pitch="4"/>
+         <atbat num="71" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="502517"
+                pitcher="346848"
+                des="Daniel Murphy grounds out, shortstop Ramon Vazquez to first baseman Adam LaRoche.  "
+                des_es="Daniel Murphy batea rodado de out, campo corto Ramon Vazquez a primera base Adam LaRoche.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_155642" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_155659" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="72" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="435408"
+                pitcher="346848"
+                des="Omir Santos singles on a ground ball to center fielder Nate McLouth.  "
+                des_es="Omir Santos pega sencillo con rodado a jardinero central Nate McLouth.  "
+                event="Single"
+                b1="435408"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_155735" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="73" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="425508"
+                pitcher="346848"
+                des="Ryan Church singles on a ground ball to center fielder Nate McLouth.   Omir Santos to 2nd.  "
+                des_es="Ryan Church pega sencillo con rodado a jardinero central Nate McLouth.   Omir Santos a 2da.  "
+                event="Single"
+                b1="425508"
+                b2="435408"
+                b3="">
+            <pitch sv_id="090510_155811" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="0" s="0" o="1"
+                 des="Offensive Substitution: Pinch-hitter Fernando Tatis replaces J.   Putz.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Fernando Tatis reemplaza a J.   Putz.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="123107"
+                 pitch="1"/>
+         <atbat num="74" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="123107"
+                pitcher="346848"
+                des="Fernando Tatis hit by pitch.    Omir Santos to 3rd.    Ryan Church to 2nd.  "
+                des_es="Fernando Tatis golpeado por lanzamiento.   Omir Santos a 3ra.    Ryan Church a 2da.  "
+                event="Hit By Pitch"
+                b1="123107"
+                b2="425508"
+                b3="435408">
+            <pitch sv_id="090510_155908" des="Ball" des_es="Bola mala" type="B" start_speed="83.9"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_155928" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="83.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_155949" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_160009" des="Foul" des_es="Foul" type="S" start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_160034" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="85.6"
+                   pitch_type="SL"/>
+         </atbat>
+         <action b="0" s="0" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="408314"
+                 pitch="0"/>
+         <atbat num="75" b="4" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="408314"
+                pitcher="346848"
+                des="Jose Reyes walks.   Omir Santos scores.    Ryan Church to 3rd.    Fernando Tatis to 2nd.  "
+                des_es="Jose Reyes recibe base por bolas.   Omir Santos anota  Ryan Church a 3ra.    Fernando Tatis a 2da.  "
+                event="Walk"
+                score="T"
+                home_team_runs="5"
+                away_team_runs="2"
+                b1="408314"
+                b2="123107"
+                b3="425508"
+                rbi="1">
+            <pitch sv_id="090510_160146" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_160207" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_160301" des="Ball" des_es="Bola mala" type="B" start_speed="82.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_160324" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="76" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="112116"
+                pitcher="346848"
+                des="Luis Castillo out on a sacrifice fly to right fielder Eric Hinske.   Ryan Church scores.    Fernando Tatis to 3rd.  "
+                des_es="Luis Castillo out con elevado de sacrificio a jardinero derecho Eric Hinske.   Ryan Church anota  Fernando Tatis a 3ra.  "
+                event="Sac Fly"
+                score="T"
+                home_team_runs="6"
+                away_team_runs="2"
+                b1=""
+                b2=""
+                b3="123107"
+                rbi="1">
+            <pitch sv_id="090510_160359" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.7"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_160414" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_160431" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="83.1"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="77" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="136860"
+                pitcher="346848"
+                des="Carlos Beltran doubles (6) on a fly ball to left fielder Nyjer Morgan.   Fernando Tatis scores.    Jose Reyes scores.  "
+                des_es="Carlos Beltran pega doble (6) con elevado a jardinero izquierdo Nyjer Morgan.   Fernando Tatis anota  Jose Reyes anota.  "
+                event="Double"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="2"
+                b1=""
+                b2="136860"
+                b3=""
+                rbi="2">
+            <pitch sv_id="090510_160517" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_160533" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.0"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="78" b="2" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="113232"
+                pitcher="346848"
+                des="Carlos Delgado called out on strikes.  "
+                des_es="Carlos Delgado se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_160631" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_160646" des="Ball" des_es="Bola mala" type="B" start_speed="83.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090510_160708" des="Ball" des_es="Bola mala" type="B" start_speed="90.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_160730" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090510_160754" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Sean Green replaces J.   Putz, batting 4th, replacing first baseman Carlos Delgado.  "
+                 des_es="Cambio de Lanzador: Sean Green reemplaza a J.   Putz, como cuarto bate, en lugar de primera base Carlos Delgado.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="434958"
+                 pitch="5"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Jeremy Reed replaces left fielder Daniel Murphy, batting 6th, playing left field.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Jeremy Reed reemplaza a jardinero izquierdo Daniel Murphy, como sexto bate y jugando en el jardinero izquierdo.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="430598"
+                 pitch="5"/>
+         <action b="0" s="0" o="0"
+                 des="Fernando Tatis remains in the game as the first baseman.  "
+                 des_es="Fernando Tatis permanece en el juego como el primera base.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="123107"
+                 pitch="5"/>
+         <atbat num="79" b="4" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="434704"
+                pitcher="434958"
+                des="Delwyn Young walks.  "
+                des_es="Delwyn Young recibe base por bolas.  "
+                event="Walk"
+                b1="434704"
+                b2=""
+                b3="">
+            <pitch sv_id="090510_161046" des="Ball" des_es="Bola mala" type="B" start_speed="87.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161101" des="Ball" des_es="Bola mala" type="B" start_speed="88.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161118" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161133" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161152" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="80" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="434661"
+                pitcher="434958"
+                des="Nate McLouth homers (5) on a fly ball to right center field.    Delwyn Young scores.  "
+                des_es="Nate McLouth batea jonr&#243;n (5) con elevado entre los jardines izquierdo y central.    Delwyn Young anota.  "
+                event="Home Run"
+                score="T"
+                home_team_runs="8"
+                away_team_runs="4"
+                b1=""
+                b2=""
+                b3=""
+                rbi="2">
+            <pitch sv_id="090510_161229" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161244" des="Ball" des_es="Bola mala" type="B" start_speed="81.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090510_161300" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="86.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="81" b="3" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425560"
+                pitcher="434958"
+                des="Adam LaRoche flies out to left fielder Jeremy Reed.  "
+                des_es="Adam LaRoche batea elevado de out a jardinero izquierdo Jeremy Reed.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_161346" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161401" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161415" des="Ball" des_es="Bola mala" type="B" start_speed="88.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161432" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="74.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_161448" des="Ball" des_es="Bola mala" type="B" start_speed="75.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_161506" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="82" b="3" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="400134"
+                pitcher="434958"
+                des="Eric Hinske grounds out, second baseman Luis Castillo to first baseman Fernando Tatis.  "
+                des_es="Eric Hinske batea rodado de out, segunda base Luis Castillo a primera base Fernando Tatis.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_161543" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161558" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="89.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161617" des="Ball" des_es="Bola mala" type="B" start_speed="82.1"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_161633" des="Ball" des_es="Bola mala" type="B" start_speed="88.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161652" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.8"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="83" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="451188"
+                pitcher="434958"
+                des="Andy LaRoche pops out to shortstop Jose Reyes.  "
+                des_es="Andy LaRoche batea elevadito de out a campo corto Jose Reyes.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090510_161722" des="Ball" des_es="Bola mala" type="B" start_speed="90.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161738" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161752" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="73.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_161808" des="Foul" des_es="Foul" type="S" start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090510_161829" des="Ball" des_es="Bola mala" type="B" start_speed="74.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090510_161846" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="75.6"
+                   pitch_type="CU"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="451188"/>
+   <deck pid="433697"/>
+   <hole pid="407496"/>
+</game>

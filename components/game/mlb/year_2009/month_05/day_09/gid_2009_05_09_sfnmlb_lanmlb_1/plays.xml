@@ -1,0 +1,61 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_sfnmlb_lanmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="0" ah="4" ae="2" hr="8" hh="11" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="400023" team_abbrev="SF" team_id="137" parent_team_abbrev="SF" parent_team_id="137" current_position="CF" stand="R" b_height="6-0" ab="4" h="1" avg=".216" boxname="Rowand">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Strikeout" event_es="Ponche"/>
+			<ab inning="5" event="Double" event_es="Doble"/>
+			<ab inning="2" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="445590" p_throws="L" pitches="123" strikes="80" balls="43" era="3.58" boxname="Stults"/>
+		<deck pid="110383" boxname="Aurilia"/>
+		<hole pid="346874" boxname="Uribe"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="71" des="Aaron Rowand grounds out, third baseman Casey Blake to first baseman James Loney.  " des_es="Aaron Rowand batea rodado de out, tercera base Casey Blake a primera base James Loney.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="400023">
+		<p type="B" id="571" event_num="571" x="125.32" y="153.69" des="Ball" des_es="Bola mala" sv_id="090509_152028" play_guid="" start_speed="74.8" end_speed="68.2" sz_top="3.051" sz_bot="1.568" pfx_x="-6.867" pfx_z="-0.479" px="-0.755" pz="2.083" x0="2.352" y0="50.0" z0="6.527" vx0="-4.747" vy0="-109.596" vz0="-1.87" ax="-8.125" ay="24.277" az="-32.667" break_y="23.7" break_angle="15.2" break_length="11.8" pitch_type="CU" type_confidence="2.000" zone="13" spin_dir="273.472" spin_rate="1077.529"  cc=""/>		<p type="S" id="572" event_num="572" x="73.82" y="142.47" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090509_152049" play_guid="" start_speed="80.9" end_speed="71.8" sz_top="3.051" sz_bot="1.568" pfx_x="7.871" pfx_z="11.937" px="0.766" pz="2.655" x0="2.488" y0="50.0" z0="6.249" vx0="-6.284" vy0="-118.451" vz0="-4.796" ax="10.7" ay="31.708" az="-15.872" break_y="23.6" break_angle="-27.9" break_length="5.8" pitch_type="CH" type_confidence="2.000" zone="12" spin_dir="146.722" spin_rate="2388.336"  cc=""/>		<p type="B" id="573" event_num="573" x="50.64" y="128.65" des="Ball" des_es="Bola mala" sv_id="090509_152114" play_guid="" start_speed="81.0" end_speed="74.0" sz_top="3.3" sz_bot="1.667" pfx_x="7.595" pfx_z="10.543" px="1.526" pz="3.356" x0="2.454" y0="50.0" z0="6.283" vx0="-4.459" vy0="-118.616" vz0="-3.134" ax="10.714" ay="24.788" az="-17.229" break_y="23.7" break_angle="-28.8" break_length="5.9" pitch_type="CH" type_confidence="2.000" zone="12" spin_dir="144.365" spin_rate="2249.101"  cc=""/>		<p type="S" id="574" event_num="574" x="99.57" y="132.97" des="Foul" des_es="Foul" sv_id="090509_152137" play_guid="" start_speed="89.8" end_speed="80.5" sz_top="3.051" sz_bot="1.568" pfx_x="5.495" pfx_z="14.168" px="0.132" pz="3.115" x0="2.227" y0="50.0" z0="6.263" vx0="-7.186" vy0="-131.277" vz0="-6.485" ax="9.318" ay="35.123" az="-8.075" break_y="23.6" break_angle="-37.1" break_length="3.0" pitch_type="FF" type_confidence="2.000" zone="12" spin_dir="158.862" spin_rate="2855.404"  cc=""/>		<p type="X" id="575" event_num="575" x="78.11" y="132.97" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_152205" play_guid="" start_speed="81.4" end_speed="74.5" sz_top="3.051" sz_bot="1.568" pfx_x="6.227" pfx_z="13.246" px="0.632" pz="2.987" x0="2.448" y0="50.0" z0="6.198" vx0="-6.156" vy0="-119.199" vz0="-4.723" ax="8.892" ay="24.511" az="-13.185" break_y="23.8" break_angle="-28.5" break_length="4.6" pitch_type="CH" type_confidence="2.000" zone="3" spin_dir="154.909" spin_rate="2552.014"  cc=""/>		<runner id="121074" start="2B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="sfn">
+			<man bnum="2" pid="121074" boxname="Renteria" note="Double" sb="1" cs="2"/>
+		</offense>
+		<defense type="home" id="lan">
+			<man pid="445590" s_po="3" s_ass="5" s_err="0" s_fldg="1.000" p_sb="2" p_cs="2" pos="p"/>
+			<man pid="431145" s_po="206" s_ass="25" s_err="0" s_fldg="1.000" c_sb="12" c_cs="9" pos="c"/>
+			<man pid="425766" s_po="236" s_ass="23" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="407861" s_po="63" s_ass="69" s_err="2" s_fldg=".985" pos="2b"/>
+			<man pid="112128" s_po="2" s_ass="6" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="232694" s_po="17" s_ass="56" s_err="2" s_fldg=".973" pos="3b"/>
+			<man pid="334393" s_po="22" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="461314" s_po="88" s_ass="4" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="449082" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="rf"/>
+		</defense>
+		<ball type="G" x="103.41" y="168.67" batter="400023" pitcher="445590"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="445590" index="1">
+			<man pid="334393"/>
+			<man pid="407861"/>
+			<man pid="449082"/>
+			<man pid="461314"/>
+			<man pid="431145"/>
+			<man pid="425766"/>
+			<man pid="232694"/>
+			<man pid="112128"/>
+			<man pid="445590"/>
+		</team>
+		<team type="away" pitcher="467683" index="5">
+			<man pid="467683"/>
+			<man pid="121074"/>
+			<man pid="133160"/>
+			<man pid="134260"/>
+			<man pid="400023"/>
+			<man pid="110383"/>
+			<man pid="346874"/>
+			<man pid="502034"/>
+			<man pid="435625"/>
+		</team>
+	</lineup>
+	<weather temp="73" condition="Sunny" wind="4mph Out To CF"/>
+	<control wait="10" box="0"/>
+</game>

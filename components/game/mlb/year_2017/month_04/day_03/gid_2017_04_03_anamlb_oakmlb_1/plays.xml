@@ -1,0 +1,58 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_03_anamlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="2" ah="7" ae="0" hr="4" hh="9" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="519184" team_abbrev="LAA" team_id="108" parent_team_abbrev="LAA" parent_team_id="108" current_position="PH" stand="L" b_height="5-9" ab="1" h="0" avg=".000" boxname="Revere">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="433586" p_throws="R" pitches="15" strikes="9" balls="6" era="0.00" boxname="Casilla"/>
+		<deck pid="488862" boxname="Escobar, Y"/>
+		<hole pid="594777" boxname="Calhoun"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Men_On"/>
+	<atbat num="73" des="Ben Revere grounds out, second baseman Jed Lowrie to first baseman Yonder Alonso.  " des_es="Ben Revere batea rodado de out, segunda base Jed Lowrie a primera base Yonder Alonso.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="519184" play_guid="30efe7a1-3f1e-420d-aea9-9ef68055b651" >
+		<p type="S" id="591" event_num="591" x="118.12" y="202.02" des="Called Strike" des_es="Strike cantado" sv_id="170404_050518" play_guid="fa641897-8d57-4bf9-8697-9313cffdd578" start_speed="92.4" end_speed="83.3" sz_top="2.830751737821746" sz_bot="1.4254747589803536" pfx_x="-9.015882710427409" pfx_z="6.82846804657098" px="-0.029317982440532" pz="1.36163357356682" x0="-1.61571586415389" y0="50" z0="5.60171484714371" vx0="7.23239788632319" vy0="-133.98316173837" vz0="-7.33112942366744" ax="-16.1052626439094" ay="33.620923439122" az="-19.9762111535129" break_y="23.7" break_angle="33.4" break_length="5.9" pitch_type="FT" type_confidence=".911" zone="13" nasty="46" spin_dir="232.860" spin_rate="2187.611"  cc=""/>		<p type="X" id="592" event_num="592" x="122.97" y="192.04" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170404_050539" play_guid="30efe7a1-3f1e-420d-aea9-9ef68055b651" start_speed="92.3" end_speed="83.3" sz_top="3.935" sz_bot="1.5" pfx_x="-9.807253892056393" pfx_z="8.128788587032739" px="-0.15664385858934" pz="1.73093281818837" x0="-1.54888452447511" y0="50" z0="5.57898111672732" vx0="6.99742180876748" vy0="-133.952661551403" vz0="-6.75722842549992" ax="-17.5479138802799" ay="33.0464256982812" az="-17.6293774745703" break_y="23.7" break_angle="39.5" break_length="5.7" pitch_type="FT" type_confidence=".910" zone="8" nasty="47" spin_dir="230.345" spin_rate="2468.501"  cc=""/>		<runner id="592743" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="away" id="ana">
+			<man bnum="1" pid="592743" boxname="Simmons" note="Walk" sb="0" cs="0"/>
+		</offense>
+		<defense type="home" id="oak">
+			<man pid="433586" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="519390" s_po="11" s_ass="0" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="475174" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="476704" s_po="4" s_ass="4" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="543760" s_po="0" s_ass="4" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="461858" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="501981" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="lf"/>
+			<man pid="434658" s_po="3" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="459964" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="148.42" y="154.75" batter="519184" pitcher="433586"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="433586" index="2">
+			<man pid="434658"/>
+			<man pid="459964"/>
+			<man pid="592387"/>
+			<man pid="501981"/>
+			<man pid="519390"/>
+			<man pid="476704"/>
+			<man pid="461858"/>
+			<man pid="475174"/>
+			<man pid="543760"/>
+		</team>
+		<team type="away" pitcher="500724" index="9">
+			<man pid="488862"/>
+			<man pid="594777"/>
+			<man pid="545361"/>
+			<man pid="405395"/>
+			<man pid="543068"/>
+			<man pid="457727"/>
+			<man pid="592743"/>
+			<man pid="457787"/>
+			<man pid="519184"/>
+		</team>
+	</lineup>
+	<weather temp="59" condition="Clear" wind="9mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

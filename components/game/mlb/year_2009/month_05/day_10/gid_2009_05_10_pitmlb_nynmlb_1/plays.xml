@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_pitmlb_nynmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="4" ah="11" ae="1" hr="8" hh="11" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="451188" team_abbrev="PIT" team_id="134" parent_team_abbrev="PIT" parent_team_id="134" current_position="3B" stand="R" b_height="6-0" ab="4" h="0" avg=".253" boxname="LaRoche">
+			<ab inning="9" event="Pop Out"/>
+			<ab inning="8" event="Strikeout"/>
+			<ab inning="5" event="Sac Bunt"/>
+			<ab inning="3" event="Groundout"/>
+			<ab inning="1" event="Forceout"/>
+		</batter>
+		<pitcher pid="434958" p_throws="R" pitches="25" strikes="12" balls="13" era="9.00" boxname="Green, S"/>
+		<deck pid="433697" boxname="Diaz, R"/>
+		<hole pid="407496" boxname="Vazquez, R"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="83" des="Andy LaRoche pops out to shortstop Jose Reyes.  " des_es="Andy LaRoche batea elevadito de out a campo corto Jose Reyes.  " event="null" player="451188">
+		<p type="B" id="697" x="140.77" y="117.43" des="Ball" des_es="Bola mala" sv_id="090510_161722" start_speed="90.0" end_speed="82.5" sz_top="3.38" sz_bot="1.5" pfx_x="-9.714" pfx_z="3.695" px="-1.2" pz="3.718" x0="-2.151" y0="50.0" z0="5.531" vx0="5.747" vy0="-131.867" vz0="0.217" ax="-17.029" ay="29.201" az="-25.623" break_y="23.8" break_angle="31.7" break_length="7.0" pitch_type="SI" type_confidence=".000" zone="11" spin_dir="248.958" spin_rate="2007.357"  cc=""/>		<p type="S" id="698" x="100.43" y="148.51" des="Called Strike" des_es="Strike cantado" sv_id="090510_161738" start_speed="88.0" end_speed="81.6" sz_top="3.38" sz_bot="1.5" pfx_x="-10.819" pfx_z="-4.382" px="-0.152" pz="2.263" x0="-2.075" y0="50.0" z0="5.352" vx0="8.48" vy0="-128.795" vz0="-0.116" ax="-18.25" ay="25.707" az="-39.491" break_y="23.8" break_angle="22.9" break_length="10.3" pitch_type="SI" type_confidence=".000" zone="5" spin_dir="291.848" spin_rate="2214.801"  cc=""/>		<p type="S" id="699" x="80.69" y="148.51" des="Called Strike" des_es="Strike cantado" sv_id="090510_161752" start_speed="73.7" end_speed="68.1" sz_top="3.38" sz_bot="1.5" pfx_x="9.128" pfx_z="-0.132" px="0.651" pz="2.286" x0="-2.239" y0="50.0" z0="5.268" vx0="3.624" vy0="-108.014" vz0="1.251" ax="10.697" ay="20.241" az="-32.254" break_y="23.8" break_angle="-19.4" break_length="11.8" pitch_type="CU" type_confidence=".894" zone="6" spin_dir="89.571" spin_rate="1436.800"  cc=""/>		<p type="S" id="700" x="96.14" y="126.93" des="Foul" des_es="Foul" sv_id="090510_161808" start_speed="89.9" end_speed="83.1" sz_top="3.38" sz_bot="1.5" pfx_x="-8.485" pfx_z="0.137" px="0.104" pz="3.256" x0="-1.941" y0="50.0" z0="5.351" vx0="8.193" vy0="-131.563" vz0="0.67" ax="-14.941" ay="26.69" az="-31.859" break_y="23.8" break_angle="22.8" break_length="7.9" pitch_type="SI" type_confidence=".000" zone="2" spin_dir="268.792" spin_rate="1647.952"  cc=""/>		<p type="B" id="701" x="27.47" y="175.28" des="Ball" des_es="Bola mala" sv_id="090510_161829" start_speed="74.4" end_speed="69.8" sz_top="3.38" sz_bot="1.5" pfx_x="7.801" pfx_z="1.382" px="2.233" pz="1.22" x0="-2.019" y0="50.0" z0="5.094" vx0="6.977" vy0="-108.854" vz0="-1.289" ax="9.425" ay="17.87" az="-30.431" break_y="23.9" break_angle="-18.7" break_length="10.8" pitch_type="CU" type_confidence=".896" zone="14" spin_dir="100.478" spin_rate="1277.443"  cc=""/>		<p type="X" id="702" x="85.84" y="150.24" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090510_161846" start_speed="75.6" end_speed="70.6" sz_top="3.38" sz_bot="1.5" pfx_x="8.516" pfx_z="0.645" px="0.381" pz="2.265" x0="-2.399" y0="50.0" z0="5.078" vx0="3.671" vy0="-110.883" vz0="0.959" ax="10.659" ay="18.847" az="-31.292" break_y="23.9" break_angle="-19.8" break_length="10.7" pitch_type="CU" type_confidence=".891" zone="6" spin_dir="94.730" spin_rate="1399.379"  cc=""/>	</atbat>
+	<field>
+		<offense type="away" id="pit">
+		</offense>
+		<defense type="home" id="nyn">
+			<man pid="434958" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="435408" s_po="73" s_ass="7" s_err="0" s_fldg="1.000" c_sb="7" c_cs="4" pos="c"/>
+			<man pid="123107" s_po="60" s_ass="4" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="112116" s_po="42" s_ass="66" s_err="3" s_fldg=".973" pos="2b"/>
+			<man pid="408314" s_po="43" s_ass="76" s_err="4" s_fldg=".967" pos="ss"/>
+			<man pid="431151" s_po="25" s_ass="61" s_err="3" s_fldg=".966" pos="3b"/>
+			<man pid="430598" s_po="7" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="136860" s_po="66" s_ass="0" s_err="1" s_fldg=".985" pos="cf"/>
+			<man pid="425508" s_po="38" s_ass="1" s_err="1" s_fldg=".975" pos="rf"/>
+		</defense>
+		<ball type="O" x="97.39" y="140.56" batter="451188" pitcher="434958"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="434958" index="1">
+			<man pid="408314"/>
+			<man pid="112116"/>
+			<man pid="136860"/>
+			<man pid="434958"/>
+			<man pid="431151"/>
+			<man pid="430598"/>
+			<man pid="435408"/>
+			<man pid="425508"/>
+			<man pid="123107"/>
+		</team>
+		<team type="away" pitcher="346848" index="6">
+			<man pid="460579"/>
+			<man pid="434704"/>
+			<man pid="434661"/>
+			<man pid="425560"/>
+			<man pid="400134"/>
+			<man pid="451188"/>
+			<man pid="433697"/>
+			<man pid="407496"/>
+			<man pid="346848"/>
+		</team>
+	</lineup>
+	<weather temp="65" condition="Partly Cloudy" wind="25mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

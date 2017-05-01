@@ -1,0 +1,61 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_pitmlb_nynmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="1" ah="5" ae="0" hr="10" hh="17" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="452232" team_abbrev="PIT" team_id="134" parent_team_abbrev="PIT" parent_team_id="134" current_position="C" stand="L" b_height="6-0" ab="3" h="0" avg=".277" boxname="Jaramillo">
+			<ab inning="9" event="Pop Out"/>
+			<ab inning="7" event="Flyout"/>
+			<ab inning="4" event="Lineout"/>
+			<ab inning="2" event="Intent Walk"/>
+		</batter>
+		<pitcher pid="425530" p_throws="R" pitches="15" strikes="8" balls="7" era="0.00" boxname="Stokes"/>
+		<deck pid="346848" boxname="Grabow"/>
+		<hole pid="460579" boxname="Morgan"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="76" des="Jason Jaramillo pops out to third baseman David Wright.  " des_es="Jason Jaramillo batea elevadito de out a tercera base David Wright.  " event="Left On Base" player="452232">
+		<p type="X" id="636" x="87.55" y="126.06" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_155002" start_speed="94.1" end_speed="86.2" sz_top="3.38" sz_bot="1.5" pfx_x="-1.978" pfx_z="10.049" px="0.343" pz="3.338" x0="-0.862" y0="50.0" z0="6.175" vx0="3.968" vy0="-137.901" vz0="-5.333" ax="-3.785" ay="32.477" az="-12.871" break_y="23.8" break_angle="11.5" break_length="3.1" pitch_type="FF" type_confidence=".925" zone="3" spin_dir="191.092" spin_rate="2069.437"  cc=""/>		<runner id="451188" start="2B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="away" id="pit">
+			<man bnum="2" pid="451188" boxname="LaRoche" note="Double" sb="1" cs="0"/>
+		</offense>
+		<defense type="home" id="nyn">
+			<man pid="425530" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="1" p_cs="0" pos="p"/>
+			<man pid="435408" s_po="65" s_ass="6" s_err="0" s_fldg="1.000" c_sb="6" c_cs="3" pos="c"/>
+			<man pid="123107" s_po="59" s_ass="4" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="112116" s_po="40" s_ass="63" s_err="3" s_fldg=".972" pos="2b"/>
+			<man pid="133321" s_po="27" s_ass="23" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="431151" s_po="24" s_ass="60" s_err="3" s_fldg=".966" pos="3b"/>
+			<man pid="430598" s_po="6" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="136860" s_po="66" s_ass="0" s_err="1" s_fldg=".985" pos="cf"/>
+			<man pid="122111" s_po="15" s_ass="0" s_err="1" s_fldg=".938" pos="rf"/>
+		</defense>
+		<ball type="O" x="116.47" y="175.70" batter="452232" pitcher="425530"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="425530" index="6">
+			<man pid="133321"/>
+			<man pid="112116"/>
+			<man pid="136860"/>
+			<man pid="425530"/>
+			<man pid="431151"/>
+			<man pid="122111"/>
+			<man pid="123107"/>
+			<man pid="435408"/>
+			<man pid="430598"/>
+		</team>
+		<team type="away" pitcher="346848" index="8">
+			<man pid="460579"/>
+			<man pid="408108"/>
+			<man pid="434661"/>
+			<man pid="425560"/>
+			<man pid="461235"/>
+			<man pid="451188"/>
+			<man pid="407496"/>
+			<man pid="452232"/>
+			<man pid="346848"/>
+		</team>
+	</lineup>
+	<weather temp="68" condition="Cloudy" wind="7mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

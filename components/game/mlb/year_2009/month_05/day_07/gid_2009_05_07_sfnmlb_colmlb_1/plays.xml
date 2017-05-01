@@ -1,0 +1,59 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_07_sfnmlb_colmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="8" ah="12" ae="0" hr="3" hh="4" he="3" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="425549" team_abbrev="COL" team_id="115" parent_team_abbrev="COL" parent_team_id="115" current_position="2B" stand="R" b_height="6-1" ab="4" h="0" avg=".240" boxname="Barmes">
+			<ab inning="9" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="7" event="Forceout" event_es="Out Forzado"/>
+			<ab inning="5" event="Strikeout" event_es="Ponche"/>
+			<ab inning="2" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="277405" p_throws="R" pitches="23" strikes="13" balls="10" era="3.18" boxname="Miller, Ju"/>
+		<deck pid="121556" boxname="Rusch, G"/>
+		<hole pid="451594" boxname="Fowler"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="77" des="Clint Barmes pops out to shortstop Juan Uribe.  " des_es="Clint Barmes batea elevadito de out a campo corto Juan Uribe.  " event="" event_es="" player="425549">
+		<p type="B" id="640" event_num="640" x="72.10" y="170.96" des="Ball" des_es="Bola mala" sv_id="090507_161116" play_guid="" start_speed="78.6" end_speed="73.4" sz_top="3.52" sz_bot="1.82" pfx_x="1.868" pfx_z="-0.014" px="0.876" pz="1.477" x0="-1.39" y0="50.0" z0="5.753" vx0="4.605" vy0="-115.083" vz0="-2.682" ax="2.518" ay="20.344" az="-32.119" break_y="23.9" break_angle="-5.6" break_length="9.8" pitch_type="CU" type_confidence=".906" zone="14" spin_dir="91.251" spin_rate="317.505"  cc=""/>		<p type="S" id="641" event_num="641" x="97.85" y="139.02" des="Called Strike" des_es="Strike cantado" sv_id="090507_161129" play_guid="" start_speed="88.6" end_speed="82.3" sz_top="3.622" sz_bot="1.82" pfx_x="-1.784" pfx_z="4.5" px="0.183" pz="2.754" x0="-1.425" y0="50.0" z0="5.513" vx0="4.732" vy0="-129.797" vz0="-2.355" ax="-3.069" ay="25.075" az="-24.36" break_y="23.8" break_angle="5.1" break_length="5.9" pitch_type="FF" type_confidence=".887" zone="5" spin_dir="201.441" spin_rate="938.345"  cc=""/>		<p type="S" id="642" event_num="642" x="118.45" y="155.42" des="Foul" des_es="Foul" sv_id="090507_161141" play_guid="" start_speed="87.6" end_speed="81.8" sz_top="3.52" sz_bot="1.82" pfx_x="-1.805" pfx_z="4.225" px="-0.502" pz="1.959" x0="-1.377" y0="50.0" z0="5.484" vx0="2.829" vy0="-128.339" vz0="-4.08" ax="-3.048" ay="23.393" az="-24.963" break_y="23.9" break_angle="5.7" break_length="6.2" pitch_type="FF" type_confidence=".891" zone="7" spin_dir="202.912" spin_rate="884.982"  cc=""/>		<p type="X" id="643" event_num="643" x="75.54" y="149.38" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090507_161204" play_guid="" start_speed="80.4" end_speed="74.6" sz_top="3.52" sz_bot="1.82" pfx_x="3.005" pfx_z="-2.019" px="0.761" pz="2.29" x0="-1.424" y0="50.0" z0="5.678" vx0="4.174" vy0="-117.823" vz0="-0.368" ax="4.222" ay="22.517" az="-34.936" break_y="23.8" break_angle="-8.0" break_length="10.2" pitch_type="CU" type_confidence=".911" zone="14" spin_dir="56.807" spin_rate="621.226"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="col">
+		</offense>
+		<defense type="away" id="sfn">
+			<man pid="277405" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="1" p_cs="1" pos="p"/>
+			<man pid="134260" s_po="194" s_ass="17" s_err="1" s_fldg=".995" c_sb="15" c_cs="6" pos="c"/>
+			<man pid="110383" s_po="52" s_ass="6" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="502034" s_po="49" s_ass="52" s_err="2" s_fldg=".981" pos="2b"/>
+			<man pid="346874" s_po="9" s_ass="17" s_err="1" s_fldg=".963" pos="ss"/>
+			<man pid="467055" s_po="32" s_ass="47" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="464299" s_po="8" s_ass="2" s_err="1" s_fldg=".909" pos="lf"/>
+			<man pid="133160" s_po="62" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="435625" s_po="20" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="O" x="131.53" y="144.58" batter="425549" pitcher="277405"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="121556" index="8">
+			<man pid="451594"/>
+			<man pid="453064"/>
+			<man pid="115732"/>
+			<man pid="448676"/>
+			<man pid="425547"/>
+			<man pid="455104"/>
+			<man pid="456655"/>
+			<man pid="425549"/>
+			<man pid="121556"/>
+		</team>
+		<team type="away" pitcher="277405" index="7">
+			<man pid="277405"/>
+			<man pid="502034"/>
+			<man pid="467055"/>
+			<man pid="134260"/>
+			<man pid="133160"/>
+			<man pid="110383"/>
+			<man pid="346874"/>
+			<man pid="435625"/>
+			<man pid="464299"/>
+		</team>
+	</lineup>
+	<weather temp="75" condition="Partly Cloudy" wind="8mph R To L"/>
+	<control wait="10" box="0"/>
+</game>

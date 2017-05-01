@@ -1,0 +1,61 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_04_chnmlb_slnmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="2" ah="5" ae="2" hr="1" hh="4" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="1" challenges_home_remaining="0"/>	<players>
+		<batter pid="543939" team_abbrev="STL" team_id="138" parent_team_abbrev="STL" parent_team_id="138" current_position="2B" stand="L" b_height="5-9" ab="4" h="1" avg=".167" boxname="Wong">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="5" event="Single" event_es="Sencillo"/>
+			<ab inning="3" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="451584" p_throws="R" pitches="14" strikes="8" balls="6" era="0.00" boxname="Davis, W"/>
+		<deck pid="571431" boxname="Adams, M"/>
+		<hole pid="451594" boxname="Fowler"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Men_On"/>
+	<atbat num="74" des="Cardinals challenged (play at 1st), call on the field was upheld: Kolten Wong grounds out, second baseman Javier Baez to first baseman Anthony Rizzo.  " des_es="Cardinals reto (jugada en la 1ra) negado, se mantiene la decisi&#243;n. Kolten Wong batea rodado de out, segunda base Javier Baez a primera base Anthony Rizzo.  " event="Game Advisory" event_es="Aviso en el Juego" player="543939" play_guid="73d88cd3-87eb-4729-9ad1-a197b06a297c" >
+		<p type="X" id="579" event_num="579" x="105.21" y="172.18" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170405_031217" play_guid="73d88cd3-87eb-4729-9ad1-a197b06a297c" start_speed="93.3" end_speed="84.8" sz_top="3.285" sz_bot="1.487" pfx_x="-3.6239301468156238" pfx_z="12.681296201748" px="0.309256546381498" pz="2.46676094435186" x0="-2.24783503669454" y0="50" z0="5.78676190470134" vx0="8.0782232786823" vy0="-135.421877099112" vz0="-7.22187384593911" ax="-6.69793662288869" ay="30.8778189780702" az="-8.73581580516631" break_y="23.8" break_angle="25.3" break_length="2.5" pitch_type="FF" type_confidence="2.000" zone="6" nasty="47" spin_dir="195.947" spin_rate="2611.462"  cc=""/>		<runner id="545341" start="1B" end="" event="Game Advisory" event_es="Aviso en el Juego"/>
+	</atbat>
+	<field>
+		<offense type="home" id="sln">
+			<man bnum="1" pid="545341" boxname="Grichuk" note="Forceout" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="chn">
+			<man pid="451584" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="575929" s_po="15" s_ass="1" s_err="0" s_fldg="1.000" c_sb="2" c_cs="0" pos="c"/>
+			<man pid="519203" s_po="17" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="595879" s_po="4" s_ass="6" s_err="2" s_fldg=".833" pos="2b"/>
+			<man pid="608365" s_po="7" s_ass="3" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="592178" s_po="0" s_ass="6" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="450314" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="546991" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="518792" s_po="4" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="194.86" y="87.52" batter="543939" pitcher="451584"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="455009" index="8">
+			<man pid="451594"/>
+			<man pid="649557"/>
+			<man pid="572761"/>
+			<man pid="425509"/>
+			<man pid="425877"/>
+			<man pid="500874"/>
+			<man pid="545341"/>
+			<man pid="543939"/>
+			<man pid="571431"/>
+		</team>
+		<team type="away" pitcher="451584" index="3">
+			<man pid="451584"/>
+			<man pid="592178"/>
+			<man pid="519203"/>
+			<man pid="608365"/>
+			<man pid="575929"/>
+			<man pid="518792"/>
+			<man pid="595879"/>
+			<man pid="450314"/>
+			<man pid="546991"/>
+		</team>
+	</lineup>
+	<weather temp="61" condition="Overcast" wind="10mph In From LF"/>
+	<control wait="10" box="0"/>
+</game>

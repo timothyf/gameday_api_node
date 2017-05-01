@@ -1,0 +1,59 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_sfnmlb_chnmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="6" ah="11" ae="0" hr="2" hh="5" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="457384" team_abbrev="CHC" team_id="112" parent_team_abbrev="CHC" parent_team_id="112" current_position="2B" stand="R" b_height="6-0" ab="4" h="1" avg=".250" boxname="Scales">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Lineout"/>
+			<ab inning="5" event="Single"/>
+			<ab inning="2" event="Strikeout"/>
+		</batter>
+		<pitcher pid="346793" p_throws="L" pitches="11" strikes="8" balls="3" era="3.18" boxname="Affeldt"/>
+		<deck pid="425542" boxname="Hill, K"/>
+		<hole pid="456029" boxname="Patton, D"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="74" des="Bobby Scales strikes out swinging.  " des_es="Bobby Scales se poncha tir&#225;ndole.  " event="Strikeout" player="457384">
+		<p type="S" id="588" x="110.73" y="159.74" des="Called Strike" des_es="Strike cantado" sv_id="090505_155758" start_speed="93.8" end_speed="87.1" sz_top="3.614" sz_bot="1.638" pfx_x="10.624" pfx_z="7.988" px="-0.318" pz="1.819" x0="2.218" y0="50.0" z0="5.739" vx0="-10.645" vy0="-136.989" vz0="-7.565" ax="20.408" ay="27.177" az="-16.756" break_y="23.8" break_angle="-45.2" break_length="5.5" pitch_type="FT" type_confidence="2.000" zone="7" spin_dir="127.071" spin_rate="2708.770"  cc=""/>		<p type="S" id="589" x="110.73" y="164.06" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090505_155812" start_speed="77.2" end_speed="72.3" sz_top="3.38" sz_bot="1.5" pfx_x="-7.267" pfx_z="-5.747" px="-0.416" pz="1.628" x0="2.318" y0="50.0" z0="6.0" vx0="-4.003" vy0="-113.225" vz0="-0.931" ax="-9.447" ay="20.417" az="-39.57" break_y="23.9" break_angle="14.1" break_length="12.8" pitch_type="CU" type_confidence="2.000" zone="7" spin_dir="308.058" spin_rate="1537.307"  cc=""/>		<p type="S" id="590" x="103.86" y="162.33" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090505_155829" start_speed="78.6" end_speed="73.7" sz_top="3.38" sz_bot="1.5" pfx_x="-7.165" pfx_z="-6.245" px="-0.087" pz="1.671" x0="2.354" y0="50.0" z0="6.003" vx0="-3.442" vy0="-115.257" vz0="-0.982" ax="-9.677" ay="20.611" az="-40.534" break_y="23.9" break_angle="14.0" break_length="12.6" pitch_type="CU" type_confidence="2.000" zone="8" spin_dir="310.825" spin_rate="1609.677"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="chn">
+		</offense>
+		<defense type="away" id="sfn">
+			<man pid="346793" s_po="0" s_ass="4" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="134260" s_po="185" s_ass="16" s_err="1" s_fldg=".995" c_sb="15" c_cs="6" pos="c"/>
+			<man pid="110383" s_po="45" s_ass="5" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="502034" s_po="42" s_ass="48" s_err="2" s_fldg=".978" pos="2b"/>
+			<man pid="121074" s_po="36" s_ass="61" s_err="2" s_fldg=".980" pos="ss"/>
+			<man pid="346874" s_po="6" s_ass="14" s_err="1" s_fldg=".952" pos="3b"/>
+			<man pid="430930" s_po="37" s_ass="1" s_err="2" s_fldg=".950" pos="lf"/>
+			<man pid="400023" s_po="46" s_ass="1" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="133160" s_po="58" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="456029" index="7">
+			<man pid="431157"/>
+			<man pid="425446"/>
+			<man pid="493120"/>
+			<man pid="117601"/>
+			<man pid="407862"/>
+			<man pid="150396"/>
+			<man pid="457384"/>
+			<man pid="425542"/>
+			<man pid="456029"/>
+		</team>
+		<team type="away" pitcher="346793" index="5">
+			<man pid="430930"/>
+			<man pid="121074"/>
+			<man pid="110383"/>
+			<man pid="134260"/>
+			<man pid="400023"/>
+			<man pid="133160"/>
+			<man pid="346874"/>
+			<man pid="502034"/>
+			<man pid="346793"/>
+		</team>
+	</lineup>
+	<weather temp="56" condition="Cloudy" wind="4mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

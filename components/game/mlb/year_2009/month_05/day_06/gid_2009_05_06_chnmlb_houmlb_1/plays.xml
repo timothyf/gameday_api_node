@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_chnmlb_houmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="6" ah="8" ae="0" hr="3" hh="8" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="430565" team_abbrev="HOU" team_id="117" parent_team_abbrev="HOU" parent_team_id="117" current_position="2B" stand="L" b_height="5-10" ab="5" h="2" avg=".274" boxname="Matsui, K">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Pop Out"/>
+			<ab inning="4" event="Strikeout"/>
+			<ab inning="3" event="Single"/>
+			<ab inning="1" event="Single"/>
+		</batter>
+		<pitcher pid="276514" p_throws="R" pitches="12" strikes="9" balls="3" era="4.61" boxname="Gregg"/>
+		<deck pid="456422" boxname="Bourn"/>
+		<hole pid="204020" boxname="Berkman"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="77" des="Kazuo Matsui grounds out, shortstop Ryan Theriot to first baseman Micah Hoffpauir.  " des_es="Kazuo Matsui batea rodado de out, campo corto Ryan Theriot a primera base Micah Hoffpauir.  " event="null" player="430565">
+		<p type="B" id="601" x="73.82" y="141.61" des="Ball" des_es="Bola mala" sv_id="090506_215331" start_speed="93.7" end_speed="86.3" sz_top="3.26" sz_bot="1.63" pfx_x="-1.918" pfx_z="3.196" px="0.668" pz="2.729" x0="-1.877" y0="50.0" z0="6.216" vx0="7.558" vy0="-137.169" vz0="-4.621" ax="-3.645" ay="31.086" az="-26.026" break_y="23.8" break_angle="4.3" break_length="5.8" pitch_type="FF" type_confidence="2.000" zone="3" spin_dir="210.661" spin_rate="755.942"  cc=""/>		<p type="S" id="602" x="98.71" y="164.92" des="Called Strike" des_es="Strike cantado" sv_id="090506_215345" start_speed="92.9" end_speed="86.5" sz_top="3.26" sz_bot="1.63" pfx_x="-5.426" pfx_z="3.668" px="0.165" pz="1.809" x0="-2.089" y0="50.0" z0="6.165" vx0="7.967" vy0="-135.772" vz0="-7.049" ax="-10.233" ay="26.843" az="-25.182" break_y="23.9" break_angle="18.3" break_length="6.0" pitch_type="SI" type_confidence="2.000" zone="8" spin_dir="235.655" spin_rate="1324.314"  cc=""/>		<p type="S" id="603" x="105.58" y="158.88" des="Foul" des_es="Foul" sv_id="090506_215359" start_speed="80.7" end_speed="76.1" sz_top="3.26" sz_bot="1.63" pfx_x="9.052" pfx_z="-7.384" px="-0.289" pz="1.81" x0="-1.724" y0="50.0" z0="6.71" vx0="0.605" vy0="-118.373" vz0="-2.402" ax="12.963" ay="20.621" az="-42.674" break_y="23.9" break_angle="-16.8" break_length="12.7" pitch_type="CU" type_confidence="2.000" zone="7" spin_dir="50.992" spin_rate="2044.551"  cc=""/>		<p type="B" id="604" x="155.36" y="155.42" des="Ball" des_es="Bola mala" sv_id="090506_215422" start_speed="83.0" end_speed="76.6" sz_top="3.26" sz_bot="1.63" pfx_x="-5.671" pfx_z="-3.552" px="-1.641" pz="1.94" x0="-2.069" y0="50.0" z0="6.269" vx0="2.785" vy0="-121.672" vz0="-2.547" ax="-8.423" ay="25.93" az="-37.376" break_y="23.8" break_angle="11.8" break_length="10.6" pitch_type="FS" type_confidence="2.000" zone="13" spin_dir="301.700" spin_rate="1180.434"  cc=""/>		<p type="X" id="605" x="97.85" y="173.55" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090506_215436" start_speed="92.2" end_speed="85.2" sz_top="3.26" sz_bot="1.63" pfx_x="-2.386" pfx_z="2.658" px="-0.118" pz="1.188" x0="-1.787" y0="50.0" z0="6.079" vx0="5.265" vy0="-134.944" vz0="-7.906" ax="-4.388" ay="30.09" az="-27.211" break_y="23.8" break_angle="6.6" break_length="6.4" pitch_type="FF" type_confidence="2.000" zone="13" spin_dir="221.480" spin_rate="712.215"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="hou">
+		</offense>
+		<defense type="away" id="chn">
+			<man pid="276514" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="434567" s_po="159" s_ass="10" s_err="0" s_fldg="1.000" c_sb="14" c_cs="4" pos="c"/>
+			<man pid="451687" s_po="39" s_ass="3" s_err="1" s_fldg=".977" pos="1b"/>
+			<man pid="425446" s_po="47" s_ass="42" s_err="1" s_fldg=".989" pos="2b"/>
+			<man pid="444135" s_po="20" s_ass="63" s_err="4" s_fldg=".954" pos="ss"/>
+			<man pid="133380" s_po="10" s_ass="30" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="150093" s_po="40" s_ass="3" s_err="2" s_fldg=".956" pos="lf"/>
+			<man pid="431157" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="407862" s_po="27" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="109.44" y="157.63" batter="430565" pitcher="276514"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="445246" index="1">
+			<man pid="430565"/>
+			<man pid="456422"/>
+			<man pid="204020"/>
+			<man pid="150324"/>
+			<man pid="123173"/>
+			<man pid="452254"/>
+			<man pid="150398"/>
+			<man pid="121358"/>
+			<man pid="346859"/>
+		</team>
+		<team type="away" pitcher="276514" index="5">
+			<man pid="150093"/>
+			<man pid="444135"/>
+			<man pid="276514"/>
+			<man pid="133380"/>
+			<man pid="434567"/>
+			<man pid="407862"/>
+			<man pid="451687"/>
+			<man pid="425446"/>
+			<man pid="431157"/>
+		</team>
+	</lineup>
+	<weather temp="83" condition="Partly Cloudy" wind="11mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

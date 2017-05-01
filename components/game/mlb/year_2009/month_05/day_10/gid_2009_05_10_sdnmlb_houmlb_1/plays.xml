@@ -1,0 +1,60 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_10_sdnmlb_houmlb_1" status_ind="F"  status="Final" inning="9" top_inning="T" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="5" ah="9" ae="2" hr="12" hh="16" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="425904" team_abbrev="SD" team_id="135" parent_team_abbrev="SD" parent_team_id="135" current_position="SS" stand="L" b_height="5-9" ab="2" h="1" avg=".247" boxname="Rodriguez, L">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Walk"/>
+			<ab inning="6" event="Single"/>
+		</batter>
+		<pitcher pid="448200" p_throws="R" pitches="21" strikes="10" balls="11" era="1.71" boxname="Sampson"/>
+		<deck pid="408236" boxname="Gonzalez, Ad"/>
+		<hole pid="452104" boxname="Headley"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Men_On"/>
+	<atbat num="83" des="Luis Antonio Rodriguez grounds out, second baseman Kazuo Matsui to first baseman Geoff Blum.  " des_es="Luis Antonio Rodriguez batea rodado de out, segunda base Kazuo Matsui a primera base Geoff Blum.  " event="Left On Base" player="425904">
+		<p type="B" id="687" x="124.46" y="168.37" des="Ball" des_es="Bola mala" sv_id="090510_160201" start_speed="88.2" end_speed="80.4" sz_top="3.036" sz_bot="1.563" pfx_x="-8.604" pfx_z="3.616" px="-0.569" pz="1.506" x0="-2.202" y0="50.0" z0="5.509" vx0="6.959" vy0="-129.121" vz0="-4.983" ax="-14.293" ay="30.919" az="-26.093" break_y="23.7" break_angle="25.0" break_length="7.4" pitch_type="FT" type_confidence="2.000" zone="13" spin_dir="246.952" spin_rate="1745.242"  cc=""/>		<p type="B" id="688" x="119.31" y="169.24" des="Ball" des_es="Bola mala" sv_id="090510_160220" start_speed="88.3" end_speed="80.9" sz_top="3.08" sz_bot="1.56" pfx_x="-14.117" pfx_z="3.29" px="-0.438" pz="1.511" x0="-2.347" y0="50.0" z0="5.49" vx0="9.501" vy0="-129.11" vz0="-4.872" ax="-23.625" ay="29.032" az="-26.594" break_y="23.8" break_angle="38.0" break_length="8.5" pitch_type="FT" type_confidence="2.000" zone="13" spin_dir="256.711" spin_rate="2727.734"  cc=""/>		<p type="S" id="689" x="127.90" y="159.74" des="Called Strike" des_es="Strike cantado" sv_id="090510_160240" start_speed="89.1" end_speed="81.1" sz_top="3.38" sz_bot="1.5" pfx_x="-8.313" pfx_z="4.254" px="-0.703" pz="1.966" x0="-2.258" y0="50.0" z0="5.402" vx0="6.731" vy0="-130.377" vz0="-3.92" ax="-14.088" ay="31.376" az="-24.891" break_y="23.7" break_angle="25.9" break_length="6.9" pitch_type="FT" type_confidence="2.000" zone="7" spin_dir="242.662" spin_rate="1764.746"  cc=""/>		<p type="X" id="690" x="118.45" y="142.47" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090510_160300" start_speed="89.2" end_speed="80.8" sz_top="3.38" sz_bot="1.5" pfx_x="-10.672" pfx_z="3.825" px="-0.76" pz="2.447" x0="-2.352" y0="50.0" z0="5.426" vx0="7.601" vy0="-130.533" vz0="-2.601" ax="-18.052" ay="32.496" az="-25.629" break_y="23.7" break_angle="31.7" break_length="7.4" pitch_type="FT" type_confidence="2.000" zone="11" spin_dir="250.071" spin_rate="2134.152"  cc=""/>		<runner id="425506" start="1B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="away" id="sdn">
+			<man bnum="1" pid="425506" boxname="Gerut" note="Single" sb="1" cs="0"/>
+		</offense>
+		<defense type="home" id="hou">
+			<man pid="448200" s_po="3" s_ass="2" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="121358" s_po="183" s_ass="17" s_err="0" s_fldg="1.000" c_sb="8" c_cs="5" pos="c"/>
+			<man pid="150398" s_po="16" s_ass="43" s_err="1" s_fldg=".983" pos="1b"/>
+			<man pid="430565" s_po="56" s_ass="78" s_err="1" s_fldg=".993" pos="2b"/>
+			<man pid="123173" s_po="45" s_ass="85" s_err="5" s_fldg=".963" pos="ss"/>
+			<man pid="433898" s_po="14" s_ass="33" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="113889" s_po="32" s_ass="2" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="456422" s_po="83" s_ass="2" s_err="1" s_fldg=".988" pos="cf"/>
+			<man pid="452254" s_po="57" s_ass="3" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="137.55" y="156.63" batter="425904" pitcher="448200"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="448200" index="1">
+			<man pid="430565"/>
+			<man pid="456422"/>
+			<man pid="452254"/>
+			<man pid="150398"/>
+			<man pid="123173"/>
+			<man pid="113889"/>
+			<man pid="121358"/>
+			<man pid="433898"/>
+			<man pid="448200"/>
+		</team>
+		<team type="away" pitcher="445995" index="2">
+			<man pid="425506"/>
+			<man pid="425904"/>
+			<man pid="408236"/>
+			<man pid="452104"/>
+			<man pid="430668"/>
+			<man pid="445995"/>
+			<man pid="460026"/>
+			<man pid="429663"/>
+			<man pid="452989"/>
+		</team>
+	</lineup>
+	<weather temp="73" condition="Roof Closed" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

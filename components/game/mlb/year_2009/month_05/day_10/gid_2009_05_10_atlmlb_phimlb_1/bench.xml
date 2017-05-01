@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<bench>
+   <away tid="atl">
+      <batters>
+         <batter id="429841" last="Diaz, M" b="R" pos="LF" avg=".230" g="19" ab="61" r="7"
+                 h="14"
+                 hr="2"
+                 rbi="11"
+                 sb="1"/>
+         <batter id="424325" last="Ross, D" b="R" pos="C" avg=".298" g="15" ab="47" r="8" h="14"
+                 hr="3"
+                 rbi="9"
+                 sb="0"/>
+      </batters>
+      <pitchers>
+         <pitcher id="430831" last="Bennett" t="R" w="0" l="0" era="1.98" g="14" sv="0" ip="13.2"
+                  h="23"
+                  bb="5"
+                  so="12"/>
+         <pitcher id="435658" last="Campillo" t="R" w="1" l="0" era="5.40" g="4" sv="0" ip="3.1"
+                  h="6"
+                  bb="3"
+                  so="3"/>
+         <pitcher id="234194" last="Carlyle" t="R" w="0" l="1" era="5.11" g="9" sv="0" ip="12.1"
+                  h="16"
+                  bb="4"
+                  so="8"/>
+         <pitcher id="114849" last="Glavine" t="L" w="0" l="0" era="-" g="0" sv="0" ip="0.0"
+                  h="0"
+                  bb="0"
+                  so="0"/>
+         <pitcher id="218596" last="Hudson, T" t="R" w="0" l="0" era="-" g="0" sv="0" ip="0.0"
+                  h="0"
+                  bb="0"
+                  so="0"/>
+         <pitcher id="457453" last="Jurrjens" t="R" w="3" l="2" era="2.01" g="7" sv="0" ip="40.1"
+                  h="32"
+                  bb="16"
+                  so="20"/>
+         <pitcher id="117955" last="Lowe, D" t="R" w="4" l="1" era="3.98" g="7" sv="0" ip="40.2"
+                  h="39"
+                  bb="17"
+                  so="33"/>
+         <pitcher id="493247" last="Moylan" t="R" w="1" l="2" era="7.15" g="15" sv="0" ip="11.1"
+                  h="7"
+                  bb="9"
+                  so="13"/>
+         <pitcher id="444970" last="Parr" t="R" w="0" l="0" era="3.86" g="5" sv="0" ip="7.0"
+                  h="8"
+                  bb="2"
+                  so="3"/>
+         <pitcher id="457456" last="Reyes, Jo" t="L" w="0" l="2" era="5.48" g="4" sv="0"
+                  ip="23.0"
+                  h="21"
+                  bb="9"
+                  so="20"/>
+         <pitcher id="134320" last="Vazquez" t="R" w="3" l="3" era="3.88" g="7" sv="0" ip="46.1"
+                  h="42"
+                  bb="11"
+                  so="57"/>
+      </pitchers>
+   </away>
+   <home tid="phi">
+      <batters>
+         <batter id="400120" last="Coste" b="R" pos="C" avg=".204" g="19" ab="49" r="4" h="10"
+                 hr="1"
+                 rbi="6"
+                 sb="0"/>
+      </batters>
+      <pitchers>
+         <pitcher id="430599" last="Blanton" t="R" w="1" l="3" era="6.82" g="6" sv="0" ip="34.1"
+                  h="45"
+                  bb="10"
+                  so="28"/>
+         <pitcher id="424925" last="Condrey" t="R" w="3" l="0" era="2.12" g="17" sv="0" ip="17.0"
+                  h="11"
+                  bb="6"
+                  so="12"/>
+         <pitcher id="113961" last="Eyre, S" t="L" w="0" l="1" era="5.40" g="13" sv="0" ip="6.2"
+                  h="5"
+                  bb="6"
+                  so="4"/>
+         <pitcher id="430935" last="Hamels" t="L" w="1" l="2" era="6.17" g="5" sv="0" ip="23.1"
+                  h="30"
+                  bb="6"
+                  so="22"/>
+         <pitcher id="457918" last="Happ" t="L" w="1" l="0" era="2.84" g="10" sv="0" ip="19.0"
+                  h="12"
+                  bb="7"
+                  so="14"/>
+         <pitcher id="425492" last="Madson" t="R" w="2" l="1" era="2.70" g="13" sv="1" ip="13.1"
+                  h="9"
+                  bb="6"
+                  so="16"/>
+         <pitcher id="119469" last="Moyer" t="L" w="3" l="2" era="7.26" g="6" sv="0" ip="31.0"
+                  h="44"
+                  bb="12"
+                  so="18"/>
+         <pitcher id="120221" last="Park" t="R" w="0" l="1" era="6.67" g="6" sv="0" ip="27.0"
+                  h="29"
+                  bb="13"
+                  so="16"/>
+      </pitchers>
+   </home>
+</bench>

@@ -1,0 +1,57 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_06_milmlb_cinmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="15" ah="20" ae="0" hr="3" hh="9" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="489267" team_abbrev="CIN" team_id="113" parent_team_abbrev="CIN" parent_team_id="113" current_position="3B" stand="R" b_height="6-1" ab="2" h="0" avg=".240" boxname="Rosales">
+			<ab inning="9" event="Strikeout"/>
+			<ab inning="7" event="Flyout"/>
+		</batter>
+		<pitcher pid="434298" p_throws="R" pitches="17" strikes="10" balls="7" era="3.52" boxname="Coffey"/>
+		<deck pid="408252" boxname="Phillips"/>
+		<hole pid="457803" boxname="Bruce"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="89" des="Adam Rosales strikes out swinging, catcher Carlos Corporan to first baseman Prince Fielder.  " des_es="Adam Rosales se poncha tir&#225;ndole, receptor Carlos Corporan a primera base Prince Fielder.  " event="Strikeout" player="489267">
+		<p type="S" id="765" x="133.91" y="154.56" des="Called Strike" des_es="Strike cantado" sv_id="090506_230416" start_speed="94.1" end_speed="86.3" sz_top="3.38" sz_bot="1.5" pfx_x="-7.63" pfx_z="7.47" px="-1.03" pz="2.156" x0="-2.481" y0="50.0" z0="5.989" vx0="6.621" vy0="-137.612" vz0="-7.105" ax="-14.565" ay="31.808" az="-17.839" break_y="23.8" break_angle="33.9" break_length="5.0" pitch_type="FT" type_confidence=".873" zone="13" spin_dir="225.455" spin_rate="2154.480"  cc=""/>		<p type="B" id="766" x="139.91" y="173.55" des="Ball" des_es="Bola mala" sv_id="090506_230431" start_speed="93.5" end_speed="85.5" sz_top="3.38" sz_bot="1.5" pfx_x="-7.31" pfx_z="5.499" px="-1.201" pz="1.454" x0="-2.667" y0="50.0" z0="5.814" vx0="6.488" vy0="-136.824" vz0="-7.668" ax="-13.7" ay="33.396" az="-21.794" break_y="23.7" break_angle="27.3" break_length="5.8" pitch_type="FT" type_confidence=".611" zone="13" spin_dir="232.849" spin_rate="1822.512"  cc=""/>		<p type="S" id="767" x="87.55" y="141.61" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090506_230448" start_speed="93.2" end_speed="85.4" sz_top="3.38" sz_bot="1.5" pfx_x="-7.547" pfx_z="6.06" px="0.454" pz="2.775" x0="-2.278" y0="50.0" z0="5.997" vx0="9.962" vy0="-136.241" vz0="-4.778" ax="-14.111" ay="31.386" az="-20.769" break_y="23.8" break_angle="28.6" break_length="5.4" pitch_type="FT" type_confidence=".850" zone="3" spin_dir="231.053" spin_rate="1932.060"  cc=""/>		<p type="B" id="768" x="77.25" y="126.93" des="Ball" des_es="Bola mala" sv_id="090506_230510" start_speed="93.7" end_speed="85.6" sz_top="3.012" sz_bot="1.5" pfx_x="-7.076" pfx_z="7.014" px="0.714" pz="3.383" x0="-2.231" y0="50.0" z0="6.067" vx0="10.415" vy0="-136.92" vz0="-3.735" ax="-13.346" ay="32.053" az="-18.871" break_y="23.7" break_angle="29.1" break_length="4.9" pitch_type="FT" type_confidence=".756" zone="12" spin_dir="225.091" spin_rate="1996.649"  cc=""/>		<p type="S" id="769" x="133.05" y="171.83" des="Foul" des_es="Foul" sv_id="090506_230529" start_speed="93.6" end_speed="85.6" sz_top="3.38" sz_bot="1.5" pfx_x="-5.568" pfx_z="6.822" px="-0.955" pz="1.495" x0="-2.411" y0="50.0" z0="5.854" vx0="5.865" vy0="-136.983" vz0="-8.158" ax="-10.469" ay="33.212" az="-19.272" break_y="23.7" break_angle="23.3" break_length="5.0" pitch_type="FF" type_confidence=".999" zone="13" spin_dir="219.056" spin_rate="1759.700"  cc=""/>		<p type="S" id="770" x="59.23" y="194.28" des="Swinging Strike (Blocked)" des_es="Strike tir&#225;ndole (Bloqueado)" sv_id="090506_230551" start_speed="85.4" end_speed="77.5" sz_top="3.38" sz_bot="1.5" pfx_x="3.209" pfx_z="3.281" px="1.279" pz="0.54" x0="-2.668" y0="50.0" z0="5.679" vx0="8.597" vy0="-124.783" vz0="-6.948" ax="4.915" ay="31.795" az="-27.075" break_y="23.7" break_angle="-13.4" break_length="7.9" pitch_type="SL" type_confidence=".903" zone="14" spin_dir="136.054" spin_rate="823.403"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="cin">
+		</offense>
+		<defense type="away" id="mil">
+			<man pid="434298" s_po="0" s_ass="2" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="449786" s_po="2" s_ass="1" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="425902" s_po="234" s_ass="11" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="430001" s_po="54" s_ass="77" s_err="5" s_fldg=".963" pos="2b"/>
+			<man pid="429666" s_po="30" s_ass="69" s_err="3" s_fldg=".971" pos="ss"/>
+			<man pid="431171" s_po="3" s_ass="4" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="460075" s_po="42" s_ass="1" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="434659" s_po="16" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="430611" s_po="46" s_ass="0" s_err="2" s_fldg=".958" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="457926" index="3">
+			<man pid="425556"/>
+			<man pid="150020"/>
+			<man pid="489267"/>
+			<man pid="408252"/>
+			<man pid="457803"/>
+			<man pid="150021"/>
+			<man pid="452672"/>
+			<man pid="457926"/>
+			<man pid="150421"/>
+		</team>
+		<team type="away" pitcher="434298" index="6">
+			<man pid="430001"/>
+			<man pid="434298"/>
+			<man pid="460075"/>
+			<man pid="425902"/>
+			<man pid="434659"/>
+			<man pid="430611"/>
+			<man pid="429666"/>
+			<man pid="449786"/>
+			<man pid="431171"/>
+		</team>
+	</lineup>
+	<weather temp="60" condition="Overcast" wind="6mph Varies"/>
+	<control wait="10" box="0"/>
+</game>

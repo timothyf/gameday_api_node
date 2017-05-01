@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="471162"
+                des="Marco Scutaro walks.  "
+                des_es="Marco Scutaro recibe base por bolas.  "
+                event="Walk"
+                b1="340192"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_190847" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_190904" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_190923" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_190946" des="Ball" des_es="Bola mala" type="B" start_speed="93.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191005" des="Ball" des_es="Bola mala" type="B" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191025" des="Foul" des_es="Foul" type="S" start_speed="93.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191113" des="Foul" des_es="Foul" type="S" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191134" des="Ball" des_es="Bola mala" type="B" start_speed="92.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="2" b="1" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="471162"
+                des="Aaron Hill homers (7) on a fly ball to center field.   Marco Scutaro scores.  "
+                des_es="Aaron Hill batea jonr&#243;n (7) con elevado por el jard&#237;n central.   Marco Scutaro anota .  "
+                event="Home Run"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="2"
+                b1=""
+                b2=""
+                b3=""
+                rbi="2">
+            <pitch sv_id="090506_191213" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191236" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="90.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191304" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="88.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="3" b="0" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="471162"
+                des="Alex Rios singles on a line drive to center fielder Torii Hunter.  "
+                des_es="Alex Rios pega sencillo con l&#237;nea a jardinero central Torii Hunter.  "
+                event="Single"
+                b1="425567"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191356" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191407" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="85.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="4" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="471162"
+                des="Vernon Wells grounds into a double play, shortstop Erick Aybar to second baseman Howie Kendrick to first baseman Kendrys Morales.   Alex Rios out at 2nd.  "
+                des_es="Vernon Wells batea rodado batea para doble matanza, campo corto Erick Aybar a segunda base Howie Kendrick a primera base Kendrys Morales.   Alex Rios a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191454" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_191525" des="Ball" des_es="Bola mala" type="B" start_speed="92.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191546" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="82.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="5" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="471162"
+                des="Adam Lind doubles (10) on a line drive to right fielder Gary Matthews.  "
+                des_es="Adam Lind pega doble (10) con l&#237;nea a jardinero derecho Gary Matthews.  "
+                event="Double"
+                b1=""
+                b2="452252"
+                b3="">
+            <pitch sv_id="090506_191649" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_191704" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191719" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="84.6"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="6" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="121409"
+                pitcher="471162"
+                des="Scott Rolen walks.  "
+                des_es="Scott Rolen recibe base por bolas.  "
+                event="Walk"
+                b1="121409"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_191805" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_191824" des="Ball" des_es="Bola mala" type="B" start_speed="79.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_191842" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191903" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_191924" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="4" s="1" o="2" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407489"
+                 pitch="5"/>
+         <atbat num="7" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="407489"
+                pitcher="471162"
+                des="Lyle Overbay flies out to right fielder Gary Matthews.  "
+                des_es="Lyle Overbay batea elevado de out a jardinero derecho Gary Matthews.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192022" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_192046" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.2"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="8" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="408210"
+                pitcher="136880"
+                des="Chone Figgins grounds out, second baseman Aaron Hill to first baseman Lyle Overbay.  "
+                des_es="Chone Figgins batea rodado de out, segunda base Aaron Hill a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192320" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192335" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192350" des="Ball" des_es="Bola mala" type="B" start_speed="92.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192408" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.0"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="9" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="430895"
+                pitcher="136880"
+                des="Maicer Izturis pops out to third baseman Scott Rolen.  "
+                des_es="Maicer Izturis batea elevadito de out a tercera base Scott Rolen.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192438" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192450" des="Foul" des_es="Foul" type="S" start_speed="93.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192508" des="Ball" des_es="Bola mala" type="B" start_speed="77.5"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_192525" des="Ball" des_es="Bola mala" type="B" start_speed="92.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_192539" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192556" des="Foul" des_es="Foul" type="S" start_speed="90.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192622" des="Foul" des_es="Foul" type="S" start_speed="90.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192643" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.2"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="10" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="110029"
+                pitcher="136880"
+                des="Bobby Abreu grounds out, shortstop Marco Scutaro to first baseman Lyle Overbay.  "
+                des_es="Bobby Abreu batea rodado de out, campo corto Marco Scutaro a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_192731" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_192749" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.4"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="11" b="3" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="150148"
+                pitcher="471162"
+                des="Rod Barajas singles on a ground ball to left fielder Bobby Abreu.  "
+                des_es="Rod Barajas pega sencillo con rodado a jardinero izquierdo Bobby Abreu.  "
+                event="Single"
+                b1="150148"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_193013" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193028" des="Foul" des_es="Foul" type="S" start_speed="91.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_193048" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_193108" des="Ball" des_es="Bola mala" type="B" start_speed="93.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193125" des="Foul" des_es="Foul" type="S" start_speed="92.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193145" des="Ball" des_es="Bola mala" type="B" start_speed="82.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_193204" des="Foul" des_es="Foul" type="S" start_speed="91.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193242" des="Foul" des_es="Foul" type="S" start_speed="78.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_193302" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="12" b="4" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="501983"
+                pitcher="471162"
+                des="Travis Snider walks.   Rod Barajas to 2nd.  "
+                des_es="Travis Snider recibe base por bolas.   Rod Barajas a 2da.  "
+                event="Walk"
+                b1="501983"
+                b2="150148"
+                b3="">
+            <pitch sv_id="090506_193342" des="Ball" des_es="Bola mala" type="B" start_speed="89.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193401" des="Ball" des_es="Bola mala" type="B" start_speed="86.1"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_193424" des="Foul" des_es="Foul" type="S" start_speed="89.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193448" des="Ball" des_es="Bola mala" type="B" start_speed="75.1"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_193509" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="13" b="0" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="471162"
+                des="Marco Scutaro singles on a ground ball to shortstop Erick Aybar.   Rod Barajas scores.    Travis Snider to 3rd.  "
+                des_es="Marco Scutaro pega sencillo con rodado a campo corto Erick Aybar.   Rod Barajas anota  Travis Snider a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="3"
+                b1="340192"
+                b2=""
+                b3="501983"
+                rbi="1">
+            <pitch sv_id="090506_193546" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_193616" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="78.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_193647" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="79.5"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="14" b="1" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="471162"
+                des="Aaron Hill singles on a ground ball to center fielder Torii Hunter.   Travis Snider scores.    Marco Scutaro to 2nd.  "
+                des_es="Aaron Hill pega sencillo con rodado a jardinero central Torii Hunter.   Travis Snider anota  Marco Scutaro a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="4"
+                b1="431094"
+                b2="340192"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090506_193741" des="Ball" des_es="Bola mala" type="B" start_speed="84.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_193802" des="Foul" des_es="Foul" type="S" start_speed="91.3"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_193832" des="Foul" des_es="Foul" type="S" start_speed="79.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_193913" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="92.8"
+                   pitch_type="FT"/>
+         </atbat>
+         <atbat num="15" b="0" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="471162"
+                des="Alex Rios flies out to center fielder Torii Hunter.   Marco Scutaro to 3rd.  "
+                des_es="Alex Rios batea elevado de out a jardinero central Torii Hunter en jugada de infield fly.   Marco Scutaro a 3ra.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="340192">
+            <pitch sv_id="090506_194013" des="Foul" des_es="Foul" type="S" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_194036" des="Foul" des_es="Foul" type="S" start_speed="78.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_194059" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.6"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="2" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150484"
+                 pitch="3"/>
+         <action b="0" s="0" o="1"
+                 des="Pitching Change: Rafael Rodriguez replaces Anthony Ortega.  "
+                 des_es="Cambio de Lanzador: Rafael Rodriguez reemplaza a Anthony Ortega.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="444126"
+                 pitch="3"/>
+         <atbat num="16" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="444126"
+                des="Vernon Wells homers (5) on a fly ball to left field.   Marco Scutaro scores.    Aaron Hill scores.  "
+                des_es="Vernon Wells batea jonr&#243;n (5) con elevado por el jard&#237;n izquierdo.   Marco Scutaro anota  Aaron Hill anota .  "
+                event="Home Run"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="7"
+                b1=""
+                b2=""
+                b3=""
+                rbi="3">
+            <pitch sv_id="090506_194411" des="Ball" des_es="Bola mala" type="B" start_speed="82.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_194430" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_194453" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="82.7"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="17" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="444126"
+                des="Adam Lind grounds out, pitcher Rafael Rodriguez to first baseman Kendrys Morales.  "
+                des_es="Adam Lind batea rodado de out, lanzador Rafael Rodriguez a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194545" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194600" des="Ball" des_es="Bola mala" type="B" start_speed="91.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194618" des="Ball" des_es="Bola mala" type="B" start_speed="86.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_194636" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="18" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="121409"
+                pitcher="444126"
+                des="Scott Rolen singles on a line drive to left fielder Bobby Abreu.  "
+                des_es="Scott Rolen pega sencillo con l&#237;nea a jardinero izquierdo Bobby Abreu.  "
+                event="Single"
+                b1="121409"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194712" des="Ball" des_es="Bola mala" type="B" start_speed="91.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194727" des="Foul" des_es="Foul" type="S" start_speed="91.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194746" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_194802" des="Foul" des_es="Foul" type="S" start_speed="91.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_194824" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="19" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="407489"
+                pitcher="444126"
+                des="Lyle Overbay lines into a force out, pitcher Rafael Rodriguez to shortstop Erick Aybar.   Scott Rolen out at 2nd.  "
+                des_es="Lyle Overbay batea l&#237;nea batea para out forzado, lanzador Rafael Rodriguez a campo corto Erick Aybar.   Scott Rolen a cabo a 2da.  "
+                event="Forceout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_194902" des="Ball" des_es="Bola mala" type="B" start_speed="88.0"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_194919" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="20" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="116338"
+                pitcher="136880"
+                des="Torii Hunter singles on a ground ball to right fielder Alex Rios.  "
+                des_es="Torii Hunter pega sencillo con rodado a jardinero derecho Alex Rios.  "
+                event="Single"
+                b1="116338"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195130" des="Ball" des_es="Bola mala" type="B" start_speed="74.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_195144" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="88.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="21" b="1" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="434778"
+                pitcher="136880"
+                des="Kendrys Morales grounds into a double play, first baseman Lyle Overbay to shortstop Marco Scutaro to first baseman Lyle Overbay.   Torii Hunter out at 2nd.  "
+                des_es="Kendrys Morales batea rodado batea para doble matanza, primera base Lyle Overbay a campo corto Marco Scutaro a primera base Lyle Overbay.   Torii Hunter a cabo a 2da.  "
+                event="Grounded Into DP"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195225" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_195243" des="Foul" des_es="Foul" type="S" start_speed="90.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_195320" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195340" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="22" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="435063"
+                pitcher="136880"
+                des="Mike Napoli grounds out, shortstop Marco Scutaro to first baseman Lyle Overbay.  "
+                des_es="Mike Napoli batea rodado de out, campo corto Marco Scutaro a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195423" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_195436" des="Ball" des_es="Bola mala" type="B" start_speed="93.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195451" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_195506" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_195526" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="23" b="2" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="150148"
+                pitcher="444126"
+                des="Rod Barajas pops out to second baseman Howie Kendrick.  "
+                des_es="Rod Barajas batea elevadito de out a segunda base Howie Kendrick.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195800" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195818" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195834" des="Foul" des_es="Foul" type="S" start_speed="90.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_195859" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="24" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="501983"
+                pitcher="444126"
+                des="Travis Snider grounds out, shortstop Erick Aybar to first baseman Kendrys Morales.  "
+                des_es="Travis Snider batea rodado de out, campo corto Erick Aybar a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_195935" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_195951" des="Ball" des_es="Bola mala" type="B" start_speed="87.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200015" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="25" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="444126"
+                des="Marco Scutaro grounds out, second baseman Howie Kendrick to first baseman Kendrys Morales.  "
+                des_es="Marco Scutaro batea rodado de out, segunda base Howie Kendrick a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200051" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200108" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200127" des="Foul" des_es="Foul" type="S" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200158" des="Ball" des_es="Bola mala" type="B" start_speed="82.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_200224" des="Foul" des_es="Foul" type="S" start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_200251" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.5"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="26" b="0" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="150439"
+                pitcher="136880"
+                des="Gary Matthews called out on strikes.  "
+                des_es="Gary Matthews se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200516" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_200530" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_200545" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="27" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="435062"
+                pitcher="136880"
+                des="Howie Kendrick singles on a ground ball to right fielder Alex Rios.  "
+                des_es="Howie Kendrick pega sencillo con rodado a jardinero derecho Alex Rios.  "
+                event="Single"
+                b1="435062"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_200614" des="Foul" des_es="Foul" type="S" start_speed="90.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_200644" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.0"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="28" b="4" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="430947"
+                pitcher="136880"
+                des="Erick Aybar walks.   Howie Kendrick to 2nd.  "
+                des_es="Erick Aybar recibe base por bolas.   Howie Kendrick a 2da.  "
+                event="Walk"
+                b1="430947"
+                b2="435062"
+                b3="">
+            <pitch sv_id="090506_200724" des="Foul" des_es="Foul" type="S" start_speed="91.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_200759" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_200821" des="Ball" des_es="Bola mala" type="B" start_speed="77.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_200851" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="77.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_200919" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_200945" des="Foul (Runner Going)"
+                   des_es="Foul (Corredor en movimiento)"
+                   type="S"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_201014" des="Ball" des_es="Bola mala" type="B" start_speed="90.3"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="29" b="2" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="408210"
+                pitcher="136880"
+                des="Chone Figgins grounds into a force out, fielded by third baseman Scott Rolen.   Howie Kendrick out at 3rd.    Erick Aybar to 2nd.    Chone Figgins to 1st.  "
+                des_es="Chone Figgins batea rodado batea para out forzado, fildeado por tercera base Scott Rolen.   Howie Kendrick a cabo a 3ra.    Erick Aybar a 2da.    Chone Figgins a 1ra.  "
+                event="Forceout"
+                b1="408210"
+                b2="430947"
+                b3="">
+            <pitch sv_id="090506_201054" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_201115" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_201135" des="Foul" des_es="Foul" type="S" start_speed="92.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_201223" des="Ball" des_es="Bola mala" type="B" start_speed="77.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_201305" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="30" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="430895"
+                pitcher="136880"
+                des="Maicer Izturis pops out to third baseman Scott Rolen.  "
+                des_es="Maicer Izturis batea elevadito de out a tercera base Scott Rolen.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_201346" des="Foul" des_es="Foul" type="S" start_speed="90.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_201429" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="31" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="444126"
+                des="Aaron Hill grounds out, third baseman Chone Figgins to first baseman Kendrys Morales.  "
+                des_es="Aaron Hill batea rodado de out, tercera base Chone Figgins a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_201654" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201712" des="Foul" des_es="Foul" type="S" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_201740" des="Ball" des_es="Bola mala" type="B" start_speed="82.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201805" des="Ball" des_es="Bola mala" type="B" start_speed="82.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_201828" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="32" b="0" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="444126"
+                des="Alex Rios called out on strikes.  "
+                des_es="Alex Rios se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_201905" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_201919" des="Foul" des_es="Foul" type="S" start_speed="90.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_201941" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.7"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="33" b="0" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="444126"
+                des="Vernon Wells grounds out, third baseman Chone Figgins to first baseman Kendrys Morales.  "
+                des_es="Vernon Wells batea rodado de out, tercera base Chone Figgins a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202014" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.8"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="34" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="110029"
+                pitcher="136880"
+                des="Bobby Abreu called out on strikes.  "
+                des_es="Bobby Abreu se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202238" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202255" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_202313" des="Ball" des_es="Bola mala" type="B" start_speed="76.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_202330" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202348" des="Foul" des_es="Foul" type="S" start_speed="90.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_202413" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="35" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="116338"
+                pitcher="136880"
+                des="Torii Hunter grounds out, first baseman Lyle Overbay to pitcher Roy Halladay.  "
+                des_es="Torii Hunter batea rodado de out, primera base Lyle Overbay a lanzador Roy Halladay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202443" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202457" des="Ball" des_es="Bola mala" type="B" start_speed="92.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202510" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.5"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="36" b="1" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="434778"
+                pitcher="136880"
+                des="Kendrys Morales grounds out, shortstop Marco Scutaro to first baseman Lyle Overbay.  "
+                des_es="Kendrys Morales batea rodado de out, campo corto Marco Scutaro a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_202553" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="76.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_202609" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_202630" des="Ball" des_es="Bola mala" type="B" start_speed="77.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_202655" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.4"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="37" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="444126"
+                des="Adam Lind doubles (11) on a line drive to left fielder Bobby Abreu.  "
+                des_es="Adam Lind pega doble (11) con l&#237;nea a jardinero izquierdo Bobby Abreu.  "
+                event="Double"
+                b1=""
+                b2="452252"
+                b3="">
+            <pitch sv_id="090506_202913" des="Ball" des_es="Bola mala" type="B" start_speed="90.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202928" des="Foul" des_es="Foul" type="S" start_speed="90.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_202951" des="Ball" des_es="Bola mala" type="B" start_speed="85.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_203007" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="38" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="121409"
+                pitcher="444126"
+                des="Scott Rolen grounds out, shortstop Erick Aybar to first baseman Kendrys Morales.  "
+                des_es="Scott Rolen batea rodado de out, campo corto Erick Aybar a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203049" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="39" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="407489"
+                pitcher="444126"
+                des="Lyle Overbay singles on a ground ball to right fielder Gary Matthews.   Adam Lind to 3rd.  "
+                des_es="Lyle Overbay pega sencillo con rodado a jardinero derecho Gary Matthews.   Adam Lind a 3ra.  "
+                event="Single"
+                b1="407489"
+                b2=""
+                b3="452252">
+            <pitch sv_id="090506_203127" des="Ball" des_es="Bola mala" type="B" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203145" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="91.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="40" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="150148"
+                pitcher="444126"
+                des="Rod Barajas strikes out swinging.  "
+                des_es="Rod Barajas se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203238" des="Ball" des_es="Bola mala" type="B" start_speed="84.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_203258" des="Foul" des_es="Foul" type="S" start_speed="91.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203325" des="Foul" des_es="Foul" type="S" start_speed="91.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203352" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="83.3"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="41" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="501983"
+                pitcher="444126"
+                des="Travis Snider singles on a line drive to right fielder Gary Matthews.   Adam Lind scores.    Lyle Overbay to 2nd.  "
+                des_es="Travis Snider pega sencillo con l&#237;nea a jardinero derecho Gary Matthews.   Adam Lind anota  Lyle Overbay a 2da.  "
+                event="Single"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="8"
+                b1="501983"
+                b2="407489"
+                b3=""
+                rbi="1">
+            <pitch sv_id="090506_203432" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="87.9"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="42" b="3" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="444126"
+                des="Marco Scutaro grounds into a force out, fielded by third baseman Chone Figgins.   Lyle Overbay out at 3rd.  "
+                des_es="Marco Scutaro batea rodado batea para out forzado, fildeado por tercera base Chone Figgins.   Lyle Overbay a cabo a 3ra.  "
+                event="Forceout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203517" des="Ball" des_es="Bola mala" type="B" start_speed="83.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_203538" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203601" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203623" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_203643" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="43" b="2" s="3" o="1" start_tfs="" start_tfs_zulu="" batter="435063"
+                pitcher="136880"
+                des="Mike Napoli called out on strikes.  "
+                des_es="Mike Napoli se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_203901" des="Ball" des_es="Bola mala" type="B" start_speed="88.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_203914" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_203932" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_203952" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_204010" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="44" b="0" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="150439"
+                pitcher="136880"
+                des="Gary Matthews strikes out swinging.  "
+                des_es="Gary Matthews se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204044" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_204101" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_204125" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="45" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="435062"
+                pitcher="136880"
+                des="Howie Kendrick grounds out, third baseman Scott Rolen to first baseman Lyle Overbay.  "
+                des_es="Howie Kendrick batea rodado de out, tercera base Scott Rolen a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204154" des="Foul" des_es="Foul" type="S" start_speed="92.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_204215" des="Ball" des_es="Bola mala" type="B" start_speed="76.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="090506_204232" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_204252" des="Ball" des_es="Bola mala" type="B" start_speed="91.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_204314" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.1"
+                   pitch_type="CU"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Jason Bulger replaces Rafael Rodriguez.  "
+                 des_es="Cambio de Lanzador: Jason Bulger reemplaza a Rafael Rodriguez.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="408072"
+                 pitch="5"/>
+         <atbat num="46" b="2" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="408072"
+                des="Aaron Hill singles on a line drive to left fielder Bobby Abreu.  "
+                des_es="Aaron Hill pega sencillo con l&#237;nea a jardinero izquierdo Bobby Abreu.  "
+                event="Single"
+                b1="431094"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204546" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204603" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204622" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="92.4"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="47" b="1" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="408072"
+                des="Alex Rios pops out to second baseman Howie Kendrick.  "
+                des_es="Alex Rios batea elevadito de out a segunda base Howie Kendrick.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204701" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="91.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="090506_204725" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="48" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="408072"
+                des="Vernon Wells flies out to right fielder Gary Matthews.  "
+                des_es="Vernon Wells batea elevado de out a jardinero derecho Gary Matthews.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204809" des="Ball" des_es="Bola mala" type="B" start_speed="92.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204828" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_204846" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="49" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="408072"
+                des="Adam Lind pops out to first baseman Kendrys Morales in foul territory.  "
+                des_es="Adam Lind batea elevadito de out a primera base Kendrys Morales en territorio de foul.  "
+                event="Pop Out"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_204927" des="Ball" des_es="Bola mala" type="B" start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_204944" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.9"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="50" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="430947"
+                pitcher="136880"
+                des="Erick Aybar flies out to right fielder Alex Rios.  "
+                des_es="Erick Aybar batea elevado de out a jardinero derecho Alex Rios.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205206" des="Foul" des_es="Foul" type="S" start_speed="90.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205228" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205245" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.5"
+                   pitch_type="CH"/>
+         </atbat>
+         <atbat num="51" b="0" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="408210"
+                pitcher="136880"
+                des="Chone Figgins flies out to center fielder Vernon Wells.  "
+                des_es="Chone Figgins batea elevado de out a jardinero central Vernon Wells.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205324" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205341" des="Foul" des_es="Foul" type="S" start_speed="90.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205405" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.1"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="52" b="2" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="430895"
+                pitcher="136880"
+                des="Maicer Izturis grounds out, pitcher Roy Halladay to third baseman Scott Rolen to first baseman Lyle Overbay.  "
+                des_es="Maicer Izturis batea rodado de out, lanzador Roy Halladay a tercera base Scott Rolen a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205436" des="Ball" des_es="Bola mala" type="B" start_speed="91.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205448" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205505" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_205518" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.7"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <atbat num="53" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="121409"
+                pitcher="408072"
+                des="Scott Rolen grounds out, third baseman Chone Figgins to first baseman Kendrys Morales.  "
+                des_es="Scott Rolen batea rodado de out, tercera base Chone Figgins a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205732" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205747" des="Ball" des_es="Bola mala" type="B" start_speed="92.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205803" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_205821" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="54" b="2" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="407489"
+                pitcher="408072"
+                des="Lyle Overbay grounds out, second baseman Howie Kendrick to first baseman Kendrys Morales.  "
+                des_es="Lyle Overbay batea rodado de out, segunda base Howie Kendrick a primera base Kendrys Morales.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_205905" des="Ball" des_es="Bola mala" type="B" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205921" des="Ball" des_es="Bola mala" type="B" start_speed="93.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_205939" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_205957" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="55" b="4" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="150148"
+                pitcher="408072"
+                des="Rod Barajas walks.  "
+                des_es="Rod Barajas recibe base por bolas.  "
+                event="Walk"
+                b1="150148"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210037" des="Ball" des_es="Bola mala" type="B" start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210059" des="Foul" des_es="Foul" type="S" start_speed="93.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210128" des="Ball" des_es="Bola mala" type="B" start_speed="95.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210146" des="Ball" des_es="Bola mala" type="B" start_speed="80.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_210211" des="Foul" des_es="Foul" type="S" start_speed="95.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210244" des="Ball" des_es="Bola mala" type="B" start_speed="80.0"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="56" b="0" s="1" o="3" start_tfs="" start_tfs_zulu="" batter="501983"
+                pitcher="408072"
+                des="Travis Snider flies out to right fielder Gary Matthews.  "
+                des_es="Travis Snider batea elevado de out a jardinero derecho Gary Matthews.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210323" des="Foul" des_es="Foul" type="S" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="090506_210404" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.5"
+                   pitch_type="CH"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="57" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="110029"
+                pitcher="136880"
+                des="Bobby Abreu singles on a line drive to center fielder Vernon Wells.  "
+                des_es="Bobby Abreu pega sencillo con l&#237;nea a jardinero central Vernon Wells.  "
+                event="Single"
+                b1="110029"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_210634" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210647" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210702" des="Ball" des_es="Bola mala" type="B" start_speed="89.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210718" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="58" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="116338"
+                pitcher="136880"
+                des="Torii Hunter walks.   Bobby Abreu to 2nd.  "
+                des_es="Torii Hunter recibe base por bolas.   Bobby Abreu a 2da.  "
+                event="Walk"
+                b1="116338"
+                b2="110029"
+                b3="">
+            <pitch sv_id="090506_210805" des="Ball" des_es="Bola mala" type="B" start_speed="92.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_210822" des="Ball" des_es="Bola mala" type="B" start_speed="92.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_210840" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="91.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210900" des="Foul" des_es="Foul" type="S" start_speed="91.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210932" des="Ball" des_es="Bola mala" type="B" start_speed="91.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_210958" des="Ball" des_es="Bola mala" type="B" start_speed="91.3"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="59" b="0" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="434778"
+                pitcher="136880"
+                des="Kendrys Morales flies out to right fielder Alex Rios.  "
+                des_es="Kendrys Morales batea elevado de out a jardinero derecho Alex Rios.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211036" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="60" b="1" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="435063"
+                pitcher="136880"
+                des="Mike Napoli strikes out swinging.  "
+                des_es="Mike Napoli se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211130" des="Ball" des_es="Bola mala" type="B" start_speed="90.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211150" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211210" des="Foul" des_es="Foul" type="S" start_speed="91.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211240" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="77.8"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="61" b="1" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="150439"
+                pitcher="136880"
+                des="Gary Matthews called out on strikes.  "
+                des_es="Gary Matthews se poncha sin tirarle.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211318" des="Ball" des_es="Bola mala" type="B" start_speed="90.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211337" des="Foul" des_es="Foul" type="S" start_speed="90.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211403" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211429" des="Foul" des_es="Foul" type="S" start_speed="89.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211507" des="Foul" des_es="Foul" type="S" start_speed="91.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211555" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.4"
+                   pitch_type="SI"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Juan Rivera replaces third baseman Chone Figgins, batting 1st, playing right field.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Juan Rivera reemplaza a tercera base Chone Figgins, como primer bate y jugando en el jardinero derecho.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="407487"
+                 pitch="6"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Robb Quinlan replaces left fielder Bobby Abreu, batting 3rd, playing third base.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Robb Quinlan reemplaza a jardinero izquierdo Bobby Abreu, como tercer bate y jugando en el tercera base.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425477"
+                 pitch="6"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Reggie Willits replaces center fielder Torii Hunter, batting 4th, playing left field.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Reggie Willits reemplaza a jardinero central Torii Hunter, como cuarto bate y jugando en el jardinero izquierdo.  "
+                 event="Defensive Sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="435065"
+                 pitch="6"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from right field to center field for Gary Matthews.  "
+                 des_es="Sustituci&#243;n a la defensiva de jardinero derecho a jardinero central por Gary Matthews.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150439"
+                 pitch="6"/>
+         <action b="0" s="0" o="0" des="Pitching Change: Justin Speier replaces Jason Bulger.  "
+                 des_es="Cambio de Lanzador: Justin Speier reemplaza a Jason Bulger.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="133221"
+                 pitch="6"/>
+         <atbat num="62" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="133221"
+                des="Marco Scutaro walks.  "
+                des_es="Marco Scutaro recibe base por bolas.  "
+                event="Walk"
+                b1="340192"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_211849" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211900" des="Ball" des_es="Bola mala" type="B" start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211911" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211923" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_211935" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_211958" des="Ball" des_es="Bola mala" type="B" start_speed="85.8"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="63" b="1" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="133221"
+                des="Aaron Hill flies out to center fielder Gary Matthews.  "
+                des_es="Aaron Hill batea elevado de out a jardinero central Gary Matthews.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212034" des="Foul" des_es="Foul" type="S" start_speed="91.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_212055" des="Ball" des_es="Bola mala" type="B" start_speed="91.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_212115" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="86.3"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="64" b="4" s="0" o="1" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="133221"
+                des="Alex Rios walks.   Marco Scutaro to 2nd.  "
+                des_es="Alex Rios recibe base por bolas.   Marco Scutaro a 2da.  "
+                event="Walk"
+                b1="425567"
+                b2="340192"
+                b3="">
+            <pitch sv_id="090506_212151" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_212203" des="Ball" des_es="Bola mala" type="B" start_speed="85.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212215" des="Ball" des_es="Bola mala" type="B" start_speed="91.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_212228" des="Ball" des_es="Bola mala" type="B" start_speed="89.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="0" s="0" o="1" des="Coaching visit to mound.  " des_es=""
+                 event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="150484"
+                 pitch="0"/>
+         <action b="2" s="1" o="1"
+                 des="With Vernon Wells batting, wild pitch by Justin Speier, Marco Scutaro to 3rd.    Alex Rios to 2nd.  "
+                 des_es="Con Vernon Wells bateando, lanzamiento desviado de Justin Speier, Marco Scutaro a 3ra.    Alex Rios a 2da.  "
+                 event="Wild Pitch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425567"
+                 pitch="3"/>
+         <atbat num="65" b="2" s="3" o="2" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="133221"
+                des="Vernon Wells strikes out swinging.  "
+                des_es="Vernon Wells se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2="425567"
+                b3="340192">
+            <pitch sv_id="090506_212308" des="Ball" des_es="Bola mala" type="B" start_speed="84.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212411" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212424" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_212457" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212514" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="81.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="66" b="4" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="133221"
+                des="Adam Lind walks.  "
+                des_es="Adam Lind recibe base por bolas.  "
+                event="Walk"
+                b1="452252"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_212547" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212607" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212624" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="81.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_212643" des="Ball" des_es="Bola mala" type="B" start_speed="84.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212700" des="Ball" des_es="Bola mala" type="B" start_speed="91.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="67" b="3" s="2" o="2" start_tfs="" start_tfs_zulu="" batter="121409"
+                pitcher="133221"
+                des="Scott Rolen singles on a line drive to center fielder Gary Matthews.   Marco Scutaro scores.    Alex Rios scores.    Adam Lind to 3rd.  "
+                des_es="Scott Rolen pega sencillo con l&#237;nea a jardinero central Gary Matthews.   Marco Scutaro anota  Alex Rios anota  Adam Lind a 3ra.  "
+                event="Single"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="10"
+                b1="121409"
+                b2=""
+                b3="452252"
+                rbi="2">
+            <pitch sv_id="090506_212733" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212804" des="Ball" des_es="Bola mala" type="B" start_speed="81.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_212832" des="Ball" des_es="Bola mala" type="B" start_speed="90.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_212848" des="Foul" des_es="Foul" type="S" start_speed="85.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212925" des="Ball" des_es="Bola mala" type="B" start_speed="85.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_212946" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="91.7"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="68" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="407489"
+                pitcher="133221"
+                des="Lyle Overbay homers (4) on a fly ball to center field.   Adam Lind scores.    Scott Rolen scores.  "
+                des_es="Lyle Overbay batea jonr&#243;n (4) con elevado por el jard&#237;n central.   Adam Lind anota  Scott Rolen anota .  "
+                event="Home Run"
+                score="T"
+                home_team_runs="0"
+                away_team_runs="13"
+                b1=""
+                b2=""
+                b3=""
+                rbi="3">
+            <pitch sv_id="090506_213032" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="89.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="69" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="150148"
+                pitcher="133221"
+                des="Rod Barajas hit by pitch.  "
+                des_es="Rod Barajas golpeado por lanzamiento.  "
+                event="Hit By Pitch"
+                b1="150148"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_213123" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_213135" des="Foul" des_es="Foul" type="S" start_speed="89.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_213148" des="Hit By Pitch" des_es="Golpeado por lanzamiento"
+                   type="B"
+                   start_speed="77.5"
+                   pitch_type="SL"/>
+         </atbat>
+         <action b="1" s="1" o="2" des="On-field Delay.  " des_es="" event="Game Advisory"
+                 tfs=""
+                 tfs_zulu=""
+                 player="501983"
+                 pitch="3"/>
+         <action b="0" s="0" o="2"
+                 des="Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Bill Hohn.  "
+                 des_es="Los Angeles Angels Manager Mike Scioscia expulsado por HP &#225;rbitro Bill Hohn.  "
+                 event="Ejection"
+                 tfs=""
+                 tfs_zulu=""
+                 player="121919"
+                 pitch="3"/>
+         <atbat num="70" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="501983"
+                pitcher="133221"
+                des="Travis Snider singles on a line drive to right fielder Juan Rivera.   Rod Barajas to 2nd.  "
+                des_es="Travis Snider pega sencillo con l&#237;nea a jardinero derecho Juan Rivera.   Rod Barajas a 2da.  "
+                event="Single"
+                b1="501983"
+                b2="150148"
+                b3="">
+            <pitch sv_id="090506_213356" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="81.2"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="71" b="0" s="3" o="3" start_tfs="" start_tfs_zulu="" batter="340192"
+                pitcher="133221"
+                des="Marco Scutaro strikes out swinging.  "
+                des_es="Marco Scutaro se poncha tir&#225;ndole.  "
+                event="Strikeout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_213434" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_213446" des="Foul" des_es="Foul" type="S" start_speed="88.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_213503" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.1"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="72" b="2" s="1" o="0" start_tfs="" start_tfs_zulu="" batter="435062"
+                pitcher="136880"
+                des="Howie Kendrick doubles (4) on a ground ball to right fielder Alex Rios.  "
+                des_es="Howie Kendrick pega doble (4) con rodado a jardinero derecho Alex Rios.  "
+                event="Double"
+                b1=""
+                b2="435062"
+                b3="">
+            <pitch sv_id="090506_213748" des="Ball" des_es="Bola mala" type="B" start_speed="88.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_213802" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_213819" des="Ball" des_es="Bola mala" type="B" start_speed="89.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_213835" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="89.2"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="73" b="0" s="1" o="1" start_tfs="" start_tfs_zulu="" batter="430947"
+                pitcher="136880"
+                des="Erick Aybar grounds out, shortstop Marco Scutaro to first baseman Lyle Overbay.  "
+                des_es="Erick Aybar batea rodado de out, campo corto Marco Scutaro a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_213923" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_213939" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="74" b="1" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="407487"
+                pitcher="136880"
+                des="Juan Rivera grounds out, third baseman Scott Rolen to first baseman Lyle Overbay.   Howie Kendrick to 3rd.  "
+                des_es="Juan Rivera batea rodado de out a primera base Lyle Overbay en jugada de infield fly.   Howie Kendrick a 3ra.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="435062">
+            <pitch sv_id="090506_214014" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214045" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="90.3"
+                   pitch_type="SI"/>
+         </atbat>
+         <action b="0" s="0" o="2"
+                 des="Offensive Substitution: Pinch-hitter Jeff Mathis replaces Maicer Izturis.  "
+                 des_es="Sustituci&#243;n a la ofensiva: bateador emergente Jeff Mathis reemplaza a Maicer Izturis.  "
+                 event="Offensive sub"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425772"
+                 pitch="2"/>
+         <atbat num="75" b="1" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="425772"
+                pitcher="136880"
+                des="Jeff Mathis singles on a ground ball to left fielder Travis Snider.   Howie Kendrick scores.  "
+                des_es="Jeff Mathis pega sencillo con rodado a jardinero izquierdo Travis Snider.   Howie Kendrick anota.  "
+                event="Single"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="13"
+                b1="425772"
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="090506_214138" des="Ball" des_es="Bola mala" type="B" start_speed="90.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214154" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="91.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214211" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="78.0"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="76" b="0" s="1" o="2" start_tfs="" start_tfs_zulu="" batter="425477"
+                pitcher="136880"
+                des="Robb Quinlan doubles (1) on a line drive to right fielder Alex Rios.   Jeff Mathis to 3rd.  "
+                des_es="Robb Quinlan pega doble (1) con l&#237;nea a jardinero derecho Alex Rios.   Jeff Mathis a 3ra.  "
+                event="Double"
+                b1=""
+                b2="425477"
+                b3="425772">
+            <pitch sv_id="090506_214246" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214302" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="90.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="77" b="0" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="435065"
+                pitcher="136880"
+                des="Reggie Willits grounds out to first baseman Lyle Overbay.  "
+                des_es="Reggie Willits batea rodado de out a primera base Lyle Overbay.  "
+                event="Groundout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214403" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214420" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214440" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="92.1"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Jeff Mathis remains in the game as the designated hitter.  "
+                 des_es="Jeff Mathis permanece en el juego como el bateador designado.  "
+                 event="Defensive Switch"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425772"
+                 pitch="3"/>
+         <atbat num="78" b="4" s="2" o="0" start_tfs="" start_tfs_zulu="" batter="431094"
+                pitcher="133221"
+                des="Aaron Hill walks.  "
+                des_es="Aaron Hill recibe base por bolas.  "
+                event="Walk"
+                b1="431094"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214654" des="Foul" des_es="Foul" type="S" start_speed="86.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214708" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="79.3"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_214725" des="Ball" des_es="Bola mala" type="B" start_speed="80.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_214739" des="Foul" des_es="Foul" type="S" start_speed="83.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214755" des="Ball" des_es="Bola mala" type="B" start_speed="80.1"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_214809" des="Ball" des_es="Bola mala" type="B" start_speed="89.3"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214823" des="Foul" des_es="Foul" type="S" start_speed="88.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214839" des="Ball" des_es="Bola mala" type="B" start_speed="84.4"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="79" b="1" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="425567"
+                pitcher="133221"
+                des="Alex Rios grounds into a force out, fielded by second baseman Howie Kendrick.   Aaron Hill out at 2nd.    Alex Rios to 1st.  "
+                des_es="Alex Rios batea rodado batea para out forzado, fildeado por segunda base Howie Kendrick.   Aaron Hill a cabo a 2da.    Alex Rios a 1ra.  "
+                event="Forceout"
+                b1="425567"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_214905" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214916" des="Ball" des_es="Bola mala" type="B" start_speed="89.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_214933" des="Foul" des_es="Foul" type="S" start_speed="82.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="090506_214950" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.1"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="80" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="150484"
+                pitcher="133221"
+                des="Vernon Wells flies out to right fielder Juan Rivera.  "
+                des_es="Vernon Wells batea elevado de out a jardinero derecho Juan Rivera.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215029" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="81" b="2" s="2" o="3" start_tfs="" start_tfs_zulu="" batter="452252"
+                pitcher="133221"
+                des="Adam Lind flies out to left fielder Reggie Willits.  "
+                des_es="Adam Lind batea elevado de out a jardinero izquierdo Reggie Willits.  "
+                event="Flyout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215108" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_215119" des="Foul" des_es="Foul" type="S" start_speed="79.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_215150" des="Ball" des_es="Bola mala" type="B" start_speed="88.8"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_215202" des="Ball" des_es="Bola mala" type="B" start_speed="79.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_215218" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="83.8"
+                   pitch_type="FC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0" des="Pitching Change: Shawn Camp replaces Roy Halladay.  "
+                 des_es="Cambio de Lanzador: Shawn Camp reemplaza a Roy Halladay.  "
+                 event="Pitching Substitution"
+                 tfs=""
+                 tfs_zulu=""
+                 player="425861"
+                 pitch="5"/>
+         <atbat num="82" b="1" s="0" o="0" start_tfs="" start_tfs_zulu="" batter="434778"
+                pitcher="425861"
+                des="Kendrys Morales singles on a ground ball to third baseman Scott Rolen.  "
+                des_es="Kendrys Morales pega sencillo con rodado a tercera base Scott Rolen.  "
+                event="Single"
+                b1="434778"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215504" des="Ball" des_es="Bola mala" type="B" start_speed="85.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_215520" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="86.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="83" b="2" s="2" o="1" start_tfs="" start_tfs_zulu="" batter="435063"
+                pitcher="425861"
+                des="Mike Napoli grounds into a force out, shortstop Marco Scutaro to second baseman Aaron Hill.   Kendrys Morales out at 2nd.    Mike Napoli to 1st.  "
+                des_es="Mike Napoli batea rodado batea para out forzado, campo corto Marco Scutaro a segunda base Aaron Hill.   Kendrys Morales a cabo a 2da.    Mike Napoli a 1ra.  "
+                event="Forceout"
+                b1="435063"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215600" des="Foul" des_es="Foul" type="S" start_speed="86.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_215620" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_215633" des="Ball" des_es="Bola mala" type="B" start_speed="78.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_215648" des="Foul" des_es="Foul" type="S" start_speed="81.6"
+                   pitch_type="CH"/>
+            <pitch sv_id="090506_215712" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="78.1"
+                   pitch_type="SL"/>
+            <pitch sv_id="090506_215732" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.9"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="84" b="0" s="0" o="2" start_tfs="" start_tfs_zulu="" batter="150439"
+                pitcher="425861"
+                des="Gary Matthews grounds into a force out, first baseman Lyle Overbay to shortstop Marco Scutaro.   Mike Napoli out at 2nd.    Gary Matthews to 1st.  "
+                des_es="Gary Matthews batea rodado batea para out forzado, primera base Lyle Overbay a campo corto Marco Scutaro.   Mike Napoli a cabo a 2da.    Gary Matthews a 1ra.  "
+                event="Forceout"
+                b1="150439"
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215818" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.4"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="85" b="1" s="0" o="3" start_tfs="" start_tfs_zulu="" batter="435062"
+                pitcher="425861"
+                des="Howie Kendrick grounds into a force out, third baseman Scott Rolen to second baseman Aaron Hill.   Gary Matthews out at 2nd.  "
+                des_es="Howie Kendrick batea rodado batea para out forzado, tercera base Scott Rolen a segunda base Aaron Hill.   Gary Matthews a cabo a 2da.  "
+                event="Forceout"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="090506_215858" des="Ball" des_es="Bola mala" type="B" start_speed="87.5"
+                   pitch_type="SI"/>
+            <pitch sv_id="090506_215912" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.6"
+                   pitch_type="SI"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <atBat pid="435062"/>
+   <deck pid="430947"/>
+   <hole pid="407487"/>
+</game>

@@ -1,0 +1,65 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_02_sfnmlb_arimlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="2" inning_state="" event="single" is_perfect_game="N" is_no_hitter="N">
+	<score ar="5" ah="11" ae="0" hr="6" hh="13" he="0" />
+<review challenges_away_used="1" challenges_away_remaining="0" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="572008" team_abbrev="ARI" team_id="109" parent_team_abbrev="ARI" parent_team_id="109" current_position="SS" stand="R" b_height="5-10" ab="5" h="2" avg=".400" boxname="Owings">
+			<ab inning="9" event="Single" event_es="Sencillo"/>
+			<ab inning="8" event="Single" event_es="Sencillo"/>
+			<ab inning="6" event="Strikeout" event_es="Ponche"/>
+			<ab inning="4" event="Strikeout" event_es="Ponche"/>
+			<ab inning="1" event="Strikeout" event_es="Ponche"/>
+		</batter>
+		<pitcher pid="453343" p_throws="R" pitches="18" strikes="12" balls="6" era="27.00" boxname="Melancon"/>
+		<deck pid="502671" boxname="Goldschmidt"/>
+		<hole pid="571875" boxname="Lamb, J"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="79" des="Chris Owings singles on a line drive to right fielder Hunter Pence.   Daniel Descalso scores.    A.  J.   Pollock to 3rd.  " des_es="Chris Owings pega sencillo con l&#237;nea a jardinero derecho Hunter Pence.   Daniel Descalso anota  A.  J.   Pollock a 3ra.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="518614" play_guid="c92e2a06-afcc-47f5-963e-b375e97235bf" >
+		<p type="S" id="654" event_num="654" x="123.84" y="178.22" des="Called Strike" des_es="Strike cantado" sv_id="170402_233134" play_guid="f5823a71-6143-474c-9856-3c195dfaa96a" start_speed="81.9" end_speed="74.4" sz_top="3.2234264448530965" sz_bot="1.5017831279148055" pfx_x="-3.583169627355912" pfx_z="-9.68967217799472" px="-0.176941852087838" pz="2.25105140796905" x0="-1.34264858871256" y0="50" z0="6.4152063024751" vx0="3.79519542549302" vy0="-118.966784053662" vz0="0.130637804624023" ax="-5.03200437489026" ay="27.1005718736073" az="-45.7816858892189" break_y="23.8" break_angle="5.3" break_length="13.3" pitch_type="KC" type_confidence=".899" zone="5" nasty="55" spin_dir="339.708" spin_rate="1769.263"  cc=""/>		<p type="S" id="658" event_num="658" x="94.8" y="182.13" des="Called Strike" des_es="Strike cantado" sv_id="170402_233202" play_guid="382a4b84-ef10-4e1d-8f8d-ba02cbee4b51" start_speed="92.6" end_speed="83.7" sz_top="3.095124157796157" sz_bot="1.5017831279148055" pfx_x="-4.252658465147304" pfx_z="8.498435499577127" px="0.5657564870469" pz="2.04431390593109" x0="-1.46084692897765" y0="50" z0="6.05548330471823" vx0="6.79340775153255" vy0="-134.143534845696" vz0="-7.36911154427118" ax="-7.65705848930799" ay="32.2276524031775" az="-16.8723218315641" break_y="23.7" break_angle="18.1" break_length="4.4" pitch_type="FF" type_confidence="1.000" zone="6" nasty="43" spin_dir="206.582" spin_rate="1850.534"  cc=""/>		<p type="B" id="659" event_num="659" x="84.42" y="242.21" des="Ball In Dirt" des_es="Bola por el suelo" sv_id="170402_233227" play_guid="939c0b8b-55a4-4fa8-8ca4-a6f36e95c094" start_speed="82.0" end_speed="74.3" sz_top="3.200099393139361" sz_bot="1.5017831279148055" pfx_x="-1.871822336933724" pfx_z="-9.179428683184488" px="0.864647381859924" pz="-0.0922623685371087" x0="-1.21626884063282" y0="50" z0="6.1355815273169" vx0="5.37964595427722" vy0="-118.833196305763" vz0="-4.7305572923697" ax="-2.5948971308983" ay="29.2435421812571" az="-44.8994406426797" break_y="23.8" break_angle="1.9" break_length="13.5" pitch_type="KC" type_confidence=".901" zone="14" nasty="55" spin_dir="348.476" spin_rate="1585.564"  cc=""/>		<p type="X" id="660" event_num="660" x="148.6" y="163.68" des="In play, run(s)" des_es="En juego, carrera(s)" sv_id="170402_233303" play_guid="c92e2a06-afcc-47f5-963e-b375e97235bf" start_speed="92.5" end_speed="83.6" sz_top="3.665" sz_bot="1.5" pfx_x="-4.587999234937488" pfx_z="5.468528504976516" px="-0.758881735961006" pz="2.77248013300976" x0="-1.57302559779364" y0="50" z0="6.1331392755169" vx0="3.71431920374679" vy0="-134.278174859916" vz0="-4.62753722222875" ax="-8.26713928850969" ay="32.625712343331" az="-22.3202790724339" break_y="23.7" break_angle="17.5" break_length="5.5" pitch_type="FF" type_confidence="1.000" zone="11" nasty="47" spin_dir="219.995" spin_rate="1389.693"  cc=""/>		<runner id="572041" start="1B" end="3B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="518614" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" score="T"/>
+		<runner id="572008" start="" end="1B" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="ari">
+			<man bnum="1" pid="572008" boxname="Owings" note="Single" sb="0" cs="0"/>
+			<man bnum="3" pid="572041" boxname="Pollock" note="Single" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="sfn">
+			<man pid="453343" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="457763" s_po="10" s_ass="2" s_err="0" s_fldg="1.000" c_sb="0" c_cs="0" pos="c"/>
+			<man pid="474832" s_po="10" s_ass="0" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="605412" s_po="0" s_ass="4" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="543063" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="456488" s_po="0" s_ass="1" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="491676" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="452655" s_po="2" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="452254" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="S" x="175.84" y="103.93" batter="572008" pitcher="453343"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="407845" index="2">
+			<man pid="572041"/>
+			<man pid="572008"/>
+			<man pid="502671"/>
+			<man pid="571875"/>
+			<man pid="630111"/>
+			<man pid="592273"/>
+			<man pid="444482"/>
+			<man pid="571757"/>
+			<man pid="518614"/>
+		</team>
+		<team type="away" pitcher="453343" index="6">
+			<man pid="452655"/>
+			<man pid="474832"/>
+			<man pid="452254"/>
+			<man pid="457763"/>
+			<man pid="543063"/>
+			<man pid="456488"/>
+			<man pid="491676"/>
+			<man pid="605412"/>
+			<man pid="453343"/>
+		</team>
+	</lineup>
+	<weather temp="75" condition="Sunny" wind="7mph L To R"/>
+	<control wait="10" box="0"/>
+</game>

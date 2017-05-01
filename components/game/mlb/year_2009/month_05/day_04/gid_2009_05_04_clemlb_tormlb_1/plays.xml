@@ -1,0 +1,66 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_04_clemlb_tormlb_1" status_ind="F"  status="Final" inning="12" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout">
+	<score ar="9" ah="15" ae="1" hr="7" hh="16" he="2" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="431094" team_abbrev="TOR" team_id="141" parent_team_abbrev="TOR" parent_team_id="141" current_position="2B" stand="R" b_height="5-11" ab="6" h="2" avg=".360" boxname="Hill, A">
+			<ab inning="12" event="Strikeout"/>
+			<ab inning="11" event="Strikeout"/>
+			<ab inning="9" event="Flyout"/>
+			<ab inning="7" event="Hit By Pitch"/>
+			<ab inning="5" event="Flyout"/>
+			<ab inning="3" event="Single"/>
+			<ab inning="1" event="Single"/>
+		</batter>
+		<pitcher pid="460029" p_throws="R" pitches="5" strikes="4" balls="1" era="5.40" boxname="Lewis"/>
+		<deck pid="425567" boxname="Rios, A"/>
+		<hole pid="150484" boxname="Wells, V"/>
+	</players>
+	<splits batter="vs_RHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="112" des="Aaron Hill strikes out swinging.  " des_es="Aaron Hill se poncha tir&#225;ndole.  " event="Left On Base" player="431094">
+		<p type="S" id="857" x="74.68" y="131.24" des="Called Strike" des_es="Strike cantado" sv_id="090504_230505" start_speed="92.2" end_speed="84.2" sz_top="3.4" sz_bot="1.56" pfx_x="-5.906" pfx_z="11.907" px="0.781" pz="3.032" x0="-2.318" y0="50.0" z0="5.639" vx0="10.253" vy0="-134.74" vz0="-4.963" ax="-10.785" ay="31.12" az="-10.359" break_y="23.7" break_angle="36.3" break_length="3.2" pitch_type="FF" type_confidence=".873" zone="12" spin_dir="206.306" spin_rate="2620.256"  cc=""/>		<p type="S" id="858" x="60.09" y="170.10" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090504_230523" start_speed="83.8" end_speed="77.6" sz_top="3.29" sz_bot="1.52" pfx_x="3.444" pfx_z="5.224" px="1.307" pz="1.399" x0="-2.614" y0="50.0" z0="5.566" vx0="8.39" vy0="-122.463" vz0="-5.062" ax="5.22" ay="24.615" az="-24.182" break_y="23.8" break_angle="-15.0" break_length="7.0" pitch_type="SL" type_confidence=".874" zone="14" spin_dir="146.851" spin_rate="1130.851"  cc=""/>		<p type="S" id="859" x="87.55" y="124.34" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090504_230544" start_speed="91.8" end_speed="83.5" sz_top="3.29" sz_bot="1.52" pfx_x="-8.125" pfx_z="11.445" px="0.499" pz="3.477" x0="-2.52" y0="50.0" z0="5.473" vx0="10.742" vy0="-134.194" vz0="-3.098" ax="-14.668" ay="31.756" az="-11.439" break_y="23.7" break_angle="44.9" break_length="3.9" pitch_type="FF" type_confidence=".792" zone="12" spin_dir="215.275" spin_rate="2745.867"  cc=""/>		<runner id="340192" start="1B" end="" event="Left On Base"/>
+		<runner id="150148" start="3B" end="" event="Left On Base"/>
+	</atbat>
+	<field>
+		<offense type="home" id="tor">
+			<man bnum="1" pid="340192" boxname="Scutaro" note="Forceout" sb="2" cs="0"/>
+			<man bnum="3" pid="150148" boxname="Barajas" note="Single" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="cle">
+			<man pid="460029" s_po="0" s_ass="3" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="400121" s_po="171" s_ass="8" s_err="1" s_fldg=".994" c_sb="9" c_cs="1" pos="c"/>
+			<man pid="136660" s_po="22" s_ass="48" s_err="5" s_fldg=".933" pos="1b"/>
+			<man pid="472528" s_po="1" s_ass="5" s_err="0" s_fldg="1.000" pos="2b"/>
+			<man pid="452678" s_po="40" s_ass="65" s_err="1" s_fldg=".991" pos="ss"/>
+			<man pid="425509" s_po="34" s_ass="66" s_err="3" s_fldg=".971" pos="3b"/>
+			<man pid="429662" s_po="0" s_ass="0" s_err="0" s_fldg=".000" pos="lf"/>
+			<man pid="429713" s_po="70" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="425783" s_po="38" s_ass="2" s_err="2" s_fldg=".952" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="425861" index="2">
+			<man pid="340192"/>
+			<man pid="431094"/>
+			<man pid="425567"/>
+			<man pid="150484"/>
+			<man pid="430832"/>
+			<man pid="121409"/>
+			<man pid="407489"/>
+			<man pid="150148"/>
+			<man pid="150348"/>
+		</team>
+		<team type="away" pitcher="460029" index="3">
+			<man pid="429713"/>
+			<man pid="452678"/>
+			<man pid="400121"/>
+			<man pid="425783"/>
+			<man pid="136660"/>
+			<man pid="425509"/>
+			<man pid="472528"/>
+			<man pid="429662"/>
+			<man pid="450204"/>
+		</team>
+	</lineup>
+	<weather temp="68" condition="Roof Closed" wind="0mph None"/>
+	<control wait="10" box="0"/>
+</game>

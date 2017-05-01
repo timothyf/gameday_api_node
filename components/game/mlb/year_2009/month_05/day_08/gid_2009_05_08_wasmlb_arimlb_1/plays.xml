@@ -1,0 +1,60 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_08_wasmlb_arimlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="strikeout" is_perfect_game="N" is_no_hitter="N">
+	<score ar="5" ah="11" ae="0" hr="4" hh="12" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="448602" team_abbrev="ARI" team_id="109" parent_team_abbrev="ARI" parent_team_id="109" current_position="3B" stand="R" b_height="6-2" ab="5" h="1" avg=".252" boxname="Reynolds, Ma">
+			<ab inning="9" event="Strikeout" event_es="Ponche"/>
+			<ab inning="7" event="Pop Out" event_es="Elevado de Out"/>
+			<ab inning="5" event="Strikeout" event_es="Ponche"/>
+			<ab inning="3" event="Strikeout" event_es="Ponche"/>
+			<ab inning="1" event="Single" event_es="Sencillo"/>
+		</batter>
+		<pitcher pid="150337" p_throws="R" pitches="18" strikes="10" balls="8" era="3.27" boxname="Wells, K"/>
+		<deck pid="444882" boxname="Whitesell, J"/>
+		<hole pid="433582" boxname="Jackson, C"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="80" des="Mark Reynolds strikes out swinging.  " des_es="Mark Reynolds se poncha tir&#225;ndole.  " event="Strikeout" event_es="Ponche" player="448602">
+		<p type="S" id="636" event_num="636" x="121.03" y="142.47" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090508_212927" play_guid="" start_speed="87.0" end_speed="81.0" sz_top="3.39" sz_bot="1.52" pfx_x="2.935" pfx_z="1.825" px="-0.521" pz="2.791" x0="-2.502" y0="50.0" z0="6.029" vx0="4.038" vy0="-127.569" vz0="-2.424" ax="4.87" ay="24.55" az="-29.071" break_y="23.9" break_angle="-10.7" break_length="7.3" pitch_type="FC" type_confidence=".801" zone="1" spin_dir="122.505" spin_rate="656.713"  cc=""/>		<p type="B" id="637" event_num="637" x="84.98" y="164.92" des="Ball" des_es="Bola mala" sv_id="090508_212949" play_guid="" start_speed="86.5" end_speed="80.9" sz_top="3.39" sz_bot="1.52" pfx_x="2.394" pfx_z="0.285" px="0.646" pz="1.821" x0="-2.451" y0="50.0" z0="5.916" vx0="6.99" vy0="-126.66" vz0="-3.969" ax="3.919" ay="23.957" az="-31.633" break_y="23.9" break_angle="-8.9" break_length="8.1" pitch_type="SL" type_confidence=".762" zone="9" spin_dir="97.860" spin_rate="453.145"  cc=""/>		<p type="B" id="638" event_num="638" x="50.64" y="151.97" des="Ball" des_es="Bola mala" sv_id="090508_213011" play_guid="" start_speed="95.3" end_speed="89.2" sz_top="3.39" sz_bot="1.52" pfx_x="-2.296" pfx_z="7.412" px="1.44" pz="2.234" x0="-2.123" y0="50.0" z0="5.824" vx0="10.698" vy0="-139.175" vz0="-6.821" ax="-4.59" ay="25.631" az="-17.284" break_y="23.9" break_angle="8.3" break_length="3.8" pitch_type="FF" type_confidence=".946" zone="14" spin_dir="197.131" spin_rate="1624.230"  cc=""/>		<p type="S" id="639" event_num="639" x="80.69" y="162.33" des="Called Strike" des_es="Strike cantado" sv_id="090508_213035" play_guid="" start_speed="94.4" end_speed="87.7" sz_top="3.609" sz_bot="1.677" pfx_x="-3.077" pfx_z="9.563" px="0.557" pz="1.662" x0="-2.484" y0="50.0" z0="5.641" vx0="9.405" vy0="-137.815" vz0="-8.404" ax="-5.983" ay="27.511" az="-13.508" break_y="23.8" break_angle="15.4" break_length="3.3" pitch_type="FF" type_confidence=".977" zone="14" spin_dir="197.771" spin_rate="2063.447"  cc=""/>		<p type="B" id="640" event_num="640" x="82.40" y="183.92" des="Ball" des_es="Bola mala" sv_id="090508_213103" play_guid="" start_speed="87.4" end_speed="81.8" sz_top="3.39" sz_bot="1.52" pfx_x="2.001" pfx_z="1.125" px="0.704" pz="0.821" x0="-2.375" y0="50.0" z0="5.815" vx0="7.139" vy0="-127.816" vz0="-6.68" ax="3.339" ay="24.284" az="-30.223" break_y="23.9" break_angle="-8.1" break_length="7.7" pitch_type="FC" type_confidence=".794" zone="14" spin_dir="120.299" spin_rate="438.950"  cc=""/>		<p type="S" id="641" event_num="641" x="126.18" y="125.20" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="090508_213134" play_guid="" start_speed="93.4" end_speed="87.1" sz_top="3.39" sz_bot="1.52" pfx_x="-3.399" pfx_z="5.992" px="-0.728" pz="3.445" x0="-2.63" y0="50.0" z0="5.91" vx0="6.371" vy0="-136.763" vz0="-2.915" ax="-6.539" ay="25.709" az="-20.572" break_y="23.9" break_angle="14.3" break_length="4.6" pitch_type="FF" type_confidence=".985" zone="11" spin_dir="209.405" spin_rate="1412.757"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="ari">
+		</offense>
+		<defense type="away" id="was">
+			<man pid="150337" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="435520" s_po="132" s_ass="10" s_err="1" s_fldg=".993" c_sb="11" c_cs="8" pos="c"/>
+			<man pid="276376" s_po="231" s_ass="23" s_err="3" s_fldg=".988" pos="1b"/>
+			<man pid="435038" s_po="43" s_ass="45" s_err="3" s_fldg=".967" pos="2b"/>
+			<man pid="150217" s_po="19" s_ass="51" s_err="3" s_fldg=".959" pos="ss"/>
+			<man pid="475582" s_po="19" s_ass="69" s_err="4" s_fldg=".957" pos="3b"/>
+			<man pid="452668" s_po="57" s_ass="4" s_err="1" s_fldg=".984" pos="lf"/>
+			<man pid="407483" s_po="12" s_ass="13" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="400290" s_po="40" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball />
+	</field>
+	<lineup>
+		<team type="home" pitcher="430963" index="4">
+			<man pid="150479"/>
+			<man pid="440251"/>
+			<man pid="457708"/>
+			<man pid="448602"/>
+			<man pid="444882"/>
+			<man pid="433582"/>
+			<man pid="471083"/>
+			<man pid="425543"/>
+			<man pid="291565"/>
+		</team>
+		<team type="away" pitcher="150337" index="1">
+			<man pid="150217"/>
+			<man pid="276376"/>
+			<man pid="475582"/>
+			<man pid="150337"/>
+			<man pid="452668"/>
+			<man pid="400290"/>
+			<man pid="435520"/>
+			<man pid="435038"/>
+			<man pid="407483"/>
+		</team>
+	</lineup>
+	<weather temp="98" condition="Clear" wind="8mph In From RF"/>
+	<control wait="10" box="0"/>
+</game>

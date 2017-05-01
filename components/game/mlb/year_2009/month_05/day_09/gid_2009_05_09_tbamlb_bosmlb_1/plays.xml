@@ -1,0 +1,60 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_09_tbamlb_bosmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="14" ah="17" ae="2" hr="5" hh="10" he="1" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="408306" team_abbrev="BOS" team_id="111" parent_team_abbrev="BOS" parent_team_id="111" current_position="RF" stand="R" b_height="6-4" ab="5" h="2" avg=".273" boxname="Baldelli">
+			<ab inning="9" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="6" event="Forceout" event_es="Out Forzado"/>
+			<ab inning="5" event="Field Error" event_es="Error de Fildeo"/>
+			<ab inning="4" event="Single" event_es="Sencillo"/>
+			<ab inning="2" event="Home Run" event_es="Jonr&#243;n"/>
+		</batter>
+		<pitcher pid="433578" p_throws="R" pitches="40" strikes="29" balls="11" era="2.49" boxname="Cormier"/>
+		<deck pid="431158" boxname="Bailey"/>
+		<hole pid="435459" boxname="Kottaras"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="90" des="Rocco Baldelli flies out to center fielder Melvin Upton.  " des_es="Rocco Baldelli batea elevado de out a jardinero central Melvin Upton.  " event="" event_es="" player="408306">
+		<p type="S" id="759" event_num="759" x="83.26" y="143.33" des="Called Strike" des_es="Strike cantado" sv_id="090509_191212" play_guid="" start_speed="90.2" end_speed="81.8" sz_top="3.6" sz_bot="1.68" pfx_x="-1.456" pfx_z="10.073" px="0.714" pz="2.749" x0="-1.787" y0="50.0" z0="5.696" vx0="6.962" vy0="-132.089" vz0="-4.801" ax="-2.525" ay="32.897" az="-14.627" break_y="23.7" break_angle="3.0" break_length="3.7" pitch_type="FC" type_confidence=".851" zone="12" spin_dir="188.187" spin_rate="1947.103"  cc=""/>		<p type="S" id="760" event_num="760" x="73.82" y="149.38" des="Called Strike" des_es="Strike cantado" sv_id="090509_191226" play_guid="" start_speed="91.5" end_speed="83.3" sz_top="3.12" sz_bot="1.5" pfx_x="0.429" pfx_z="12.594" px="0.88" pz="2.385" x0="-1.572" y0="50.0" z0="5.676" vx0="6.3" vy0="-133.845" vz0="-6.837" ax="0.769" ay="32.219" az="-9.537" break_y="23.7" break_angle="-11.4" break_length="2.6" pitch_type="FC" type_confidence=".907" zone="12" spin_dir="178.056" spin_rate="2455.101"  cc=""/>		<p type="B" id="761" event_num="761" x="60.09" y="144.20" des="Ball" des_es="Bola mala" sv_id="090509_191243" play_guid="" start_speed="90.9" end_speed="83.4" sz_top="3.12" sz_bot="1.5" pfx_x="-1.153" pfx_z="8.687" px="1.539" pz="3.366" x0="-1.524" y0="50.0" z0="5.62" vx0="8.422" vy0="-133.0" vz0="-2.741" ax="-2.056" ay="29.621" az="-16.604" break_y="23.8" break_angle=".8" break_length="3.9" pitch_type="FC" type_confidence=".876" zone="12" spin_dir="187.521" spin_rate="1713.140"  cc=""/>		<p type="B" id="762" event_num="762" x="63.52" y="118.29" des="Ball" des_es="Bola mala" sv_id="090509_191302" play_guid="" start_speed="86.2" end_speed="79.2" sz_top="3.34" sz_bot="1.51" pfx_x="2.043" pfx_z="3.73" px="0.925" pz="3.797" x0="-1.644" y0="50.0" z0="5.895" vx0="5.735" vy0="-126.36" vz0="0.02" ax="3.285" ay="27.012" az="-26.101" break_y="23.8" break_angle="-9.7" break_length="6.7" pitch_type="FC" type_confidence=".916" zone="12" spin_dir="151.592" spin_rate="792.733"  cc=""/>		<p type="X" id="763" event_num="763" x="84.98" y="158.01" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090509_191320" play_guid="" start_speed="88.6" end_speed="81.6" sz_top="3.12" sz_bot="1.5" pfx_x="-0.415" pfx_z="6.769" px="0.467" pz="2.075" x0="-1.732" y0="50.0" z0="5.815" vx0="5.764" vy0="-129.748" vz0="-5.542" ax="-0.705" ay="27.885" az="-20.595" break_y="23.8" break_angle="-1.2" break_length="5.2" pitch_type="FC" type_confidence=".883" zone="6" spin_dir="183.482" spin_rate="1297.108"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="bos">
+		</offense>
+		<defense type="away" id="tba">
+			<man pid="433578" s_po="5" s_ass="6" s_err="0" s_fldg="1.000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="425900" s_po="147" s_ass="12" s_err="1" s_fldg=".994" c_sb="18" c_cs="5" pos="c"/>
+			<man pid="430632" s_po="14" s_ass="11" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="493127" s_po="59" s_ass="69" s_err="4" s_fldg=".970" pos="2b"/>
+			<man pid="430583" s_po="37" s_ass="79" s_err="2" s_fldg=".983" pos="ss"/>
+			<man pid="446334" s_po="23" s_ass="69" s_err="3" s_fldg=".968" pos="3b"/>
+			<man pid="450314" s_po="37" s_ass="16" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="425834" s_po="53" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="408212" s_po="29" s_ass="1" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="F" x="110.44" y="82.33" batter="408306" pitcher="433578"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="434668" index="6">
+			<man pid="453056"/>
+			<man pid="456030"/>
+			<man pid="120074"/>
+			<man pid="424726"/>
+			<man pid="407797"/>
+			<man pid="408306"/>
+			<man pid="431158"/>
+			<man pid="435459"/>
+			<man pid="150061"/>
+		</team>
+		<team type="away" pitcher="433578" index="4">
+			<man pid="425834"/>
+			<man pid="430632"/>
+			<man pid="446334"/>
+			<man pid="408212"/>
+			<man pid="150100"/>
+			<man pid="430583"/>
+			<man pid="450314"/>
+			<man pid="493127"/>
+			<man pid="425900"/>
+		</team>
+	</lineup>
+	<weather temp="65" condition="Cloudy" wind="6mph Out To LF"/>
+	<control wait="10" box="0"/>
+</game>

@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<game>
+   <inning num="1">
+      <top>
+         <atbat num="1" b="1" s="2" o="1" start_tfs="001005"
+                start_tfs_zulu="2017-04-05T00:10:05Z"
+                batter="516416"
+                pitcher="621121"
+                des="Jean Segura grounds out, third baseman Alex Bregman to first baseman Marwin Gonzalez.  "
+                des_es="Jean Segura batea rodado de out, tercera base Alex Bregman a primera base Marwin Gonzalez.  "
+                event_num="8"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="2c034213-412a-4a9e-88e1-f4a46047b5d8"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_001111" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="92.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_001127" des="Ball" des_es="Bola mala" type="B" start_speed="94.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_001141" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001157" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="83.6"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="2" b="0" s="3" o="2" start_tfs="001211"
+                start_tfs_zulu="2017-04-05T00:12:11Z"
+                batter="571745"
+                pitcher="621121"
+                des="Mitch Haniger strikes out swinging.  "
+                des_es="Mitch Haniger se poncha tir&#225;ndole.  "
+                event_num="14"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="8321f492-8b69-423c-a67d-c4334c2f6b4d"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_001245" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.1"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001304" des="Foul" des_es="Foul" type="S" start_speed="93.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_001323" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="83.9"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="3" b="0" s="0" o="2" start_tfs="001331"
+                start_tfs_zulu="2017-04-05T00:13:31Z"
+                batter="429664"
+                pitcher="621121"
+                des="Robinson Cano doubles (1) on a fly ball to left fielder Carlos Beltran.  "
+                des_es="Robinson Cano pega doble (1) con elevado a jardinero izquierdo Carlos Beltran.  "
+                event_num="18"
+                event="Double"
+                event_es="Doble"
+                play_guid="b9af8740-8b74-4b55-97de-14ae5359009e"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2="429664"
+                b3="">
+            <pitch sv_id="170405_001409" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="95.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="4" b="2" s="3" o="3" start_tfs="001429"
+                start_tfs_zulu="2017-04-05T00:14:29Z"
+                batter="443558"
+                pitcher="621121"
+                des="Nelson Cruz strikes out swinging.  "
+                des_es="Nelson Cruz se poncha tir&#225;ndole.  "
+                event_num="26"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="afb5ee44-86bd-45c7-bfc5-664b722eb50e"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_001504" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="82.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001525" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="84.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001553" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001620" des="Ball" des_es="Bola mala" type="B" start_speed="85.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_001646" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="88.4"
+                   pitch_type="KC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="5" b="3" s="1" o="0" start_tfs="001842"
+                start_tfs_zulu="2017-04-05T00:18:42Z"
+                batter="543807"
+                pitcher="547874"
+                des="George Springer reaches on a fielding error by third baseman Kyle Seager.  "
+                des_es="George Springer se embasa por error en fildeo de tercera base Kyle Seager.  "
+                event_num="37"
+                event="Field Error"
+                event_es="Error de Fildeo"
+                play_guid="897ea059-5bc5-449c-962a-acaa18f65cd0"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1="543807"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_001924" des="Foul" des_es="Foul" type="S" start_speed="82.2"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_001956" des="Ball" des_es="Bola mala" type="B" start_speed="79.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_002016" des="Ball" des_es="Bola mala" type="B" start_speed="84.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_002036" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_002103" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="86.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="6" b="0" s="0" o="2" start_tfs="002133"
+                start_tfs_zulu="2017-04-05T00:21:33Z"
+                batter="608324"
+                pitcher="547874"
+                des="Alex Bregman grounds into a double play, third baseman Kyle Seager to second baseman Robinson Cano to first baseman Danny Valencia.   George Springer out at 2nd.  "
+                des_es="Alex Bregman batea rodado batea para doble matanza, tercera base Kyle Seager a segunda base Robinson Cano a primera base Danny Valencia.   George Springer a cabo a 2da.  "
+                event_num="42"
+                event="Grounded Into DP"
+                event_es="Roletazo de Doble Play"
+                play_guid="4d598586-e10f-47bf-bc10-c41c212bfc35"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_002157" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="77.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="7" b="0" s="2" o="3" start_tfs="002208"
+                start_tfs_zulu="2017-04-05T00:22:08Z"
+                batter="514888"
+                pitcher="547874"
+                des="Mariners challenged (play at 1st), call on the field was overturned: Jose Altuve grounds out, shortstop Jean Segura to first baseman Danny Valencia.  "
+                des_es="Mariners reto (jugada en la 1ra) sustentado, se cambia la decisi&#243;n: Jose Altuve batea rodado de out, campo corto Jean Segura a primera base Danny Valencia.  "
+                event_num="49"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="025e0899-cfa5-45fd-93fa-89064fc7e3ee"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_002244" des="Foul" des_es="Foul" type="S" start_speed="86.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_002302" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_002325" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.1"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="2">
+      <top>
+         <atbat num="8" b="2" s="1" o="1" start_tfs="002751"
+                start_tfs_zulu="2017-04-05T00:27:51Z"
+                batter="572122"
+                pitcher="621121"
+                des="Kyle Seager grounds out, shortstop Carlos Correa to first baseman Marwin Gonzalez.  "
+                des_es="Kyle Seager batea rodado de out, campo corto Carlos Correa a primera base Marwin Gonzalez.  "
+                event_num="57"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="3efa1468-97ea-4373-a983-c2b50016a878"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_002822" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_002838" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_002850" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_003015" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.7"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="9" b="1" s="1" o="2" start_tfs="002931"
+                start_tfs_zulu="2017-04-05T00:29:31Z"
+                batter="502143"
+                pitcher="621121"
+                des="Danny Valencia grounds out, second baseman Jose Altuve to first baseman Marwin Gonzalez.  "
+                des_es="Danny Valencia batea rodado de out, segunda base Jose Altuve a primera base Marwin Gonzalez.  "
+                event_num="63"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="67b07a6b-c8bd-4923-8c8a-3dfc0df4bad3"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_003010" des="Ball" des_es="Bola mala" type="B" start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_002951" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_003026" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.4"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="10" b="2" s="3" o="3" start_tfs="003056"
+                start_tfs_zulu="2017-04-05T00:30:56Z"
+                batter="547982"
+                pitcher="621121"
+                des="Leonys Martin strikes out swinging.  "
+                des_es="Leonys Martin se poncha tir&#225;ndole.  "
+                event_num="71"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="0efecacd-a674-4810-81b2-e58e6f2e9f45"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_003102" des="Ball" des_es="Bola mala" type="B" start_speed="84.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_003116" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="83.5"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_003135" des="Ball" des_es="Bola mala" type="B" start_speed="94.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_003148" des="Foul" des_es="Foul" type="S" start_speed="84.8"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_003222" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.8"
+                   pitch_type="KC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="11" b="1" s="3" o="1" start_tfs="003432"
+                start_tfs_zulu="2017-04-05T00:34:32Z"
+                batter="621043"
+                pitcher="547874"
+                des="Carlos Correa strikes out swinging.  "
+                des_es="Carlos Correa se poncha tir&#225;ndole.  "
+                event_num="79"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="baef557e-f722-4faf-bac0-4e4715f53aa4"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_003453" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_003507" des="Ball" des_es="Bola mala" type="B" start_speed="79.7"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_003526" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_003547" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="85.3"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="12" b="0" s="1" o="2" start_tfs="003558"
+                start_tfs_zulu="2017-04-05T00:35:58Z"
+                batter="136860"
+                pitcher="547874"
+                des="Carlos Beltran grounds out, third baseman Kyle Seager to first baseman Danny Valencia.  "
+                des_es="Carlos Beltran batea rodado de out, tercera base Kyle Seager a primera base Danny Valencia.  "
+                event_num="84"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="b7ad2cb6-9b43-4e9d-a92c-abfd812d89a1"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_003624" des="Foul" des_es="Foul" type="S" start_speed="68.2"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_003646" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.7"
+                   pitch_type="FS"/>
+         </atbat>
+         <atbat num="13" b="3" s="2" o="3" start_tfs="003709"
+                start_tfs_zulu="2017-04-05T00:37:09Z"
+                batter="502210"
+                pitcher="547874"
+                des="Josh Reddick grounds out, third baseman Kyle Seager to first baseman Danny Valencia.  "
+                des_es="Josh Reddick batea rodado de out, tercera base Kyle Seager a primera base Danny Valencia.  "
+                event_num="93"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="12258bd8-daaf-4feb-9b23-92701f73142a"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_003733" des="Ball" des_es="Bola mala" type="B" start_speed="84.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_003748" des="Ball" des_es="Bola mala" type="B" start_speed="78.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_003805" des="Ball" des_es="Bola mala" type="B" start_speed="86.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_003827" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.1"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_003851" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_003918" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="79.6"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="3">
+      <top>
+         <atbat num="14" b="1" s="3" o="1" start_tfs="004012"
+                start_tfs_zulu="2017-04-05T00:40:12Z"
+                batter="572287"
+                pitcher="621121"
+                des="Mike Zunino called out on strikes.  "
+                des_es="Mike Zunino se poncha sin tirarle.  "
+                event_num="102"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="a2735fba-3a84-4a50-9dc6-da15e51bb5b1"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_004149" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="93.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_004206" des="Ball" des_es="Bola mala" type="B" start_speed="83.5"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_004228" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_004245" des="Foul" des_es="Foul" type="S" start_speed="83.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_004306" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="96.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="15" b="0" s="1" o="2" start_tfs="004317"
+                start_tfs_zulu="2017-04-05T00:43:17Z"
+                batter="502481"
+                pitcher="621121"
+                des="Jarrod Dyson grounds out, second baseman Jose Altuve to first baseman Marwin Gonzalez.  "
+                des_es="Jarrod Dyson batea rodado de out, segunda base Jose Altuve a primera base Marwin Gonzalez.  "
+                event_num="107"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="f0e47f3b-c67e-4f1c-9070-8843845e3bf7"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_004339" des="Foul" des_es="Foul" type="S" start_speed="93.7"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_004359" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.5"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="16" b="1" s="3" o="3" start_tfs="004413"
+                start_tfs_zulu="2017-04-05T00:44:13Z"
+                batter="516416"
+                pitcher="621121"
+                des="Jean Segura strikes out swinging.  "
+                des_es="Jean Segura se poncha tir&#225;ndole.  "
+                event_num="114"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="a31b0f17-405c-4328-8607-65fe6fdc1643"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_004434" des="Foul" des_es="Foul" type="S" start_speed="83.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_004454" des="Ball" des_es="Bola mala" type="B" start_speed="88.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="170405_004516" des="Foul" des_es="Foul" type="S" start_speed="88.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="170405_004539" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.0"
+                   pitch_type="KC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="17" b="0" s="1" o="1" start_tfs="004746"
+                start_tfs_zulu="2017-04-05T00:47:46Z"
+                batter="594828"
+                pitcher="547874"
+                des="Evan Gattis flies out to left fielder Jarrod Dyson.  "
+                des_es="Evan Gattis batea elevado de out a jardinero izquierdo Jarrod Dyson.  "
+                event_num="120"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="bb6c7a3e-cb47-4852-96a6-fd1fd34a4798"
+                home_team_runs="0"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_004802" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="_" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.5"
+                   pitch_type="FS"/>
+         </atbat>
+         <atbat num="18" b="1" s="1" o="1" start_tfs="004834"
+                start_tfs_zulu="2017-04-05T00:48:34Z"
+                batter="435263"
+                pitcher="547874"
+                des="Brian McCann homers (1) on a line drive to left field.  "
+                des_es="Brian McCann batea jonr&#243;n (1) con l&#237;nea por el jard&#237;n izquierdo.  "
+                event_num="127"
+                event="Home Run"
+                event_es="Jonr&#243;n"
+                play_guid="a7e1d2dc-2351-439e-bec9-d9128e3a7a3e"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="170405_004900" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="68.7"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_004916" des="Ball" des_es="Bola mala" type="B" start_speed="87.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_004938" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="81.4"
+                   pitch_type="FS"/>
+         </atbat>
+         <atbat num="19" b="2" s="3" o="2" start_tfs="005023"
+                start_tfs_zulu="2017-04-05T00:50:23Z"
+                batter="503556"
+                pitcher="547874"
+                des="Marwin Gonzalez strikes out swinging.  "
+                des_es="Marwin Gonzalez se poncha tir&#225;ndole.  "
+                event_num="138"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="4fda7535-852e-4578-a30f-b81a7d21f5b7"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_005034" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_005103" des="Foul" des_es="Foul" type="S" start_speed="78.0"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_005146" des="Ball" des_es="Bola mala" type="B" start_speed="81.6"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_005216" des="Foul" des_es="Foul" type="S" start_speed="78.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_005251" des="Foul" des_es="Foul" type="S" start_speed="82.2"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_005323" des="Ball" des_es="Bola mala" type="B" start_speed="70.9"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_005405" des="Foul" des_es="Foul" type="S" start_speed="87.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_005447" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.3"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="20" b="4" s="2" o="2" start_tfs="005503"
+                start_tfs_zulu="2017-04-05T00:55:03Z"
+                batter="543807"
+                pitcher="547874"
+                des="George Springer walks.  "
+                des_es="George Springer recibe base por bolas.  "
+                event_num="148"
+                event="Walk"
+                event_es="Base por Bolas"
+                play_guid="400d51b8-956a-44db-b4b2-7b2401e5f4cb"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1="543807"
+                b2=""
+                b3="">
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="170405_005549" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_005613" des="Foul" des_es="Foul" type="S" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_005642" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_005710" des="Ball" des_es="Bola mala" type="B" start_speed="81.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_005734" des="Foul" des_es="Foul" type="S" start_speed="82.6"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_005807" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FF"/>
+         </atbat>
+         <action b="1" s="2" o="3"
+                 des="With Alex Bregman batting, George Springer caught stealing 2nd base, catcher Mike Zunino to shortstop Jean Segura.  "
+                 des_es="Con Alex Bregman bateando, George Springer atrapado robando la 2da base, receptor Mike Zunino a campo corto Jean Segura.  "
+                 event="Caught Stealing 2B"
+                 event_es="Retirado en Intento de Robo 2B"
+                 tfs="010139"
+                 tfs_zulu="2017-04-05T01:01:39Z"
+                 player="543807"
+                 pitch="3"
+                 event_num="158"
+                 home_team_runs="1"
+                 away_team_runs="0"/>
+         <atbat num="21" b="1" s="2" o="3" start_tfs="005824"
+                start_tfs_zulu="2017-04-05T00:58:24Z"
+                batter="608324"
+                pitcher="547874"
+                des="With Alex Bregman batting, George Springer caught stealing 2nd base, catcher Mike Zunino to shortstop Jean Segura.  "
+                des_es="Con Alex Bregman bateando, George Springer atrapado robando la 2da base, receptor Mike Zunino a campo corto Jean Segura.  "
+                event_num="158"
+                event="Runner Out"
+                event_es="Corredor Out"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="" des="Called Strike" des_es="Strike cantado" type="S" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_010007" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="76.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="4">
+      <top>
+         <atbat num="22" b="0" s="2" o="0" start_tfs="010320"
+                start_tfs_zulu="2017-04-05T01:03:20Z"
+                batter="571745"
+                pitcher="621121"
+                des="Mitch Haniger doubles (1) on a sharp ground ball to shortstop Carlos Correa.  "
+                des_es="Mitch Haniger pega doble (1) con rodado fuerte a campo corto Carlos Correa.  "
+                event_num="165"
+                event="Double"
+                event_es="Doble"
+                play_guid="79740338-c9e3-4c00-9a66-dedde240133b"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2="571745"
+                b3="">
+            <pitch sv_id="170405_010342" des="Foul" des_es="Foul" type="S" start_speed="78.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_010423" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="83.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_010439" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="83.9"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="23" b="1" s="1" o="1" start_tfs="010517"
+                start_tfs_zulu="2017-04-05T01:05:17Z"
+                batter="429664"
+                pitcher="621121"
+                des="Robinson Cano grounds out, second baseman Jose Altuve to first baseman Marwin Gonzalez.   Mitch Haniger to 3rd.  "
+                des_es="Robinson Cano batea rodado de out a primera base Marwin Gonzalez en jugada de infield fly.   Mitch Haniger a 3ra.  "
+                event_num="172"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="e5905301-fa41-4559-8c85-d710c9b4b2da"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="571745">
+            <pitch sv_id="170405_010553" des="Ball" des_es="Bola mala" type="B" start_speed="84.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="" des="Called Strike" des_es="Strike cantado" type="S" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_010726" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="24" b="1" s="3" o="2" start_tfs="010743"
+                start_tfs_zulu="2017-04-05T01:07:43Z"
+                batter="443558"
+                pitcher="621121"
+                des="Nelson Cruz strikes out swinging.  "
+                des_es="Nelson Cruz se poncha tir&#225;ndole.  "
+                event_num="179"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="98957ac9-dfad-4f0a-8d9e-934910dacc39"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_010813" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="95.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_010838" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.0"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_010901" des="Foul" des_es="Foul" type="S" start_speed="85.7"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_010934" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="87.5"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="25" b="4" s="0" o="2" start_tfs="010946"
+                start_tfs_zulu="2017-04-05T01:09:46Z"
+                batter="572122"
+                pitcher="621121"
+                des="Lance McCullers intentionally walks Kyle Seager.  "
+                des_es="Lance McCullers recibe base por bolas intencional Kyle Seager.  "
+                event_num="186"
+                event="Intent Walk"
+                event_es="Base por Bolas Intencional"
+                home_team_runs="1"
+                away_team_runs="0"
+                b1="572122"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_011015" des="Ball" des_es="Bola mala" type="B" start_speed="86.0"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_011039" des="Ball" des_es="Bola mala" type="B" start_speed="86.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_011109" des="Ball" des_es="Bola mala" type="B" start_speed="87.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="" des="Automatic Ball" des_es="Bola mala autom&#225;tica" type="B"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="26" b="0" s="0" o="2" start_tfs="011150"
+                start_tfs_zulu="2017-04-05T01:11:50Z"
+                batter="502143"
+                pitcher="621121"
+                des="Danny Valencia singles on a soft ground ball to third baseman Alex Bregman.   Mitch Haniger scores.    Kyle Seager to 2nd.  "
+                des_es="Danny Valencia pega sencillo con rodado suave a tercera base Alex Bregman.   Mitch Haniger anota  Kyle Seager a 2da.  "
+                event_num="193"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="28c356a6-ba46-415f-a7b9-f160fe536911"
+                score="T"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="502143"
+                b2="572122"
+                b3=""
+                rbi="1">
+            <pitch sv_id="170405_011224" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="84.9"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="27" b="1" s="0" o="2" start_tfs="011309"
+                start_tfs_zulu="2017-04-05T01:13:09Z"
+                batter="547982"
+                pitcher="621121"
+                des="Leonys Martin reaches on a fielding error by first baseman Marwin Gonzalez.   Kyle Seager to 3rd.    Danny Valencia to 2nd.  "
+                des_es="Leonys Martin se embasa por error en fildeo de primera base Marwin Gonzalez.   Kyle Seager a 3ra.    Danny Valencia a 2da.  "
+                event_num="201"
+                event="Field Error"
+                event_es="Error de Fildeo"
+                play_guid="91f627ca-f3c6-49f2-9214-bf2a9bbd5a0d"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="547982"
+                b2="502143"
+                b3="572122">
+            <pitch sv_id="170405_011328" des="Ball" des_es="Bola mala" type="B" start_speed="86.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_011350" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="94.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="28" b="2" s="2" o="3" start_tfs="011433"
+                start_tfs_zulu="2017-04-05T01:14:33Z"
+                batter="572287"
+                pitcher="621121"
+                des="Mike Zunino grounds out, shortstop Carlos Correa to first baseman Marwin Gonzalez.  "
+                des_es="Mike Zunino batea rodado de out, campo corto Carlos Correa a primera base Marwin Gonzalez.  "
+                event_num="209"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="5deafaaa-f5d2-4f12-a2a1-28734b90a854"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="" des="Foul" des_es="Foul" type="S" start_speed="" pitch_type=""/>
+            <pitch sv_id="170405_011511" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="86.9"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_011545" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="97.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_011607" des="Ball" des_es="Bola mala" type="B" start_speed="86.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_011633" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="88.0"
+                   pitch_type="KC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="29" b="0" s="0" o="1" start_tfs="011834"
+                start_tfs_zulu="2017-04-05T01:18:34Z"
+                batter="608324"
+                pitcher="547874"
+                des="Alex Bregman flies out to left fielder Jarrod Dyson.  "
+                des_es="Alex Bregman batea elevado de out a jardinero izquierdo Jarrod Dyson.  "
+                event_num="215"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="76eb7033-aca6-4ac4-b273-71c8840ae388"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_011908" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.1"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="30" b="1" s="0" o="2" start_tfs="011929"
+                start_tfs_zulu="2017-04-05T01:19:29Z"
+                batter="514888"
+                pitcher="547874"
+                des="Jose Altuve flies out to right fielder Mitch Haniger.  "
+                des_es="Jose Altuve batea elevado de out a jardinero derecho Mitch Haniger.  "
+                event_num="220"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="af7c647c-f4d9-4017-a794-62a352161b02"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_011959" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_012032" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.5"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="31" b="4" s="0" o="2" start_tfs="012035"
+                start_tfs_zulu="2017-04-05T01:20:35Z"
+                batter="621043"
+                pitcher="547874"
+                des="Carlos Correa walks.  "
+                des_es="Carlos Correa recibe base por bolas.  "
+                event_num="227"
+                event="Walk"
+                event_es="Base por Bolas"
+                play_guid="a0d9c0a9-4b8a-4630-8062-c57588f8f286"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="621043"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_012111" des="Ball" des_es="Bola mala" type="B" start_speed="79.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_012129" des="Ball" des_es="Bola mala" type="B" start_speed="80.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_012152" des="Ball" des_es="Bola mala" type="B" start_speed="86.7"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_012214" des="Ball" des_es="Bola mala" type="B" start_speed="79.8"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="32" b="0" s="1" o="3" start_tfs="012226"
+                start_tfs_zulu="2017-04-05T01:22:26Z"
+                batter="136860"
+                pitcher="547874"
+                des="Carlos Beltran grounds out, second baseman Robinson Cano to first baseman Danny Valencia.  "
+                des_es="Carlos Beltran batea rodado de out, segunda base Robinson Cano a primera base Danny Valencia.  "
+                event_num="232"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="199c4527-fae4-45d6-8fd0-bff8bb66d2f2"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_012254" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="79.1"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_012321" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.3"
+                   pitch_type="FS"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="5">
+      <top>
+         <atbat num="33" b="0" s="1" o="1" start_tfs="012511"
+                start_tfs_zulu="2017-04-05T01:25:11Z"
+                batter="502481"
+                pitcher="621121"
+                des="Jarrod Dyson grounds out softly, third baseman Alex Bregman to first baseman Marwin Gonzalez.  "
+                des_es="Jarrod Dyson batea rodado de out suavemente, tercera base Alex Bregman a primera base Marwin Gonzalez.  "
+                event_num="239"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="ae4c64bd-32c9-44b6-b34f-d75b5b39aae8"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_012539" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_012559" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.8"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="34" b="2" s="3" o="2" start_tfs="012621"
+                start_tfs_zulu="2017-04-05T01:26:21Z"
+                batter="516416"
+                pitcher="621121"
+                des="Jean Segura called out on strikes.  "
+                des_es="Jean Segura se poncha sin tirarle.  "
+                event_num="247"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="7411a467-934f-49cc-8a88-297755d3dd3c"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_012637" des="Ball" des_es="Bola mala" type="B" start_speed="86.8"
+                   pitch_type="CH"/>
+            <pitch sv_id="170405_012658" des="Foul" des_es="Foul" type="S" start_speed="96.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_012719" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_012733" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="88.1"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_012758" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.2"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="35" b="0" s="2" o="2" start_tfs="012805"
+                start_tfs_zulu="2017-04-05T01:28:05Z"
+                batter="571745"
+                pitcher="621121"
+                des="Mitch Haniger reaches on a throwing error by third baseman Alex Bregman.  "
+                des_es="Mitch Haniger se embasa por error en tiro de tercera base Alex Bregman.  "
+                event_num="254"
+                event="Field Error"
+                event_es="Error de Fildeo"
+                play_guid="ba2db6e2-9411-4213-bc4f-de5d4544f0ee"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="571745"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_012831" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="86.4"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_012844" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="94.8"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_012900" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="85.0"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="36" b="4" s="0" o="2" start_tfs="012933"
+                start_tfs_zulu="2017-04-05T01:29:33Z"
+                batter="429664"
+                pitcher="621121"
+                des="Robinson Cano walks.   Mitch Haniger to 2nd.  "
+                des_es="Robinson Cano recibe base por bolas.   Mitch Haniger a 2da.  "
+                event_num="264"
+                event="Walk"
+                event_es="Base por Bolas"
+                play_guid="04f980ec-afdf-4cd9-89de-04f327e58d0f"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="429664"
+                b2="571745"
+                b3="">
+            <pitch sv_id="170405_013001" des="Ball" des_es="Bola mala" type="B" start_speed="83.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_013054" des="Ball In Dirt" des_es="Bola por el suelo" type="B"
+                   start_speed="88.2"
+                   pitch_type="CH"/>
+            <pitch sv_id="170405_013156" des="Ball" des_es="Bola mala" type="B" start_speed="82.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_013225" des="Ball" des_es="Bola mala" type="B" start_speed="93.5"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="37" b="0" s="0" o="3" start_tfs="013239"
+                start_tfs_zulu="2017-04-05T01:32:39Z"
+                batter="443558"
+                pitcher="621121"
+                des="Nelson Cruz grounds into a force out, shortstop Carlos Correa to second baseman Jose Altuve.   Robinson Cano out at 2nd.  "
+                des_es="Nelson Cruz batea rodado batea para out forzado, campo corto Carlos Correa a segunda base Jose Altuve.   Robinson Cano a cabo a 2da.  "
+                event_num="269"
+                event="Forceout"
+                event_es="Out Forzado"
+                play_guid="5bdc0385-7906-404c-a453-450340df1a3a"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_013308" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="95.4"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="38" b="0" s="2" o="1" start_tfs="013455"
+                start_tfs_zulu="2017-04-05T01:34:55Z"
+                batter="502210"
+                pitcher="547874"
+                des="Josh Reddick grounds out, pitcher Hisashi Iwakuma to first baseman Danny Valencia.  "
+                des_es="Josh Reddick batea rodado de out, lanzador Hisashi Iwakuma a primera base Danny Valencia.  "
+                event_num="277"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="a19de951-0e00-4f31-8e2f-4ca2ece70436"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_013528" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="78.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_013545" des="Foul Bunt" des_es="Toque de foul" type="S"
+                   start_speed="79.9"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_013618" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="80.1"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="39" b="4" s="2" o="1" start_tfs="013631"
+                start_tfs_zulu="2017-04-05T01:36:31Z"
+                batter="594828"
+                pitcher="547874"
+                des="Evan Gattis walks.  "
+                des_es="Evan Gattis recibe base por bolas.  "
+                event_num="287"
+                event="Walk"
+                event_es="Base por Bolas"
+                play_guid="ee7e7435-17dc-450e-8331-c7e2f2812016"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="594828"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_013659" des="Ball" des_es="Bola mala" type="B" start_speed="78.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_013720" des="Ball" des_es="Bola mala" type="B" start_speed="86.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_013741" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.7"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_013807" des="Ball" des_es="Bola mala" type="B" start_speed="83.2"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_013826" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="82.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_013854" des="Foul" des_es="Foul" type="S" start_speed="80.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_013920" des="Ball" des_es="Bola mala" type="B" start_speed="79.9"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="40" b="1" s="2" o="3" start_tfs="013928"
+                start_tfs_zulu="2017-04-05T01:39:28Z"
+                batter="435263"
+                pitcher="547874"
+                des="Brian McCann grounds into a double play, first baseman Danny Valencia to third baseman Kyle Seager to first baseman Danny Valencia.   Evan Gattis out at 2nd.  "
+                des_es="Brian McCann batea rodado batea para doble matanza, primera base Danny Valencia a tercera base Kyle Seager a primera base Danny Valencia.   Evan Gattis a cabo a 2da.  "
+                event_num="295"
+                event="Grounded Into DP"
+                event_es="Roletazo de Doble Play"
+                play_guid="23cd9dab-093f-4741-8b70-fdf5a902c9fc"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_014007" des="Foul" des_es="Foul" type="S" start_speed="68.4"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_014038" des="Ball" des_es="Bola mala" type="B" start_speed="86.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_014107" des="Foul" des_es="Foul" type="S" start_speed="70.3"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_014144" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="84.4"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="6">
+      <top>
+         <atbat num="41" b="1" s="2" o="0" start_tfs="014339"
+                start_tfs_zulu="2017-04-05T01:43:39Z"
+                batter="572122"
+                pitcher="621121"
+                des="Kyle Seager singles on a soft ground ball to pitcher Lance McCullers.  "
+                des_es="Kyle Seager pega sencillo con rodado suave a lanzador Lance McCullers.  "
+                event_num="304"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="c49bfc48-ea19-4ade-ad91-272159ab23d8"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="572122"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_014429" des="Foul" des_es="Foul" type="S" start_speed="90.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_014455" des="Ball" des_es="Bola mala" type="B" start_speed="84.0"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_014511" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.7"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_014532" des="Foul" des_es="Foul" type="S" start_speed="87.1"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_014603" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="86.7"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="42" b="1" s="2" o="1" start_tfs="014628"
+                start_tfs_zulu="2017-04-05T01:46:28Z"
+                batter="502143"
+                pitcher="621121"
+                des="Danny Valencia grounds into a force out, third baseman Alex Bregman to second baseman Jose Altuve.   Kyle Seager out at 2nd.    Danny Valencia to 1st.  "
+                des_es="Danny Valencia batea rodado batea para out forzado, tercera base Alex Bregman a segunda base Jose Altuve.   Kyle Seager a cabo a 2da.    Danny Valencia a 1ra.  "
+                event_num="313"
+                event="Forceout"
+                event_es="Out Forzado"
+                play_guid="a698aad9-1969-4b37-a09a-4251a794dcfa"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="502143"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_014657" des="Foul" des_es="Foul" type="S" start_speed="93.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_014743" des="Foul" des_es="Foul" type="S" start_speed="85.4"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_014816" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_014840" des="Foul" des_es="Foul" type="S" start_speed="85.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_014921" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="43" b="0" s="0" o="2" start_tfs="014940"
+                start_tfs_zulu="2017-04-05T01:49:40Z"
+                batter="547982"
+                pitcher="621121"
+                des="Leonys Martin lines out to center fielder George Springer.  "
+                des_es="Leonys Martin batea l&#237;nea de out a jardinero central George Springer.  "
+                event_num="317"
+                event="Lineout"
+                event_es="L&#237;nea de Out"
+                play_guid="31d8719b-8eed-4527-840f-7b960dd919cd"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_015022" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="94.6"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="44" b="0" s="1" o="2" start_tfs="015029"
+                start_tfs_zulu="2017-04-05T01:50:29Z"
+                batter="572287"
+                pitcher="621121"
+                des="Mike Zunino singles on a sharp ground ball to shortstop Carlos Correa.   Danny Valencia to 2nd.  "
+                des_es="Mike Zunino pega sencillo con rodado fuerte a campo corto Carlos Correa.   Danny Valencia a 2da.  "
+                event_num="323"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="799e7179-8379-4756-a3b8-6570328ac0f5"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1="572287"
+                b2="502143"
+                b3="">
+            <pitch sv_id="170405_015102" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="84.3"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_015129" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="84.8"
+                   pitch_type="KC"/>
+         </atbat>
+         <atbat num="45" b="1" s="1" o="3" start_tfs="015153"
+                start_tfs_zulu="2017-04-05T01:51:53Z"
+                batter="502481"
+                pitcher="621121"
+                des="Jarrod Dyson grounds out to pitcher Lance McCullers.  "
+                des_es="Jarrod Dyson batea rodado de out a lanzador Lance McCullers.  "
+                event_num="329"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="a54d691e-16e2-4fc2-9766-e6df806ecec5"
+                home_team_runs="1"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_015234" des="Ball" des_es="Bola mala" type="B" start_speed="85.6"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_015311" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="85.2"
+                   pitch_type="KC"/>
+            <pitch sv_id="170405_015334" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.5"
+                   pitch_type="KC"/>
+         </atbat>
+      </top>
+      <bottom>
+         <atbat num="46" b="0" s="1" o="0" start_tfs="015548"
+                start_tfs_zulu="2017-04-05T01:55:48Z"
+                batter="503556"
+                pitcher="547874"
+                des="Marwin Gonzalez homers (1) on a fly ball to center field.  "
+                des_es="Marwin Gonzalez batea jonr&#243;n (1) con elevado por el jard&#237;n central.  "
+                event_num="337"
+                event="Home Run"
+                event_es="Jonr&#243;n"
+                play_guid="fc1cdd26-9e56-47d7-b1cd-e3aa8c9aa784"
+                score="T"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3=""
+                rbi="1">
+            <pitch sv_id="170405_015615" des="Foul" des_es="Foul" type="S" start_speed="77.5"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_015658" des="In play, run(s)" des_es="En juego, carrera(s)"
+                   type="X"
+                   start_speed="85.2"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="47" b="0" s="1" o="0" start_tfs="015722"
+                start_tfs_zulu="2017-04-05T01:57:22Z"
+                batter="543807"
+                pitcher="547874"
+                des="George Springer singles on a line drive to right fielder Mitch Haniger.  "
+                des_es="George Springer pega sencillo con l&#237;nea a jardinero derecho Mitch Haniger.  "
+                event_num="342"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="0f47902c-5b8d-462f-8cb6-e0398e1be710"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="543807"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_015750" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="80.3"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_015809" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <action b="2" s="0" o="1"
+                 des="With Alex Bregman batting, George Springer caught stealing 2nd base, catcher Mike Zunino to second baseman Robinson Cano to first baseman Danny Valencia.  "
+                 des_es="Con Alex Bregman bateando, George Springer atrapado robando la 2da base, receptor Mike Zunino a segunda base Robinson Cano a primera base Danny Valencia.  "
+                 event="Caught Stealing 2B"
+                 event_es="Retirado en Intento de Robo 2B"
+                 tfs="015945"
+                 tfs_zulu="2017-04-05T01:59:45Z"
+                 player="543807"
+                 pitch="2"
+                 event_num="348"
+                 play_guid="93b89c93-3c63-47b9-8d37-e92ae5ca8e8d"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="48" b="2" s="0" o="2" start_tfs="015835"
+                start_tfs_zulu="2017-04-05T01:58:35Z"
+                batter="608324"
+                pitcher="547874"
+                des="Alex Bregman grounds out, second baseman Robinson Cano to first baseman Danny Valencia.  "
+                des_es="Alex Bregman batea rodado de out, segunda base Robinson Cano a primera base Danny Valencia.  "
+                event_num="351"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="7ca7b41d-91e6-4a2e-93f4-c75c695da1ca"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_015853" des="Ball" des_es="Bola mala" type="B" start_speed="76.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_015920" des="Ball" des_es="Bola mala" type="B" start_speed="77.9"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_020002" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="49" b="2" s="2" o="2" start_tfs="020025"
+                start_tfs_zulu="2017-04-05T02:00:25Z"
+                batter="514888"
+                pitcher="547874"
+                des="Jose Altuve singles on a ground ball to shortstop Jean Segura.  "
+                des_es="Jose Altuve pega sencillo con rodado a campo corto Jean Segura.  "
+                event_num="359"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="f5c083b8-bc42-47b8-aef0-0877a550bf40"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="514888"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_020040" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.5"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_020057" des="Ball" des_es="Bola mala" type="B" start_speed="81.9"
+                   pitch_type="FS"/>
+            <pitch sv_id="170405_020120" des="Ball" des_es="Bola mala" type="B" start_speed="87.0"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_020150" des="Foul" des_es="Foul" type="S" start_speed="82.2"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_020218" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="87.9"
+                   pitch_type="SI"/>
+         </atbat>
+         <atbat num="50" b="1" s="2" o="3" start_tfs="020239"
+                start_tfs_zulu="2017-04-05T02:02:39Z"
+                batter="621043"
+                pitcher="547874"
+                des="Carlos Correa grounds into a force out, shortstop Jean Segura to second baseman Robinson Cano.   Jose Altuve out at 2nd.  "
+                des_es="Carlos Correa batea rodado batea para out forzado, campo corto Jean Segura a segunda base Robinson Cano.   Jose Altuve a cabo a 2da.  "
+                event_num="369"
+                event="Forceout"
+                event_es="Out Forzado"
+                play_guid="d5464c2b-2348-4052-a132-81c03c7055a7"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_020356" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.9"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_020421" des="Foul Tip" des_es="Foul atr&#225;s" type="S"
+                   start_speed="86.4"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_020522" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_020553" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="78.6"
+                   pitch_type="FC"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="7">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Will Harris replaces Lance McCullers.  "
+                 des_es="Cambio de Lanzador: Will Harris reemplaza a Lance McCullers.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="020707"
+                 tfs_zulu="2017-04-05T02:07:07Z"
+                 player="501789"
+                 pitch="4"
+                 event_num="373"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="51" b="1" s="1" o="1" start_tfs="020801"
+                start_tfs_zulu="2017-04-05T02:08:01Z"
+                batter="516416"
+                pitcher="501789"
+                des="Jean Segura pops out to second baseman Jose Altuve.  "
+                des_es="Jean Segura batea elevadito de out a segunda base Jose Altuve.  "
+                event_num="379"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                play_guid="6049cdb4-da2c-4522-8763-4994f6cee95e"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_020832" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_020847" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_020906" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.5"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="52" b="3" s="3" o="2" start_tfs="020921"
+                start_tfs_zulu="2017-04-05T02:09:21Z"
+                batter="571745"
+                pitcher="501789"
+                des="Mitch Haniger called out on strikes.  "
+                des_es="Mitch Haniger se poncha sin tirarle.  "
+                event_num="389"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="efe07f39-9d2e-4a97-971d-73795e566550"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_020946" des="Foul" des_es="Foul" type="S" start_speed="92.3"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_021015" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_021040" des="Ball" des_es="Bola mala" type="B" start_speed="81.6"
+                   pitch_type="CU"/>
+            <pitch sv_id="170405_021058" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_021121" des="Foul" des_es="Foul" type="S" start_speed="91.4"
+                   pitch_type="FC"/>
+            <pitch sv_id="170405_021144" des="Foul" des_es="Foul" type="S" start_speed="91.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_021216" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="91.6"
+                   pitch_type="FC"/>
+         </atbat>
+         <atbat num="53" b="0" s="0" o="3" start_tfs="021235"
+                start_tfs_zulu="2017-04-05T02:12:35Z"
+                batter="429664"
+                pitcher="501789"
+                des="Robinson Cano grounds out sharply, second baseman Jose Altuve to first baseman Marwin Gonzalez.  "
+                des_es="Robinson Cano batea rodado de out fuertemente, segunda base Jose Altuve a primera base Marwin Gonzalez.  "
+                event_num="393"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="245beac6-5ff3-41ac-9316-d27c942df495"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_021302" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="91.8"
+                   pitch_type="FF"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Evan Scribner replaces Hisashi Iwakuma.  "
+                 des_es="Cambio de Lanzador: Evan Scribner reemplaza a Hisashi Iwakuma.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="021414"
+                 tfs_zulu="2017-04-05T02:14:14Z"
+                 player="519267"
+                 pitch="1"
+                 event_num="396"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="54" b="0" s="1" o="1" start_tfs="021533"
+                start_tfs_zulu="2017-04-05T02:15:33Z"
+                batter="136860"
+                pitcher="519267"
+                des="Carlos Beltran flies out to left fielder Jarrod Dyson.  "
+                des_es="Carlos Beltran batea elevado de out a jardinero izquierdo Jarrod Dyson.  "
+                event_num="401"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="4d5db58f-d164-4a9c-b00a-984222dcab2f"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_021606" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="89.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_021624" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="69.2"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="55" b="2" s="1" o="1" start_tfs="021730"
+                start_tfs_zulu="2017-04-05T02:17:30Z"
+                batter="502210"
+                pitcher="519267"
+                des="Josh Reddick singles on a line drive to center fielder Leonys Martin.  "
+                des_es="Josh Reddick pega sencillo con l&#237;nea a jardinero central Leonys Martin.  "
+                event_num="408"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="89d405a3-aa80-4ab8-8d78-609d0a9a483f"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="502210"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_021653" des="Ball" des_es="Bola mala" type="B" start_speed="89.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_021710" des="Foul" des_es="Foul" type="S" start_speed="88.2"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_021725" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_021744" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="69.7"
+                   pitch_type="CU"/>
+         </atbat>
+         <atbat num="56" b="0" s="1" o="2" start_tfs="021802"
+                start_tfs_zulu="2017-04-05T02:18:02Z"
+                batter="594828"
+                pitcher="519267"
+                des="Evan Gattis grounds into a force out, third baseman Kyle Seager to second baseman Robinson Cano.   Josh Reddick out at 2nd.    Evan Gattis to 1st.  "
+                des_es="Evan Gattis batea rodado batea para out forzado, tercera base Kyle Seager a segunda base Robinson Cano.   Josh Reddick a cabo a 2da.    Evan Gattis a 1ra.  "
+                event_num="414"
+                event="Forceout"
+                event_es="Out Forzado"
+                play_guid="39906f3e-eb71-48e6-ba1d-0c19d0852b7e"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="594828"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_021821" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.9"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_021843" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.0"
+                   pitch_type="FT"/>
+         </atbat>
+         <action b="0" s="1" o="2" des="Coaching visit to mound.  "
+                 des_es="Visita del Instructor a la Lomita"
+                 event="Game Advisory"
+                 event_es="Aviso en el Juego"
+                 tfs="021905"
+                 tfs_zulu="2017-04-05T02:19:05Z"
+                 player="594828"
+                 pitch="2"
+                 event_num="415"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <action b="0" s="0" o="2"
+                 des="Pitching Change: Marc Rzepczynski replaces Evan Scribner.  "
+                 des_es="Cambio de Lanzador: Marc Rzepczynski reemplaza a Evan Scribner.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="021927"
+                 tfs_zulu="2017-04-05T02:19:27Z"
+                 player="519240"
+                 pitch="2"
+                 event_num="417"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="57" b="2" s="2" o="3" start_tfs="022117"
+                start_tfs_zulu="2017-04-05T02:21:17Z"
+                batter="435263"
+                pitcher="519240"
+                des="Brian McCann grounds out, second baseman Robinson Cano to first baseman Danny Valencia.  "
+                des_es="Brian McCann batea rodado de out, segunda base Robinson Cano a primera base Danny Valencia.  "
+                event_num="425"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="466f7e28-fe64-4d03-903f-3ae1e24d8ce6"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_022203" des="Ball" des_es="Bola mala" type="B" start_speed="91.6"
+                   pitch_type="SI"/>
+            <pitch sv_id="170405_022225" des="Foul" des_es="Foul" type="S" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_022255" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="84.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_022319" des="Ball" des_es="Bola mala" type="B" start_speed="83.4"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_022350" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="93.5"
+                   pitch_type="SI"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="8">
+      <top>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from center field to right field for George Springer.  "
+                 des_es="Sustituci&#243;n a la defensiva de jardinero central a jardinero derecho por George Springer.  "
+                 event="Defensive Switch"
+                 event_es="Cambio Defensivo"
+                 tfs="022528"
+                 tfs_zulu="2017-04-05T02:25:28Z"
+                 player="543807"
+                 pitch="5"
+                 event_num="429"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive Substitution: Jake Marisnick replaces left fielder Carlos Beltran, batting 5th, playing center field.  "
+                 des_es="Sustituci&#243;n a la Defensiva: Jake Marisnick reemplaza a jardinero izquierdo Carlos Beltran, como quinto bate y jugando en el jardinero central.  "
+                 event="Defensive Sub"
+                 event_es="Sustituci&#243;n Defensiva"
+                 tfs="022528"
+                 tfs_zulu="2017-04-05T02:25:28Z"
+                 player="545350"
+                 pitch="5"
+                 event_num="431"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <action b="0" s="0" o="0"
+                 des="Defensive switch from right field to left field for Josh Reddick.  "
+                 des_es="Sustituci&#243;n a la defensiva de jardinero derecho a jardinero izquierdo por Josh Reddick.  "
+                 event="Defensive Switch"
+                 event_es="Cambio Defensivo"
+                 tfs="022528"
+                 tfs_zulu="2017-04-05T02:25:28Z"
+                 player="502210"
+                 pitch="5"
+                 event_num="433"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <action b="0" s="0" o="0" des="Pitching Change: Luke Gregerson replaces Will Harris.  "
+                 des_es="Cambio de Lanzador: Luke Gregerson reemplaza a Will Harris.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="022528"
+                 tfs_zulu="2017-04-05T02:25:28Z"
+                 player="502381"
+                 pitch="5"
+                 event_num="435"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="58" b="0" s="1" o="1" start_tfs="022628"
+                start_tfs_zulu="2017-04-05T02:26:28Z"
+                batter="443558"
+                pitcher="502381"
+                des="Nelson Cruz flies out to right fielder George Springer.  "
+                des_es="Nelson Cruz batea elevado de out a jardinero derecho George Springer.  "
+                event_num="440"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="3c8caf50-e561-4b58-8b6e-ed881d64caf2"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_022644" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="88.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_022713" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed=""
+                   pitch_type=""/>
+         </atbat>
+         <atbat num="59" b="3" s="2" o="2" start_tfs="022717"
+                start_tfs_zulu="2017-04-05T02:27:17Z"
+                batter="572122"
+                pitcher="502381"
+                des="Kyle Seager grounds out, first baseman Marwin Gonzalez to pitcher Luke Gregerson.  "
+                des_es="Kyle Seager batea rodado de out, primera base Marwin Gonzalez a lanzador Luke Gregerson.  "
+                event_num="449"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="b6a66ada-36b8-4c2d-8043-0aa10233d2b3"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_022745" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_022804" des="Ball" des_es="Bola mala" type="B" start_speed="89.8"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_022824" des="Ball" des_es="Bola mala" type="B" start_speed="82.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_022847" des="Foul" des_es="Foul" type="S" start_speed="89.6"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_022922" des="Ball" des_es="Bola mala" type="B" start_speed="80.4"
+                   pitch_type="CH"/>
+            <pitch sv_id="170405_022946" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="81.4"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="60" b="3" s="2" o="2" start_tfs="023004"
+                start_tfs_zulu="2017-04-05T02:30:04Z"
+                batter="502143"
+                pitcher="502381"
+                des="Danny Valencia singles on a line drive to left fielder Josh Reddick.  "
+                des_es="Danny Valencia pega sencillo con l&#237;nea a jardinero izquierdo Josh Reddick.  "
+                event_num="458"
+                event="Single"
+                event_es="Sencillo"
+                play_guid="c63b7bc2-f534-4f8e-af39-2b91c4923fa7"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="502143"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_023040" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023057" des="Ball" des_es="Bola mala" type="B" start_speed="89.5"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_023115" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="81.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023137" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_023200" des="Ball" des_es="Bola mala" type="B" start_speed="81.3"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023244" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="81.5"
+                   pitch_type="SL"/>
+         </atbat>
+         <action b="0" s="0" o="2"
+                 des="Offensive Substitution: Pinch-runner Taylor Motter replaces Danny Valencia.  "
+                 des_es="Sustituci&#243;n a la ofensiva: corredor emergente Taylor Motter reemplaza a replaces Danny Valencia.  "
+                 event="Offensive Sub"
+                 event_es="Cambio Defensivo"
+                 tfs="023316"
+                 tfs_zulu="2017-04-05T02:33:16Z"
+                 player="600301"
+                 pitch="0"
+                 event_num="461"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="61" b="0" s="3" o="3" start_tfs="023301"
+                start_tfs_zulu="2017-04-05T02:33:01Z"
+                batter="547982"
+                pitcher="502381"
+                des="Leonys Martin strikes out swinging.  "
+                des_es="Leonys Martin se poncha tir&#225;ndole.  "
+                event_num="467"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="1f6b0927-6607-452b-b525-6dd8fb790d1d"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1="600301"
+                b2=""
+                b3="">
+            <pitch sv_id="170405_023345" des="Foul" des_es="Foul" type="S" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_023438" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="87.9"
+                   pitch_type="FT"/>
+            <pitch sv_id="170405_023505" des="Foul" des_es="Foul" type="S" start_speed="81.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023534" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="80.9"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom>
+         <action b="0" s="0" o="0"
+                 des="Taylor Motter remains in the game as the first baseman.  "
+                 des_es="Taylor Motter permanece en el juego como el primera base.  "
+                 event="Defensive Switch"
+                 event_es="Cambio Defensivo"
+                 tfs="023649"
+                 tfs_zulu="2017-04-05T02:36:49Z"
+                 player="600301"
+                 pitch="4"
+                 event_num="471"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <action b="0" s="0" o="0"
+                 des="Pitching Change: Dan Altavilla replaces Marc Rzepczynski.  "
+                 des_es="Cambio de Lanzador: Dan Altavilla reemplaza a Marc Rzepczynski.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="023649"
+                 tfs_zulu="2017-04-05T02:36:49Z"
+                 player="656186"
+                 pitch="4"
+                 event_num="473"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="62" b="1" s="2" o="1" start_tfs="023822"
+                start_tfs_zulu="2017-04-05T02:38:22Z"
+                batter="503556"
+                pitcher="656186"
+                des="Marwin Gonzalez flies out to center fielder Leonys Martin.  "
+                des_es="Marwin Gonzalez batea elevado de out a jardinero central Leonys Martin.  "
+                event_num="480"
+                event="Flyout"
+                event_es="Elevado de Out"
+                play_guid="a77a1691-e828-4e7c-a722-31b8b74f4204"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_023850" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.9"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023914" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="90.0"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_023937" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_024005" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="87.6"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="63" b="2" s="3" o="2" start_tfs="024008"
+                start_tfs_zulu="2017-04-05T02:40:08Z"
+                batter="543807"
+                pitcher="656186"
+                des="George Springer strikes out swinging.  "
+                des_es="George Springer se poncha tir&#225;ndole.  "
+                event_num="488"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="0ac993d2-5232-4a6b-833d-c6374b5c0c75"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_024035" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed="96.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024052" des="Ball" des_es="Bola mala" type="B" start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_024111" des="Foul" des_es="Foul" type="S" start_speed="89.7"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_024336" des="Ball" des_es="Bola mala" type="B" start_speed="91.8"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_024203" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="90.8"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="64" b="2" s="2" o="3" start_tfs="024213"
+                start_tfs_zulu="2017-04-05T02:42:13Z"
+                batter="608324"
+                pitcher="656186"
+                des="Alex Bregman pops out to second baseman Robinson Cano.  "
+                des_es="Alex Bregman batea elevadito de out a segunda base Robinson Cano.  "
+                event_num="496"
+                event="Pop Out"
+                event_es="Elevado de Out"
+                play_guid="afa4e051-9d72-4da2-ac6f-5fd41ca1eaaf"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_024232" des="Called Strike" des_es="Strike cantado" type="S"
+                   start_speed=""
+                   pitch_type=""/>
+            <pitch sv_id="170405_024252" des="Foul" des_es="Foul" type="S" start_speed="98.0"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024316" des="Ball" des_es="Bola mala" type="B" start_speed="90.2"
+                   pitch_type="SL"/>
+            <pitch sv_id="" des="Ball" des_es="Bola mala" type="B" start_speed="" pitch_type=""/>
+            <pitch sv_id="170405_024359" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="97.4"
+                   pitch_type="FF"/>
+         </atbat>
+      </bottom>
+   </inning>
+   <inning num="9">
+      <top>
+         <action b="0" s="0" o="0" des="Pitching Change: Ken Giles replaces Luke Gregerson.  "
+                 des_es="Cambio de Lanzador: Ken Giles reemplaza a Luke Gregerson.  "
+                 event="Pitching Substitution"
+                 event_es="Cambio de Lanzador"
+                 tfs="024443"
+                 tfs_zulu="2017-04-05T02:44:43Z"
+                 player="571704"
+                 pitch="5"
+                 event_num="499"
+                 home_team_runs="2"
+                 away_team_runs="1"/>
+         <atbat num="65" b="3" s="3" o="1" start_tfs="024635"
+                start_tfs_zulu="2017-04-05T02:46:35Z"
+                batter="572287"
+                pitcher="571704"
+                des="Mike Zunino strikes out swinging.  "
+                des_es="Mike Zunino se poncha tir&#225;ndole.  "
+                event_num="508"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="71ba2b49-12ef-4204-828b-7d6cc8d6b663"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_024654" des="Ball" des_es="Bola mala" type="B" start_speed="97.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024714" des="Ball" des_es="Bola mala" type="B" start_speed="97.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024741" des="Foul" des_es="Foul" type="S" start_speed="95.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024802" des="Ball" des_es="Bola mala" type="B" start_speed="97.2"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024826" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="96.4"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024859" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="97.9"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="66" b="1" s="0" o="1" start_tfs="024855"
+                start_tfs_zulu="2017-04-05T02:48:55Z"
+                batter="502481"
+                pitcher="571704"
+                des="Jarrod Dyson doubles (1) on a line drive to right fielder George Springer.  "
+                des_es="Jarrod Dyson pega doble (1) con l&#237;nea a jardinero derecho George Springer.  "
+                event_num="513"
+                event="Double"
+                event_es="Doble"
+                play_guid="85acc02e-8bab-4669-a7c5-df7ec252295e"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2="502481"
+                b3="">
+            <pitch sv_id="170405_024923" des="Ball" des_es="Bola mala" type="B" start_speed="96.1"
+                   pitch_type="FF"/>
+            <pitch sv_id="170405_024946" des="In play, no out" des_es="En juego, no out" type="X"
+                   start_speed="96.1"
+                   pitch_type="FF"/>
+         </atbat>
+         <atbat num="67" b="0" s="0" o="2" start_tfs="025004"
+                start_tfs_zulu="2017-04-05T02:50:04Z"
+                batter="516416"
+                pitcher="571704"
+                des="Jean Segura grounds out, third baseman Alex Bregman to first baseman Marwin Gonzalez.  "
+                des_es="Jean Segura batea rodado de out, tercera base Alex Bregman a primera base Marwin Gonzalez.  "
+                event_num="517"
+                event="Groundout"
+                event_es="Roletazo de Out"
+                play_guid="91617967-cbad-4934-947a-7dfa91e99072"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_025054" des="In play, out(s)" des_es="En juego, out(s)" type="X"
+                   start_speed="85.5"
+                   pitch_type="SL"/>
+         </atbat>
+         <atbat num="68" b="0" s="3" o="3" start_tfs="025139"
+                start_tfs_zulu="2017-04-05T02:51:39Z"
+                batter="571745"
+                pitcher="571704"
+                des="Mitch Haniger strikes out swinging.  "
+                des_es="Mitch Haniger se poncha tir&#225;ndole.  "
+                event_num="523"
+                event="Strikeout"
+                event_es="Ponche"
+                play_guid="9f498bbe-d9c5-495c-86b1-0407729ffaea"
+                home_team_runs="2"
+                away_team_runs="1"
+                b1=""
+                b2=""
+                b3="">
+            <pitch sv_id="170405_025200" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="86.6"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_025223" des="Swinging Strike (Blocked)"
+                   des_es="Strike tir&#225;ndole (Bloqueado)"
+                   type="S"
+                   start_speed="85.5"
+                   pitch_type="SL"/>
+            <pitch sv_id="170405_025253" des="Swinging Strike" des_es="Strike tir&#225;ndole"
+                   type="S"
+                   start_speed="85.8"
+                   pitch_type="SL"/>
+         </atbat>
+      </top>
+      <bottom/>
+   </inning>
+   <atBat pid="571745"/>
+   <deck pid="429664"/>
+   <hole pid="443558"/>
+</game>

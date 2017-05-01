@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2011 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<games year="2009" month="05" day="08" modified_date="2011-05-24T17:16:01Z"
+       next_day_date="2009-05-09">
+   <game id="2009/05/08/atlmlb-phimlb-1" venue="Citizens Bank Park" game_pk="244628"
+         time="7:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2681"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="ATL"
+         home_name_abbrev="PHI"
+         away_code="atl"
+         away_file_code="atl"
+         away_team_id="144"
+         away_team_city="Atlanta"
+         away_team_name="Braves"
+         away_division="E"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="phi"
+         home_file_code="phi"
+         home_team_id="143"
+         home_team_city="Philadelphia"
+         home_team_name="Phillies"
+         home_division="E"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="4.0"
+         home_games_back="-"
+         away_games_back_wildcard="4.0"
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USPA1276"
+         gameday="2009_05_08_atlmlb_phimlb_1"
+         away_win="13"
+         away_loss="16"
+         home_win="15"
+         home_loss="12"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="4"/> 
+         <inning away="0" home="2"/> 
+         <inning away="2" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="2"/> 
+         <inning away="3"/> 
+         <r away="6" home="10" diff="4"/> 
+         <h away="6" home="8"/> 
+         <e away="2" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="425773" last="Kotchman" first="Casey" name_display_roster="" number="22"
+                 hr="1"
+                 std_hr="2"
+                 inning="9"
+                 runners="2"
+                 team_code="atl"/>
+         <player id="150029" last="Werth" first="Jayson" name_display_roster="" number="28"
+                 hr="1"
+                 std_hr="6"
+                 inning="3"
+                 runners="1"
+                 team_code="phi"/>
+         <player id="400284" last="Utley" first="Chase" name_display_roster="" number="26"
+                 hr="1"
+                 std_hr="9"
+                 inning="5"
+                 runners="0"
+                 team_code="phi"/>
+         <player id="400120" last="Coste" first="Chris" name_display_roster="" number="27"
+                 hr="1"
+                 std_hr="1"
+                 inning="4"
+                 runners="0"
+                 team_code="phi"/>
+         <player id="408299" last="Infante" first="Omar" name_display_roster="" number="4"
+                 hr="1"
+                 std_hr="1"
+                 inning="8"
+                 runners="0"
+                 team_code="atl"/>
+      </home_runs>
+      <winning_pitcher id="430935" last="Hamels" first="Cole" name_display_roster="" number="35"
+                       era="6.17"
+                       wins="1"
+                       losses="2"/>
+      <losing_pitcher id="457456" last="Reyes" first="Jo-Jo" name_display_roster="" number="37"
+                      era="5.48"
+                      wins="0"
+                      losses="2"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_atlmlb_phimlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4629192&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244628-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244628-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_atlmlb_phimlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4610450&amp;vkey=news_phi&amp;fext=.jsp&amp;c_id=phi'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_atlmlb_phimlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4603528&amp;vkey=news_atl&amp;fext=.jsp&amp;c_id=atl'}))"
+             preview=""
+             tv_station="CSN"/>
+      <broadcast>
+        <home>
+            <tv>CSN</tv>
+            <radio>WPHT 1210, WUBA 1480</radio>
+         </home>
+        <away>
+            <tv>PTV</tv>
+            <radio>640 WGST, Project 9-6-1 </radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244628-2009-05-08"
+                start="2009-05-08T19:05:00-0400"
+                title="ATL @ PHI"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/detmlb-clemlb-1" venue="Progressive Field" game_pk="244630"
+         time="7:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="5"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="DET"
+         home_name_abbrev="CLE"
+         away_code="det"
+         away_file_code="det"
+         away_team_id="116"
+         away_team_city="Detroit"
+         away_team_name="Tigers"
+         away_division="C"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="cle"
+         home_file_code="cle"
+         home_team_id="114"
+         home_team_city="Cleveland"
+         home_team_name="Indians"
+         home_division="C"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="-"
+         home_games_back="10.0"
+         away_games_back_wildcard=""
+         home_games_back_wildcard="10.0"
+         venue_w_chan_loc="USOH0195"
+         gameday="2009_05_08_detmlb_clemlb_1"
+         away_win="15"
+         away_loss="13"
+         home_win="11"
+         home_loss="19"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="1" home="0" diff="1"/> 
+         <h away="7" home="2"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <winning_pitcher id="434378" last="Verlander" first="Justin" name_display_roster="" number="35"
+                       era="4.50"
+                       wins="3"
+                       losses="2"/>
+      <losing_pitcher id="424324" last="Lee" first="Cliff" name_display_roster="" number="31"
+                      era="3.45"
+                      wins="1"
+                      losses="5"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_detmlb_clemlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4628912&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244630-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244630-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_detmlb_clemlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4609166&amp;vkey=news_cle&amp;fext=.jsp&amp;c_id=cle'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_detmlb_clemlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4619776&amp;vkey=news_det&amp;fext=.jsp&amp;c_id=det'}))"
+             preview=""
+             tv_station="STO-HD"/>
+      <broadcast>
+        <home>
+            <tv>STO-HD</tv>
+            <radio>WTAM 1100</radio>
+         </home>
+        <away>
+            <tv>FS-D</tv>
+            <radio>WXYT 1270</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244630-2009-05-08"
+                start="2009-05-08T19:05:00-0400"
+                title="DET @ CLE"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/nyamlb-balmlb-1" venue="Oriole Park at Camden Yards"
+         game_pk="244633"
+         time="7:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="NYY"
+         home_name_abbrev="BAL"
+         away_code="nya"
+         away_file_code="nyy"
+         away_team_id="147"
+         away_team_city="NY Yankees"
+         away_team_name="Yankees"
+         away_division="E"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="bal"
+         home_file_code="bal"
+         home_team_id="110"
+         home_team_city="Baltimore"
+         home_team_name="Orioles"
+         home_division="E"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="4.0"
+         home_games_back="10.0"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard="6.0"
+         venue_w_chan_loc="USMD0018"
+         gameday="2009_05_08_nyamlb_balmlb_1"
+         away_win="14"
+         away_loss="15"
+         home_win="12"
+         home_loss="18"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="3" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="4" home="0" diff="4"/> 
+         <h away="9" home="4"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="121347" last="Rodriguez" first="Alex" name_display_roster="" number="13"
+                 hr="1"
+                 std_hr="1"
+                 inning="1"
+                 runners="2"
+                 team_code="nya"/>
+      </home_runs>
+      <winning_pitcher id="282332" last="Sabathia" first="CC" name_display_roster="" number="52"
+                       era="3.94"
+                       wins="2"
+                       losses="3"/>
+      <losing_pitcher id="425386" last="Guthrie" first="Jeremy" name_display_roster="" number="46"
+                      era="4.97"
+                      wins="2"
+                      losses="3"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_nyamlb_balmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4628126&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244633-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244633-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_nyamlb_balmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4613800&amp;vkey=news_bal&amp;fext=.jsp&amp;c_id=bal'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_nyamlb_balmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4620472&amp;vkey=news_nyy&amp;fext=.jsp&amp;c_id=nyy'}))"
+             preview=""
+             tv_station="MASN HD"/>
+      <broadcast>
+        <home>
+            <tv>MASN HD</tv>
+            <radio>105.7 The Fan</radio>
+         </home>
+        <away>
+            <tv>YES</tv>
+            <radio>WCBS 880, 92.7 WQBU</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244633-2009-05-08"
+                start="2009-05-08T19:05:00-0400"
+                title="NYY @ BAL"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/pitmlb-nynmlb-1" venue="Citi Field" game_pk="244634" time="7:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:10"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="3289"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="PIT"
+         home_name_abbrev="NYM"
+         away_code="pit"
+         away_file_code="pit"
+         away_team_id="134"
+         away_team_city="Pittsburgh"
+         away_team_name="Pirates"
+         away_division="C"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="nyn"
+         home_file_code="nym"
+         home_team_id="121"
+         home_team_city="NY Mets"
+         home_team_name="Mets"
+         home_division="E"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="7.0"
+         home_games_back="1.5"
+         away_games_back_wildcard="6.0"
+         home_games_back_wildcard="1.5"
+         venue_w_chan_loc="USNY0504"
+         gameday="2009_05_08_pitmlb_nynmlb_1"
+         away_win="12"
+         away_loss="17"
+         home_win="15"
+         home_loss="13"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="5"/> 
+         <inning away="1"/> 
+         <r away="3" home="7" diff="4"/> 
+         <h away="9" home="13"/> 
+         <e away="0" home="1"/> 
+      </linescore>
+      <home_runs>
+         <player id="113232" last="Delgado" first="Carlos" name_display_roster="" number="21"
+                 hr="1"
+                 std_hr="4"
+                 inning="8"
+                 runners="2"
+                 team_code="nyn"/>
+      </home_runs>
+      <winning_pitcher id="458730" last="Parnell" first="Bobby" name_display_roster="" number="39"
+                       era="1.29"
+                       wins="1"
+                       losses="0"/>
+      <losing_pitcher id="407884" last="Yates" first="Tyler" name_display_roster="" number="30"
+                      era="8.71"
+                      wins="0"
+                      losses="2"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_pitmlb_nynmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4625628&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244634-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244634-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_pitmlb_nynmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4610640&amp;vkey=news_nym&amp;fext=.jsp&amp;c_id=nym'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_pitmlb_nynmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4608358&amp;vkey=news_pit&amp;fext=.jsp&amp;c_id=pit'}))"
+             preview=""
+             tv_station="SNY"/>
+      <broadcast>
+        <home>
+            <tv>SNY</tv>
+            <radio>WFAN 660, WADO 1280</radio>
+         </home>
+        <away>
+            <tv/>
+            <radio>WPGB-FM 104.7</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244634-2009-05-08"
+                start="2009-05-08T19:10:00-0400"
+                title="PIT @ NYM"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/slnmlb-cinmlb-1" venue="Great American Ball Park"
+         game_pk="244638"
+         time="7:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="6:10"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2602"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="STL"
+         home_name_abbrev="CIN"
+         away_code="sln"
+         away_file_code="stl"
+         away_team_id="138"
+         away_team_city="St. Louis"
+         away_team_name="Cardinals"
+         away_division="C"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="cin"
+         home_file_code="cin"
+         home_team_id="113"
+         home_team_city="Cincinnati"
+         home_team_name="Reds"
+         home_division="C"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="-"
+         home_games_back="4.5"
+         away_games_back_wildcard=""
+         home_games_back_wildcard="3.5"
+         venue_w_chan_loc="USOH0188"
+         gameday="2009_05_08_slnmlb_cinmlb_1"
+         away_win="19"
+         away_loss="11"
+         home_win="16"
+         home_loss="13"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="2"/> 
+         <inning away="0" home="3"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="1"/> 
+         <inning away="3" home="0"/> 
+         <inning away="0"/> 
+         <r away="4" home="6" diff="2"/> 
+         <h away="8" home="11"/> 
+         <e away="1" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="460022" last="Greene" first="Tyler" name_display_roster="" number="27"
+                 hr="1"
+                 std_hr="1"
+                 inning="8"
+                 runners="0"
+                 team_code="sln"/>
+      </home_runs>
+      <winning_pitcher id="456501" last="Cueto" first="Johnny" name_display_roster="" number="47"
+                       era="1.59"
+                       wins="3"
+                       losses="1"/>
+      <losing_pitcher id="334492" last="Pineiro" first="Joel" name_display_roster="" number="35"
+                      era="3.66"
+                      wins="4"
+                      losses="2"/>
+      <save_pitcher id="150188" last="Cordero" first="Francisco" number="48" name_display_roster=""
+                    era="2.08"
+                    wins="0"
+                    losses="1"
+                    saves="9"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_slnmlb_cinmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4628204&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244638-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244638-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_slnmlb_cinmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4617842&amp;vkey=news_cin&amp;fext=.jsp&amp;c_id=cin'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_slnmlb_cinmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4607402&amp;vkey=news_stl&amp;fext=.jsp&amp;c_id=stl'}))"
+             preview=""
+             tv_station="FS-O"/>
+      <broadcast>
+        <home>
+            <tv>FS-O</tv>
+            <radio>WLW 700</radio>
+         </home>
+        <away>
+            <tv>FS-M</tv>
+            <radio>KTRS 550</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244638-2009-05-08"
+                start="2009-05-08T19:10:00-0400"
+                title="STL @ CIN"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/tbamlb-bosmlb-1" venue="Fenway Park" game_pk="244639"
+         time="7:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:10"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="ET"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="7:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="7:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="3"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="TB"
+         home_name_abbrev="BOS"
+         away_code="tba"
+         away_file_code="tb"
+         away_team_id="139"
+         away_team_city="Tampa Bay"
+         away_team_name="Rays"
+         away_division="E"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="bos"
+         home_file_code="bos"
+         home_team_id="111"
+         home_team_city="Boston"
+         home_team_name="Red Sox"
+         home_division="E"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="6.0"
+         home_games_back="-"
+         away_games_back_wildcard="2.0"
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USMA0046"
+         gameday="2009_05_08_tbamlb_bosmlb_1"
+         away_win="14"
+         away_loss="17"
+         home_win="19"
+         home_loss="11"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="5"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="0"/> 
+         <r away="3" home="7" diff="4"/> 
+         <h away="9" home="15"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="424726" last="Bay" first="Jason" name_display_roster="" number="44" hr="1"
+                 std_hr="9"
+                 inning="6"
+                 runners="2"
+                 team_code="bos"/>
+         <player id="136770" last="Drew" first="J.D." name_display_roster="" number="7" hr="1"
+                 std_hr="4"
+                 inning="6"
+                 runners="1"
+                 team_code="bos"/>
+      </home_runs>
+      <winning_pitcher id="207267" last="Penny" first="Brad" name_display_roster="" number="36"
+                       era="6.90"
+                       wins="3"
+                       losses="1"/>
+      <losing_pitcher id="448306" last="Shields" first="James" name_display_roster="" number="33"
+                      era="4.02"
+                      wins="3"
+                      losses="3"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_tbamlb_bosmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4626610&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244639-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244639-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_tbamlb_bosmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4609032&amp;vkey=news_bos&amp;fext=.jsp&amp;c_id=bos'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_tbamlb_bosmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4622244&amp;vkey=news_tb&amp;fext=.jsp&amp;c_id=tb'}))"
+             preview=""
+             tv_station="NESN"/>
+      <broadcast>
+        <home>
+            <tv>NESN</tv>
+            <radio>WRKO 680, SBN 1150</radio>
+         </home>
+        <away>
+            <tv>FS-F HD</tv>
+            <radio>WDAE 620</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244639-2009-05-08"
+                start="2009-05-08T19:10:00-0400"
+                title="TB @ BOS"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/chnmlb-milmlb-1" venue="Miller Park" game_pk="244629"
+         time="8:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:05"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="8:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="8:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="32"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="CHC"
+         home_name_abbrev="MIL"
+         away_code="chn"
+         away_file_code="chc"
+         away_team_id="112"
+         away_team_city="Chi Cubs"
+         away_team_name="Cubs"
+         away_division="C"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="mil"
+         home_file_code="mil"
+         home_team_id="158"
+         home_team_city="Milwaukee"
+         home_team_name="Brewers"
+         home_division="C"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="2.5"
+         home_games_back="1.0"
+         away_games_back_wildcard="1.5"
+         home_games_back_wildcard="-"
+         venue_w_chan_loc="USWI0455"
+         gameday="2009_05_08_chnmlb_milmlb_1"
+         away_win="16"
+         away_loss="13"
+         home_win="17"
+         home_loss="13"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="1" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="0"/> 
+         <r away="2" home="3" diff="1"/> 
+         <h away="5" home="7"/> 
+         <e away="0" home="1"/> 
+      </linescore>
+      <home_runs>
+         <player id="150396" last="Bradley" first="Milton" name_display_roster="" number="21"
+                 hr="1"
+                 std_hr="3"
+                 inning="5"
+                 runners="0"
+                 team_code="chn"/>
+         <player id="460075" last="Braun" first="Ryan" name_display_roster="" number="8" hr="1"
+                 std_hr="7"
+                 inning="8"
+                 runners="1"
+                 team_code="mil"/>
+         <player id="429666" last="Hardy" first="J.J." name_display_roster="" number="7" hr="1"
+                 std_hr="5"
+                 inning="6"
+                 runners="0"
+                 team_code="mil"/>
+      </home_runs>
+      <winning_pitcher id="449777" last="Stetter" first="Mitch" name_display_roster="" number="57"
+                       era="3.38"
+                       wins="2"
+                       losses="0"/>
+      <losing_pitcher id="408310" last="Heilman" first="Aaron" name_display_roster="" number="47"
+                      era="5.14"
+                      wins="2"
+                      losses="2"/>
+      <save_pitcher id="116034" last="Hoffman" first="Trevor" number="51" name_display_roster=""
+                    era="0.00"
+                    wins="0"
+                    losses="0"
+                    saves="5"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_chnmlb_milmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4629020&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244629-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244629-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_chnmlb_milmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4619362&amp;vkey=news_mil&amp;fext=.jsp&amp;c_id=mil'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_chnmlb_milmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4610200&amp;vkey=news_chc&amp;fext=.jsp&amp;c_id=chc'}))"
+             preview=""
+             tv_station="FSN-HD"/>
+      <broadcast>
+        <home>
+            <tv>FSN-HD</tv>
+            <radio>WTMJ 620</radio>
+         </home>
+        <away>
+            <tv>WGN</tv>
+            <radio>WGN 720</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244629-2009-05-08"
+                start="2009-05-08T20:05:00-0400"
+                title="CHC @ MIL"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/sdnmlb-houmlb-1" venue="Minute Maid Park" game_pk="244635"
+         time="8:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="5:05"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="8:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="8:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="2392"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="SD"
+         home_name_abbrev="HOU"
+         away_code="sdn"
+         away_file_code="sd"
+         away_team_id="135"
+         away_team_city="San Diego"
+         away_team_name="Padres"
+         away_division="W"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="hou"
+         home_file_code="hou"
+         home_team_id="117"
+         home_team_city="Houston"
+         home_team_name="Astros"
+         home_division="C"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="15.0"
+         home_games_back="5.0"
+         away_games_back_wildcard="6.5"
+         home_games_back_wildcard="4.0"
+         venue_w_chan_loc="USTX0617"
+         gameday="2009_05_08_sdnmlb_houmlb_1"
+         away_win="13"
+         away_loss="17"
+         home_win="12"
+         home_loss="18"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="0" home="2" diff="2"/> 
+         <h away="5" home="5"/> 
+         <e away="1" home="0"/> 
+      </linescore>
+      <winning_pitcher id="434643" last="Rodriguez" first="Wandy" name_display_roster="" number="51"
+                       era="1.80"
+                       wins="3"
+                       losses="2"/>
+      <losing_pitcher id="429985" last="Gaudin" first="Chad" name_display_roster="" number="49"
+                      era="4.08"
+                      wins="0"
+                      losses="2"/>
+      <save_pitcher id="115629" last="Hawkins" first="LaTroy" number="22" name_display_roster=""
+                    era="2.63"
+                    wins="0"
+                    losses="0"
+                    saves="4"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_sdnmlb_houmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4630102&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244635-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244635-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_sdnmlb_houmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4610392&amp;vkey=news_hou&amp;fext=.jsp&amp;c_id=hou'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_sdnmlb_houmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090506&amp;content_id=4595552&amp;vkey=news_sd&amp;fext=.jsp&amp;c_id=sd'}))"
+             preview=""
+             tv_station="FS-H HD"/>
+      <broadcast>
+        <home>
+            <tv>FS-H HD</tv>
+            <radio>KTRH 740, KLAT 1010</radio>
+         </home>
+        <away>
+            <tv>4 San Diego</tv>
+            <radio>XPRS 1090, XEMO 860</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244635-2009-05-08"
+                start="2009-05-08T20:05:00-0400"
+                title="SD @ HOU"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_http_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/seamlb-minmlb-1" venue="Hubert H. Humphrey Metrodome"
+         game_pk="244636"
+         time="8:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="5:10"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="8:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="8:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="8"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="SEA"
+         home_name_abbrev="MIN"
+         away_code="sea"
+         away_file_code="sea"
+         away_team_id="136"
+         away_team_city="Seattle"
+         away_team_name="Mariners"
+         away_division="W"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="min"
+         home_file_code="min"
+         home_team_id="142"
+         home_team_city="Minnesota"
+         home_team_name="Twins"
+         home_division="C"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="2.5"
+         home_games_back="4.0"
+         away_games_back_wildcard="3.0"
+         home_games_back_wildcard="4.0"
+         venue_w_chan_loc="USMN0503"
+         gameday="2009_05_08_seamlb_minmlb_1"
+         away_win="15"
+         away_loss="15"
+         home_win="14"
+         home_loss="16"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="2"/> 
+         <inning away="0" home="3"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="5"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="0" home="11" diff="11"/> 
+         <h away="5" home="13"/> 
+         <e away="2" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="430593" last="Harris" first="Brendan" name_display_roster="" number="23"
+                 hr="1"
+                 std_hr="2"
+                 inning="2"
+                 runners="2"
+                 team_code="min"/>
+         <player id="408047" last="Morneau" first="Justin" name_display_roster="" number="33"
+                 hr="1"
+                 std_hr="7"
+                 inning="5"
+                 runners="0"
+                 team_code="min"/>
+         <player id="430927" last="Buscher" first="Brian" name_display_roster="" number="32"
+                 hr="1"
+                 std_hr="1"
+                 inning="5"
+                 runners="2"
+                 team_code="min"/>
+         <player id="408045" last="Mauer" first="Joe" name_display_roster="" number="7" hr="1"
+                 std_hr="2"
+                 inning="5"
+                 runners="0"
+                 team_code="min"/>
+      </home_runs>
+      <winning_pitcher id="435044" last="Baker" first="Scott" name_display_roster="" number="30"
+                       era="6.83"
+                       wins="1"
+                       losses="4"/>
+      <losing_pitcher id="499856" last="Jakubauskas" first="Chris" name_display_roster="" number="41"
+                      era="7.67"
+                      wins="1"
+                      losses="4"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_seamlb_minmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4627850&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244636-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244636-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_seamlb_minmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4613474&amp;vkey=news_min&amp;fext=.jsp&amp;c_id=min'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_seamlb_minmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4614428&amp;vkey=news_sea&amp;fext=.jsp&amp;c_id=sea'}))"
+             preview=""
+             tv_station="FS-N HD"/>
+      <broadcast>
+        <home>
+            <tv>FS-N HD</tv>
+            <radio>TRN 1500</radio>
+         </home>
+        <away>
+            <tv>FSN</tv>
+            <radio>710 ESPN</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244636-2009-05-08"
+                start="2009-05-08T20:10:00-0400"
+                title="SEA @ MIN"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/texmlb-chamlb-1" venue="U.S. Cellular Field" game_pk="244640"
+         time="8:11"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:11"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="7:11"
+         home_time_zone="CT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="8:11"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="8:11"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="4"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="TEX"
+         home_name_abbrev="CWS"
+         away_code="tex"
+         away_file_code="tex"
+         away_team_id="140"
+         away_team_city="Texas"
+         away_team_name="Rangers"
+         away_division="W"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="cha"
+         home_file_code="cws"
+         home_team_id="145"
+         home_team_city="Chi White Sox"
+         home_team_name="White Sox"
+         home_division="C"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="-"
+         home_games_back="5.0"
+         away_games_back_wildcard=""
+         home_games_back_wildcard="5.0"
+         venue_w_chan_loc="USIL0225"
+         gameday="2009_05_08_texmlb_chamlb_1"
+         away_win="16"
+         away_loss="13"
+         home_win="13"
+         home_loss="15"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="1" home="0"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="6" home="0" diff="6"/> 
+         <h away="11" home="4"/> 
+         <e away="1" home="1"/> 
+      </linescore>
+      <winning_pitcher id="457448" last="Harrison" first="Matt" name_display_roster="" number="54"
+                       era="4.79"
+                       wins="3"
+                       losses="2"/>
+      <losing_pitcher id="425747" last="Contreras" first="Jose" name_display_roster="" number="52"
+                      era="8.19"
+                      wins="0"
+                      losses="5"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_texmlb_chamlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4628588&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244640-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244640-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_texmlb_chamlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4620396&amp;vkey=news_cws&amp;fext=.jsp&amp;c_id=cws'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_texmlb_chamlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4599298&amp;vkey=news_tex&amp;fext=.jsp&amp;c_id=tex'}))"
+             preview=""
+             tv_station="CSN"/>
+      <broadcast>
+        <home>
+            <tv>CSN</tv>
+            <radio>WSCR 670, WRTO 1200</radio>
+         </home>
+        <away>
+            <tv>FSSW</tv>
+            <radio>105.3 The Fan, KFLC 1270</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244640-2009-05-08"
+                start="2009-05-08T20:11:00-0400"
+                title="TEX @ CWS"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/flomlb-colmlb-1" venue="Coors Field" game_pk="244631"
+         time="9:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="9:10"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="MT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="9:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="9:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="19"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="FLA"
+         home_name_abbrev="COL"
+         away_code="flo"
+         away_file_code="fla"
+         away_team_id="146"
+         away_team_city="Florida"
+         away_team_name="Marlins"
+         away_division="E"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="col"
+         home_file_code="col"
+         home_team_id="115"
+         home_team_city="Colorado"
+         home_team_name="Rockies"
+         home_division="W"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="3.0"
+         home_games_back="9.0"
+         away_games_back_wildcard="3.0"
+         home_games_back_wildcard="0.5"
+         venue_w_chan_loc="USCO0105"
+         gameday="2009_05_08_flomlb_colmlb_1"
+         away_win="16"
+         away_loss="14"
+         home_win="11"
+         home_loss="17"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="1" home="1"/> 
+         <inning away="1" home="0"/> 
+         <inning away="1" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="5" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="8" home="3" diff="5"/> 
+         <h away="16" home="8"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="453064" last="Tulowitzki" first="Troy" name_display_roster="" number="2"
+                 hr="1"
+                 std_hr="4"
+                 inning="1"
+                 runners="0"
+                 team_code="col"/>
+         <player id="434633" last="Baker" first="John" name_display_roster="" number="21" hr="1"
+                 std_hr="3"
+                 inning="2"
+                 runners="0"
+                 team_code="flo"/>
+         <player id="434670" last="Ramirez" first="Hanley" name_display_roster="" number="2"
+                 hr="1"
+                 std_hr="6"
+                 inning="1"
+                 runners="0"
+                 team_code="flo"/>
+      </home_runs>
+      <winning_pitcher id="445060" last="Nolasco" first="Ricky" name_display_roster="" number="47"
+                       era="6.63"
+                       wins="2"
+                       losses="3"/>
+      <losing_pitcher id="434628" last="Hammel" first="Jason" name_display_roster="" number="46"
+                      era="5.40"
+                      wins="0"
+                      losses="1"/>
+      <save_pitcher id="" last="" first="" number="" name_display_roster="" era="0" wins="0"
+                    losses="0"
+                    saves="0"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_flomlb_colmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4627028&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244631-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244631-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_flomlb_colmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4608360&amp;vkey=news_col&amp;fext=.jsp&amp;c_id=col'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_flomlb_colmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4603550&amp;vkey=news_fla&amp;fext=.jsp&amp;c_id=fla'}))"
+             preview=""
+             tv_station="FSN"/>
+      <broadcast>
+        <home>
+            <tv>FSN</tv>
+            <radio>KOA 850</radio>
+         </home>
+        <away>
+            <tv>Sun Sports</tv>
+            <radio>WAXY 790, WAQI 710</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244631-2009-05-08"
+                start="2009-05-08T21:10:00-0400"
+                title="FLA @ COL"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/wasmlb-arimlb-1" venue="Chase Field" game_pk="244642"
+         time="9:40"
+         time_zone="ET"
+         ampm="PM"
+         away_time="9:40"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="6:40"
+         home_time_zone="MST"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="9:40"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="9:40"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="15"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="WSH"
+         home_name_abbrev="ARI"
+         away_code="was"
+         away_file_code="was"
+         away_team_id="120"
+         away_team_city="Washington"
+         away_team_name="Nationals"
+         away_division="E"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="ari"
+         home_file_code="ari"
+         home_team_id="109"
+         home_team_city="Arizona"
+         home_team_name="D-backs"
+         home_division="W"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="16.0"
+         home_games_back="17.0"
+         away_games_back_wildcard="16.0"
+         home_games_back_wildcard="8.5"
+         venue_w_chan_loc="USAZ0166"
+         gameday="2009_05_08_wasmlb_arimlb_1"
+         away_win="10"
+         away_loss="18"
+         home_win="12"
+         home_loss="18"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="1"/> 
+         <inning away="2" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="1" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="1" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="5" home="4" diff="1"/> 
+         <h away="11" home="12"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <home_runs>
+         <player id="276055" last="Dunn" first="Adam" name_display_roster="" number="44" hr="1"
+                 std_hr="8"
+                 inning="3"
+                 runners="0"
+                 team_code="was"/>
+         <player id="435520" last="Flores" first="Jesus" name_display_roster="" number="3"
+                 hr="1"
+                 std_hr="4"
+                 inning="4"
+                 runners="0"
+                 team_code="was"/>
+      </home_runs>
+      <winning_pitcher id="463017" last="Martis" first="Shairon" name_display_roster="" number="39"
+                       era="4.67"
+                       wins="4"
+                       losses="0"/>
+      <losing_pitcher id="433589" last="Petit" first="Yusmeiro" name_display_roster="" number="48"
+                      era="8.03"
+                      wins="0"
+                      losses="3"/>
+      <save_pitcher id="150337" last="Wells" first="Kip" number="32" name_display_roster=""
+                    era="3.27"
+                    wins="0"
+                    losses="0"
+                    saves="1"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_wasmlb_arimlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4627146&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244642-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244642-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_wasmlb_arimlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090506&amp;content_id=4595424&amp;vkey=news_ari&amp;fext=.jsp&amp;c_id=ari'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_wasmlb_arimlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4623166&amp;vkey=news_was&amp;fext=.jsp&amp;c_id=was'}))"
+             preview=""
+             tv_station="FS-A"/>
+      <broadcast>
+        <home>
+            <tv>FS-A</tv>
+            <radio>KTAR 620, KSUN 1400</radio>
+         </home>
+        <away>
+            <tv>MASN 2</tv>
+            <radio>WFED 1500, SBN 1390, ESPN 730</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244642-2009-05-08"
+                start="2009-05-08T21:40:00-0400"
+                title="WSH @ ARI"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/kcamlb-anamlb-1" venue="Angel Stadium of Anaheim"
+         game_pk="244632"
+         time="10:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="9:05"
+         away_time_zone="CT"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="PT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="10:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="10:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="1"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="KC"
+         home_name_abbrev="LAA"
+         away_code="kca"
+         away_file_code="kc"
+         away_team_id="118"
+         away_team_city="Kansas City"
+         away_team_name="Royals"
+         away_division="C"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="ana"
+         home_file_code="ana"
+         home_team_id="108"
+         home_team_city="LA Angels"
+         home_team_name="Angels"
+         home_division="W"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="8.5"
+         home_games_back="1.0"
+         away_games_back_wildcard="8.5"
+         home_games_back_wildcard="1.5"
+         venue_w_chan_loc="USCA0027"
+         gameday="2009_05_08_kcamlb_anamlb_1"
+         away_win="18"
+         away_loss="12"
+         home_win="14"
+         home_loss="14"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="1"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="2"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="1" home="4" diff="3"/> 
+         <h away="4" home="9"/> 
+         <e away="1" home="1"/> 
+      </linescore>
+      <winning_pitcher id="461212" last="Palmer" first="Matt" name_display_roster="" number="32"
+                       era="3.06"
+                       wins="3"
+                       losses="0"/>
+      <losing_pitcher id="219194" last="Meche" first="Gil" name_display_roster="" number="55"
+                      era="4.01"
+                      wins="2"
+                      losses="3"/>
+      <save_pitcher id="150118" last="Fuentes" first="Brian" number="40" name_display_roster=""
+                    era="5.91"
+                    wins="0"
+                    losses="2"
+                    saves="8"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_kcamlb_anamlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4625656&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244632-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244632-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_kcamlb_anamlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4612972&amp;vkey=news_ana&amp;fext=.jsp&amp;c_id=ana'})) "
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_kcamlb_anamlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4609300&amp;vkey=news_kc&amp;fext=.jsp&amp;c_id=kc'}))"
+             preview=""
+             tv_station="FS-W"/>
+      <broadcast>
+        <home>
+            <tv>FS-W</tv>
+            <radio>KLAA 830, KFWB, KWKW 1330</radio>
+         </home>
+        <away>
+            <tv>FSKC</tv>
+            <radio>KCSP 610</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244632-2009-05-08"
+                start="2009-05-08T22:05:00-0400"
+                title="KC @ LAA"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/tormlb-oakmlb-1" venue="Oakland Coliseum" game_pk="244641"
+         time="10:05"
+         time_zone="ET"
+         ampm="PM"
+         away_time="10:05"
+         away_time_zone="ET"
+         away_ampm="PM"
+         home_time="7:05"
+         home_time_zone="PT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="10:05"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="10:05"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="10"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="TOR"
+         home_name_abbrev="OAK"
+         away_code="tor"
+         away_file_code="tor"
+         away_team_id="141"
+         away_team_city="Toronto"
+         away_team_name="Blue Jays"
+         away_division="E"
+         away_league_id="103"
+         away_sport_code="mlb"
+         home_code="oak"
+         home_file_code="oak"
+         home_team_id="133"
+         home_team_city="Oakland"
+         home_team_name="Athletics"
+         home_division="W"
+         home_league_id="103"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="28.0"
+         home_games_back="22.0"
+         away_games_back_wildcard="20.0"
+         home_games_back_wildcard="20.0"
+         venue_w_chan_loc="USCA0791"
+         gameday="2009_05_08_tormlb_oakmlb_1"
+         away_win="20"
+         away_loss="12"
+         home_win="11"
+         home_loss="16"
+         league="AA">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="Y" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="3" home="5"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0"/> 
+         <r away="3" home="5" diff="2"/> 
+         <h away="8" home="7"/> 
+         <e away="0" home="2"/> 
+      </linescore>
+      <home_runs>
+         <player id="150148" last="Barajas" first="Rod" name_display_roster="Barajas"
+                 number="20"
+                 hr="1"
+                 std_hr="3"
+                 inning="2"
+                 runners="1"
+                 team_code="tor"/>
+         <player id="435220" last="Sweeney" first="Ryan" name_display_roster="Sweeney, R"
+                 number="15"
+                 hr="1"
+                 std_hr="2"
+                 inning="2"
+                 runners="1"
+                 team_code="oak"/>
+      </home_runs>
+      <winning_pitcher id="430900" last="Wuertz" first="Michael" name_display_roster="Wuertz"
+                       number="48"
+                       era="1.62"
+                       wins="2"
+                       losses="1"/>
+      <losing_pitcher id="446341" last="Richmond" first="Scott" name_display_roster="Richmond"
+                      number="48"
+                      era="3.29"
+                      wins="4"
+                      losses="1"/>
+      <save_pitcher id="457732" last="Bailey" first="Andrew" number="40"
+                    name_display_roster="Bailey, A"
+                    era="1.27"
+                    wins="3"
+                    losses="0"
+                    saves="1"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_tormlb_oakmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4627456&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244641-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244641-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_tormlb_oakmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4600172&amp;vkey=news_oak&amp;fext=.jsp&amp;c_id=oak'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_tormlb_oakmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4611916&amp;vkey=news_tor&amp;fext=.jsp&amp;c_id=tor'}))"
+             preview=""
+             tv_station="CSNCA-HD"/>
+      <broadcast>
+        <home>
+            <tv>CSNCA-HD</tv>
+            <radio>KTRB 860, KDIA 1640</radio>
+         </home>
+        <away>
+            <tv>SNET</tv>
+            <radio>FAN 590</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244641-2009-05-08"
+                start="2009-05-08T22:05:00-0400"
+                title="TOR @ OAK"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+   <game id="2009/05/08/sfnmlb-lanmlb-1" venue="Dodger Stadium" game_pk="244637"
+         time="10:10"
+         time_zone="ET"
+         ampm="PM"
+         away_time="7:10"
+         away_time_zone="PT"
+         away_ampm="PM"
+         home_time="7:10"
+         home_time_zone="PT"
+         home_ampm="PM"
+         game_type="R"
+         resume_date=""
+         time_aw_lg="10:10"
+         aw_lg_ampm="PM"
+         tz_aw_lg_gen="ET"
+         time_hm_lg="10:10"
+         hm_lg_ampm="PM"
+         tz_hm_lg_gen="ET"
+         venue_id="22"
+         scheduled_innings="9"
+         description=""
+         away_name_abbrev="SF"
+         home_name_abbrev="LAD"
+         away_code="sfn"
+         away_file_code="sf"
+         away_team_id="137"
+         away_team_city="San Francisco"
+         away_team_name="Giants"
+         away_division="W"
+         away_league_id="104"
+         away_sport_code="mlb"
+         home_code="lan"
+         home_file_code="la"
+         home_team_id="119"
+         home_team_city="LA Dodgers"
+         home_team_name="Dodgers"
+         home_division="W"
+         home_league_id="104"
+         home_sport_code="mlb"
+         day="FRI"
+         gameday_sw="E"
+         away_games_back="8.5"
+         home_games_back="-"
+         away_games_back_wildcard="-"
+         home_games_back_wildcard=""
+         venue_w_chan_loc="USCA0638"
+         gameday="2009_05_08_sfnmlb_lanmlb_1"
+         away_win="15"
+         away_loss="13"
+         home_win="21"
+         home_loss="10"
+         league="NN">
+      <status status="Final" ind="F" reason="" inning="9" top_inning="N" b="0" s="0" o="3"
+              inning_state=""/>
+      <linescore>
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="1" home="1"/> 
+         <inning away="2" home="0"/> 
+         <inning away="0" home="0"/> 
+         <inning away="0" home="0"/> 
+         <r away="3" home="1" diff="2"/> 
+         <h away="10" home="9"/> 
+         <e away="0" home="0"/> 
+      </linescore>
+      <winning_pitcher id="217096" last="Zito" first="Barry" name_display_roster="" number="75"
+                       era="3.57"
+                       wins="1"
+                       losses="2"/>
+      <losing_pitcher id="451532" last="Billingsley" first="Chad" name_display_roster="" number="58"
+                      era="2.45"
+                      wins="5"
+                      losses="1"/>
+      <save_pitcher id="451216" last="Wilson" first="Brian" number="38" name_display_roster=""
+                    era="3.07"
+                    wins="1"
+                    losses="0"
+                    saves="7"/>
+      <links wrapup="javascript:void(launchGameday({gid:'2009_05_08_sfnmlb_lanmlb_1',mode:'wrap',lurl:'/news/wrap.jsp?ymd=20090508&amp;content_id=4628198&amp;vkey=wrapup2005&amp;fext=.jsp&amp;c_id=mlb'}))"
+             home_audio="bam.media.launchPlayer({calendar_event_id:'14-244637-2009-05-08',media_type:'audio'})"
+             away_audio="bam.media.launchPlayer({calendar_event_id:'14-244637-2009-05-08',media_type:'audio'})"
+             home_preview="javascript:void(launchGameday({gid:'2009_05_08_sfnmlb_lanmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090508&amp;content_id=4623048&amp;vkey=news_la&amp;fext=.jsp&amp;c_id=la'}))"
+             away_preview="javascript:void(launchGameday({gid:'2009_05_08_sfnmlb_lanmlb_1',mode:'preview',lurl:'/news/article.jsp?ymd=20090507&amp;content_id=4608384&amp;vkey=news_sf&amp;fext=.jsp&amp;c_id=sf'}))"
+             preview=""
+             tv_station="PRIME"/>
+      <broadcast>
+        <home>
+            <tv>PRIME</tv>
+            <radio>KABC 790, KHJ 930</radio>
+         </home>
+        <away>
+            <tv>NBC-11</tv>
+            <radio>KNBR 680, KIQI</radio>
+         </away>
+      </broadcast>
+      <game_media>
+         <media type="game" calendar_event_id="14-244637-2009-05-08"
+                start="2009-05-08T22:10:00-0400"
+                title="SF @ LAD"
+                has_mlbtv="true"
+                free="NO"
+                media_state="media_archive"
+                thumbnail="http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg"/>
+      </game_media>
+      <video_thumbnail>http://mlb.mlb.com/images/downloads/mlbcom_124x70.jpg</video_thumbnail>
+   </game>
+</games>

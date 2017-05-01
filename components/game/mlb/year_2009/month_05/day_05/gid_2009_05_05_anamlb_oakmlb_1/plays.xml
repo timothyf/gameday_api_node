@@ -1,0 +1,59 @@
+<!--Copyright 2015 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_anamlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start">
+	<score ar="5" ah="9" ae="0" hr="3" hh="6" he="2" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="435559" team_abbrev="OAK" team_id="133" parent_team_abbrev="OAK" parent_team_id="133" current_position="C" stand="R" b_height="5-11" ab="4" h="0" avg=".315" boxname="Suzuki, K">
+			<ab inning="9" event="Groundout"/>
+			<ab inning="7" event="Groundout"/>
+			<ab inning="4" event="Groundout"/>
+			<ab inning="2" event="Flyout"/>
+		</batter>
+		<pitcher pid="150118" p_throws="L" pitches="6" strikes="5" balls="1" era="6.52" boxname="Fuentes"/>
+		<deck pid="459941" boxname="Buck"/>
+		<hole pid="425853" boxname="Crosby"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="72" des="Kurt Suzuki grounds out, shortstop Erick Aybar to first baseman Kendrys Morales.  " des_es="Kurt Suzuki batea rodado de out, campo corto Erick Aybar a primera base Kendrys Morales.  " event="null" player="435559">
+		<p type="S" id="566" x="78.97" y="127.79" des="Foul" des_es="Foul" sv_id="090505_214420" start_speed="87.7" end_speed="80.3" sz_top="3.39" sz_bot="1.57" pfx_x="11.42" pfx_z="4.808" px="0.673" pz="3.316" x0="2.77" y0="50.0" z0="5.335" vx0="-9.05" vy0="-128.292" vz0="-0.332" ax="18.946" ay="27.677" az="-24.123" break_y="23.8" break_angle="-35.1" break_length="7.2" pitch_type="SI" type_confidence=".000" zone="3" spin_dir="113.023" spin_rate="2327.917"  cc=""/>		<p type="S" id="567" x="130.47" y="158.01" des="Called Strike" des_es="Strike cantado" sv_id="090505_214455" start_speed="88.5" end_speed="81.4" sz_top="3.295" sz_bot="1.526" pfx_x="11.336" pfx_z="6.062" px="-0.772" pz="1.918" x0="2.449" y0="50.0" z0="5.163" vx0="-11.97" vy0="-129.204" vz0="-3.992" ax="19.154" ay="27.042" az="-21.857" break_y="23.8" break_angle="-36.4" break_length="6.8" pitch_type="SI" type_confidence=".000" zone="13" spin_dir="118.309" spin_rate="2442.879"  cc=""/>		<p type="B" id="568" x="144.21" y="120.02" des="Ball" des_es="Bola mala" sv_id="090505_214515" start_speed="87.9" end_speed="80.1" sz_top="3.32" sz_bot="1.53" pfx_x="12.334" pfx_z="4.697" px="-1.38" pz="3.604" x0="2.26" y0="50.0" z0="5.298" vx0="-13.223" vy0="-128.175" vz0="0.549" ax="20.377" ay="28.194" az="-24.339" break_y="23.7" break_angle="-35.8" break_length="7.4" pitch_type="SI" type_confidence=".000" zone="11" spin_dir="111.032" spin_rate="2471.042"  cc=""/>		<p type="X" id="569" x="91.85" y="160.60" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090505_214538" start_speed="73.9" end_speed="68.6" sz_top="3.39" sz_bot="1.57" pfx_x="-6.42" pfx_z="-6.997" px="0.198" pz="1.77" x0="2.877" y0="50.0" z0="5.403" vx0="-3.937" vy0="-108.345" vz0="1.72" ax="-7.568" ay="20.391" az="-40.348" break_y="23.8" break_angle="11.5" break_length="14.1" pitch_type="SL" type_confidence=".909" zone="8" spin_dir="317.206" spin_rate="1491.626"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="oak">
+		</offense>
+		<defense type="away" id="ana">
+			<man pid="150118" s_po="1" s_ass="1" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="435063" s_po="82" s_ass="7" s_err="1" s_fldg=".989" c_sb="11" c_cs="6" pos="c"/>
+			<man pid="434778" s_po="188" s_ass="13" s_err="1" s_fldg=".995" pos="1b"/>
+			<man pid="435062" s_po="40" s_ass="71" s_err="2" s_fldg=".982" pos="2b"/>
+			<man pid="430947" s_po="37" s_ass="46" s_err="2" s_fldg=".976" pos="ss"/>
+			<man pid="408210" s_po="18" s_ass="43" s_err="3" s_fldg=".953" pos="3b"/>
+			<man pid="407487" s_po="31" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="116338" s_po="66" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="150439" s_po="29" s_ass="1" s_err="1" s_fldg=".968" pos="rf"/>
+		</defense>
+		<ball type="G" x="101.41" y="149.60" batter="435559" pitcher="150118"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="446899" index="6">
+			<man pid="435220"/>
+			<man pid="111851"/>
+			<man pid="114739"/>
+			<man pid="407812"/>
+			<man pid="400091"/>
+			<man pid="435559"/>
+			<man pid="459941"/>
+			<man pid="425853"/>
+			<man pid="463610"/>
+		</team>
+		<team type="away" pitcher="150118" index="4">
+			<man pid="408210"/>
+			<man pid="150439"/>
+			<man pid="110029"/>
+			<man pid="116338"/>
+			<man pid="435063"/>
+			<man pid="435062"/>
+			<man pid="434778"/>
+			<man pid="407487"/>
+			<man pid="430947"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Partly Cloudy" wind="14mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

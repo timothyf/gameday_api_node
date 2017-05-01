@@ -1,0 +1,60 @@
+<!--Copyright 2017 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2017_04_04_anamlb_oakmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="7" ah="9" ae="1" hr="6" hh="9" he="0" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="434658" team_abbrev="OAK" team_id="133" parent_team_abbrev="OAK" parent_team_id="133" current_position="CF" stand="R" b_height="5-10" ab="5" h="2" avg=".200" boxname="Davis, R">
+			<ab inning="9" event="Groundout" event_es="Roletazo de Out"/>
+			<ab inning="7" event="Triple" event_es="Triple"/>
+			<ab inning="5" event="Strikeout" event_es="Ponche"/>
+			<ab inning="3" event="Single" event_es="Sencillo"/>
+			<ab inning="1" event="Flyout" event_es="Elevado de Out"/>
+		</batter>
+		<pitcher pid="592135" p_throws="R" pitches="14" strikes="9" balls="5" era="0.00" boxname="Bedrosian"/>
+		<deck pid="459964" boxname="Joyce"/>
+		<hole pid="592387" boxname="Healy, R"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="Empty"/>
+	<atbat num="75" des="Rajai Davis grounds out, second baseman Danny Espinosa to first baseman Jefry Marte.  " des_es="Rajai Davis batea rodado de out, segunda base Danny Espinosa a primera base Jefry Marte.  " event="" event_es="" player="434658" play_guid="ce717f57-f9cd-4c02-9aec-d3ff99119d11" >
+		<p type="S" id="623" event_num="623" x="86.94" y="160.74" des="Swinging Strike" des_es="Strike tir&#225;ndole" sv_id="170405_052254" play_guid="2f7184d7-4752-4505-a187-835c22c3f41c" start_speed="95.1" end_speed="86.4" sz_top="3.676" sz_bot="1.504" pfx_x="-3.464931404238912" pfx_z="13.054437755034119" px="0.76449958453918" pz="2.86484876235738" x0="-1.57201170439372" y0="50" z0="5.98118856133437" vx0="7.58164156353356" vy0="-138.144049724025" vz0="-7.17835256741307" ax="-6.65939289939898" ay="32.3344066985375" az="-7.08419252488911" break_y="23.8" break_angle="29.3" break_length="2.1" pitch_type="FF" type_confidence=".907" zone="12" nasty="66" spin_dir="194.863" spin_rate="2726.154"  cc=""/>		<p type="S" id="624" event_num="624" x="95.37" y="155.59" des="Foul" des_es="Foul" sv_id="170405_052314" play_guid="76d8bd6b-219c-4375-9809-31e05ab3aad7" start_speed="94.6" end_speed="85.8" sz_top="3.676" sz_bot="1.504" pfx_x="-4.155509742212304" pfx_z="13.83252580222512" px="0.576358717475806" pz="3.05499233188184" x0="-1.55878402695863" y0="50" z0="5.98014370560637" vx0="7.23355006372174" vy0="-137.426192443872" vz0="-6.81888071678433" ax="-7.88882644590713" ay="32.536905783954" az="-5.91435910033205" break_y="23.7" break_angle="39.5" break_length="2.1" pitch_type="FF" type_confidence=".907" zone="3" nasty="46" spin_dir="196.720" spin_rate="2894.573"  cc=""/>		<p type="B" id="625" event_num="625" x="84.92" y="218.96" des="Ball" des_es="Bola mala" sv_id="170405_052348" play_guid="571ed334-4aea-422b-80da-4c90683cfb4a" start_speed="82.2" end_speed="76.1" sz_top="3.450969607164865" sz_bot="1.6990799616257384" pfx_x="7.812121679995212" pfx_z="-5.735600597423076" px="0.836596275279941" pz="0.770724370795997" x0="-1.80347838786871" y0="50.0000000000001" z0="5.77405551424973" vx0="3.83430264922354" vy0="-119.673757826547" vz0="-3.21976923312853" ax="11.2750022901188" ay="24.1305589988535" az="-40.4520698827946" break_y="23.9" break_angle="-16.1" break_length="12.0" pitch_type="SL" type_confidence=".901" zone="14" nasty="42" spin_dir="53.713" spin_rate="1695.687"  cc=""/>		<p type="X" id="626" event_num="626" x="104.82" y="151.78" des="In play, out(s)" des_es="En juego, out(s)" sv_id="170405_052417" play_guid="ce717f57-f9cd-4c02-9aec-d3ff99119d11" start_speed="80.5" end_speed="73.6" sz_top="3.676" sz_bot="1.504" pfx_x="7.112390689280268" pfx_z="-7.933201884744204" px="0.304312708533986" pz="3.20600717009281" x0="-1.86057851871359" y0="49.9999999999999" z0="6.16239391674347" vx0="2.8570643371909" vy0="-116.968577378148" vz0="2.5646709983" ax="9.75054668486745" ay="24.2163553615292" az="-43.0498649614913" break_y="23.8" break_angle="-13.5" break_length="13.0" pitch_type="SL" type_confidence=".901" zone="3" nasty="33" spin_dir="41.876" spin_rate="1811.703"  cc=""/>	</atbat>
+	<field>
+		<offense type="home" id="oak">
+		</offense>
+		<defense type="away" id="ana">
+			<man pid="592135" s_po="0" s_ass="0" s_err="0" s_fldg=".000" p_sb="0" p_cs="0" pos="p"/>
+			<man pid="455117" s_po="15" s_ass="2" s_err="0" s_fldg="1.000" c_sb="0" c_cs="1" pos="c"/>
+			<man pid="527043" s_po="9" s_ass="1" s_err="0" s_fldg="1.000" pos="1b"/>
+			<man pid="457787" s_po="3" s_ass="5" s_err="1" s_fldg=".889" pos="2b"/>
+			<man pid="592743" s_po="2" s_ass="5" s_err="0" s_fldg="1.000" pos="ss"/>
+			<man pid="488862" s_po="1" s_ass="2" s_err="0" s_fldg="1.000" pos="3b"/>
+			<man pid="457727" s_po="4" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="545361" s_po="4" s_ass="0" s_err="0" s_fldg="1.000" pos="cf"/>
+			<man pid="594777" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="rf"/>
+		</defense>
+		<ball type="G" x="150.56" y="77.45" batter="434658" pitcher="592135"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="623430" index="1">
+			<man pid="434658"/>
+			<man pid="459964"/>
+			<man pid="592387"/>
+			<man pid="501981"/>
+			<man pid="519390"/>
+			<man pid="476704"/>
+			<man pid="461858"/>
+			<man pid="475174"/>
+			<man pid="543760"/>
+		</team>
+		<team type="away" pitcher="592135" index="2">
+			<man pid="488862"/>
+			<man pid="594777"/>
+			<man pid="545361"/>
+			<man pid="405395"/>
+			<man pid="527043"/>
+			<man pid="457727"/>
+			<man pid="592743"/>
+			<man pid="457787"/>
+			<man pid="455117"/>
+		</team>
+	</lineup>
+	<weather temp="63" condition="Overcast" wind="11mph Out To RF"/>
+	<control wait="10" box="0"/>
+</game>

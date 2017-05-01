@@ -1,0 +1,64 @@
+<!--Copyright 2016 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game id="2009_05_05_nynmlb_atlmlb_1" status_ind="F"  status="Final" inning="9" top_inning="F" b="0" s="0" o="3" inning_state="" event="at_bat_start" is_perfect_game="N" is_no_hitter="N">
+	<score ar="4" ah="11" ae="2" hr="3" hh="10" he="2" />
+<review challenges_away_used="0" challenges_away_remaining="1" challenges_home_used="0" challenges_home_remaining="1"/>	<players>
+		<batter pid="116706" team_abbrev="ATL" team_id="144" parent_team_abbrev="ATL" parent_team_id="144" current_position="3B" stand="L" b_height="6-4" ab="4" h="0" avg=".280" boxname="Jones, C">
+			<ab inning="9" event="Flyout" event_es="Elevado de Out"/>
+			<ab inning="8" event="Field Error" event_es="Error de Fildeo"/>
+			<ab inning="6" event="Walk" event_es="Base por Bolas"/>
+			<ab inning="3" event="Double Play" event_es="Doble-Play"/>
+			<ab inning="1" event="Groundout" event_es="Roletazo de Out"/>
+		</batter>
+		<pitcher pid="408061" p_throws="R" pitches="28" strikes="17" balls="11" era="1.54" boxname="Rodriguez, F"/>
+		<deck pid="110236" boxname="Anderson, G"/>
+		<hole pid="425773" boxname="Kotchman"/>
+	</players>
+	<splits batter="vs_LHP" pitcher="vs_LHB" runner="RISP"/>
+	<atbat num="83" des="Chipper Jones flies out to right fielder Ryan Church.  " des_es="Chipper Jones batea elevado de out a jardinero derecho Ryan Church.  " event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n" player="116706">
+		<p type="B" id="680" event_num="680" x="143.35" y="102.75" des="Ball" des_es="Bola mala" sv_id="090505_222041" play_guid="" start_speed="93.3" end_speed="85.6" sz_top="3.67" sz_bot="1.7" pfx_x="-1.111" pfx_z="10.321" px="-1.454" pz="4.134" x0="-1.376" y0="50.0" z0="6.296" vx0="0.179" vy0="-136.79" vz0="-3.491" ax="-2.097" ay="31.173" az="-12.613" break_y="23.8" break_angle="8.7" break_length="2.9" pitch_type="FF" type_confidence="2.000" zone="11" spin_dir="186.117" spin_rate="2086.509"  cc=""/>		<p type="S" id="681" event_num="681" x="124.46" y="126.93" des="Called Strike" des_es="Strike cantado" sv_id="090505_222103" play_guid="" start_speed="79.9" end_speed="74.5" sz_top="3.732" sz_bot="1.798" pfx_x="6.857" pfx_z="-5.616" px="-0.921" pz="3.242" x0="-1.67" y0="50.0" z0="6.441" vx0="-0.33" vy0="-117.189" vz0="1.203" ax="9.576" ay="21.268" az="-39.943" break_y="23.9" break_angle="-13.4" break_length="11.8" pitch_type="CU" type_confidence="2.000" zone="11" spin_dir="50.947" spin_rate="1526.577"  cc=""/>		<p type="B" id="682" event_num="682" x="130.47" y="188.23" des="Ball" des_es="Bola mala" sv_id="090505_222125" play_guid="" start_speed="86.5" end_speed="81.1" sz_top="3.67" sz_bot="1.7" pfx_x="-7.739" pfx_z="4.083" px="-0.944" pz="0.603" x0="-1.331" y0="50.0" z0="6.206" vx0="3.5" vy0="-126.452" vz0="-8.999" ax="-12.689" ay="22.751" az="-25.405" break_y="23.9" break_angle="24.2" break_length="7.3" pitch_type="CH" type_confidence="2.000" zone="13" spin_dir="241.922" spin_rate="1649.998"  cc=""/>		<p type="X" id="683" event_num="683" x="111.59" y="158.88" des="In play, out(s)" des_es="En juego, out(s)" sv_id="090505_222147" play_guid="" start_speed="79.5" end_speed="73.9" sz_top="3.67" sz_bot="1.7" pfx_x="6.006" pfx_z="-3.202" px="-0.185" pz="1.901" x0="-1.335" y0="50.0" z0="6.388" vx0="0.851" vy0="-116.556" vz0="-2.368" ax="8.231" ay="22.689" az="-36.488" break_y="23.8" break_angle="-12.7" break_length="11.2" pitch_type="CU" type_confidence="2.000" zone="8" spin_dir="62.340" spin_rate="1156.708"  cc=""/>		<runner id="488862" start="1B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+		<runner id="408299" start="3B" end="" event="Left On Base" event_es="Dejado(s) en Circulaci&#243;n"/>
+	</atbat>
+	<field>
+		<offense type="home" id="atl">
+			<man bnum="1" pid="488862" boxname="Escobar, Y" note="Single" sb="1" cs="1"/>
+			<man bnum="3" pid="408299" boxname="Infante" note="Field Error" sb="0" cs="0"/>
+		</offense>
+		<defense type="away" id="nyn">
+			<man pid="408061" s_po="1" s_ass="0" s_err="0" s_fldg="1.000" p_sb="0" p_cs="1" pos="p"/>
+			<man pid="135783" s_po="99" s_ass="5" s_err="2" s_fldg=".981" c_sb="2" c_cs="4" pos="c"/>
+			<man pid="113232" s_po="154" s_ass="5" s_err="2" s_fldg=".988" pos="1b"/>
+			<man pid="112116" s_po="34" s_ass="50" s_err="3" s_fldg=".966" pos="2b"/>
+			<man pid="408314" s_po="35" s_ass="64" s_err="2" s_fldg=".980" pos="ss"/>
+			<man pid="431151" s_po="21" s_ass="55" s_err="3" s_fldg=".962" pos="3b"/>
+			<man pid="430598" s_po="5" s_ass="0" s_err="0" s_fldg="1.000" pos="lf"/>
+			<man pid="136860" s_po="50" s_ass="0" s_err="1" s_fldg=".980" pos="cf"/>
+			<man pid="425508" s_po="36" s_ass="1" s_err="1" s_fldg=".974" pos="rf"/>
+		</defense>
+		<ball type="F" x="167.67" y="78.31" batter="116706" pitcher="408061"/>
+	</field>
+	<lineup>
+		<team type="home" pitcher="234194" index="3">
+			<man pid="408299"/>
+			<man pid="488862"/>
+			<man pid="116706"/>
+			<man pid="110236"/>
+			<man pid="425773"/>
+			<man pid="425796"/>
+			<man pid="457788"/>
+			<man pid="430637"/>
+			<man pid="460261"/>
+		</team>
+		<team type="away" pitcher="408061" index="8">
+			<man pid="408314"/>
+			<man pid="408061"/>
+			<man pid="136860"/>
+			<man pid="113232"/>
+			<man pid="431151"/>
+			<man pid="425508"/>
+			<man pid="135783"/>
+			<man pid="112116"/>
+			<man pid="430598"/>
+		</team>
+	</lineup>
+	<weather temp="79" condition="Partly Cloudy" wind="12mph L To R"/>
+	<control wait="10" box="0"/>
+</game>
