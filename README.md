@@ -1,11 +1,7 @@
-# Autoscaler Service
+# Gameday Data Downloader
 
-The Autoscaler service is a node.js application that runs on the [AWS Lambda Service](http://aws.amazon.com/lambda/).
-This service is responsible for scaling up and down the Heroku servers that the Quikly application runs on. The Autoscaler
-service provides two forms of scaling:
-	- Reactive Scaling - The Autoscaler will receive alerts from the Librato service when the response time of the Quikly 
-	application becomes too slow and this will prompt the Autoscaler to scale up the Quikly servers.
-	- Preemptive Scaling - The Autoscaler integrates with the Quikly schedule API so that it is aware of upcoming live releases and marketing events.   Based on these events, the Autoscaler will scale up the Quikly app approrpriately based on projected audience size.
+The Gameday Data Downloader is a node.js application that can be used to download gameday data from the MLB gameday servers.
+While this release currently includes only download capability exposed, look for future releases with additional functionality including the ability to store the data into a relational database, the ability to auto-generate boxscores, and additional analysis of the data.
 
 
 ## Install
