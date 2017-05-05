@@ -36,6 +36,11 @@ node download_range.js -y 2016 -sm 4 -sd 17 -em 6 -ed 10
 Follow on Twitter
 [@pitchfx](http://twitter.com/pitchfx)
 
+Slack for Support, Feedback, Ideas, Sharing
+[Signup for GamedayAPI Group on Slack](https://join.slack.com/gamedayapi/shared_invite/MTgwMjUwODM2NzU4LTE0OTQwMDQyMDUtNTgwYThiNmIxMw)
+
+Already signed up?  Use this link:
+[GamedayAPI Group on Slack](http://gamedayapi.slack.com)
 
 
 
