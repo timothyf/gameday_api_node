@@ -57,5 +57,5 @@ console.log("End month = " + endMonth);
 console.log("End Day = " + endDay);
 
 
-/DataDownloader.download_all_for_range(year, startMonth, startDay, endMonth, endDay) ;
+DataDownloader.download_all_for_range(year, startMonth, startDay, endMonth, endDay) ;
 
