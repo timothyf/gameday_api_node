@@ -31,6 +31,13 @@ Download data for a specified date range:
 node download_range.js -y 2016 -sm 4 -sd 17 -em 6 -ed 10
 ```
 
+## Contact Info
+
+Follow on Twitter
+[@pitchfx](http://twitter.com/pitchfx)
+
+
+
 
 
 
