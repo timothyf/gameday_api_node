@@ -6,7 +6,7 @@ While this release currently includes only download capability exposed, look for
 
 ## Install
 
-Make sure you have a working node.js environment installed on your computer.
+Make sure you have a working [node.js](https://nodejs.org) environment installed on your computer.
 
 ```
 Download the code using the "Clone or Download" button or clone the repo using git:  git clone git@github.com:timotyf/gameday-api-node.git
