@@ -1,6 +1,6 @@
 # Gameday Data Downloader
 
-The Gameday Data Downloader is a node.js application that can be used to download gameday data from the MLB gameday servers.
+The Gameday Data Downloader is a node.js application that can be used to download gameday data from the [MLB gameday servers](http://gd2.mlb.com/components/game/mlb/).
 While this release currently includes only download capability exposed, look for future releases with additional functionality including the ability to store the data into a relational database, the ability to auto-generate boxscores, and additional analysis of the data.
 
 
